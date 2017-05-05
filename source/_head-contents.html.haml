@@ -12,7 +12,11 @@
   -# = tag "meta", property: "og:description", content: data.site.description
   -# = tag "meta", property: "og:image", content: data.site.facebook_og_image_url
 
-%title= full_title(current_page.data.title)
+%title
+  Blog Title#{" - " + current_article.title unless current_article.nil?}
+= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed"
+
+-# %title= full_title(current_page.data.title)
 -# = favicon_tag "images/favicon.png"
 
 -# = tag "link", rel: "apple-touch-icon", href: "images/apple-touch-icon.png"
