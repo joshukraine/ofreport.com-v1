@@ -1,0 +1,17 @@
+// https://github.com/thoughtbot/neat/blob/v2.0.0/core/neat/settings/_settings.scss
+
+$neat-grid: (
+  columns: 12,
+  gutter: 25px,
+);
+
+$article-grid: (
+  columns: 8,
+  gutter: 25px,
+);
+
+$mobile-grid: (
+  columns: 4,
+  gutter: 25px,
+  media: "(max-width: 740px)",
+);
