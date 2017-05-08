@@ -1,7 +1,3 @@
-// Breakpoints
-$medium-screen: 600px;
-$large-screen: 900px;
-
 // Typography
 $base-font-family: $font-stack-system;
 $heading-font-family: $base-font-family;
@@ -19,11 +15,29 @@ $base-spacing: $base-line-height * 1em;
 $small-spacing: $base-spacing / 2;
 $base-z-index: 0;
 
+// Media Breakpoints
+$media-tablet: 850px;
+$media-desktop: 1000px;
+
+// Grids
+$neat-grid: ( // Default grid
+  columns: 12,
+  gutter: 25px,
+);
+
+$article-grid: (
+  columns: 8,
+  gutter: 25px,
+);
+
+$mobile-grid: (
+  columns: 4,
+  gutter: 25px,
+  media: "(max-width: 740px)",
+);
+
 // Colors
 $blue: #1565c0;
-// $dark-gray: #333;
-// $medium-gray: #999;
-// $light-gray: #ddd;
 
 // Grays, Black, White
 $dark-gray: #323232;
