@@ -16,24 +16,26 @@ $small-spacing: $base-spacing / 2;
 $base-z-index: 0;
 
 // Media Breakpoints
-$media-tablet: 850px;
 $media-desktop: 1000px;
+$media-tablet: 700px;
+$media-phone: 500px;
 
 // Grids
 $neat-grid: ( // Default grid
   columns: 12,
-  gutter: 25px,
+  gutter: 1.3rem,
 );
 
-$article-grid: (
+$tablet-grid: (
   columns: 8,
-  gutter: 25px,
+  gutter: 1rem,
+  media: "(max-width: #{$media-tablet})",
 );
 
-$mobile-grid: (
+$phone-grid: (
   columns: 4,
-  gutter: 25px,
-  media: "(max-width: 740px)",
+  gutter: 1rem,
+  media: "(max-width: #{$media-phone})",
 );
 
 // Colors

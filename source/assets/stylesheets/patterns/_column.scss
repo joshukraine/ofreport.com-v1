@@ -1,0 +1,14 @@
+.column {
+  @include grid-column(12);
+  @include grid-visual;
+
+  @include grid-media($tablet-grid) {
+    @include grid-column(8);
+    @include grid-visual;
+  }
+
+  @include grid-media($phone-grid) {
+    @include grid-column(4);
+    @include grid-visual;
+  }
+}

@@ -1,11 +1,19 @@
 .container {
+  @include grid-container;
+  // @include grid-visual;
   @include margin(null auto);
-  max-width: 700px;
+  max-width: 750px;
   position: relative;
 }
 
 .wide-container {
+  @include grid-container;
+  // @include grid-visual;
   @include margin(null auto);
-  max-width: 1000px;
+  max-width: 1050px;
   position: relative;
+}
+
+.container--spacing {
+  @include margin($base-spacing null);
 }

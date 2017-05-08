@@ -13,20 +13,20 @@ $navigation-height: 60px;
 $navigation-height-mobile: 45px;
 $navigation-background: $white;
 
-.home-navbar {
+.main-navbar {
   background-color: $navigation-background;
   border-bottom: 1px solid $base-border-color;
 }
 
 
-.home-navbar__wrapper {
+.main-navbar__wrapper {
   background-color: $navigation-background;
   display: flex;
   min-height: $navigation-height;
   align-items: center;
 }
 
-.home-navbar__links {
+.main-navbar__links {
   display: flex;
   flex-grow: 1;
   justify-content: space-between;
