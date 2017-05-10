@@ -9,6 +9,7 @@ gem "haml", "~> 4.0"
 gem "middleman-pry", "~> 1.0"
 gem "middleman-search_engine_sitemap", "~> 1.4"
 gem "middleman-s3_sync", "~> 4.0"
+gem "nokogiri"
 gem "haml_lint"
 gem "scss_lint"
 

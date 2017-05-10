@@ -225,6 +225,7 @@ DEPENDENCIES
   middleman-s3_sync (~> 4.0)
   middleman-search_engine_sitemap (~> 1.4)
   neat (>= 2.0.0)
+  nokogiri
   rspec (~> 3.6)
   scss_lint
 
