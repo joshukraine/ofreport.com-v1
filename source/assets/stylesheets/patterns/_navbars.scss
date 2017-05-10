@@ -1,6 +1,6 @@
 $navigation-color: $light-gray;
 $navigation-height: 60px;
-$navigation-height-mobile: 45px;
+$navigation-height-mobile: 80px;
 $navigation-background: $white;
 
 .home-navbar {
@@ -38,25 +38,46 @@ $navigation-background: $white;
 
   @include media-max($media-phone) {
     flex-direction: column-reverse;
+    min-height: $navigation-height-mobile;
   }
 }
 
 .navbar__left {
-  border: 1px solid green;
+  // border: 1px solid green;
+
+  @include media-max($media-phone) {
+    flex-grow: 1;
+  }
+}
+
+.navbar-logo {
+  max-width: 125px;
+  display: inline-block;
+  // border: 1px solid red;
+  position: relative;
+  top: 3px;
+}
+
+.navbar-logo__svg {
+  width: 125px;
+  height: 25px;
 }
 
 .navbar__right {
-  border: 1px solid green;
+  // border: 1px solid green;
   flex-grow: 1;
 
   @include media-max($media-phone) {
+    display: flex;
     align-self: stretch;
+    align-items: center;
   }
 }
 
 .navbar__links {
   display: flex;
   justify-content: flex-end;
+  // border: 1px solid purple;
 
   li {
     margin: 0 15px;
@@ -68,6 +89,7 @@ $navigation-background: $white;
 
   @include media-max($media-phone) {
     li { margin: 0; }
+    flex-grow: 1;
     justify-content: space-between;
   }
 }
