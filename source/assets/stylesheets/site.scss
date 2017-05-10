@@ -4,6 +4,7 @@
 @import "base/base";
 @import "neat/neat";
 
+@import "mixins/mixins";
 @import "patterns/patterns";
 
 ///////////// SANDBOX //////////////////////////////////////////////////////////
@@ -30,4 +31,54 @@ $navigation-background: $white;
   display: flex;
   flex-grow: 1;
   justify-content: space-between;
+}
+
+.article-navbar {
+  background-color: $navigation-background;
+  border-bottom: 1px solid $base-border-color;
+}
+
+.article-navbar__wrapper {
+  background-color: $navigation-background;
+}
+
+.article-navbar__inner {
+  display: flex;
+  align-items: center;
+  min-height: $navigation-height;
+
+  @include media-max($media-phone) {
+    flex-direction: column-reverse;
+  }
+}
+
+.article-navbar__left {
+  border: 1px solid green;
+}
+
+.article-navbar__right {
+  border: 1px solid green;
+  flex-grow: 1;
+
+  @include media-max($media-phone) {
+    align-self: stretch;
+  }
+}
+
+.article-navbar__links {
+  display: flex;
+  justify-content: flex-end;
+
+  li {
+    margin: 0 15px;
+
+    &:last-of-type {
+      margin-right: 0;
+    }
+  }
+
+  @include media-max($media-phone) {
+    li { margin: 0; }
+    justify-content: space-between;
+  }
 }
