@@ -4,31 +4,6 @@
     = partial "head-contents"
 
   %body
-    %header.navbar
-      .navbar__wrapper.container
-        .navbar__inner.column
-          .navbar__left
-            %p= link_to "[LOGO]", "/"
-          %nav.navbar__right
-            %ul.navbar__links
-              %li= link_to "Family", "#"
-              %li= link_to "Ministry", "#"
-              %li= link_to "Archives", "#"
-              %li= link_to "Contact", "#"
-              %li= link_to "Donate", "#"
+    = partial "navbar"
 
-    %section.container--spacing
-      .container
-        .article-title.column
-          %h1= current_article.title
-          %p #{current_article.date} - #{current_article.data.author}
-          %p #{link_to "Download", "#"} #{link_to "Subscribe", "#"}
-
-    %section.wide-container
-      .article-hero.column
-        %p Hero image goes here.
-
-    %section.container--spacing
-      .container
-        .article-body.column
-          = yield
+    = yield
