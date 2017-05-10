@@ -1,7 +1,3 @@
-// Breakpoints
-$medium-screen: 600px;
-$large-screen: 900px;
-
 // Typography
 $base-font-family: $font-stack-system;
 $heading-font-family: $base-font-family;
@@ -19,11 +15,40 @@ $base-spacing: $base-line-height * 1em;
 $small-spacing: $base-spacing / 2;
 $base-z-index: 0;
 
+// Media Breakpoints
+$media-desktop: 1000px;
+$media-tablet: 700px;
+$media-phone: 500px;
+
+// Grids
+$neat-grid: ( // Default grid
+  columns: 12,
+  gutter: 1.3rem,
+);
+
+$tablet-grid: (
+  columns: 8,
+  gutter: 1rem,
+  media: "(max-width: #{$media-tablet})",
+);
+
+$phone-grid: (
+  columns: 4,
+  gutter: 1rem,
+  media: "(max-width: #{$media-phone})",
+);
+
 // Colors
-$blue: #1565c0;
-$dark-gray: #333;
-$medium-gray: #999;
-$light-gray: #ddd;
+$blue: #0071bb;
+
+// Grays, Black, White
+$dark-gray: #323232;
+$gray: #616161;
+$medium-gray: #9e9e9e;
+$light-gray: #bdbdbd;
+$very-light-gray: #eee;
+$black: #000;
+$white: #fff;
 
 // Font Colors
 $base-font-color: $dark-gray;

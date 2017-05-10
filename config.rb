@@ -9,15 +9,20 @@ page "/*.txt", layout: false
 page "/404.html", directory_index: false
 page "/feed.xml", layout: false
 
+set :css_dir, "assets/stylesheets"
+set :fonts_dir, "assets/fonts"
+set :images_dir, "assets/images"
+set :js_dir, "assets/javascripts"
+
 activate :blog do |blog|
   # This will add a prefix to all links, template references and source paths
   # blog.prefix = "blog"
 
   blog.permalink = "{year}/{month}/{title}.html"
   # Matcher for blog source files
-  blog.sources = "posts/{year}-{month}-{title}.html"
+  blog.sources = "articles/{year}-{month}-{title}.html"
   # blog.taglink = "tags/{tag}.html"
-  # blog.layout = "layout"
+  blog.layout = "article_layout"
   # blog.summary_separator = /(READMORE)/
   # blog.summary_length = 250
   # blog.year_link = "{year}.html"
@@ -41,8 +46,8 @@ configure :build do
     source: ".tmp",
     latency: 1
 
-  ignore "javascripts/all.js"
-  ignore "stylesheets/site"
+  ignore "assets/javascripts/all.js"
+  ignore "assets/stylesheets/site"
 
   activate :gzip
 
