@@ -1,5 +1,9 @@
 .home-logo {
-  @include margin(4em null);
+  @include margin(6em null);
+
+  @include media-max($media-tablet) {
+    @include margin(4em null);
+  }
 
   @include media-max($media-phone) {
     @include margin(2em null);
