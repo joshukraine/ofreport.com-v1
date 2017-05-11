@@ -1,15 +1,16 @@
 ---
+
 title: Meet David Noble
 date: '2017-03-29 09:37:19'
 tags:
 - family-updates
 - newsletter
-author: Joshua Steele
-image: 'http://www.OFReport.com/wp-content/uploads/2017/03/david-collage.jpg'
+author: '@joshukraine'
+image: 'https://s3.amazonaws.com/images.ofreport.com/2017/03/david-collage-1024x504.jpg'
 caption: 'David Noble Steele was born in L’viv, Ukraine, on January 16, 2017. As you may have guessed from the photos, we like this little guy a lot, and we can’t wait to introduce you!'
+download: '/downloads/OFR-Mar-Apr-2017.pdf'
 
 ---
-
 
 "Joshua’s Kingdom of Little Girls.” This was the endearing title once bestowed upon our family by my former language teacher, Veronica. And not without good reason! A family who can boast a string of four lovely daughters in a row is sure to win many admiring smiles, as well as the occasional quip about the absence of boys. Ukrainians in particular seem partial to girls, often reassuring us that, “Girls are so much better. They’re quieter. They’ll take care of you when you’re older.”  Etcetera. “Still,” I would think to myself at times, “if God wanted to give me a son, I wouldn’t complain.”
 
@@ -21,28 +22,28 @@ Finally, the day came for the birth. As Kelsie and I settled in to our room at t
 
 One might think that after so many children, these new arrivals would lose their shine. But experience has proven that every child, boy and girl alike, is a reward from heaven, and their entrance into the family is cause for rejoicing which cannot be described in words.
 
-<strong>David’s Name</strong>
+<h3>David’s Name</h3>
 Names are important to God, and in Scripture we find Him carefully selecting names based on their meaning. We have likewise tried to choose names for our children that will encourage them to aspire to follow Christ in bold ways.
 
-In the Bible, <strong>David</strong> was not only the greatest king ever to rule Israel, but he had a heart for the Lord that was unparalleled. Even when chastened, he said things like,
-<em>“... let me fall now into the hand of the LORD; for very great are his mercies:” (1 Chronicles 21:13)</em>
+In the Bible, **David** was not only the greatest king ever to rule Israel, but he had a heart for the Lord that was unparalleled. Even when chastened, he said things like,
+*“... let me fall now into the hand of the LORD; for very great are his mercies:” (1 Chronicles 21:13)*
 
-The name <strong>Noble</strong> is a reference to the Bereans, of whom Paul said in Acts 17:11 that they <em>“...were more noble than those in Thessalonica, in that they received the word with all readiness of mind, and searched the scriptures daily, whether those things were so."</em> Thus nobility in this context is not a position of high birth or great material wealth, but a faithful tenacity in studying the Word of God.
+The name **Noble** is a reference to the Bereans, of whom Paul said in Acts 17:11 that they *“...were more noble than those in Thessalonica, in that they received the word with all readiness of mind, and searched the scriptures daily, whether those things were so."* Thus nobility in this context is not a position of high birth or great material wealth, but a faithful tenacity in studying the Word of God.
 
-It is our prayer for our son that even in his youth he will come to know and love the <em>heart of God</em> as he immerses himself in the study of the <em>Word of God</em>.
+It is our prayer for our son that even in his youth he will come to know and love the *heart of God* as he immerses himself in the study of the *Word of God*.
 
-<a href="http://www.OFReport.com/wp-content/uploads/2017/03/david-blanket.jpg"><img class="aligncenter size-large wp-image-2082" src="http://www.OFReport.com/wp-content/uploads/2017/03/david-blanket-1024x575.jpg" alt="" width="584" height="328" /></a>
+<a href="https://s3.amazonaws.com/images.ofreport.com/2017/03/david-blanket.jpg"><img class="aligncenter size-large wp-image-2082" src="https://s3.amazonaws.com/images.ofreport.com/2017/03/david-blanket-1024x575.jpg" alt="" width="584" height="328" /></a>
 
-<strong>Good and Evil Update</strong>
+<h3>Good and Evil Update</h3>
 God is richly blessing our work on the new Ukrainian translation of Good and Evil! Our translator, Anatoliy, has completed the first chapter, and Nathan and I have also completed our review of the text. Chapter 2 is in progress.
 
 Meanwhile, we have been in touch with the same printer who did Good and Evil last time, back in 2008. His name is Oleksander, and he is a believer. Not only has he given us an outstanding quote for the new printing, but he has also volunteered his services to handle all of the graphics work free of charge.
 
 Please continue to pray for this project. Good and Evil has proven itself an effective ministry tool in Ukraine, and we’re excited to make this new translation available in color. Much work remains, but God is moving and we’re encouraged!
 
-<img class="wp-image-2051 size-medium aligncenter" src="http://www.OFReport.com/wp-content/uploads/2016/09/english-good-and-evil-bogo-special-1-240x450.jpg" alt="" width="240" height="450" />
+<img class="wp-image-2051 size-medium aligncenter" src="https://s3.amazonaws.com/images.ofreport.com/2016/09/english-good-and-evil-bogo-special-1-240x450.jpg" alt="" width="240" height="450" />
 
-<strong>How You Can Pray</strong>
+<h3>How You Can Pray</h3>
 <ul>
  	<li>Praise the Lord for the safe arrival of our son, David!</li>
  	<li>Pray for health, strength, and wisdom for Kelsie as she gives of herself daily to be mommy to five kiddos.</li>
@@ -50,4 +51,4 @@ Please continue to pray for this project. Good and Evil has proven itself an eff
  	<li>Pray for the continuing work on the Spanish, French and Ukrainian translations of Bible First.</li>
  	<li>Pray for peace and liberty in Ukraine.</li>
 </ul>
-<img class="aligncenter size-medium wp-image-1920" src="http://www.OFReport.com/wp-content/uploads/2014/07/To-God-be-the-Glory-450x124.png" alt="" width="450" height="124" />
+<img class="aligncenter size-medium wp-image-1920" src="https://s3.amazonaws.com/images.ofreport.com/2014/07/To-God-be-the-Glory-450x124.png" alt="" width="450" height="124" />
