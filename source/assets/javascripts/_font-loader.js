@@ -4,6 +4,6 @@ var WebFont = require('webfontloader');
 
 WebFont.load({
   google: {
-    families: ['Lato:300,400,900']
+    families: ['Lato:300,400,700']
   }
 });
