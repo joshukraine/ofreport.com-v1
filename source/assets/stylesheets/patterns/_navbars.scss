@@ -1,7 +1,9 @@
-$navigation-color: $light-gray;
+$navigation-color: $medium-gray;
 $navigation-height: 60px;
 $navigation-height-mobile: 80px;
 $navigation-background: $white;
+$navigation-font-size: $base-font-size * 1.2;
+$navigation-font-size-mobile: $small-font-size;
 
 .home-navbar {
   background-color: $navigation-background;
@@ -20,6 +22,20 @@ $navigation-background: $white;
   display: flex;
   flex-grow: 1;
   justify-content: space-between;
+
+  a {
+    color: $navigation-color;
+    font-size: $navigation-font-size;
+
+    &:focus,
+    &:hover {
+      color: $action-color;
+    }
+
+    @include media-max($media-phone) {
+      font-size: $navigation-font-size-mobile;
+    }
+  }
 }
 
 .navbar {
@@ -86,6 +102,21 @@ $navigation-background: $white;
       margin-right: 0;
     }
   }
+
+  a {
+    color: $navigation-color;
+
+    &:focus,
+    &:hover {
+      color: $action-color;
+    }
+
+    @include media-max($media-phone) {
+      font-size: $navigation-font-size-mobile;
+    }
+  }
+
+
 
   @include media-max($media-phone) {
     li { margin: 0; }

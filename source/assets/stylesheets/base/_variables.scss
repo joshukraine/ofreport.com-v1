@@ -1,9 +1,16 @@
+$bourbon: (
+  "modular-scale-base": 1em,
+  "modular-scale-ratio": $major-second,
+  "rails-asset-pipeline": false,
+);
+
 // Typography
-$base-font-family: $font-stack-system;
+$base-font-family: 'Lato', $font-stack-helvetica;
 $heading-font-family: $base-font-family;
 
 // Font Sizes
-$base-font-size: 1em;
+$base-font-size: 1rem;
+$small-font-size: 0.875rem;
 
 // Line height
 $base-line-height: 1.5;
@@ -11,7 +18,7 @@ $heading-line-height: 1.2;
 
 // Other Sizes
 $base-border-radius: 3px;
-$base-spacing: $base-line-height * 1em;
+$base-spacing: $base-line-height * 1.2em;
 $small-spacing: $base-spacing / 2;
 $base-z-index: 0;
 
@@ -40,6 +47,7 @@ $phone-grid: (
 
 // Colors
 $blue: #0071bb;
+$red: #e92e2f;
 
 // Grays, Black, White
 $dark-gray: #323232;
@@ -55,11 +63,11 @@ $base-font-color: $dark-gray;
 $action-color: $blue;
 
 // Border
-$base-border-color: $light-gray;
+$base-border-color: $very-light-gray;
 $base-border: 1px solid $base-border-color;
 
 // Background Colors
-$base-background-color: #fff;
+$base-background-color: $white;
 $secondary-background-color: tint($base-border-color, 75%);
 
 // Forms
