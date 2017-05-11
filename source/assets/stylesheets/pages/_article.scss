@@ -46,7 +46,7 @@
 }
 
 .article-body {
-  h5 {
+  h3 {
     @include margin($base-spacing null $small-spacing null)
   }
 
