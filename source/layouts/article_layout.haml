@@ -14,7 +14,9 @@
 
   %section.wide-container
     .article-hero.column
-      %img{src:"http://placehold.it/900x350"}
+      %img{src:"#{current_article.data.image}"}
+      .article-hero__caption
+        %p #{current_article.data.caption}
 
   %section.container--spacing
     .container

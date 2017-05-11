@@ -4,6 +4,7 @@ title : This is so Cool!
 date  : 2017-05-11 05:46 UTC
 tags  : foo, bar
 author: Joshua
+image: 'http://placehold.it/900x300'
 
 ---
 

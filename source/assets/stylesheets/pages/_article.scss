@@ -30,3 +30,16 @@
     margin: 0 $small-spacing;
   }
 }
+
+.article-hero {
+}
+
+.article-hero__caption {
+  text-align: center;
+  @include padding(null 2em);
+  p {
+    font-weight: 400;
+    font-size: $base-font-size;
+    font-style: italic;
+  }
+}
