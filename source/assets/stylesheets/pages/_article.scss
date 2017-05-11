@@ -59,4 +59,15 @@
     font-size: $base-font-size * 1.2;
     font-weight: 300;
   }
+
+  p img {
+    display: block;
+    @include margin(4em auto);
+  }
+}
+
+.to-God-be-the-glory {
+  @include margin(4em auto);
+  display: flex;
+  justify-content: center;
 }
