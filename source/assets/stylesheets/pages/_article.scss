@@ -1,3 +1,45 @@
-.article-title {
+.article-header {
+  @include margin(6em null);
   text-align: center;
+  // border: 1px solid $red;
+
+  @include media-max($media-tablet) {
+    @include margin(4em null);
+  }
+
+  @include media-max($media-phone) {
+    @include margin(2em null);
+  }
+}
+
+.article-title {
+  // border: 1px solid green;
+  h1 { margin: 0; }
+}
+
+.article-meta {
+  // border: 1px solid green;
+}
+
+.article-links {
+  // border: 1px solid green;
+  display: flex;
+  justify-content: center;
+
+  li {
+    margin: 0 $small-spacing;
+  }
+}
+
+.article-hero {
+}
+
+.article-hero__caption {
+  text-align: center;
+  @include padding(null 2em);
+  p {
+    font-weight: 400;
+    font-size: $base-font-size;
+    font-style: italic;
+  }
 }

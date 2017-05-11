@@ -1,14 +1,22 @@
 = wrap_layout :layout do
-  %section.container--spacing
-    .container
-      .article-title.column
+  %section.container
+    .article-header.column
+      .article-title
         %h1= current_article.title
-        %p #{current_article.date} - #{current_article.data.author}
-        %p #{link_to "Download", "#"} #{link_to "Subscribe", "#"}
+      .article-meta
+        %p.meta-text
+          #{current_article.date.strftime("%b %d, %Y")}
+          &mdash;
+          #{current_article.data.author}
+      %ul.article-links
+        %li= link_to "Download", "#"
+        %li= link_to "Subscribe", "http://ofreport.us6.list-manage.com/subscribe?u=1e0c65850b60905f65b151819&id=97b9f6a559"
 
   %section.wide-container
     .article-hero.column
-      %p Hero image goes here.
+      %img{src:"#{current_article.data.image}"}
+      .article-hero__caption
+        %p #{current_article.data.caption}
 
   %section.container--spacing
     .container

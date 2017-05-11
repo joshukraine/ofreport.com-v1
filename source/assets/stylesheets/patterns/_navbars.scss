@@ -101,6 +101,10 @@ $navigation-font-size-mobile: $small-font-size;
     &:last-of-type {
       margin-right: 0;
     }
+
+    @include media-max($media-tablet) {
+      margin: 0 7px;
+    }
   }
 
   a {
@@ -115,8 +119,6 @@ $navigation-font-size-mobile: $small-font-size;
       font-size: $navigation-font-size-mobile;
     }
   }
-
-
 
   @include media-max($media-phone) {
     li { margin: 0; }

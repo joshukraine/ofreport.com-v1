@@ -16,7 +16,7 @@ layout: home
       %h2
         = link_to article.title, article
     .article-preview__meta
-      %p #{article.date.strftime("%b %d, %Y")} &mdash; #{article.data.author}
+      %p.meta-text #{article.date.strftime("%b %d, %Y")} &mdash; #{article.data.author}
     .article-preview__content
       = article.summary(250)
 
