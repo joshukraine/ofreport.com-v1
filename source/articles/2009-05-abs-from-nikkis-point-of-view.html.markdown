@@ -33,4 +33,4 @@ About once a month or so, we have hosted a game night during our English teachin
 
 [caption id="attachment_765" align="aligncenter" width="300" caption="Hurry, time is ticking!"]<a href="https://s3.amazonaws.com/images.ofreport.com/2009/05/dsc_5163.jpg"><img class="size-medium wp-image-765" title="dsc_5163" src="https://s3.amazonaws.com/images.ofreport.com/2009/05/dsc_5163-300x200.jpg" alt="Hurry, time is ticking!" width="300" height="200" /></a>[/caption]
 
-<em><strong>"Finally, brethren, pray for us, that the word of the Lord may have free course, and be glorified...." 2 Thessalonians 3:1</strong></em>
+*<strong>"Finally, brethren, pray for us, that the word of the Lord may have free course, and be glorified...." 2 Thessalonians 3:1</strong>*

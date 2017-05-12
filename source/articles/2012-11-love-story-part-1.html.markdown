@@ -7,9 +7,9 @@ tags:
 
 About three years ago, in response to requests from various people, Kelsie and I endeavored to publish our courtship story here on our blog. We were writing together, and posting as we went along. Unfortunately, the busyness of life and ministry at that time proved to be too much, and our posts slowly tapered off to nothing.
 
-Ever since then, I've wanted to restart that project and finish it out. This summer, the opportunity presented itself. Debi Pearl wrote me and asked if I would document our story to be published as part of Mike's new book,<a href="http://nogreaterjoy.org/shop/in-search-of-a-help-meet-book" target="_blank"><em> In Search of  a Help Meet</em></a>. It took me longer than I expected, but I finally got the whole thing written and sent in.
+Ever since then, I've wanted to restart that project and finish it out. This summer, the opportunity presented itself. Debi Pearl wrote me and asked if I would document our story to be published as part of Mike's new book,<a href="http://nogreaterjoy.org/shop/in-search-of-a-help-meet-book" target="_blank">* In Search of  a Help Meet*</a>. It took me longer than I expected, but I finally got the whole thing written and sent in.
 
-The book is due to come out in January, but we'd like to give you a preview of our story right here. And trust me: this time you'll get the <em>complete</em> story. The entire account is already written down and waiting to be published. We'll post a new section every week or so until it's all out.
+The book is due to come out in January, but we'd like to give you a preview of our story right here. And trust me: this time you'll get the *complete* story. The entire account is already written down and waiting to be published. We'll post a new section every week or so until it's all out.
 
 And now, without further ado...
 

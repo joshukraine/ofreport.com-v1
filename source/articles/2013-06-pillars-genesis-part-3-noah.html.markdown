@@ -5,7 +5,7 @@ tags:
 - misc
 ---
 
-<h3>The following is an excerpt taken from the twentieth and final lesson of <em><a title="Bible First" href="http://www.getbiblefirst.com" target="_blank">Bible First</a></em>.</h3>
+<h3>The following is an excerpt taken from the twentieth and final lesson of *<a title="Bible First" href="http://www.getbiblefirst.com" target="_blank">Bible First</a>*.</h3>
 
 <hr />
 
@@ -20,20 +20,20 @@ When the terrible flood finally came, Noah and his family were safe inside the a
 
 Noah initially found grace in the sight of God because he chose to walk righteously while those around him lived in sin. It was this righteousness that moved God to provide for him a means of salvation. But in the end, it was Noah’s location–not his character–that saved his life. Flood waters are indiscriminate. Had Noah not entered the ark, his superior moral standing would not have kept him from drowning alongside his sinful neighbors.
 
-The ark is an Old Testament illustration of Jesus Christ. As in the days of Noah, God has seen fit to provide a means for the salvation of anyone who will receive it. Jesus is our ark, and all who enter in will be delivered from the coming flood of God’s righteous wrath. Christ Himself declares in John 10:9, <em>“I am the door: by me if any man enter in, he shall be saved…”</em>
+The ark is an Old Testament illustration of Jesus Christ. As in the days of Noah, God has seen fit to provide a means for the salvation of anyone who will receive it. Jesus is our ark, and all who enter in will be delivered from the coming flood of God’s righteous wrath. Christ Himself declares in John 10:9, *“I am the door: by me if any man enter in, he shall be saved…”*
 
 <strong>Noah’s Position IN the Ark</strong>
-<em>“And the LORD said unto Noah, Come thou and all thy house <span style="text-decoration: underline;">into the ark</span>; for thee have I seen righteous before me in this generation.” (Genesis 7:1)</em>
+*“And the LORD said unto Noah, Come thou and all thy house <span style="text-decoration: underline;">into the ark</span>; for thee have I seen righteous before me in this generation.” (Genesis 7:1)*
 
-<em>“By faith Noah, being warned of God of things not seen as yet, moved with fear, prepared an ark to the saving of his house; by the which he condemned the world, and became heir of the righteousness which is by faith.” (Hebrews 11:7)</em>
+*“By faith Noah, being warned of God of things not seen as yet, moved with fear, prepared an ark to the saving of his house; by the which he condemned the world, and became heir of the righteousness which is by faith.” (Hebrews 11:7)*
 
 <strong>The Bible Speaks of our Position IN Christ</strong>
-<em>“For as <span style="text-decoration: underline;">in Adam</span> all die, even so <span style="text-decoration: underline;">in Christ</span> shall all be made alive.” (1 Corinthians 15:22)</em>
+*“For as <span style="text-decoration: underline;">in Adam</span> all die, even so <span style="text-decoration: underline;">in Christ</span> shall all be made alive.” (1 Corinthians 15:22)*
 
-<em>“Therefore if any man be <span style="text-decoration: underline;">in Christ</span>, he is a new creature: old things are passed away; behold, all things are become new.” (2 Corinthians 5:17)</em>
+*“Therefore if any man be <span style="text-decoration: underline;">in Christ</span>, he is a new creature: old things are passed away; behold, all things are become new.” (2 Corinthians 5:17)*
 
-<em>“There is therefore now no condemnation to them which are <span style="text-decoration: underline;">in Christ Jesus</span>, who walk not after the flesh, but after the Spirit.” (Romans 8:1)</em>
+*“There is therefore now no condemnation to them which are <span style="text-decoration: underline;">in Christ Jesus</span>, who walk not after the flesh, but after the Spirit.” (Romans 8:1)*
 
-<em>“Blessed be the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly places <span style="text-decoration: underline;">in Christ</span>:” (Ephesians 1:3)</em>
-<h3><strong><em>BIBLE FIRST!</em>, LESSON 20</strong>
+*“Blessed be the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly places <span style="text-decoration: underline;">in Christ</span>:” (Ephesians 1:3)*
+<h3><strong>*BIBLE FIRST!*, LESSON 20</strong>
 COPYRIGHT © 2013 EURO TEAM OUTREACH, INC. ALL RIGHTS RESERVED.</h3>

@@ -5,7 +5,7 @@ tags:
 - ministry-updates
 ---
 
-<em>Preface
+*Preface
 </em>Recently, I was asked to write an article about a missionary colleague of mine, Nathan Day. Having completed the assignment, I’ve decided to publish it here on our blog. If you’re not familiar with Nathan and his ministry, I would encourage you to get to know his family and to pray for him. If you’re in a missions-minded church, you might even consider printing out this article and giving a copy to your pastor. Good men on the field are hard to find, and those that are laboring for the Kingdom of God deserve our prayers and support.
 
 [caption id="attachment_1224" align="aligncenter" width="300" caption="Nathan and Josh planning a tract outreach during CMO 2010"]<a href="http://ofreport.com/wp-content/uploads/2011/03/cmo2010_DSC_9062.jpeg"><img class="size-medium wp-image-1224" title="cmo2010_DSC_9062" src="http://ofreport.com/wp-content/uploads/2011/03/cmo2010_DSC_9062-300x199.jpg" alt="" width="300" height="199" /></a>[/caption]

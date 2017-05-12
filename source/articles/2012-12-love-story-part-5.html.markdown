@@ -8,10 +8,10 @@ tags:
 I am told that most young ladies receive a pleasant sort of shock when they learn of a secret admirer. Kelsie was no exception. She, too, had experienced some disappointments before meeting me and had wondered if a man of godly character would ever pursue her.
 
 Now, as her father handed over the rolled up parchment, she loosened the ribbon and read my invitation.
-<p style="padding-left: 30px;"><em>Dear Kelsie,</em></p>
-<p style="padding-left: 30px;"><em>Although you do not know me, I have been corresponding with your parents for the past month or so in regards to a possible courtship with you. I have really enjoyed getting to know them, and in a way getting to know you through them…</em></p>
-<p style="padding-left: 30px;"><em>…we have been “talking about you” for some time now, and your mother and father wrote me recently, saying that they felt this would be a good time to let you know about all of this.</em></p>
-<p style="padding-left: 30px;"><em>And so my purpose in writing you this letter, is to see if you would be willing to begin a courtship relationship, with the goal of marriage in mind should the Lord so direct us.</em></p>
+<p style="padding-left: 30px;">*Dear Kelsie,*</p>
+<p style="padding-left: 30px;">*Although you do not know me, I have been corresponding with your parents for the past month or so in regards to a possible courtship with you. I have really enjoyed getting to know them, and in a way getting to know you through them…*</p>
+<p style="padding-left: 30px;">*…we have been “talking about you” for some time now, and your mother and father wrote me recently, saying that they felt this would be a good time to let you know about all of this.*</p>
+<p style="padding-left: 30px;">*And so my purpose in writing you this letter, is to see if you would be willing to begin a courtship relationship, with the goal of marriage in mind should the Lord so direct us.*</p>
 Kelsie’s immediate response was to get alone and pray. She had my letter, the Ukrainian phrasebook, and a stack of missionary newsletters that I had written over the past two and a half years.
 
 As Kelsie prayed, the rest of us held our breaths and waited. Happily, we did not have to wait long. A few hours later I received Kelsie’s response in which she excitedly agreed to begin a relationship!

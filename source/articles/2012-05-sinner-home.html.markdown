@@ -29,6 +29,6 @@ Now I was the one who could barely keep from weeping. With great joy in my heart
 
 The Vasyl that walked out the front door of my house today is not the same one that came in. I started out to have a chat with a friend, and I ended by embracing a brother. Rejoice with me today: a sinner has come home!
 
-<em>“Either what woman having ten pieces of silver, if she lose one piece, doth not light a candle, and sweep the house, and seek diligently till she find it? And when she hath found it, she calleth her friends and her neighbours together, saying, Rejoice with me; for I have found the piece which I had lost. Likewise, I say unto you, there is joy in the presence of the angels of God over one sinner that repenteth.”</em>
+*“Either what woman having ten pieces of silver, if she lose one piece, doth not light a candle, and sweep the house, and seek diligently till she find it? And when she hath found it, she calleth her friends and her neighbours together, saying, Rejoice with me; for I have found the piece which I had lost. Likewise, I say unto you, there is joy in the presence of the angels of God over one sinner that repenteth.”*
 
 Luke 15:8-10
