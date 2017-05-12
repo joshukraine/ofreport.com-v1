@@ -76,3 +76,10 @@ hr {
   color: $medium-gray;
   font-size: $small-font-size;
 }
+
+.caption-text {
+  font-weight: 400;
+  font-size: $base-font-size;
+  font-style: italic;
+  text-align: center;
+}
