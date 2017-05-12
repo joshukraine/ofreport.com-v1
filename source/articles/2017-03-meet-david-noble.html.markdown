@@ -4,9 +4,9 @@ title: Meet David Noble
 date: '2017-03-29 09:37:19'
 tags: family-updates, newsletter
 author: '@joshukraine'
-image: 'https://s3.amazonaws.com/images.ofreport.com/2017/03/david-collage-1024x504.jpg'
-caption: 'David Noble Steele was born in L’viv, Ukraine, on January 16, 2017. As you may have guessed from the photos, we like this little guy a lot, and we can’t wait to introduce you!'
 download: 'OFR-Mar-Apr-2017.pdf'
+image: '2017/03/david-collage-1024x504.jpg'
+caption: 'David Noble Steele was born in L’viv, Ukraine, on January 16, 2017. As you may have guessed from the photos, we like this little guy a lot, and we can’t wait to introduce you!'
 
 ---
 
