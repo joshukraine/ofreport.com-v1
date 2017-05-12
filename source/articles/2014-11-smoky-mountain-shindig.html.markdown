@@ -12,6 +12,8 @@ caption: 'This September, Kelsie and I took part in No Greater Joy’s Smoky Mou
 
 When Michael and Debi Pearl heard we were coming to the US for the birth of our baby, they invited Kelsie and I to speak at their third annual Shindig, scheduled for September 10-14. We agreed to come and were blessed beyond all expectation! While there isn’t room here to give a full report of all that happened during the conference, I’d like to share a few of the highlights.
 
+READMORE
+
 The Shindig was held at the Ridgecrest Conference Center in North Carolina. Nestled in the beautiful Smoky Mountains, it turned out to be the perfect venue for a conference that we believe was used of God to bless and encourage a multitude of families.
 
 Mike presented an outstanding series on addiction and the brain. He shared many intriguing scientific discoveries which vividly demonstrate the terrible physiological effect sinful behavior has on our brains. He also showed that, while science can offer an accurate explanation of the damage sin does, only Christ can offer freedom to those in bondage.

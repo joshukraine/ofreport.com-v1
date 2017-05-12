@@ -12,6 +12,8 @@ caption: 'After nearly seven years living in a 775 square foot apartment, God ha
 
 When we arrived back in L’viv on February 20, we had one item on our to-do list that overshadowed all the others: find a bigger place to live. Our little apartment on Tychyny St. had been a wonderful home, and was itself a God-send back in 2008 when we found it. But after Kathryn was born late last year, Kelsie and I knew that it was time for a change of address.
 
+READMORE
+
 For those of you who’ve never lived in L’viv, the idea of moving to a flat with a bit more space might seem straightforward. Sadly, it’s not. While one and two bedroom apartments are relatively easy to find (assuming you’re not picky about their condition) larger apartments are much rarer. Finding a home for an American family of six that was in decent shape, located near the city, and reasonably priced, threatened to be a daunting task indeed, and one that could stretch out for weeks or even months.
 
 Yet nothing is impossible with God. As we have experienced time and again, God loves to lead His children to green pastures, providing for their needs at just the right time in ways that often astound.
