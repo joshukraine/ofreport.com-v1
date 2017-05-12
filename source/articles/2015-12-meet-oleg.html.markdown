@@ -1,22 +1,14 @@
 ---
+
 title: Meet Oleg
 date: '2015-12-28 13:18:08'
-tags:
-- family-updates
+tags: newsletter, family, Bible First, cmo
+author: ['Joshua Steele', '@joshukraine']
+download: 'OFR-Nov-Dec-2015.pdf'
+image: '2015/12/oleg-joshua-1024x646.jpg'
+caption: 'Oleg Demedyuk is a believer from L’viv. At his request, we recently started a Friday-night Bible study. Currently, we are studying the book of Romans.'
+
 ---
-
-<span style="color: #373737;">The November/December issue of our newsletter, </span><em style="color: #373737;">Overseas Field Report</em><span style="color: #373737;">, is now available. You can read the text of this issue in its entirety here in this post, or download the PDF version by clicking the link below.</span>
-
-<strong><a href="http://www.ofreport.com/downloads/OFR-Nov-Dec-2015.pdf"><img class="size-full wp-image-2015 alignleft" src="https://s3.amazonaws.com/images.ofreport.com/2008/11/OFR-Nov-Dec-2015.png" alt="OFR-Nov-Dec-2015" width="100" height="129" /></a>Download the PDF here »</strong> [download#63#size#nohits]
-
-If you subscribe to <em>Overseas Field Report</em> by regular mail, you should be receiving a printed copy of this issue in the next week or so. As always, we greatly appreciate your prayers and support for our ministry.
-
-&nbsp;
-
-<hr />
-
-<h1 style="text-align: center;">Meet Oleg</h1>
-[caption id="attachment_2020" align="aligncenter" width="584"]<a href="https://s3.amazonaws.com/images.ofreport.com/2015/12/oleg-joshua.jpg"><img class="size-large wp-image-2020" src="https://s3.amazonaws.com/images.ofreport.com/2015/12/oleg-joshua-1024x646.jpg" alt="Oleg Demedyuk is a believer from L’viv. At his request, we recently started a Friday-night Bible study. Currently, we are studying the book of Romans." width="584" height="368" /></a> Oleg Demedyuk is a believer from L’viv. At his request, we recently started a Friday-night Bible study. Currently, we are studying the book of Romans.[/caption]
 
 Recently, I received an email from a young man named Serhii whom I discipled several years ago. A friend from Serhii’s church had inquired about finding someone who could disciple him. Serhii suggested that he contact me, and he did.
 
@@ -30,40 +22,47 @@ Oleg has also begun some limited involvement in our Bible First ministry. For ex
 
 I’m excited about this new discipleship relationship with Oleg, and I would appreciate your prayers for us as we move forward. In particular, pray that God would open clear doors for Oleg and others like him to become involved in the Bible First ministry.
 
-<strong>Family Update</strong>
+### Family Update
+
 Here at the Steele household – which some of our Ukrainian friends warmly refer to as “Joshua’s Kingdom of Ladies” – there’s never a dull moment. Our little girls are steadily growing into little ladies, with Abigail in particular taking on more and more responsibility in the home.
 
-[caption id="attachment_2019" align="aligncenter" width="584"]<a href="https://s3.amazonaws.com/images.ofreport.com/2015/12/four-kids-on-a-couch.jpg"><img class="size-large wp-image-2019" src="https://s3.amazonaws.com/images.ofreport.com/2015/12/four-kids-on-a-couch-1024x768.jpg" alt="From the left: Rebekah, Kathryn, Abigail, Hosanna. It’s hard to believe that Kathryn is nearly a year old!" width="584" height="438" /></a> From the left: Rebekah, Kathryn, Abigail, Hosanna. It’s hard to believe that Kathryn is nearly a year old![/caption]
+<a href="https://s3.amazonaws.com/images.ofreport.com/2015/12/four-kids-on-a-couch.jpg"><img class="size-large wp-image-2019" src="https://s3.amazonaws.com/images.ofreport.com/2015/12/four-kids-on-a-couch-1024x768.jpg" alt="From the left: Rebekah, Kathryn, Abigail, Hosanna. It’s hard to believe that Kathryn is nearly a year old!" /></a>
+{: .article-image .article-image--has-caption}
+From the left: Rebekah, Kathryn, Abigail, Hosanna. It’s hard to believe that Kathryn is nearly a year old!
+{: .caption-text .article-image__caption}
 
 Kelsie has crafted an excellent school program, and each morning finds the children happily (most of the time) seated at their desks, working through their assignments. In the afternoon, Abby and Rebekah have a few add-on subjects, such as typing lessons and a Bible class with Dad on Fridays.
 
 It’s hard to believe that Kathryn is nearly a year old! As I write this newsletter, she is just beginning to walk on her own. Her smiles bring no end of joy and laughter to our family!
 
-[caption id="attachment_2021" align="aligncenter" width="450"]<a href="https://s3.amazonaws.com/images.ofreport.com/2015/12/bowling-girls.jpg"><img class="size-medium wp-image-2021" src="https://s3.amazonaws.com/images.ofreport.com/2015/12/bowling-girls-450x338.jpg" alt="On Thanksgiving, we all had a “ball” at the bowling alley!" width="450" height="338" /></a> On Thanksgiving, we all had a “ball” at the bowling alley![/caption]
+<a href="https://s3.amazonaws.com/images.ofreport.com/2015/12/bowling-girls.jpg"><img class="size-medium wp-image-2021" src="https://s3.amazonaws.com/images.ofreport.com/2015/12/bowling-girls-450x338.jpg" alt="On Thanksgiving, we all had a “ball” at the bowling alley!" /></a>
+{: .article-image .article-image--has-caption}
+On Thanksgiving, we all had a “ball” at the bowling alley!
+{: .caption-text .article-image__caption}
 
-[caption id="attachment_2022" align="aligncenter" width="450"]<a href="https://s3.amazonaws.com/images.ofreport.com/2015/12/beka-abby-hands.jpg"><img class="size-medium wp-image-2022" src="https://s3.amazonaws.com/images.ofreport.com/2015/12/beka-abby-hands-450x450.jpg" alt="Our little girls are quickly becoming little ladies. :)" width="450" height="450" /></a> Our little girls are quickly becoming little ladies. :)[/caption]
+<a href="https://s3.amazonaws.com/images.ofreport.com/2015/12/beka-abby-hands.jpg"><img class="size-medium wp-image-2022" src="https://s3.amazonaws.com/images.ofreport.com/2015/12/beka-abby-hands-450x450.jpg" alt="Our little girls are quickly becoming little ladies. :)" /></a>
+{: .article-image .article-image--has-caption}
+Our little girls are quickly becoming little ladies. :)
+{: .caption-text .article-image__caption}
 
-<strong>Bible First
-</strong><span style="font-weight: 300;">We are excited to report that God is continuing to bless the impact of Bible First in Ukraine! In particular, our prison ministry is growing. In fact, since CMO ended this past summer, we’ve been enrolling an average of one new student almost every day!</span>
+### Bible First
+
+We are excited to report that God is continuing to bless the impact of Bible First in Ukraine! In particular, our prison ministry is growing. In fact, since CMO ended this past summer, we’ve been enrolling an average of one new student almost every day!
 
 Trevor Brown and I are also continuing our programming efforts, working diligently to bring Bible First to the web. We feel that making the course available in electronic format will open many new doors to reaching the lost for Christ.
 
-<strong>Next Summer...</strong>
+### Next Summer...
+
 Registration for next year’s Carpathian Mountain Outreach project is now open! CMO 2016 will begin on June 20, and the deadline for submitting applications is April 1. We’ve also put together a brand new CMO web site! Check out all the latest details at <a href="http://cmoproject.org/">www.cmoproject.org</a>. As always, we appreciate your prayers for this ministry, and for the young men who are even now making preparations to come.
 
-<a class="no-border" href="http://cmoproject.org"><img class="aligncenter wp-image-2023 size-full" src="https://s3.amazonaws.com/images.ofreport.com/2015/12/cmo-logo-full.png" alt="cmo-logo-full" width="300" height="300" /></a>
+<a class="no-border" href="http://cmoproject.org"><img class="aligncenter wp-image-2023 size-full" src="https://s3.amazonaws.com/images.ofreport.com/2015/12/cmo-logo-full.png" alt="cmo-logo-full" /></a>
+{: .article-image}
 
-<strong>How You Can Pray</strong>
-<ul>
-	<li>Praise the Lord for Ukrainians who are hearing the Gospel as they study the Scriptures with Bible First!</li>
-	<li>Pray for a strong team for CMO 2016.</li>
-	<li>Pray for Oleg and I as we continue our discipleship meetings.</li>
-	<li>Pray for strength and wisdom for Kelsie and I as we homeschool our children here in Ukraine.</li>
-	<li>Pray that God would continue to bring people to faith in Jesus Christ through the Bible First outreach.</li>
-	<li>Pray for peace and liberty in Ukraine.</li>
-</ul>
-&nbsp;
+### How You Can Pray
 
-<img class="aligncenter size-medium wp-image-1920" src="https://s3.amazonaws.com/images.ofreport.com/2014/07/To-God-be-the-Glory-450x124.png" alt="To God be the Glory!" width="450" height="124" />
-
-&nbsp;
+* Praise the Lord for Ukrainians who are hearing the Gospel as they study the Scriptures with Bible First!
+* Pray for a strong team for CMO 2016.
+* Pray for Oleg and I as we continue our discipleship meetings.
+* Pray for strength and wisdom for Kelsie and I as we homeschool our children here in Ukraine.
+* Pray that God would continue to bring people to faith in Jesus Christ through the Bible First outreach.
+* Pray for peace and liberty in Ukraine.
