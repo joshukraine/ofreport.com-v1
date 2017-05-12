@@ -12,6 +12,8 @@ caption: 'Preaching the Gospel after a film showing in the Carpathian village of
 
 When I first came to Ukraine over 15 years ago, my initial goal was to learn how to speak the Ukrainian language. I knew that if I was to effectively communicate the Gospel to people here, I needed to be able to talk.
 
+READMORE
+
 As I began my language-learning journey, I became something of a fanatic. I immersed myself in Ukrainian culture, I spent hours a week studying, and I even avoided Americans so that I could maximize my talk time in Ukrainian. In under two years, I was fluent. I could read, I could write, I could converse, and I could preach. I had arrived! Or so I thought...
 
 As I further developed my ministry, I ran into an unexpected frustration. Despite my ability to speak, there were surprisingly few who wanted to listen.

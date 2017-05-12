@@ -47,15 +47,15 @@
     margin: 0.5em 0 0;
     text-align: center;
     text-transform: uppercase;
+  }
 
-    li:not(:last-child) {
-      &::after {
-        color: $base-font-color;
-        content: ",";
-        display: inline-block;
-        margin-left: -1px;
-        margin-right: 7px;
-      }
+  .meta-tag-list li:not(:last-child) {
+    &::after {
+      color: $base-font-color;
+      content: ",";
+      display: inline-block;
+      margin-left: -1px;
+      margin-right: 7px;
     }
   }
 
@@ -83,8 +83,12 @@
 }
 
 .article-hero {
-  @include margin(null null 2em null);
+  margin-bottom: $base-spacing * 2;
   text-align: center;
+
+  @include media-max($media-phone) {
+    margin-bottom: $base-spacing;
+  }
 
   img {
     border-radius: 15px;
@@ -112,7 +116,7 @@
 }
 
 .article-image {
-  @include padding($base-spacing * 1.5 $small-spacing);
+  @include padding($base-spacing $small-spacing);
   text-align: center;
 }
 
@@ -129,4 +133,23 @@
   @include margin(4em auto);
   display: flex;
   justify-content: center;
+}
+
+.pdf-download {
+  margin-bottom: $base-spacing * 1.9;
+  padding: $base-spacing 0;
+  font-size: $base-font-size * 1.2;
+  text-align: center;
+  border-top: 1px solid $base-border-color;
+  border-bottom: 1px solid $base-border-color;
+
+  @include media-max($media-phone) {
+    margin-bottom: $base-spacing;
+    padding: $small-spacing 0;
+  }
+}
+
+.fa-file-pdf-o {
+  color: $red;
+  margin-right: 7px;
 }

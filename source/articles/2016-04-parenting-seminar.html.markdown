@@ -12,6 +12,8 @@ caption: 'Kelsie and I recently had the privilege of teaching our very first par
 
 Over the past few months, I’ve often found myself pondering that well-known phrase in Psalm 23... “...my cup runneth over.” It seems God has lately thrown open the flood gates of ministry opportunity for our family. While at times exhausting and even overwhelming, it’s a great problem to have!
 
+READMORE
+
 One such opportunity presented itself earlier this year when a young lady named Lindsay Blessing contacted us about speaking at a parenting seminar organized by her church. Lindsay’s father Mark is a missionary here and pastor of the church. We’ve been friends with their family for many years and I’ve preached at the church several times in the past.
 
 After praying about the invitation for a few days, we decided to accept. We’d never done an event quite like this before, and we knew it would take a lot of effort to pull it off. But we were also well aware of the potential, and as we prayed, we became increasingly convinced that this was God’s direction.
