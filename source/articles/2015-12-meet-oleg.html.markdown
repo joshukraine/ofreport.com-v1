@@ -62,7 +62,7 @@ Registration for next year’s Carpathian Mountain Outreach project is now open!
 
 ### How You Can Pray
 
-* Praise the Lord for Ukrainians who are hearing the Gospel as they study the Scriptures with Bible First!
+* Praise the Lord for Ukrainians who are hearing the Gospel as they study the Scriptures with Bible First
 * Pray for a strong team for CMO 2016.
 * Pray for Oleg and I as we continue our discipleship meetings.
 * Pray for strength and wisdom for Kelsie and I as we homeschool our children here in Ukraine.

@@ -27,9 +27,9 @@ Year after year, our stats continue to demonstrate that around 40% of all our Bi
 
 In addition to the growth we are seeing in Ukraine, there is another type of multiplication that we are equally excited about. The men who come to CMO each summer are going on to establish their own ministries in the US and even in other countries.
 
-For example, James Slice, who served with us last year, has just returned from several months of Gospel ministry in Egypt. In addition, he and his brother are operating their own *Bible First!* course in their home state of Georgia.
+For example, James Slice, who served with us last year, has just returned from several months of Gospel ministry in Egypt. In addition, he and his brother are operating their own *Bible First* course in their home state of Georgia.
 
-Men from the CMO 2015 team are also moving forward in ministry. Emanuel Schrock has already conducted literature campaigns of his own since returning from Ukraine, and he is currently studying linguistics in preparation for mission work overseas. Adam Hall is getting ready to spend a year in northern Africa with a mission work that’s previously been established there. The Henderson family continues to build their *Bible First!* course in Minnesota, and they’ve been involving other believers in outreaches in their community.
+Men from the CMO 2015 team are also moving forward in ministry. Emanuel Schrock has already conducted literature campaigns of his own since returning from Ukraine, and he is currently studying linguistics in preparation for mission work overseas. Adam Hall is getting ready to spend a year in northern Africa with a mission work that’s previously been established there. The Henderson family continues to build their *Bible First* course in Minnesota, and they’ve been involving other believers in outreaches in their community.
 
 <a href="https://s3.amazonaws.com/images.ofreport.com/2015/09/36-CMO2015-Team-Photo.png"><img class="size-medium wp-image-2003" src="https://s3.amazonaws.com/images.ofreport.com/2015/09/36-CMO2015-Team-Photo-450x274.png" alt="The CMO 2015 team. From the left: Isaiah, Emanuel, Caleb, Ben, Nathan, Joshua, Joe, and Adam." /></a>
 {: .article-image .article-image--has-caption}

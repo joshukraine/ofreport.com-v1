@@ -5,7 +5,7 @@ tags:
 - misc
 ---
 
-<h3>The following is an excerpt taken from the twentieth and final lesson of <em><a title="Bible First!" href="http://www.getbiblefirst.com" target="_blank">Bible First</a></em>.</h3>
+<h3>The following is an excerpt taken from the twentieth and final lesson of *<a title="Bible First" href="http://www.getbiblefirst.com" target="_blank">Bible First</a>*.</h3>
 
 <hr />
 
@@ -16,20 +16,20 @@ Abel’s offering of a lamb in Genesis 4 clearly represents the payment God requ
 
 The Biblical account of Cain and Abel does not explain where they learned of the need for animal sacrifice as a covering for sin, but the logical conclusion is that they were given this instruction by their father, Adam. On the day that Adam and Eve were driven from the Garden of Eden, God killed two animals to make coverings for His fallen children. This was presumably the beginning of animal sacrifice in Scripture and the pattern upon which Abel’s offering was based.
 
-However, the blood of animals could only provide a temporary covering for sin. (Hebrews 10:1-4) Abel’s lamb, while acceptable to God at that time, represents a mere shadow of God’s ultimate solution for the redemption of mankind. Thousands of years after Abel’s cruel death at the hands of Cain, Jesus was announced by John the Baptist as, <em>“…the Lamb of God, which taketh away the sin of the world.” (John 1:29)</em> Like Abel, Christ was also murdered by wicked men who spilled His divine blood as they scourged and crucified Him. But in contrast to Abel, Christ’s blood did not cry out for vengeance. (Genesis 4:10, Hebrews 12:24) Though it appeared a tragedy, the death of Christ was a triumph, a voluntary sacrifice that provided the atonement needed to cover our sin.
+However, the blood of animals could only provide a temporary covering for sin. (Hebrews 10:1-4) Abel’s lamb, while acceptable to God at that time, represents a mere shadow of God’s ultimate solution for the redemption of mankind. Thousands of years after Abel’s cruel death at the hands of Cain, Jesus was announced by John the Baptist as, *“…the Lamb of God, which taketh away the sin of the world.” (John 1:29)* Like Abel, Christ was also murdered by wicked men who spilled His divine blood as they scourged and crucified Him. But in contrast to Abel, Christ’s blood did not cry out for vengeance. (Genesis 4:10, Hebrews 12:24) Though it appeared a tragedy, the death of Christ was a triumph, a voluntary sacrifice that provided the atonement needed to cover our sin.
 
 <strong>Abel’s Atonement in Genesis</strong>
-<em>“And Abel, he also brought of the firstlings of his flock and of the fat thereof. And the LORD had respect unto Abel and to his offering:” (Genesis 4:4)</em>
+*“And Abel, he also brought of the firstlings of his flock and of the fat thereof. And the LORD had respect unto Abel and to his offering:” (Genesis 4:4)*
 
 <strong>Other Key Passages on Blood Atonement</strong>
-<em>“For the life of the flesh is in the blood: and I have given it to you upon the altar to make an atonement for your souls: for <span style="text-decoration: underline;">it is the blood that maketh an atonement for the soul</span>.” (Leviticus 17:11)</em>
+*“For the life of the flesh is in the blood: and I have given it to you upon the altar to make an atonement for your souls: for <span style="text-decoration: underline;">it is the blood that maketh an atonement for the soul</span>.” (Leviticus 17:11)*
 
-<em>“And almost all things are by the law purged with blood; and <span style="text-decoration: underline;">without shedding of blood is no remission</span>.” (Hebrews 9:22)</em>
+*“And almost all things are by the law purged with blood; and <span style="text-decoration: underline;">without shedding of blood is no remission</span>.” (Hebrews 9:22)*
 
-<em>“Being justified freely by his grace through the redemption that is in Christ Jesus: Whom God hath set forth to be a <span style="text-decoration: underline;">propitiation through faith in his blood</span>, to declare his righteousness for the remission of sins that are past, through the forbearance of God;” (Romans 3:24-25)</em>
+*“Being justified freely by his grace through the redemption that is in Christ Jesus: Whom God hath set forth to be a <span style="text-decoration: underline;">propitiation through faith in his blood</span>, to declare his righteousness for the remission of sins that are past, through the forbearance of God;” (Romans 3:24-25)*
 
-<em>“Much more then, being now <span style="text-decoration: underline;">justified by [Christ’s] blood</span>, we shall be saved from wrath through him. For if, when we were enemies, we were reconciled to God by the death of his Son, much more, being reconciled, we shall be saved by his life. And not only so, but we also joy in God through our Lord Jesus Christ, <span style="text-decoration: underline;">by whom we have now received the atonement</span>.” (Romans 5:9–11)</em>
+*“Much more then, being now <span style="text-decoration: underline;">justified by [Christ’s] blood</span>, we shall be saved from wrath through him. For if, when we were enemies, we were reconciled to God by the death of his Son, much more, being reconciled, we shall be saved by his life. And not only so, but we also joy in God through our Lord Jesus Christ, <span style="text-decoration: underline;">by whom we have now received the atonement</span>.” (Romans 5:9–11)*
 
-<em>“Neither by the blood of goats and calves, but <span style="text-decoration: underline;">by [Christ’s] own blood</span> he entered in once into the holy place, having obtained eternal redemption for us. For if the blood of bulls and of goats, and the ashes of an heifer sprinkling the unclean, sanctifieth to the purifying of the flesh: How much more shall <span style="text-decoration: underline;">the blood of Christ</span>, who through the eternal Spirit offered himself without spot to God, <span style="text-decoration: underline;">purge your conscience from dead works</span> to serve the living God?” (Hebrews 9:12–14)</em>
-<h3><strong><em>BIBLE FIRST!</em>, LESSON 20</strong>
+*“Neither by the blood of goats and calves, but <span style="text-decoration: underline;">by [Christ’s] own blood</span> he entered in once into the holy place, having obtained eternal redemption for us. For if the blood of bulls and of goats, and the ashes of an heifer sprinkling the unclean, sanctifieth to the purifying of the flesh: How much more shall <span style="text-decoration: underline;">the blood of Christ</span>, who through the eternal Spirit offered himself without spot to God, <span style="text-decoration: underline;">purge your conscience from dead works</span> to serve the living God?” (Hebrews 9:12–14)*
+<h3><strong>*BIBLE FIRST!*, LESSON 20</strong>
 COPYRIGHT © 2013 EURO TEAM OUTREACH, INC. ALL RIGHTS RESERVED.</h3>

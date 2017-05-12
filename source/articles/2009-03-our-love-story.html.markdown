@@ -7,13 +7,13 @@ tags:
 ---
 
 Joshua and I have often expressed how much we wished we had written our love story in a more detailed manner. Outside of a short <a href="http://www.ofreport.com/wp-content/plugins/download-monitor/download.php?id=5">newsletter version</a> for our missionary report, we have never recorded all that God did in bringing us together. Every time we retell the story of how we met, we stand in awe of the great God that we serve, and His love and care for His children. Recently, as we were discussing this, it occurred to us that our blog would provide us with the perfect opportunity to write our story in short snippets, without having to leave out any juicy details.  =) We are quite excited about publishing a series of posts over the coming weeks that document the story of how we began our lives together.
-<p style="text-align: center;"><strong><em></em></strong></p>
+<p style="text-align: center;"><strong>**</strong></p>
 
 
-[caption id="attachment_510" align="aligncenter" width="300" caption="Joshua &amp; Kelsie - Married September 18, 2004"]<strong><em><strong><em><a href="https://s3.amazonaws.com/images.ofreport.com/2009/03/111_1129.jpg"><img class="size-medium wp-image-510" title="111_1129" src="https://s3.amazonaws.com/images.ofreport.com/2009/03/111_1129-300x225.jpg" alt=" " width="300" height="225" /></a></em></strong></em></strong>[/caption]
+[caption id="attachment_510" align="aligncenter" width="300" caption="Joshua &amp; Kelsie - Married September 18, 2004"]<strong>*<strong>*<a href="https://s3.amazonaws.com/images.ofreport.com/2009/03/111_1129.jpg"><img class="size-medium wp-image-510" title="111_1129" src="https://s3.amazonaws.com/images.ofreport.com/2009/03/111_1129-300x225.jpg" alt=" " width="300" height="225" /></a>*</strong>*</strong>[/caption]
 
-<strong><em></em></strong>
-<p style="text-align: center;"><strong><em>Psalm 118: 23 "This is the LORD's doing;
+<strong>**</strong>
+<p style="text-align: center;"><strong>*Psalm 118: 23 "This is the LORD's doing;
 it is marvelous in our eyes."</em></strong>
 
 <strong>PART ONE</strong>
@@ -32,4 +32,4 @@ The gray sweater vest became a regular part of my wardrobe, and the Steele's wer
 
 Unbeknownst to me, I had been the object of Mrs. Steele's special observation that week. Several times the thought had occurred to her: "This girl would be right for my son, Joshua," or, "this would be the kind of girl I would want for him to marry." The idea was nearly always dismissed as quickly as it had originated. After all, he was busy getting ready to go to Ukraine. He was still young and laying the foundation for his occupation and ministry. And, as for me, I was only 17.
 
-<em>To be continued....</em>
+*To be continued....*

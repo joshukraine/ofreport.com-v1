@@ -24,7 +24,7 @@ Our theme was II Timothy 2. The conference consisted of four sessions, each deri
 The following is a topical overview of the conference:
 
 <strong>SESSION 1 - Chosen to be Soldiers</strong>
-<em>“Thou therefore endure hardness, </em><strong><em>as a good soldier of Jesus Christ</em></strong><em>.” 2 Timothy 2:3</em>
+*“Thou therefore endure hardness, *<strong>*as a good soldier of Jesus Christ*</strong>*.” 2 Timothy 2:3*
 <ul>
 	<li>On Tactical Weaponry</li>
 	<li>About YOU</li>
@@ -35,7 +35,7 @@ The following is a topical overview of the conference:
 	<li>Professing Christ</li>
 </ul>
 <strong>SESSION 2 - Depart from Iniquity
-<em><span style="font-weight: normal;">“Nevertheless the foundation of God standeth sure, having this seal, </span><span style="font-style: normal;"><em><span style="font-weight: normal;">The Lord knoweth them that are his. An</span></em><em><span style="font-weight: normal;">d,</span></em><em> </em><strong><em>Let every one that <span style="font-style: normal; font-weight: normal;"><strong><em>nameth the name of Christ depart from iniquity.</em></strong><em>” 2 Timothy 2:19</em></span></em></strong></span></em></strong>
+*<span style="font-weight: normal;">“Nevertheless the foundation of God standeth sure, having this seal, </span><span style="font-style: normal;">*<span style="font-weight: normal;">The Lord knoweth them that are his. An</span>**<span style="font-weight: normal;">d,</span>** *<strong>*Let every one that <span style="font-style: normal; font-weight: normal;"><strong>*nameth the name of Christ depart from iniquity.*</strong>*” 2 Timothy 2:19*</span>*</strong></span>*</strong>
 <ul>
 	<li>Addiction</li>
 	<li>Reformation or Destruction?</li>
@@ -47,7 +47,7 @@ The following is a topical overview of the conference:
 	<li>A Warning</li>
 </ul>
 <strong>SESSION 3 - Avoid Entanglement
-<span style="font-weight: normal;"><em>“</em><strong><em>No man that warreth entangleth himself with the affairs of this life</em></strong><em>; that he may please him who hath chosen him to be a soldier.” 2 Timothy 2:4</em></span></strong>
+<span style="font-weight: normal;">*“*<strong>*No man that warreth entangleth himself with the affairs of this life*</strong>*; that he may please him who hath chosen him to be a soldier.” 2 Timothy 2:4*</span></strong>
 <ul>
 	<li>What are Entanglements?</li>
 	<li>Learn to Treasure a Tender Conscience</li>
@@ -57,7 +57,7 @@ The following is a topical overview of the conference:
 	<li>What if I fall?</li>
 </ul>
 <strong>SESSION 4 - A Workman not Ashamed
-<em><span style="font-weight: normal;">“Study to shew thyself approved unto God, </span><span style="font-style: normal;"><em>a workman that needeth not to be ashamed</em><em><span style="font-weight: normal;">,</span></em><em><span style="font-weight: normal;"> rightly dividing the word of truth.</span></em><em><span style="font-weight: normal;">” 2 Timothy 2:15</span></em></span></em></strong>
+*<span style="font-weight: normal;">“Study to shew thyself approved unto God, </span><span style="font-style: normal;">*a workman that needeth not to be ashamed**<span style="font-weight: normal;">,</span>**<span style="font-weight: normal;"> rightly dividing the word of truth.</span>**<span style="font-weight: normal;">” 2 Timothy 2:15</span>*</span>*</strong>
 <ul>
 	<li>The Bible is your Final Authority</li>
 	<li>You need to search the Scriptures</li>

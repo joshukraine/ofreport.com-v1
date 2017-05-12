@@ -18,5 +18,5 @@ This has been a sad chapter in our lives, and yet we rejoice that the story does
 Farewell, Little One. Be at peace in the glory of His presence and know that Mommy and Daddy love you. Wait a little while, and we’ll be home.
 
 <a href="https://s3.amazonaws.com/images.ofreport.com/2012/06/2012-06-26-20.56.21.jpg"><img class="aligncenter size-medium wp-image-1556" title="2012-06-26 20.56.21" src="https://s3.amazonaws.com/images.ofreport.com/2012/06/2012-06-26-20.56.21-450x337.jpg" alt="" width="450" height="337" /></a>
-<p style="text-align: center;"><em>“But Jesus said, Suffer little children, and forbid them not, to come unto me: for of such is the kingdom of heaven.”</em>
-<em>(Matthew 19:14)</em></p>
+<p style="text-align: center;">*“But Jesus said, Suffer little children, and forbid them not, to come unto me: for of such is the kingdom of heaven.”*
+*(Matthew 19:14)*</p>

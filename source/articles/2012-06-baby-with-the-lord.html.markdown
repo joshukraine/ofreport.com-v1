@@ -15,4 +15,4 @@ We would like to express our sincere gratefulness to all of you who have prayed,
 
 More updates will be forthcoming, but for now, please be assured that we are well. God has given us much grace and comfort during this time, and we are continually reminded that, as Romans 8:18 assures us, this present sorrow is not worthy to be compared with the glory that awaits us.
 
-<em>"The angel of the LORD encampeth round about them that fear him, and delivereth them. O taste and see that the LORD is good: blessed is the man that trusteth in him." (Psalm 34:8)</em>
+*"The angel of the LORD encampeth round about them that fear him, and delivereth them. O taste and see that the LORD is good: blessed is the man that trusteth in him." (Psalm 34:8)*
