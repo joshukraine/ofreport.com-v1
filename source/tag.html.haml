@@ -16,4 +16,4 @@ per_page: 12
       %span= article.date.strftime("%b %e")
 - if paginate
   - if next_page
-    %p= link_to "Next page", next_page
+    %p= link_to "Next page", next_page, relative: false
