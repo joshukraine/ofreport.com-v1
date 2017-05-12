@@ -60,8 +60,8 @@ var
   serverOpts = {
     proxy: 'localhost:4567',
     open: true,
-    reloadDelay: 500,
-    files: [dest + '**/*.{js,css}', src + '**/*.{html,haml}']
+    reloadDelay: 700,
+    files: [dest + '**/*.{js,css}', src + '**/*.{html,haml,markdown}']
   };
 
 // 3. WORKER TASKS
