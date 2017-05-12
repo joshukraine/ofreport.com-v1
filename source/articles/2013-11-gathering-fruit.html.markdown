@@ -1,12 +1,17 @@
 ---
+
 title: Gathering Fruit
 date: '2013-11-06 15:00:55'
-tags:
-- newsletter
+tags: newsletter, cmo
+author: ['Joshua Steele', '@joshukraine']
+download: 'OFR-Oct-Nov-2013.pdf'
+image: '2013/11/IMG_5965.jpg'
+caption: '“He that goeth forth and weepeth, bearing precious seed, Shall doubtless come again with rejoicing, bringing his sheaves with him.” (Psalm 126:6)'
+
 ---
 
-<a href="http://www.ofreport.com/downloads/OFR-Oct-Nov-2013.pdf"><img class="alignleft size-full wp-image-1868" alt="OFR-Oct-Nov-2013" src="https://s3.amazonaws.com/images.ofreport.com/2013/11/OFR-Oct-Nov-2013.jpg" width="100" height="129" /></a>The October-December issue of our newsletter, *Overseas Field Report*, is now available. In this issue, we've got lots to report about the fruit that God is bringing in as a result of this summer's CMO project.
+The October-December issue of our newsletter, *Overseas Field Report*, is now available. In this issue, we've got lots to report about the fruit that God is bringing in as a result of this summer's CMO project.
 
-<strong>Download the PDF here »</strong> [download#55#size#nohits]
+READMORE
 
 If you subscribe to *Overseas Field Report* by regular mail, you should be receiving a printed copy of this issue in the next week or so. As always, we greatly appreciate your prayers and support for our ministry.
