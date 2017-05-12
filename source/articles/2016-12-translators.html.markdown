@@ -2,7 +2,7 @@
 
 title: Translators, Inc.
 date: '2016-12-31 17:33:10'
-tags: family-updates, newsletter
+tags: newsletter, family, Bible First
 author: '@joshukraine'
 download: 'OFR-Nov-Dec-2016.pdf'
 image: '2016/12/IMG_1900-1024x497.jpg'

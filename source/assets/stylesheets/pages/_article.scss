@@ -1,7 +1,6 @@
 .article-header {
   @include margin(6em null);
   text-align: center;
-  // border: 1px solid $red;
 
   @include media-max($media-tablet) {
     @include margin(4em null);
@@ -13,20 +12,45 @@
 }
 
 .article-title {
-  // border: 1px solid green;
   h1 { margin: 0; }
 }
 
 .article-meta {
-  // border: 1px solid green;
-}
-
-.article-links {
-  // border: 1px solid green;
   display: flex;
   justify-content: center;
 
   li {
+    font-size: $small-font-size;
+  }
+
+  .meta-text {
+    @include margin(5px);
+  }
+
+  .meta-tag:not(:last-child) {
+    &::after {
+      color: $base-font-color;
+      content: ",";
+      display: inline-block;
+      margin-left: -1px;
+      margin-right: 7px;
+    }
+  }
+
+  .meta-tag a {
+    font-size: $small-font-size / 1.15;
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+}
+
+.article-links {
+  @include margin($base-spacing null null null);
+  display: flex;
+  justify-content: center;
+
+  li {
+    font-size: $base-font-size * 1.2;
     margin: 0 $small-spacing;
   }
 }
@@ -60,14 +84,13 @@
 }
 
 .article-image {
-  // border: 1px solid green;
   @include padding($base-spacing * 1.5 $small-spacing);
   text-align: center;
 }
 
 .article-image--has-caption {
-  padding-bottom: 0;
   margin-bottom: 0;
+  padding-bottom: 0;
 }
 
 .article-image__caption {

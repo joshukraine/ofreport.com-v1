@@ -2,7 +2,7 @@
 
 title: Meet David Noble
 date: '2017-03-29 09:37:19'
-tags: family-updates, newsletter
+tags: newsletter, family, Good and Evil
 author: '@joshukraine'
 download: 'OFR-Mar-Apr-2017.pdf'
 image: '2017/03/david-collage-1024x504.jpg'
