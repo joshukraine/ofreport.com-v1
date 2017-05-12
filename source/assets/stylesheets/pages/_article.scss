@@ -13,6 +13,12 @@
 
 .article-title {
   h1 { margin: 0; }
+
+  @include media-max($media-phone) {
+    h1 {
+      font-size: modular-scale(6);
+    }
+  }
 }
 
 .article-meta {
