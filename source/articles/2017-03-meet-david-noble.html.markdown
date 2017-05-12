@@ -31,7 +31,8 @@ The name **Noble** is a reference to the Bereans, of whom Paul said in Acts 17:1
 
 It is our prayer for our son that even in his youth he will come to know and love the *heart of God* as he immerses himself in the study of the *Word of God*.
 
-<a href="https://s3.amazonaws.com/images.ofreport.com/2017/03/david-blanket.jpg"><img class="aligncenter size-large wp-image-2082" src="https://s3.amazonaws.com/images.ofreport.com/2017/03/david-blanket-1024x575.jpg" alt="" width="584" height="328" /></a>
+![David Noble](https://s3.amazonaws.com/images.ofreport.com/2017/03/david-blanket-1024x575.jpg)
+{: .article-image}
 
 ### Good and Evil Update
 
@@ -43,6 +44,7 @@ Please continue to pray for this project. Good and Evil has proven itself an eff
 
 
 ![Good and Evil](https://s3.amazonaws.com/images.ofreport.com/2016/09/english-good-and-evil-bogo-special-1-240x450.jpg)
+{: .article-image}
 
 ### How You Can Pray
 

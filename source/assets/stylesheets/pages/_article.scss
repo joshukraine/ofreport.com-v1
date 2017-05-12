@@ -59,11 +59,12 @@
     font-size: $base-font-size * 1.2;
     font-weight: 300;
   }
+}
 
-  p img {
-    display: block;
-    @include margin(4em auto);
-  }
+.article-image {
+  // border: 1px solid green;
+  @include padding($base-spacing * 1.5 $small-spacing);
+  text-align: center;
 }
 
 .to-God-be-the-glory {
