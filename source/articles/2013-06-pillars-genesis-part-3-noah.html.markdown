@@ -5,7 +5,7 @@ tags:
 - misc
 ---
 
-<h3>The following is an excerpt taken from the twentieth and final lesson of <em><a title="Bible First!" href="http://www.biblefirstcourses.com" target="_blank">Bible First</a></em>.</h3>
+<h3>The following is an excerpt taken from the twentieth and final lesson of <em><a title="Bible First!" href="http://www.getbiblefirst.com" target="_blank">Bible First</a></em>.</h3>
 
 <hr />
 

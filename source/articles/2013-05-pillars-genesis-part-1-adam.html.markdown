@@ -5,7 +5,7 @@ tags:
 - misc
 ---
 
-The following text is taken from the twentieth and final lesson of <a title="Bible First!" href="http://www.biblefirstcourses.com/" target="_blank"><em>Bible First</em></a>. As promised in a previous issue of our newsletter, we'll be publishing <em>The Seven Pillars of Genesis</em> as a series of blog posts over the next few weeks.
+The following text is taken from the twentieth and final lesson of <a title="Bible First!" href="http://www.getbiblefirst.com/" target="_blank"><em>Bible First</em></a>. As promised in a previous issue of our newsletter, we'll be publishing <em>The Seven Pillars of Genesis</em> as a series of blog posts over the next few weeks.
 
 <hr />
 
