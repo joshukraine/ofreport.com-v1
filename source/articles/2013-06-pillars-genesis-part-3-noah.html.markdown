@@ -9,7 +9,6 @@ author: ['Joshua Steele', '@joshukraine']
 
 The following is an excerpt taken from the twentieth and final lesson of *<a title="Bible First" href="http://www.getbiblefirst.com" target="_blank">Bible First</a>*.
 
-
 ### Noah’s Position
 
 Noah lived in an era of wickedness so terrible that it caused God to regret His creation of the human race. Yet in the midst of this universal debauchery, Noah was found to be righteous.
