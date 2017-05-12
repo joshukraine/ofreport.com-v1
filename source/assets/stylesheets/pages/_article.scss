@@ -57,6 +57,7 @@
 
 .article-hero {
   @include margin(null null 2em null);
+  text-align: center;
 
   img {
     border-radius: 15px;
