@@ -12,6 +12,8 @@ caption: 'Every morning on weekdays, Abigail and I read through a portion of Bib
 
 One of the most common questions I am asked as a missionary is how I would describe a “typical day on the foreign mission field”. This question always amuses me because the mission field is intrinsically atypical! During my time overseas, I’ve learned that God leads our ministry through seasons. Just when we think we’ve settled into something stable, the game changes.
 
+READMORE
+
 For many years, our ministry kept a fairly steady back-and-forth rhythm of high-energy evangelism in the summers and lesson-writing coupled with discipleship efforts in the colder months. But while those efforts continue forward, we’ve recently seen God open a new front: translation.
 
 Because we are English speakers ministering the Gospel amongst Ukrainians, translation has always played a significant role in what we do. For example, all of our Bible First lessons were originally written in English, and then later translated into Ukrainian.

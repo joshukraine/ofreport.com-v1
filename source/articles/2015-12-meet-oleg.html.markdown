@@ -12,6 +12,8 @@ caption: 'Oleg Demedyuk is a believer from L’viv. At his request, we recently 
 
 Recently, I received an email from a young man named Serhii whom I discipled several years ago. A friend from Serhii’s church had inquired about finding someone who could disciple him. Serhii suggested that he contact me, and he did.
 
+READMORE
+
 The first time we met, Oleg shared his testimony, and we spent some time getting to know one another. I explained a bit about what we do here as missionaries, and also suggested some ideas on how we might best spend our time during future meetings.
 
 Normally, when a person expresses interest in studying the Bible, I like to start in Genesis. But since Oleg already had a solid foundation (he’s been saved for several years and faithful in his church) we decided to begin in Romans.

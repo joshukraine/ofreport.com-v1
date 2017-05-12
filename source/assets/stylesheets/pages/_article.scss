@@ -116,7 +116,7 @@
 }
 
 .article-image {
-  @include padding($base-spacing * 1.5 $small-spacing);
+  @include padding($base-spacing $small-spacing);
   text-align: center;
 }
 

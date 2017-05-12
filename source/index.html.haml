@@ -26,7 +26,8 @@ layout: home
           %li.meta-tag-item= link_to "#{tag}", tag_path(tag)
 
     .article-preview__content
-      = article.summary(250)
+      = article.summary
+      = link_to "Read more", article
 
 - if paginate
   - if next_page
