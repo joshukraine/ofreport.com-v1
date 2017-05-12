@@ -22,7 +22,7 @@ I spoke at two of the main sessions, teaching on forgiveness and how to discern 
 
 In addition to the teaching sessions, there were family activities, sporting events, and gatherings for singles. In past years, there have been many new marriages which came about as a result of young people meeting one another for the first time at a Shindig.
 
-NGJ also set up an exhibit hall where vendors could sell various products and services for families. *Bible First!* had a table there, and we were excited for the opportunity to share our vision with many who were interested in evangelism. One man who stopped by our table has already been using *Bible First!* materials in a prison here in the US!
+NGJ also set up an exhibit hall where vendors could sell various products and services for families. *Bible First* had a table there, and we were excited for the opportunity to share our vision with many who were interested in evangelism. One man who stopped by our table has already been using *Bible First* materials in a prison here in the US!
 
 If you’d like to learn more about the Shindig, be sure to visit <a href="http://www.nogreaterjoy.org/shindig" target="_blank">www.nogreaterjoy.org/shindig</a>. All the sessions were recorded on video and I believe they will be made available soon.
 
@@ -47,7 +47,7 @@ Our fourth daughter is due to be born on December 19th, though past experience s
 ### How You Can Pray
 
 * Pray for a strong team for CMO 2015. Details are available now at <a href="http://www.CMOproject.org" target="_blank">www.CMOproject.org</a>.
-* Praise God for over 50 Ukrainian graduates from our Bible First! program!
+* Praise God for over 50 Ukrainian graduates from our Bible First program!
 * Pray for health and safety for Kelsie and our new baby.
 * Pray for Nathan Gregson as he serves with our staff team in Ukraine. (Nathan is a former CMO team member who came for the 2013 project.)
 * Pray for peace and liberty in Ukraine.

@@ -130,4 +130,4 @@ So that you can be more informed as you pray, we would like to encourage you to 
 * Praise the Lord for His provision of a larger apartment for our family!
 * Pray for Adam, Isaiah, Ben, Joe, Caleb and Emmanuel as they travel to Ukraine in June.
 * Pray that God would open the hearts of Ukrainians this summer as they hear the Gospel preached.
-* Pray that God would continue to bless and expand the impact of Bible First! in Ukraine, the U.S. and other countries.
+* Pray that God would continue to bless and expand the impact of Bible First in Ukraine, the U.S. and other countries.

@@ -1,5 +1,5 @@
 ---
-title: Bible First!
+title: Bible First
 date: '2010-10-06 14:55:55'
 tags:
 - ministry-updates
@@ -17,5 +17,5 @@ In late 2004, our team began the development of a Bible correspondence course th
 
 Our course consists of 17 lessons and takes students one chapter at a time from Creation, through the stories of Adam &amp; Eve, Cain &amp; Abel, Noah, Abraham, Sodom &amp; Gomorrah, Isaac, Jacob and Joseph. In each story, we point them to Jesus, drawing on the types and parallels that God Himself built into Genesis for that very purpose. And now we have a new problem: the number of Ukrainians enrolling in our course continues to grow. It takes the full attention of all seven of our staff to grade the stacks of lessons we receive each week, answer the letters, and write new material to stay ahead of our students.
 
-The development of our course is nearing completion and soon it will be available in English to anyone who would like to use it in ministry. We call it Bible First. If you'd like to learn more, visit our Bible First! web page: <a href="http://www.euroteamoutreach.org/biblefirst/" target="_blank">www.euroteamoutreach.org/biblefirst</a>
-<p style="text-align: center;"><a href="http://www.euroteamoutreach.org/index.php?p=biblefirst"><img class="aligncenter size-medium wp-image-1088" title="Bible First!" src="https://s3.amazonaws.com/images.ofreport.com/2010/10/Bible-First-300x102.png" alt="" width="300" height="102" /></a></p>
+The development of our course is nearing completion and soon it will be available in English to anyone who would like to use it in ministry. We call it Bible First. If you'd like to learn more, visit our Bible First web page: <a href="http://www.euroteamoutreach.org/biblefirst/" target="_blank">www.euroteamoutreach.org/biblefirst</a>
+<p style="text-align: center;"><a href="http://www.euroteamoutreach.org/index.php?p=biblefirst"><img class="aligncenter size-medium wp-image-1088" title="Bible First" src="https://s3.amazonaws.com/images.ofreport.com/2010/10/Bible-First-300x102.png" alt="" width="300" height="102" /></a></p>

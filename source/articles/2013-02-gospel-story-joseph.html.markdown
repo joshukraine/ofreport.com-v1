@@ -34,6 +34,6 @@ Based on this marvelous redemptive work, Paul implores the sinner, <em>“Now th
 Friend, where do you stand today? The world around us is dying, starving amidst the famine of sin. Are you still in Canaan, trying to produce good works out of dead ground? You have but one hope. Flee to the Savior! He has prepared a feast for you and all that remains is that you forsake the barren fields of unbelief and turn to Him in faith. <em>“Come unto me, all ye that labour and are heavy laden, and I will give you rest.” (Matthew 11:28)</em>
 
 Trust no longer in your own dead works, but believe on the name of Jesus Christ alone. Salvation is not as far as you may think. <em>“…The word is nigh thee, even in thy mouth, and in thy heart: that is, the word of faith, which we preach; That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved.” (Romans 10:8-9)</em>
-<h3><strong><em>Bible First!</em>, Lesson 19</strong>
+<h3><strong><em>Bible First</em>, Lesson 19</strong>
 Copyright © 2013 Euro Team Outreach, Inc. All Rights Reserved.</h3>
 &nbsp;
