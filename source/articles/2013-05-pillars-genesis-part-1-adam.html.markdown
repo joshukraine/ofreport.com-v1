@@ -18,7 +18,7 @@ READMORE
 
 The Bible is a book of kingdoms, and Adam was earth’s first king. Like most monarchs, Adam’s authority was given him by right of birth. Immediately after his creation, God charged Adam to take dominion over the entire planet.
 
-<a href="https://s3.amazonaws.com/images.ofreport.com/2013/05/Adam-and-Eve-1200-1.jpg"><img class="alignleft  wp-image-1805" alt="Adam and Eve" src="https://s3.amazonaws.com/images.ofreport.com/2013/05/Adam-and-Eve-1200-1-351x450.jpg" width="246" height="315" /></a>
+<a href="https://s3.amazonaws.com/images.ofreport.com/2013/05/Adam-and-Eve-1200-1.jpg"><img class="alignleft  wp-image-1805" alt="Adam and Eve" src="https://s3.amazonaws.com/images.ofreport.com/2013/05/Adam-and-Eve-1200-1-351x450.jpg" /></a>
 {: .article-image}
 
 But Adam was more than our first king. He was also our father. Though he did not fully understand it at the time, his position as head of the human race meant that every decision he made would directly affect his descendants. Sadly, when Adam chose to disobey God, he forfeited his dominion to Satan who became the god of this world. As a result, mankind was plunged into darkness and corporately separated from God’s life-giving presence.

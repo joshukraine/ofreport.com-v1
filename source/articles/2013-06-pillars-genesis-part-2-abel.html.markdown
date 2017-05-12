@@ -15,7 +15,7 @@ Abel’s offering of a lamb in Genesis 4 clearly represents the payment God requ
 
 READMORE
 
-<a href="https://s3.amazonaws.com/images.ofreport.com/2013/06/Abel.jpg"><img class="alignleft  wp-image-1808" alt="Cain and Abel" src="https://s3.amazonaws.com/images.ofreport.com/2013/06/Abel-366x450.jpg" width="256" height="315" /></a>
+<a href="https://s3.amazonaws.com/images.ofreport.com/2013/06/Abel.jpg"><img class="alignleft  wp-image-1808" alt="Cain and Abel" src="https://s3.amazonaws.com/images.ofreport.com/2013/06/Abel-366x450.jpg" /></a>
 {: .article-image}
 
 At first glance, many have supposed that Abel’s choice of an offering was based on his profession: he was a shepherd and thus brought a lamb. If that were true, God’s refusal of Cain’s gift would be quite unjust, for Cain, a farmer by trade, brought the best of his harvest. In actuality, God’s rejection of Cain was not based on the quality of his labor, but on the fact that his offering was inappropriate to the task for which it was intended. Fruits and vegetables cannot pay for sin. This operation, known in the Bible as atonement, can only be accomplished by the shedding of innocent blood.

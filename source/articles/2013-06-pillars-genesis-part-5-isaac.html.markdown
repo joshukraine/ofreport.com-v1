@@ -15,7 +15,7 @@ After repeatedly promising Abraham that he would become a great nation, God fulf
 
 READMORE
 
-<img class="alignleft  wp-image-1825" alt="Isaac" src="https://s3.amazonaws.com/images.ofreport.com/2013/05/Isaac-349x450.jpg" width="244" height="315" />
+<img class="alignleft  wp-image-1825" alt="Isaac" src="https://s3.amazonaws.com/images.ofreport.com/2013/05/Isaac-349x450.jpg" />
 {: .article-image}
 
 Happily, faith in God’s direction was a lesson Abraham had learned well. Although overcome with sorrow, he set out immediately to obey. When all was ready and Isaac lay bound on the altar, Abraham lifted the knife to slay his son. At the last moment, God intervened and saved Isaac’s life, saying, *“…Lay not thine hand upon the lad, neither do thou any thing unto him: for now I know that thou fearest God, seeing thou hast not withheld thy son, thine only son from me.” (Genesis 22:12)* The test was over, and Abraham had passed.

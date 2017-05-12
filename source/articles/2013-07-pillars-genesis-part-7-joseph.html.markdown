@@ -14,7 +14,7 @@ Joseph is often acclaimed as the most complete type of Christ found in the Old T
 
 READMORE
 
-<img class="alignleft  wp-image-1847" style="border-color: #bbbbbb; background-color: #eeeeee;" alt="Joseph" src="https://s3.amazonaws.com/images.ofreport.com/2013/07/joseph_making_himself_known-375x450.jpg" width="263" height="315" />
+<img class="alignleft  wp-image-1847" style="border-color: #bbbbbb; background-color: #eeeeee;" alt="Joseph" src="https://s3.amazonaws.com/images.ofreport.com/2013/07/Joseph-372x450.jpg" />
 {: .article-image}
 
 As governor of Egypt, Joseph held the power to bring down crushing retribution against those who had hated, mocked and betrayed him. Amazingly, the Genesis record gives no indication that this course of action ever entered his mind.
