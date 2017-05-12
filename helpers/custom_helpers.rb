@@ -9,6 +9,14 @@ module CustomHelpers
     end
   end
 
+  def twitter_link_for(author)
+    if author.to_s.include?("@") # We have a Twitter handle
+      link_to author[0], "https://twitter.com/#{author[1][1..-1]}"
+    else
+      author.to_s
+    end
+  end
+
   def smart_robots(path, env)
     # Add paths (like "thank you" pages) that search engines should not index.
     # Multiple paths look like this:

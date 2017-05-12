@@ -3,24 +3,35 @@
     .article-header.column
       .article-title
         %h1= current_article.title
+
       .article-meta
-        %p.meta-text
-          #{current_article.date.strftime("%b %d, %Y")}
-          &mdash;
-          #{current_article.data.author}
-      %ul.article-links
-        %li= link_to "Download", "/downloads/#{current_article.data.download}"
-        %li= link_to "Subscribe", "http://ofreport.us6.list-manage.com/subscribe?u=1e0c65850b60905f65b151819&id=97b9f6a559"
+        - if current_article.data.author?
+          .meta-author
+            = twitter_link_for(current_article.data.author)
+
+        %time.meta-date{datetime: "#{current_article.date}"}= current_article.date.strftime("%b %d, %Y")
+
+        %ul.meta-tag-list
+          - current_article.tags.each do |tag|
+            %li.meta-tag-item= link_to "#{tag}", tag_path(tag)
+
 
   %section.wide-container
     .article-hero.column
-      = image_tag current_article.data.image
+      = image_tag "https://s3.amazonaws.com/images.ofreport.com/#{current_article.data.image}"
       .article-hero__caption
-        %p #{current_article.data.caption}
+        %p.caption-text #{current_article.data.caption}
 
   %section.container--spacing
     .container
       .article-body.column
         = yield
-        .to-God-be-the-glory
-          = inline_svg "to-God-be-the-glory.svg"
+
+        - if current_article.tags.include?("newsletter")
+          .to-God-be-the-glory
+            = inline_svg "to-God-be-the-glory.svg"
+
+        -# - if current_article.tags.include?("newsletter")
+        -#   %ul.article-links
+        -#     %li= link_to "Download", "/downloads/#{current_article.data.download}"
+        -#     %li= link_to "Subscribe", "http://ofreport.us6.list-manage.com/subscribe?u=1e0c65850b60905f65b151819&id=97b9f6a559"

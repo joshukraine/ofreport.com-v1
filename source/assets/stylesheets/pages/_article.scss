@@ -1,7 +1,6 @@
 .article-header {
-  @include margin(6em null);
+  @include margin(6em null 4em);
   text-align: center;
-  // border: 1px solid $red;
 
   @include media-max($media-tablet) {
     @include margin(4em null);
@@ -13,36 +12,87 @@
 }
 
 .article-title {
-  // border: 1px solid green;
-  h1 { margin: 0; }
+  @include media-max($media-phone) {
+    h1 {
+      font-size: modular-scale(6);
+    }
+  }
+
+  h1 { margin-bottom: $small-spacing / 2; }
 }
 
 .article-meta {
-  // border: 1px solid green;
+  font-size: $small-font-size;
+  text-align: center;
+
+  .meta-author {
+    display: inline-block;
+
+    @include media-min($media-phone) {
+      &::after {
+        content: "–";
+        display: inline;
+        margin: 0 0.5rem;
+      }
+    }
+  }
+
+  .meta-date {
+    @include media-max($media-phone) {
+      display: block;
+    }
+  }
+
+  .meta-tag-list {
+    margin: 0.5em 0 0;
+    text-align: center;
+    text-transform: uppercase;
+
+    li:not(:last-child) {
+      &::after {
+        color: $base-font-color;
+        content: ",";
+        display: inline-block;
+        margin-left: -1px;
+        margin-right: 7px;
+      }
+    }
+  }
+
+  .meta-tag-item {
+    display: inline-block;
+  }
+
+  .meta-tag-item a {
+    letter-spacing: 0.05em;
+    font-size: $small-font-size / 1.2;
+    font-weight: 700;
+  }
 }
 
+
 .article-links {
-  // border: 1px solid green;
+  @include margin($base-spacing null null null);
   display: flex;
   justify-content: center;
 
   li {
+    font-size: $base-font-size * 1.2;
     margin: 0 $small-spacing;
   }
 }
 
 .article-hero {
   @include margin(null null 2em null);
+  text-align: center;
+
+  img {
+    border-radius: 15px;
+  }
 }
 
 .article-hero__caption {
-  text-align: center;
   @include padding(null 2em);
-  p {
-    font-weight: 400;
-    font-size: $base-font-size;
-    font-style: italic;
-  }
 }
 
 .article-body {
@@ -62,9 +112,17 @@
 }
 
 .article-image {
-  // border: 1px solid green;
   @include padding($base-spacing * 1.5 $small-spacing);
   text-align: center;
+}
+
+.article-image--has-caption {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.article-image__caption {
+  margin-bottom: $base-spacing * 2;
 }
 
 .to-God-be-the-glory {
