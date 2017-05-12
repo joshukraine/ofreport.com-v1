@@ -3,7 +3,7 @@
 title: Parenting Seminar
 date: '2016-04-18 07:52:04'
 tags: newsletter, cmo, Bible First
-author: '@joshukraine'
+author: ['Joshua Steele', '@joshukraine']
 download: 'OFR-Jan-Mar-2016.pdf'
 image: '2016/04/IMG_6934-1024x683.jpg'
 caption: 'Kelsie and I recently had the privilege of teaching our very first parenting seminar! Organized by a local church here in L’viv, the event was well attended, and we were excited for the opportunity to address Ukrainian couples on the topic of child training.'
@@ -62,7 +62,7 @@ Additionally, the Lord has provided some extra assistance with the Bible First w
 
 <p style="text-align: center;"><strong>UPDATE: Bible First is now available for purchase online from No Greater Joy Ministries. Click the link below for details.</strong></p>
 
-<h2 style="text-align: center;"><a href="http://nogreaterjoy.org/shop/bible-first-complete-set">Purchase Bible First</a></h2>
+<h3 style="text-align: center;"><a href="http://nogreaterjoy.org/shop/bible-first-complete-set">Purchase Bible First</a></h3>
 
 ### How You Can Pray
 

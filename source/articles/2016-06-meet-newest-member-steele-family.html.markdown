@@ -3,7 +3,7 @@
 title: Meet the Newest Member of the Steele Family!
 date: '2016-06-17 15:13:22'
 tags: family, announcements
-author: '@joshukraine'
+author: ['Joshua Steele', '@joshukraine']
 image: '2016/06/baby-steele-2016-crp-450x319.jpg'
 
 ---

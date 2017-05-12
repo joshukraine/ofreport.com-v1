@@ -1,5 +1,5 @@
 .article-header {
-  @include margin(6em null);
+  @include margin(6em null 4em);
   text-align: center;
 
   @include media-max($media-tablet) {
@@ -12,43 +12,64 @@
 }
 
 .article-title {
-  h1 { margin: 0; }
-
   @include media-max($media-phone) {
     h1 {
       font-size: modular-scale(6);
     }
   }
+
+  h1 { margin-bottom: $small-spacing / 2; }
 }
 
 .article-meta {
-  display: flex;
-  justify-content: center;
+  font-size: $small-font-size;
+  text-align: center;
 
-  li {
-    font-size: $small-font-size;
-  }
+  .meta-author {
+    display: inline-block;
 
-  .meta-text {
-    @include margin(5px);
-  }
-
-  .meta-tag:not(:last-child) {
-    &::after {
-      color: $base-font-color;
-      content: ",";
-      display: inline-block;
-      margin-left: -1px;
-      margin-right: 7px;
+    @include media-min($media-phone) {
+      &::after {
+        content: "–";
+        display: inline;
+        margin: 0 0.5rem;
+      }
     }
   }
 
-  .meta-tag a {
-    font-size: $small-font-size / 1.15;
-    font-weight: 700;
+  .meta-date {
+    @include media-max($media-phone) {
+      display: block;
+    }
+  }
+
+  .meta-tag-list {
+    margin: 0.5em 0 0;
+    text-align: center;
     text-transform: uppercase;
+
+    li:not(:last-child) {
+      &::after {
+        color: $base-font-color;
+        content: ",";
+        display: inline-block;
+        margin-left: -1px;
+        margin-right: 7px;
+      }
+    }
+  }
+
+  .meta-tag-item {
+    display: inline-block;
+  }
+
+  .meta-tag-item a {
+    letter-spacing: 0.05em;
+    font-size: $small-font-size / 1.2;
+    font-weight: 700;
   }
 }
+
 
 .article-links {
   @include margin($base-spacing null null null);

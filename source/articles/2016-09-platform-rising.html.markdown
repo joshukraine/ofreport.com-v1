@@ -3,7 +3,7 @@
 title: Platform Rising
 date: '2016-09-22 09:01:58'
 tags: newsletter, family, Bible First, Good and Evil
-author: '@joshukraine'
+author: ['Joshua Steele', '@joshukraine']
 download: 'OFR-Sep-Oct-2016.pdf'
 image: '2016/09/josh-preaching-cmo-2016-1024x497.jpg'
 caption: 'Preaching the Gospel after a film showing in the Carpathian village of Scherbovets.'
