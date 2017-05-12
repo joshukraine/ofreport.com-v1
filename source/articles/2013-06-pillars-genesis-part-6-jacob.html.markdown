@@ -10,7 +10,10 @@ author: ['Joshua Steele', '@joshukraine']
 The following is an excerpt taken from the twentieth and final lesson of *<a title="Bible First" href="http://www.getbiblefirst.com" target="_blank">Bible First</a>*.
 
 ### Jacob’s Inheritance
+
 Jacob, the third of the great patriarchs, seemed an unlikely candidate to carry on the Abrahamic covenant, and yet his life demonstrated a personal relationship with God and a genuine walk of faith. Many aspects of Jacob’s life parallel that of Christ, but perhaps most significant is his inheritance.
+
+READMORE
 
 <a href="https://s3.amazonaws.com/images.ofreport.com/2013/05/Jacob.jpg"><img class="alignleft  wp-image-1831" alt="Jacob" src="https://s3.amazonaws.com/images.ofreport.com/2013/05/Jacob-366x450.jpg" width="256" height="315" /></a>
 {: .article-image}
