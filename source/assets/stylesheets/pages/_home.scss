@@ -75,14 +75,15 @@
     margin: 0.5em 0 1em;
     text-transform: uppercase;
 
-    li:not(:last-child) {
-      &::after {
-        color: $base-font-color;
-        content: ",";
-        display: inline-block;
-        margin-left: -1px;
-        margin-right: 7px;
-      }
+  }
+
+  .meta-tag-list li:not(:last-child) {
+    &::after {
+      color: $base-font-color;
+      content: ",";
+      display: inline-block;
+      margin-left: -1px;
+      margin-right: 7px;
     }
   }
 

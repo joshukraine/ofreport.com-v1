@@ -22,16 +22,16 @@
       .article-hero__caption
         %p.caption-text #{current_article.data.caption}
 
-  %section.container--spacing
-    .container
-      .article-body.column
-        = yield
 
-        - if current_article.tags.include?("newsletter")
-          .to-God-be-the-glory
-            = inline_svg "to-God-be-the-glory.svg"
+  %section.container
+    - if current_article.tags.include?("newsletter")
+      .column.pdf-download
+        %i.fa.fa-file-pdf-o
+        = link_to "Download PDF Newsletter", "/downloads/#{current_article.data.download}"
 
-        -# - if current_article.tags.include?("newsletter")
-        -#   %ul.article-links
-        -#     %li= link_to "Download", "/downloads/#{current_article.data.download}"
-        -#     %li= link_to "Subscribe", "http://ofreport.us6.list-manage.com/subscribe?u=1e0c65850b60905f65b151819&id=97b9f6a559"
+    .article-body.column
+      = yield
+
+      - if current_article.tags.include?("newsletter")
+        .to-God-be-the-glory
+          = inline_svg "to-God-be-the-glory.svg"
