@@ -2,13 +2,11 @@
 
 title: Meet David Noble
 date: '2017-03-29 09:37:19'
-tags:
-- family-updates
-- newsletter
+tags: family-updates, newsletter
 author: '@joshukraine'
 image: 'https://s3.amazonaws.com/images.ofreport.com/2017/03/david-collage-1024x504.jpg'
 caption: 'David Noble Steele was born in L’viv, Ukraine, on January 16, 2017. As you may have guessed from the photos, we like this little guy a lot, and we can’t wait to introduce you!'
-download: '/downloads/OFR-Mar-Apr-2017.pdf'
+download: 'OFR-Mar-Apr-2017.pdf'
 
 ---
 
@@ -22,7 +20,8 @@ Finally, the day came for the birth. As Kelsie and I settled in to our room at t
 
 One might think that after so many children, these new arrivals would lose their shine. But experience has proven that every child, boy and girl alike, is a reward from heaven, and their entrance into the family is cause for rejoicing which cannot be described in words.
 
-<h3>David’s Name</h3>
+### David’s Name
+
 Names are important to God, and in Scripture we find Him carefully selecting names based on their meaning. We have likewise tried to choose names for our children that will encourage them to aspire to follow Christ in bold ways.
 
 In the Bible, **David** was not only the greatest king ever to rule Israel, but he had a heart for the Lord that was unparalleled. Even when chastened, he said things like,
@@ -32,23 +31,25 @@ The name **Noble** is a reference to the Bereans, of whom Paul said in Acts 17:1
 
 It is our prayer for our son that even in his youth he will come to know and love the *heart of God* as he immerses himself in the study of the *Word of God*.
 
-<a href="https://s3.amazonaws.com/images.ofreport.com/2017/03/david-blanket.jpg"><img class="aligncenter size-large wp-image-2082" src="https://s3.amazonaws.com/images.ofreport.com/2017/03/david-blanket-1024x575.jpg" alt="" width="584" height="328" /></a>
+![David Noble](https://s3.amazonaws.com/images.ofreport.com/2017/03/david-blanket-1024x575.jpg)
+{: .article-image}
 
-<h3>Good and Evil Update</h3>
+### Good and Evil Update
+
 God is richly blessing our work on the new Ukrainian translation of Good and Evil! Our translator, Anatoliy, has completed the first chapter, and Nathan and I have also completed our review of the text. Chapter 2 is in progress.
 
 Meanwhile, we have been in touch with the same printer who did Good and Evil last time, back in 2008. His name is Oleksander, and he is a believer. Not only has he given us an outstanding quote for the new printing, but he has also volunteered his services to handle all of the graphics work free of charge.
 
 Please continue to pray for this project. Good and Evil has proven itself an effective ministry tool in Ukraine, and we’re excited to make this new translation available in color. Much work remains, but God is moving and we’re encouraged!
 
-<img class="wp-image-2051 size-medium aligncenter" src="https://s3.amazonaws.com/images.ofreport.com/2016/09/english-good-and-evil-bogo-special-1-240x450.jpg" alt="" width="240" height="450" />
 
-<h3>How You Can Pray</h3>
-<ul>
- 	<li>Praise the Lord for the safe arrival of our son, David!</li>
- 	<li>Pray for health, strength, and wisdom for Kelsie as she gives of herself daily to be mommy to five kiddos.</li>
- 	<li>Praise God for the great progress on the Good and Evil revision.</li>
- 	<li>Pray for the continuing work on the Spanish, French and Ukrainian translations of Bible First.</li>
- 	<li>Pray for peace and liberty in Ukraine.</li>
-</ul>
-<img class="aligncenter size-medium wp-image-1920" src="https://s3.amazonaws.com/images.ofreport.com/2014/07/To-God-be-the-Glory-450x124.png" alt="" width="450" height="124" />
+![Good and Evil](https://s3.amazonaws.com/images.ofreport.com/2016/09/english-good-and-evil-bogo-special-1-240x450.jpg)
+{: .article-image}
+
+### How You Can Pray
+
+* Praise the Lord for the safe arrival of our son, David!
+* Pray for health, strength, and wisdom for Kelsie as she gives of herself daily to be mommy to five kiddos.
+* Praise God for the great progress on the Good and Evil revision.
+* Pray for the continuing work on the Spanish, French and Ukrainian translations of Bible First.
+* Pray for peace and liberty in Ukraine.

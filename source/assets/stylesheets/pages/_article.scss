@@ -60,3 +60,15 @@
     font-weight: 300;
   }
 }
+
+.article-image {
+  // border: 1px solid green;
+  @include padding($base-spacing * 1.5 $small-spacing);
+  text-align: center;
+}
+
+.to-God-be-the-glory {
+  @include margin(4em auto);
+  display: flex;
+  justify-content: center;
+}
