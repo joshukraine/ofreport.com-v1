@@ -1,4 +1,5 @@
 ---
+
 title: 'The Seven Pillars of Genesis, Part 7: Joseph'
 date: '2013-07-06 12:00:37'
 tags: Bible First
