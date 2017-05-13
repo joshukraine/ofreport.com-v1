@@ -107,9 +107,17 @@
 
   .page-prev {
     margin-right: $base-spacing;
+
+    @include media-max($media-phone) {
+      margin-right: $small-spacing;
+    }
   }
 
   .page-next {
     margin-left: $base-spacing;
+
+    @include media-max($media-phone) {
+      margin-left: $small-spacing;
+    }
   }
 }
