@@ -28,6 +28,12 @@ module CustomHelpers
     end
   end
 
+  def add_visible_class(path)
+    unless !!(path =~ /index/)
+      " is-visible"
+    end
+  end
+
   # https://robots.thoughtbot.com/organized-workflow-for-svg
   # https://gist.github.com/bitmanic/0047ef8d7eaec0bf31bb
   def inline_svg(filename, options = {})
