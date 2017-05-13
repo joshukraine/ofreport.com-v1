@@ -1,9 +1,9 @@
 .article-header {
-  @include margin(6em null 4em);
+  @include margin(5em null 4em);
   text-align: center;
 
   @include media-max($media-tablet) {
-    @include margin(4em null);
+    @include margin(3em null);
   }
 
   @include media-max($media-phone) {
@@ -86,7 +86,7 @@
   margin-bottom: $base-spacing * 2;
   text-align: center;
 
-  @include media-max($media-phone) {
+  @include media-max($media-tablet) {
     margin-bottom: $base-spacing;
   }
 
@@ -143,7 +143,7 @@
   border-top: 1px solid $base-border-color;
   border-bottom: 1px solid $base-border-color;
 
-  @include media-max($media-phone) {
+  @include media-max($media-tablet) {
     margin-bottom: $base-spacing;
     padding: $small-spacing 0;
   }
