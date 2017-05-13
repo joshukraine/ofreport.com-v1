@@ -64,12 +64,11 @@
   }
 
   .meta-tag-item a {
-    letter-spacing: 0.05em;
     font-size: $small-font-size / 1.2;
     font-weight: 700;
+    letter-spacing: 0.05em;
   }
 }
-
 
 .article-links {
   @include margin($base-spacing null null null);
@@ -136,12 +135,12 @@
 }
 
 .pdf-download {
+  border-bottom: 1px solid $base-border-color;
+  border-top: 1px solid $base-border-color;
+  font-size: $base-font-size * 1.2;
   margin-bottom: $base-spacing * 1.9;
   padding: $base-spacing 0;
-  font-size: $base-font-size * 1.2;
   text-align: center;
-  border-top: 1px solid $base-border-color;
-  border-bottom: 1px solid $base-border-color;
 
   @include media-max($media-tablet) {
     margin-bottom: $base-spacing;

@@ -12,10 +12,10 @@ $navigation-font-size-mobile: $small-font-size;
 
 
 .home-navbar__wrapper {
+  align-items: center;
   background-color: $navigation-background;
   display: flex;
   min-height: $navigation-height;
-  align-items: center;
 }
 
 .home-navbar__links {
@@ -25,16 +25,16 @@ $navigation-font-size-mobile: $small-font-size;
 
   a {
     color: $navigation-color;
-    font-weight: 300;
     font-size: $navigation-font-size;
+    font-weight: 300;
+
+    @include media-max($media-phone) {
+      font-size: $navigation-font-size-mobile;
+    }
 
     &:focus,
     &:hover {
       color: $action-color;
-    }
-
-    @include media-max($media-phone) {
-      font-size: $navigation-font-size-mobile;
     }
   }
 }
@@ -70,8 +70,8 @@ $navigation-font-size-mobile: $small-font-size;
 }
 
 .navbar__inner {
-  display: flex;
   align-items: center;
+  display: flex;
   min-height: $navigation-height;
 
   @include media-max($media-phone) {
@@ -81,7 +81,6 @@ $navigation-font-size-mobile: $small-font-size;
 }
 
 .navbar__left {
-  // border: 1px solid green;
 
   @include media-max($media-phone) {
     flex-grow: 1;
@@ -89,43 +88,47 @@ $navigation-font-size-mobile: $small-font-size;
 }
 
 .navbar-logo {
-  max-width: 125px;
   display: inline-block;
-  // border: 1px solid red;
+  max-width: 125px;
   position: relative;
   top: 3px;
 }
 
 .navbar-logo__svg {
-  width: 125px;
   height: 25px;
+  width: 125px;
 }
 
 .navbar__right {
-  // border: 1px solid green;
   flex-grow: 1;
 
   @include media-max($media-phone) {
-    display: flex;
-    align-self: stretch;
     align-items: center;
+    align-self: stretch;
+    display: flex;
   }
 }
 
 .navbar__links {
   display: flex;
   justify-content: flex-end;
-  // border: 1px solid purple;
+
+  @include media-max($media-phone) {
+    flex-grow: 1;
+    justify-content: space-between;
+
+    li { margin: 0; }
+  }
 
   li {
     margin: 0 15px;
 
-    &:last-of-type {
-      margin-right: 0;
-    }
-
     @include media-max($media-tablet) {
       margin: 0 7px;
+    }
+
+    &:last-of-type {
+      margin-right: 0;
     }
   }
 
@@ -133,19 +136,13 @@ $navigation-font-size-mobile: $small-font-size;
     color: $navigation-color;
     font-weight: 300;
 
+    @include media-max($media-phone) {
+      font-size: $navigation-font-size-mobile;
+    }
+
     &:focus,
     &:hover {
       color: $action-color;
     }
-
-    @include media-max($media-phone) {
-      font-size: $navigation-font-size-mobile;
-    }
-  }
-
-  @include media-max($media-phone) {
-    li { margin: 0; }
-    flex-grow: 1;
-    justify-content: space-between;
   }
 }
