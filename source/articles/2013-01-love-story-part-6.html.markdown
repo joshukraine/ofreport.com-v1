@@ -1,15 +1,25 @@
 ---
+
 title: 'Our Love Story, Part 6: Mystery Courtship'
 date: '2013-01-04 10:00:03'
-tags:
-- love-story
+tags: love story
+author: ['Joshua Steele', '@joshukraine']
+
 ---
 
 As Kelsie and I embarked on what would become a life-long journey together, our relationship was unlike anything I had envisioned. I was still in Thailand and she in Oklahoma. My acquaintance with her family had reached the ripe old age of three weeks, and neither of us had ever seen each other in person. Our budding new friendship sounded more like a success story from an online dating site than a Christian courtship. Yet none involved could deny that God was leading.
 
-[caption id="attachment_1707" align="aligncenter" width="450"]<a href="https://s3.amazonaws.com/images.ofreport.com/2013/01/P1010017.jpg"><img class="size-medium wp-image-1707 " alt="Kelsie receives her first bouquet from me while I was still overseas." src="https://s3.amazonaws.com/images.ofreport.com/2013/01/P1010017-450x337.jpg" width="450" height="337" /></a> Kelsie receives her first bouquet from me while I was still overseas.[/caption]
+READMORE
 
-[caption id="attachment_1708" align="aligncenter" width="450"]<a href="https://s3.amazonaws.com/images.ofreport.com/2013/01/P1010020_3.jpg"><img class="size-medium wp-image-1708  " alt="I think she liked them." src="https://s3.amazonaws.com/images.ofreport.com/2013/01/P1010020_3-450x337.jpg" width="450" height="337" /></a> I think she liked them.[/caption]
+<a href="https://s3.amazonaws.com/images.ofreport.com/2013/01/P1010017.jpg"><img class="size-medium wp-image-1707 " alt="Kelsie receives her first bouquet from me while I was still overseas." src="https://s3.amazonaws.com/images.ofreport.com/2013/01/P1010017-450x337.jpg" /></a>
+{: .article-image .article-image--has-caption}
+Kelsie receives her first bouquet from me while I was still overseas.
+{: .caption-text .article-image__caption}
+
+<a href="https://s3.amazonaws.com/images.ofreport.com/2013/01/P1010020_3.jpg"><img class="size-medium wp-image-1708  " alt="I think she liked them." src="https://s3.amazonaws.com/images.ofreport.com/2013/01/P1010020_3-450x337.jpg" /></a>
+{: .article-image .article-image--has-caption}
+I think she liked them.
+{: .caption-text .article-image__caption}
 
 Let me clarify at this point what exactly we had begun. Neither of us had agreed to marriage. How could we? We knew only the barest facts about each other and were proceeding primarily based on the sincere belief that this was God’s direction.
 
