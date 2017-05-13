@@ -11,12 +11,12 @@ As Kelsie and I embarked on what would become a life-long journey together, our 
 
 READMORE
 
-<a href="https://s3.amazonaws.com/images.ofreport.com/2013/01/P1010017.jpg"><img class="size-medium wp-image-1707 " alt="Kelsie receives her first bouquet from me while I was still overseas." src="https://s3.amazonaws.com/images.ofreport.com/2013/01/P1010017-450x337.jpg" /></a>
+<a href="https://s3.amazonaws.com/content.ofreport.com/2013/01/P1010017.jpg"><img class="size-medium wp-image-1707 " alt="Kelsie receives her first bouquet from me while I was still overseas." src="https://s3.amazonaws.com/content.ofreport.com/2013/01/P1010017-450x337.jpg" /></a>
 {: .article-image .article-image--has-caption}
 Kelsie receives her first bouquet from me while I was still overseas.
 {: .caption-text .article-image__caption}
 
-<a href="https://s3.amazonaws.com/images.ofreport.com/2013/01/P1010020_3.jpg"><img class="size-medium wp-image-1708  " alt="I think she liked them." src="https://s3.amazonaws.com/images.ofreport.com/2013/01/P1010020_3-450x337.jpg" /></a>
+<a href="https://s3.amazonaws.com/content.ofreport.com/2013/01/P1010020_3.jpg"><img class="size-medium wp-image-1708  " alt="I think she liked them." src="https://s3.amazonaws.com/content.ofreport.com/2013/01/P1010020_3-450x337.jpg" /></a>
 {: .article-image .article-image--has-caption}
 I think she liked them.
 {: .caption-text .article-image__caption}

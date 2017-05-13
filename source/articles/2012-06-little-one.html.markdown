@@ -5,7 +5,7 @@ tags:
 - family-updates
 ---
 
-<a href="https://s3.amazonaws.com/images.ofreport.com/2012/06/2012-06-26-20.58.34.jpg"><img class="aligncenter size-medium wp-image-1555" title="2012-06-26 20.58.34" src="https://s3.amazonaws.com/images.ofreport.com/2012/06/2012-06-26-20.58.34-450x337.jpg" alt="" width="450" height="337" /></a>The journey that we began four months ago in Ukraine ended today in a quiet family birthing room in Houston. Our day started at 5am when we checked in to Hermann Memorial Hospital and Kelsie was given her initial dose of induction medication.
+<a href="https://s3.amazonaws.com/content.ofreport.com/2012/06/2012-06-26-20.58.34.jpg"><img class="aligncenter size-medium wp-image-1555" title="2012-06-26 20.58.34" src="https://s3.amazonaws.com/content.ofreport.com/2012/06/2012-06-26-20.58.34-450x337.jpg" alt="" width="450" height="337" /></a>The journey that we began four months ago in Ukraine ended today in a quiet family birthing room in Houston. Our day started at 5am when we checked in to Hermann Memorial Hospital and Kelsie was given her initial dose of induction medication.
 
 As anticipated, the first several hours were fairly uneventful, but as time passed the contractions increased their intensity. While labor is never easy, God gave much grace and Kelsie came through with flying colors. Kelsie's mom, Cindy, was with us along with our amazing medical staff - Dr. Berryhill and his nurse Ruth.
 
@@ -17,6 +17,6 @@ This has been a sad chapter in our lives, and yet we rejoice that the story does
 
 Farewell, Little One. Be at peace in the glory of His presence and know that Mommy and Daddy love you. Wait a little while, and we’ll be home.
 
-<a href="https://s3.amazonaws.com/images.ofreport.com/2012/06/2012-06-26-20.56.21.jpg"><img class="aligncenter size-medium wp-image-1556" title="2012-06-26 20.56.21" src="https://s3.amazonaws.com/images.ofreport.com/2012/06/2012-06-26-20.56.21-450x337.jpg" alt="" width="450" height="337" /></a>
+<a href="https://s3.amazonaws.com/content.ofreport.com/2012/06/2012-06-26-20.56.21.jpg"><img class="aligncenter size-medium wp-image-1556" title="2012-06-26 20.56.21" src="https://s3.amazonaws.com/content.ofreport.com/2012/06/2012-06-26-20.56.21-450x337.jpg" alt="" width="450" height="337" /></a>
 <p style="text-align: center;">*“But Jesus said, Suffer little children, and forbid them not, to come unto me: for of such is the kingdom of heaven.”*
 *(Matthew 19:14)*</p>

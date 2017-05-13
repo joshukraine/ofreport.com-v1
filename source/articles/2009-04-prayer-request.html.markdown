@@ -10,7 +10,7 @@ The following letter was given to me by an acquaintance here in L'viv named Tara
 <p style="padding-left: 30px;"></p>
 
 
-[caption id="attachment_706" align="aligncenter" width="300" caption="Dmytro and Lyuba"]**<a href="https://s3.amazonaws.com/images.ofreport.com/2009/04/img_0632.jpg"><img class="size-medium wp-image-706" title="img_0632" src="https://s3.amazonaws.com/images.ofreport.com/2009/04/img_0632-300x225.jpg" alt="Dmytro and Lyuba" width="300" height="225" /></a>**[/caption]
+[caption id="attachment_706" align="aligncenter" width="300" caption="Dmytro and Lyuba"]**<a href="https://s3.amazonaws.com/content.ofreport.com/2009/04/img_0632.jpg"><img class="size-medium wp-image-706" title="img_0632" src="https://s3.amazonaws.com/content.ofreport.com/2009/04/img_0632-300x225.jpg" alt="Dmytro and Lyuba" width="300" height="225" /></a>**[/caption]
 
 <p style="padding-left: 30px;"><!--more-->
 *On October 19, 2008 Dmytro and Lyuba were married. On October 21, 2008, as they were driving home in their car, they had an accident. As they drove along a two-lane road, another car pulled out in front of them illegally. In an attempt to avoid a collision, Dmytro veered left into the opposite lane. Unfortunately, this didn't help [to avoid the collision].*

@@ -5,7 +5,7 @@ tags:
 - ministry-updates
 ---
 
-<a href="http://www.generation-impact.com/"><img class="alignleft size-full wp-image-1153" title="Generation Impact Banner" src="https://s3.amazonaws.com/images.ofreport.com/2011/02/Generation-Impact-Banner.jpeg" alt="" width="125" height="200" /></a>Recently, Kelsie and I were interviewed by an online magazine called <a href="http://www.generation-impact.com/">Generation Impact</a>, edited by Grace Williamson. The magazine is a ministry of the Williamson family, and their goal is to encourage homeschoolers to be lights for Christ. Here's a brief excerpt from their web site:
+<a href="http://www.generation-impact.com/"><img class="alignleft size-full wp-image-1153" title="Generation Impact Banner" src="https://s3.amazonaws.com/content.ofreport.com/2011/02/Generation-Impact-Banner.jpeg" alt="" width="125" height="200" /></a>Recently, Kelsie and I were interviewed by an online magazine called <a href="http://www.generation-impact.com/">Generation Impact</a>, edited by Grace Williamson. The magazine is a ministry of the Williamson family, and their goal is to encourage homeschoolers to be lights for Christ. Here's a brief excerpt from their web site:
 
 "Our mission at Generation-Impact is to encourage these young people to stand strong in their convictions. We hope to uplift them by sharing the stories of other homeschool students and graduates who are striving to follow God’s call for their lives instead of the world’s. We hope to encourage those still in the process of homeschooling as well as those who have graduated and are wondering what to do next."
 
@@ -21,4 +21,4 @@ We encourage you to <a href="http://www.generation-impact.com/">visit generation
 <p style="text-align: center;"><a href="http://www.generation-impact.com/archives/2327">Read the interview here &gt;&gt;</a></p>
 
 
-[caption id="attachment_1158" align="aligncenter" width="300" caption="&hearts; Josh &amp; Kelsie, 2011 &hearts;"]<a href="https://s3.amazonaws.com/images.ofreport.com/2011/02/236-8698.jpg"><img class="size-medium wp-image-1158" title="236-8698" src="https://s3.amazonaws.com/images.ofreport.com/2011/02/236-8698-300x205.jpg" alt="" width="300" height="205" /></a>[/caption]
+[caption id="attachment_1158" align="aligncenter" width="300" caption="&hearts; Josh &amp; Kelsie, 2011 &hearts;"]<a href="https://s3.amazonaws.com/content.ofreport.com/2011/02/236-8698.jpg"><img class="size-medium wp-image-1158" title="236-8698" src="https://s3.amazonaws.com/content.ofreport.com/2011/02/236-8698-300x205.jpg" alt="" width="300" height="205" /></a>[/caption]

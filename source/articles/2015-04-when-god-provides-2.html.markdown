@@ -30,7 +30,7 @@ That very afternoon, I received a call from Victoria. She had gotten the message
 
 To my surprise, Victoria called and said she had found a large apartment right in our region that was for rent. When could we come and see it?
 
-<a href="https://s3.amazonaws.com/images.ofreport.com/2015/04/2015-02-26-15.22.22.jpg"><img class="size-medium wp-image-1974" src="https://s3.amazonaws.com/images.ofreport.com/2015/04/2015-02-26-15.22.22-450x338.jpg" alt="The building where our new apartment is located." /></a>
+<a href="https://s3.amazonaws.com/content.ofreport.com/2015/04/2015-02-26-15.22.22.jpg"><img class="size-medium wp-image-1974" src="https://s3.amazonaws.com/content.ofreport.com/2015/04/2015-02-26-15.22.22-450x338.jpg" alt="The building where our new apartment is located." /></a>
 {: .article-image .article-image--has-caption}
 The building where our new apartment is located.
 {: .caption-text .article-image__caption}
@@ -39,7 +39,7 @@ The building where our new apartment is located.
 
 At the agreed upon time, Kelsie and I went to the address Victoria had provided us. It was only about a five-minute drive from Tychyny, and almost across the street from the apartment that ETO rents as our “Ministry Center”!
 
-<a href="https://s3.amazonaws.com/images.ofreport.com/2015/04/stairs.jpg"><img class="wp-image-1986" src="https://s3.amazonaws.com/images.ofreport.com/2015/04/stairs-300x450.jpg" alt="The wooden staircase leading up to the second floor of our apartment." /></a>
+<a href="https://s3.amazonaws.com/content.ofreport.com/2015/04/stairs.jpg"><img class="wp-image-1986" src="https://s3.amazonaws.com/content.ofreport.com/2015/04/stairs-300x450.jpg" alt="The wooden staircase leading up to the second floor of our apartment." /></a>
 {: .article-image .article-image--has-caption}
 The wooden staircase leading up to the second floor of our apartment.
 {: .caption-text .article-image__caption}
@@ -60,7 +60,7 @@ At 2pm, we sat down and signed a one-year lease for an apartment well over twice
 
 The Ukrainian language has a wonderful little word that translates “remodeling job”: remont. Even the Americans here use the word remont in everyday speech, partly because it’s short and easy to say, and partly because it seems everyone is either doing a remont or needs to do one.
 
-<a href="https://s3.amazonaws.com/images.ofreport.com/2015/04/IMG_3200-e1430147920288.jpg"><img class="wp-image-1977" src="https://s3.amazonaws.com/images.ofreport.com/2015/04/IMG_3200-e1430147920288-338x450.jpg" alt="Nana helped with everything from painting to dishes to homeschooling kids!" /></a>
+<a href="https://s3.amazonaws.com/content.ofreport.com/2015/04/IMG_3200-e1430147920288.jpg"><img class="wp-image-1977" src="https://s3.amazonaws.com/content.ofreport.com/2015/04/IMG_3200-e1430147920288-338x450.jpg" alt="Nana helped with everything from painting to dishes to homeschooling kids!" /></a>
 {: .article-image .article-image--has-caption}
 Nana helped with everything from painting to dishes to homeschooling kids!
 {: .caption-text .article-image__caption}
@@ -75,7 +75,7 @@ As the painting progressed, we began slowly ferrying our belongings over in Jess
 
 Finally, the remont was finished and it was time to move. We packed everything in advance, wrapped all our furniture in plastic film, and steeled ourselves (no pun intended) for what promised to be a whopper of a work day.
 
-<a href="https://s3.amazonaws.com/images.ofreport.com/2015/04/2015-03-18-17.59.16.jpg"><img class="size-medium wp-image-1975" src="https://s3.amazonaws.com/images.ofreport.com/2015/04/2015-03-18-17.59.16-450x274.jpg" alt="Moving day. The guys we hired said that in all their years in the moving business, ours was the biggest job they’d ever had!" /></a>
+<a href="https://s3.amazonaws.com/content.ofreport.com/2015/04/2015-03-18-17.59.16.jpg"><img class="size-medium wp-image-1975" src="https://s3.amazonaws.com/content.ofreport.com/2015/04/2015-03-18-17.59.16-450x274.jpg" alt="Moving day. The guys we hired said that in all their years in the moving business, ours was the biggest job they’d ever had!" /></a>
 {: .article-image .article-image--has-caption}
 Moving day. The guys we hired said that in all their years in the moving business, ours was the biggest job they’d ever had!
 {: .caption-text .article-image__caption}
@@ -90,29 +90,29 @@ On the day of the move, they arrived at 8am sharp. They worked all day long, hel
 
 ### Taste and See
 
-<a href="https://s3.amazonaws.com/images.ofreport.com/2015/04/2015-02-26-15.20.14.jpg"><img class="alignright wp-image-1973" src="https://s3.amazonaws.com/images.ofreport.com/2015/04/2015-02-26-15.20.14-338x450.jpg" alt="2015-02-26 15.20.14" /></a>
+<a href="https://s3.amazonaws.com/content.ofreport.com/2015/04/2015-02-26-15.20.14.jpg"><img class="alignright wp-image-1973" src="https://s3.amazonaws.com/content.ofreport.com/2015/04/2015-02-26-15.20.14-338x450.jpg" alt="2015-02-26 15.20.14" /></a>
 {: .article-image}
 
 For our family, stories like the one I’ve just told are highlights in our walk with the Lord. They are our own little Red-Sea-crossings, miracles that remind us that we follow a God who is both powerful and kind. He is a Father who loves to do good things for His children.
 
 In the weeks leading up to our move, our family had been memorizing Psalm 34. The first time we went to see our new apartment, Kelsie noticed that it was number 34, a not-so-coincidental reminder to us of the many times we have tasted the goodness of our God. *“O taste and see that the Lord is good: blessed is the man that trusteth in him.” (Psalm 34:8)*
 
-<a href="https://s3.amazonaws.com/images.ofreport.com/2015/04/dining-room.jpg"><img class="size-medium wp-image-1987" src="https://s3.amazonaws.com/images.ofreport.com/2015/04/dining-room-450x300.jpg" alt="This is the first house we’ve ever had that has a dining room. Great place for family meals... or for homeschooling kiddos!" /></a>
+<a href="https://s3.amazonaws.com/content.ofreport.com/2015/04/dining-room.jpg"><img class="size-medium wp-image-1987" src="https://s3.amazonaws.com/content.ofreport.com/2015/04/dining-room-450x300.jpg" alt="This is the first house we’ve ever had that has a dining room. Great place for family meals... or for homeschooling kiddos!" /></a>
 {: .article-image .article-image--has-caption}
 This is the first house we’ve ever had that has a dining room. Great place for family meals... or for homeschooling kiddos!
 {: .caption-text .article-image__caption}
 
-<a href="https://s3.amazonaws.com/images.ofreport.com/2015/04/IMG_6452.jpg"><img class="size-medium wp-image-1980" src="https://s3.amazonaws.com/images.ofreport.com/2015/04/IMG_6452-450x300.jpg" alt="Plenty of room in the kitchen." /></a>
+<a href="https://s3.amazonaws.com/content.ofreport.com/2015/04/IMG_6452.jpg"><img class="size-medium wp-image-1980" src="https://s3.amazonaws.com/content.ofreport.com/2015/04/IMG_6452-450x300.jpg" alt="Plenty of room in the kitchen." /></a>
 {: .article-image .article-image--has-caption}
 Plenty of room in the kitchen.
 {: .caption-text .article-image__caption}
 
-<a href="https://s3.amazonaws.com/images.ofreport.com/2015/04/IMG_6461.jpg"><img class="size-medium wp-image-1982" src="https://s3.amazonaws.com/images.ofreport.com/2015/04/IMG_6461-450x300.jpg" alt="Now the kids actually have a place to put away their toys. :)" /></a>
+<a href="https://s3.amazonaws.com/content.ofreport.com/2015/04/IMG_6461.jpg"><img class="size-medium wp-image-1982" src="https://s3.amazonaws.com/content.ofreport.com/2015/04/IMG_6461-450x300.jpg" alt="Now the kids actually have a place to put away their toys. :)" /></a>
 {: .article-image .article-image--has-caption}
 Now the kids actually have a place to put away their toys. :)
 {: .caption-text .article-image__caption}
 
-<a href="https://s3.amazonaws.com/images.ofreport.com/2015/04/IMG_6471.jpg"><img class="size-medium wp-image-1983" src="https://s3.amazonaws.com/images.ofreport.com/2015/04/IMG_6471-450x300.jpg" alt="Space for dad to have his office at home!" /></a>
+<a href="https://s3.amazonaws.com/content.ofreport.com/2015/04/IMG_6471.jpg"><img class="size-medium wp-image-1983" src="https://s3.amazonaws.com/content.ofreport.com/2015/04/IMG_6471-450x300.jpg" alt="Space for dad to have his office at home!" /></a>
 {: .article-image .article-image--has-caption}
 Space for dad to have his office at home!
 {: .caption-text .article-image__caption}

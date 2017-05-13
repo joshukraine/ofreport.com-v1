@@ -28,7 +28,7 @@ I’m excited about this new discipleship relationship with Oleg, and I would ap
 
 Here at the Steele household – which some of our Ukrainian friends warmly refer to as “Joshua’s Kingdom of Ladies” – there’s never a dull moment. Our little girls are steadily growing into little ladies, with Abigail in particular taking on more and more responsibility in the home.
 
-<a href="https://s3.amazonaws.com/images.ofreport.com/2015/12/four-kids-on-a-couch.jpg"><img class="size-large wp-image-2019" src="https://s3.amazonaws.com/images.ofreport.com/2015/12/four-kids-on-a-couch-1024x768.jpg" alt="From the left: Rebekah, Kathryn, Abigail, Hosanna. It’s hard to believe that Kathryn is nearly a year old!" /></a>
+<a href="https://s3.amazonaws.com/content.ofreport.com/2015/12/four-kids-on-a-couch.jpg"><img class="size-large wp-image-2019" src="https://s3.amazonaws.com/content.ofreport.com/2015/12/four-kids-on-a-couch-1024x768.jpg" alt="From the left: Rebekah, Kathryn, Abigail, Hosanna. It’s hard to believe that Kathryn is nearly a year old!" /></a>
 {: .article-image .article-image--has-caption}
 From the left: Rebekah, Kathryn, Abigail, Hosanna. It’s hard to believe that Kathryn is nearly a year old!
 {: .caption-text .article-image__caption}
@@ -37,12 +37,12 @@ Kelsie has crafted an excellent school program, and each morning finds the child
 
 It’s hard to believe that Kathryn is nearly a year old! As I write this newsletter, she is just beginning to walk on her own. Her smiles bring no end of joy and laughter to our family!
 
-<a href="https://s3.amazonaws.com/images.ofreport.com/2015/12/bowling-girls.jpg"><img class="size-medium wp-image-2021" src="https://s3.amazonaws.com/images.ofreport.com/2015/12/bowling-girls-450x338.jpg" alt="On Thanksgiving, we all had a “ball” at the bowling alley!" /></a>
+<a href="https://s3.amazonaws.com/content.ofreport.com/2015/12/bowling-girls.jpg"><img class="size-medium wp-image-2021" src="https://s3.amazonaws.com/content.ofreport.com/2015/12/bowling-girls-450x338.jpg" alt="On Thanksgiving, we all had a “ball” at the bowling alley!" /></a>
 {: .article-image .article-image--has-caption}
 On Thanksgiving, we all had a “ball” at the bowling alley!
 {: .caption-text .article-image__caption}
 
-<a href="https://s3.amazonaws.com/images.ofreport.com/2015/12/beka-abby-hands.jpg"><img class="size-medium wp-image-2022" src="https://s3.amazonaws.com/images.ofreport.com/2015/12/beka-abby-hands-450x450.jpg" alt="Our little girls are quickly becoming little ladies. :)" /></a>
+<a href="https://s3.amazonaws.com/content.ofreport.com/2015/12/beka-abby-hands.jpg"><img class="size-medium wp-image-2022" src="https://s3.amazonaws.com/content.ofreport.com/2015/12/beka-abby-hands-450x450.jpg" alt="Our little girls are quickly becoming little ladies. :)" /></a>
 {: .article-image .article-image--has-caption}
 Our little girls are quickly becoming little ladies. :)
 {: .caption-text .article-image__caption}
@@ -57,7 +57,7 @@ Trevor Brown and I are also continuing our programming efforts, working diligent
 
 Registration for next year’s Carpathian Mountain Outreach project is now open! CMO 2016 will begin on June 20, and the deadline for submitting applications is April 1. We’ve also put together a brand new CMO web site! Check out all the latest details at <a href="http://cmoproject.org/">www.cmoproject.org</a>. As always, we appreciate your prayers for this ministry, and for the young men who are even now making preparations to come.
 
-<a class="no-border" href="http://cmoproject.org"><img class="aligncenter wp-image-2023 size-full" src="https://s3.amazonaws.com/images.ofreport.com/2015/12/cmo-logo-full.png" alt="cmo-logo-full" /></a>
+<a class="no-border" href="http://cmoproject.org"><img class="aligncenter wp-image-2023 size-full" src="https://s3.amazonaws.com/content.ofreport.com/2015/12/cmo-logo-full.png" alt="cmo-logo-full" /></a>
 {: .article-image}
 
 ### How You Can Pray

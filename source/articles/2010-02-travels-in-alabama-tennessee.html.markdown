@@ -7,9 +7,9 @@ tags:
 
 Last Friday morning we managed to break out of the record-breaking Texas snow and begin our trip north towards Alabama. We traveled for two days and arrived late Saturday afternoon at the Ballengers' home about 50 minutes outside of Birmingham. John Ballenger is one of the leaders of Grace Family Church. He had contacted me several months ago by e-mail about the possibility of our family visiting their church to present our work in Ukraine, and now we finally had the chance to meet in person.
 
-[caption id="attachment_941" align="aligncenter" width="300" caption="The Ballenger Family"]<a href="https://s3.amazonaws.com/images.ofreport.com/2010/02/DSC_8575.jpg"><img class="size-medium wp-image-941" title="DSC_8575" src="https://s3.amazonaws.com/images.ofreport.com/2010/02/DSC_8575-300x199.jpg" alt="" width="300" height="199" /></a>[/caption]
+[caption id="attachment_941" align="aligncenter" width="300" caption="The Ballenger Family"]<a href="https://s3.amazonaws.com/content.ofreport.com/2010/02/DSC_8575.jpg"><img class="size-medium wp-image-941" title="DSC_8575" src="https://s3.amazonaws.com/content.ofreport.com/2010/02/DSC_8575-300x199.jpg" alt="" width="300" height="199" /></a>[/caption]
 
-[caption id="attachment_942" align="aligncenter" width="300" caption="Preaching on evangelism at Grace Family Church."]<a href="https://s3.amazonaws.com/images.ofreport.com/2010/02/DSC_8567.jpg"><img class="size-medium wp-image-942" title="DSC_8567" src="https://s3.amazonaws.com/images.ofreport.com/2010/02/DSC_8567-300x199.jpg" alt="" width="300" height="199" /></a>[/caption]
+[caption id="attachment_942" align="aligncenter" width="300" caption="Preaching on evangelism at Grace Family Church."]<a href="https://s3.amazonaws.com/content.ofreport.com/2010/02/DSC_8567.jpg"><img class="size-medium wp-image-942" title="DSC_8567" src="https://s3.amazonaws.com/content.ofreport.com/2010/02/DSC_8567-300x199.jpg" alt="" width="300" height="199" /></a>[/caption]
 
 We stayed the night Saturday in the Ballengers' home, and we were truly blessed to get to know their family. Sunday morning, I showed our DVD presentation at the church, and then delivered a message on evangelism called "Vision, Strategy, Perseverance." We were very blessed by the believers there, and look forward to seeing them again sometime, perhaps even in Ukraine, if God wills!
 

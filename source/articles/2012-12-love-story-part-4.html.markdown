@@ -13,7 +13,7 @@ READMORE
 
 I believe there were those at the time who, upon hearing our story, worried that Danny and I were concocting an arranged marriage in which Kelsie had no say. Nothing could be further from the truth. As her father, Danny was merely doing what any good father should do: protecting his daughter from potentially harmful relationships and doing all he could to find for her the man who would become her life-long companion. That said, it was understood from the beginning that Kelsie had veto power. I had proposed a courtship, Danny had approved, but the final decision would be Kelsie’s.
 
-<a href="https://s3.amazonaws.com/images.ofreport.com/2012/12/P1010064_3.jpg"><img class="size-medium wp-image-1695 " alt="Kelsie at the girls' retreat" src="https://s3.amazonaws.com/images.ofreport.com/2012/12/P1010064_3-450x337.jpg" /></a>
+<a href="https://s3.amazonaws.com/content.ofreport.com/2012/12/P1010064_3.jpg"><img class="size-medium wp-image-1695 " alt="Kelsie at the girls' retreat" src="https://s3.amazonaws.com/content.ofreport.com/2012/12/P1010064_3-450x337.jpg" /></a>
 {: .article-image .article-image--has-caption}
 Kelsie at the girls' retreat (bottom row, red blouse)
 {: .caption-text .article-image__caption}

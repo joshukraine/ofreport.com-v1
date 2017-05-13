@@ -7,7 +7,7 @@ tags:
 
 Today Kelsie and our three girls departed L'viv accompanied by my mom, Cathy. They have about 18 hours of travel ahead of them before arriving in Houston where they will be met by the Powells, Kelsie's parents. Happily, there were no problems at all when they passed through customs. What a blessing!
 
-[caption id="attachment_1529" align="aligncenter" width="450" caption="At the new airport in L&#39;viv. Next stop: Warsaw!"]<a href="https://s3.amazonaws.com/images.ofreport.com/2012/05/photo.jpg"><img class="size-medium wp-image-1529 " title="photo" src="https://s3.amazonaws.com/images.ofreport.com/2012/05/photo-450x337.jpg" alt="" width="450" height="337" /></a>[/caption]
+[caption id="attachment_1529" align="aligncenter" width="450" caption="At the new airport in L&#39;viv. Next stop: Warsaw!"]<a href="https://s3.amazonaws.com/content.ofreport.com/2012/05/photo.jpg"><img class="size-medium wp-image-1529 " title="photo" src="https://s3.amazonaws.com/content.ofreport.com/2012/05/photo-450x337.jpg" alt="" width="450" height="337" /></a>[/caption]
 
 My mom has been with our family in Ukraine for almost three weeks now and her help has been invaluable! We had initially planned to send Kelsie and the girls alone to the US, but God, knowing our current circumstances, provided a much better alternative. Mom, thanks so much for all you've done. We love you!
 

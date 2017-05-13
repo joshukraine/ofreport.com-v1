@@ -25,12 +25,12 @@ Kelsie’s immediate response was to get alone and pray. She had my letter, the 
 
 As Kelsie prayed, the rest of us held our breaths and waited. Happily, we did not have to wait long. A few hours later I received Kelsie’s response in which she excitedly agreed to begin a relationship!
 
-<a href="https://s3.amazonaws.com/images.ofreport.com/2012/12/P1010014_2.jpg"><img class="size-medium wp-image-1699 " alt="Our moms met and chatted at the girls' retreat before Kelsie knew what was going on." src="https://s3.amazonaws.com/images.ofreport.com/2012/12/P1010014_2-450x337.jpg" /></a>
+<a href="https://s3.amazonaws.com/content.ofreport.com/2012/12/P1010014_2.jpg"><img class="size-medium wp-image-1699 " alt="Our moms met and chatted at the girls' retreat before Kelsie knew what was going on." src="https://s3.amazonaws.com/content.ofreport.com/2012/12/P1010014_2-450x337.jpg" /></a>
 {: .article-image .article-image--has-caption}
 Our moms met and chatted at the girls' retreat before Kelsie knew what was going on.
 {: .caption-text .article-image__caption}
 
-<a href="https://s3.amazonaws.com/images.ofreport.com/2012/12/P1010013_2.jpg"><img class="size-medium wp-image-1701 " alt="Suddenly, Kelsie was spending a lot more time with her email!" src="https://s3.amazonaws.com/images.ofreport.com/2012/12/P1010013_2-450x337.jpg" /></a>
+<a href="https://s3.amazonaws.com/content.ofreport.com/2012/12/P1010013_2.jpg"><img class="size-medium wp-image-1701 " alt="Suddenly, Kelsie was spending a lot more time with her email!" src="https://s3.amazonaws.com/content.ofreport.com/2012/12/P1010013_2-450x337.jpg" /></a>
 {: .article-image .article-image--has-caption}
 Suddenly, Kelsie was spending a lot more time with her email!
 {: .caption-text .article-image__caption}

@@ -26,7 +26,7 @@ Back in the mid-2000’s, the very first language group to receive a translation
 
 This fall, we hired Anatoliy Zhylaviy, a Ukrainian translator and philologist from our church, to begin a complete revision of our Ukrainian Bible First course. He is working through the entire course: editing, revising, and even retranslating as needed. Demand for Bible First amongst Ukrainians remains strong, and we are excited to bring these updated lessons to our students.
 
-![Anatoliy Zhylavyi](https://s3.amazonaws.com/images.ofreport.com/2016/12/DSC_1007a-295x300.jpg)
+![Anatoliy Zhylavyi](https://s3.amazonaws.com/content.ofreport.com/2016/12/DSC_1007a-295x300.jpg)
 {: .article-image .article-image--has-caption}
 Anatoliy Zhylavyi
 {: .caption-text .article-image__caption}
@@ -35,7 +35,7 @@ Anatoliy Zhylavyi
 
 Meet Catherine Leavitt - a French national who has spent more than two decades living in Oregon. Catherine contacted us several months ago with a desire to translate Bible First into French. She’s been working diligently on the project and is making good progress. Her father, a French linguist who still lives in France, is assisting her as well. We are very grateful to their family, and we’re looking forward to making Bible First available as a ministry tool for believers in France!
 
-![Catherine Leavitt](https://s3.amazonaws.com/images.ofreport.com/2016/12/IMG_3244-400x300.jpg)
+![Catherine Leavitt](https://s3.amazonaws.com/content.ofreport.com/2016/12/IMG_3244-400x300.jpg)
 {: .article-image .article-image--has-caption}
 Catherin Leavitt
 {: .caption-text .article-image__caption}
@@ -46,7 +46,7 @@ Several months ago, we received an email from a lady named Maria Sanchez. Maria 
 
 Over the past several months, Maria has kept us on our toes as she has sent email after email with new drafts, questions, corrections, and more. She has now completed translating up through Lesson 9 - almost halfway!
 
-![Maria Sanchez](https://s3.amazonaws.com/images.ofreport.com/2016/12/mail_image_preview-400x300.png)
+![Maria Sanchez](https://s3.amazonaws.com/content.ofreport.com/2016/12/mail_image_preview-400x300.png)
 {: .article-image .article-image--has-caption}
 Maria Sanchez
 {: .caption-text .article-image__caption}
@@ -63,7 +63,7 @@ We’ll be writing more about this project in future updates, but for now, pleas
 
 Oh, and there’s one more thing: it’s almost baby time! Kelsie is due to deliver our first son in early January. Please pray for our family–and Kelsie in particular–as we prepare to welcome our new little boy!
 
-![Steele Kids](https://s3.amazonaws.com/images.ofreport.com/2016/12/steele-girls-338x450.jpg)
+![Steele Kids](https://s3.amazonaws.com/content.ofreport.com/2016/12/steele-girls-338x450.jpg)
 {: .article-image}
 
 ### How You Can Pray

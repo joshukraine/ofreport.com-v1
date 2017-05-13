@@ -13,7 +13,7 @@ The following text is taken from the concluding section of Lesson 19 of Bible Fi
 
 Joseph is the final hero of faith set forth in the book of Genesis. Though his life represents one of the most compelling illustrations of godly character found anywhere in Scripture, his story contains a deeper lesson, far more valuable than recommendations of devout living.
 
-<a href="https://s3.amazonaws.com/images.ofreport.com/2013/02/joseph_meets_his_brothers.jpg"><img class=" wp-image-1761" alt="Joseph meets his brothers in Egypt." src="https://s3.amazonaws.com/images.ofreport.com/2013/02/joseph_meets_his_brothers-373x450.jpg" /></a>
+<a href="https://s3.amazonaws.com/content.ofreport.com/2013/02/joseph_meets_his_brothers.jpg"><img class=" wp-image-1761" alt="Joseph meets his brothers in Egypt." src="https://s3.amazonaws.com/content.ofreport.com/2013/02/joseph_meets_his_brothers-373x450.jpg" /></a>
 {: .article-image .article-image--has-caption}
 Joseph meets his brothers in Egypt.
 {: .caption-text .article-image__caption}
