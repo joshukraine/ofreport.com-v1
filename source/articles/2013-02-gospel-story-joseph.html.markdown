@@ -1,17 +1,21 @@
 ---
 title: The Gospel in the Story of Joseph
 date: '2013-02-20 13:00:40'
-tags:
-- misc
+tags: Bible First
+author: ['Joshua Steele', '@joshukraine']
+
 ---
 
-*The following text is taken from the concluding section of Lesson 19 of Bible First. Lesson 19 is the second in a two-part series on the life of Joseph.*
+The following text is taken from the concluding section of Lesson 19 of Bible First. Lesson 19 is the second in a two-part series on the life of Joseph. READMORE
 
-<hr />
-
-[caption id="attachment_1761" align="alignleft" width="261"]<a href="https://s3.amazonaws.com/images.ofreport.com/2013/02/joseph_meets_his_brothers.jpg"><img class=" wp-image-1761" alt="Joseph meets his brothers in Egypt." src="https://s3.amazonaws.com/images.ofreport.com/2013/02/joseph_meets_his_brothers-373x450.jpg" width="261" height="315" /></a> Joseph meets his brothers in Egypt.[/caption]
+---
 
 Joseph is the final hero of faith set forth in the book of Genesis. Though his life represents one of the most compelling illustrations of godly character found anywhere in Scripture, his story contains a deeper lesson, far more valuable than recommendations of devout living.
+
+<a href="https://s3.amazonaws.com/images.ofreport.com/2013/02/joseph_meets_his_brothers.jpg"><img class=" wp-image-1761" alt="Joseph meets his brothers in Egypt." src="https://s3.amazonaws.com/images.ofreport.com/2013/02/joseph_meets_his_brothers-373x450.jpg" /></a>
+{: .article-image .article-image--has-caption}
+Joseph meets his brothers in Egypt.
+{: .caption-text .article-image__caption}
 
 Joseph is a figure of the coming Christ. His story is replete with clues and parallels that point the reader to Messiah. While earthly prosperity may be found by emulating Joseph’s behavior, eternal life is found by believing on the Savior he so vividly personifies.
 
@@ -34,6 +38,5 @@ Based on this marvelous redemptive work, Paul implores the sinner, *“Now then 
 Friend, where do you stand today? The world around us is dying, starving amidst the famine of sin. Are you still in Canaan, trying to produce good works out of dead ground? You have but one hope. Flee to the Savior! He has prepared a feast for you and all that remains is that you forsake the barren fields of unbelief and turn to Him in faith. *“Come unto me, all ye that labour and are heavy laden, and I will give you rest.” (Matthew 11:28)*
 
 Trust no longer in your own dead works, but believe on the name of Jesus Christ alone. Salvation is not as far as you may think. *“…The word is nigh thee, even in thy mouth, and in thy heart: that is, the word of faith, which we preach; That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved.” (Romans 10:8-9)*
-<h3><strong>*Bible First*, Lesson 19</strong>
-Copyright © 2013 Euro Team Outreach, Inc. All Rights Reserved.</h3>
-&nbsp;
+
+*BIBLE FIRST*, LESSON 19 &mdash; COPYRIGHT &copy; 2013 EURO TEAM OUTREACH, INC. ALL RIGHTS RESERVED.
