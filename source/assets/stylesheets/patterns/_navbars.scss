@@ -25,6 +25,7 @@ $navigation-font-size-mobile: $small-font-size;
 
   a {
     color: $navigation-color;
+    font-weight: 300;
     font-size: $navigation-font-size;
 
     &:focus,
@@ -109,6 +110,7 @@ $navigation-font-size-mobile: $small-font-size;
 
   a {
     color: $navigation-color;
+    font-weight: 300;
 
     &:focus,
     &:hover {
