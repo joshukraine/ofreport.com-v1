@@ -10,7 +10,7 @@ Joshua and I have often expressed how much we wished we had written our love sto
 <p style="text-align: center;"><strong>**</strong></p>
 
 
-[caption id="attachment_510" align="aligncenter" width="300" caption="Joshua &amp; Kelsie - Married September 18, 2004"]<strong>*<strong>*<a href="https://s3.amazonaws.com/images.ofreport.com/2009/03/111_1129.jpg"><img class="size-medium wp-image-510" title="111_1129" src="https://s3.amazonaws.com/images.ofreport.com/2009/03/111_1129-300x225.jpg" alt=" " width="300" height="225" /></a>*</strong>*</strong>[/caption]
+[caption id="attachment_510" align="aligncenter" width="300" caption="Joshua &amp; Kelsie - Married September 18, 2004"]<strong>*<strong>*<a href="https://s3.amazonaws.com/content.ofreport.com/2009/03/111_1129.jpg"><img class="size-medium wp-image-510" title="111_1129" src="https://s3.amazonaws.com/content.ofreport.com/2009/03/111_1129-300x225.jpg" alt=" " width="300" height="225" /></a>*</strong>*</strong>[/caption]
 
 <strong>**</strong>
 <p style="text-align: center;"><strong>*Psalm 118: 23 "This is the LORD's doing;
@@ -26,7 +26,7 @@ This had been my 3<sup>rd</sup> experience participating in the leadership team 
 
 This was also Jennifer's 3<sup>rd</sup> conference as a team leader and speaker, but this time her mother and younger sister, Jessica, came along as attendees. They were assigned to my team along with 6-8 other mothers and daughters. I well remember young Jessica's contagious energy, and Mrs. Steele's active participation and support for me as I led team activities. Looking out over the sea of faces as I gave my public talks, Mrs. Steele's beaming, encouraging face and regular nods stood out to me like a lighthouse for sea worn travelers. She had told me of her family of six children, four of whom were red-headed. One son who was older than Jennifer was on his way to the mission field very soon. This last point must have rolled off of me like water off a duck's back, because I really have no recollection of it now, although I know we talked about it.
 
-[caption id="attachment_508" align="aligncenter" width="300" caption="Jessica Steele is in the front wearing a striped sweater vest. Mrs. Steele and I are next to each other on the back row, directly under the flower arrangement on the wall."]<a href="https://s3.amazonaws.com/images.ofreport.com/2009/03/commit.jpg"><img class="size-medium wp-image-508" title="commit" src="https://s3.amazonaws.com/images.ofreport.com/2009/03/commit-300x198.jpg" alt="Jessica Steele is in the front wearing a striped sweater vest. Mrs. Steele and I are next to each other on the back row, directly under the flower arrangement on the wall." width="300" height="198" /></a>[/caption]
+[caption id="attachment_508" align="aligncenter" width="300" caption="Jessica Steele is in the front wearing a striped sweater vest. Mrs. Steele and I are next to each other on the back row, directly under the flower arrangement on the wall."]<a href="https://s3.amazonaws.com/content.ofreport.com/2009/03/commit.jpg"><img class="size-medium wp-image-508" title="commit" src="https://s3.amazonaws.com/content.ofreport.com/2009/03/commit-300x198.jpg" alt="Jessica Steele is in the front wearing a striped sweater vest. Mrs. Steele and I are next to each other on the back row, directly under the flower arrangement on the wall." width="300" height="198" /></a>[/caption]
 
 The gray sweater vest became a regular part of my wardrobe, and the Steele's were added to the number of other fond acquaintances I had made at COMMIT.
 

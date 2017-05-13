@@ -1,11 +1,15 @@
 ---
+
 title: 'Our Love Story, Part 2: First Things First'
 date: '2012-12-07 15:00:28'
-tags:
-- love-story
+tags: love story
+author: ['Joshua Steele', '@joshukraine']
+
 ---
 
 My introduction to Kelsie Powell was unlike anything I had previously imagined. When first I heard of her, we were about as far apart geographically as it is possible for any two people to be on this planet. In early 2004, she was living in Oklahoma with her parents while I was working on a short-term missions project in Thailand.
+
+READMORE
 
 My sister’s email description of Kelsie was glowing. The highlights included such demonstratives as “Godly”, “virtuous”, “committed”, and one that caught my particular attention: “praying to marry a missionary.” This last point addressed a major question that I had pondered for some time: what type of girl would consent to marry a missionary, knowing that she would likely spend the rest of her life in some remote country overseas? Apparently, Kelsie was just such a girl.
 
@@ -19,13 +23,13 @@ Although I do not have a transcript of that conversation, I do remember experien
 
 My father picks up the receiver, dials the number for the Powell household. The phone rings, and a man answers.
 
-“Hello?”
+*“Hello?”*
 
-“Yes, may I speak with Danny Powell please?”
+*“Yes, may I speak with Danny Powell please?”*
 
-“This is Danny.”
+*“This is Danny.”*
 
-“Hi Danny, my name is Mike Steele. You don’t know me, and I don’t know you, but my daughter Jennifer has met your daughter Kelsie. Anyway, I’m actually calling on behalf of my son Joshua. You don’t know him either. He’s a missionary to Ukraine, but he’s currently working in Thailand. He’s interested in beginning a relationship with your daughter Kelsie, whom he also doesn’t know. He wanted to contact you about this without Kelsie knowing, but he can’t make calls out of Thailand. But he can email. He would like to know if he can send you an email about starting a relationship with Kelsie.”
+*“Hi Danny, my name is Mike Steele. You don’t know me, and I don’t know you, but my daughter Jennifer has met your daughter Kelsie. Anyway, I’m actually calling on behalf of my son Joshua. You don’t know him either. He’s a missionary to Ukraine, but he’s currently working in Thailand. He’s interested in beginning a relationship with your daughter Kelsie, whom he also doesn’t know. He wanted to contact you about this without Kelsie knowing, but he can’t make calls out of Thailand. But he can email. He would like to know if he can send you an email about starting a relationship with Kelsie.”*
 
 Silence. Click.
 

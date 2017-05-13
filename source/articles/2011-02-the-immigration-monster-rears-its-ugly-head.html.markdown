@@ -9,7 +9,7 @@ tags:
 
 <strong>UPDATE</strong>: *We just got word that Denise and the Bardwells were able to cross back into Ukraine today without any trouble. This does not mean the immigration problem is solved. It is, however, another demonstration that rural borders are typically later to adopt protocol than the airports. Thanks for pr**aying!*
 
-<a href="http://ofreport.com/wp-content/uploads/2011/02/IMG_0139.jpg"><img class="aligncenter size-medium wp-image-1178" title="IMG_0139" src="http://ofreport.com/wp-content/uploads/2011/02/IMG_0139-300x225.jpg" alt="" width="300" height="225" /></a>
+<a href="https://s3.amazonaws.com/content.ofreport.com/2011/02/IMG_0139.jpg"><img class="aligncenter size-medium wp-image-1178" title="IMG_0139" src="https://s3.amazonaws.com/content.ofreport.com/2011/02/IMG_0139-300x225.jpg" alt="" width="300" height="225" /></a>
 
 Just a few days ago, a missionary friend of ours named Dan Bardwell flew to America for a one-month trip. As he was going through Ukrainian customs control at the L'viv airport, he was detained. The officials told him that he had overstayed his allowed time, fined him 600 grevenas (~$75), and informed him that he could not reenter Ukraine for 50 days.
 

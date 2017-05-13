@@ -19,7 +19,7 @@
   %section.wide-container
     - if current_article.data.image
       .article-hero.column
-        = image_tag "https://s3.amazonaws.com/images.ofreport.com/#{current_article.data.image}"
+        = image_tag "https://s3.amazonaws.com/content.ofreport.com/#{current_article.data.image}"
         .article-hero__caption
           %p.caption-text #{current_article.data.caption}
 
@@ -28,7 +28,7 @@
     - if current_article.tags.include?("newsletter")
       .column.pdf-download
         %i.fa.fa-file-pdf-o
-        = link_to "Download PDF", "/downloads/#{current_article.data.download}"
+        = link_to "Download PDF", "https://s3.amazonaws.com/content.ofreport.com/downloads/#{current_article.data.download}"
 
     .article-body.column
       = yield

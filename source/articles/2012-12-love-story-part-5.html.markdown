@@ -1,21 +1,36 @@
 ---
+
 title: 'Our Love Story, Part 5: The Beginning'
 date: '2012-12-28 10:00:22'
-tags:
-- love-story
+tags: love story
+author: ['Joshua Steele', '@joshukraine']
+
 ---
 
 I am told that most young ladies receive a pleasant sort of shock when they learn of a secret admirer. Kelsie was no exception. She, too, had experienced some disappointments before meeting me and had wondered if a man of godly character would ever pursue her.
 
 Now, as her father handed over the rolled up parchment, she loosened the ribbon and read my invitation.
-<p style="padding-left: 30px;">*Dear Kelsie,*</p>
-<p style="padding-left: 30px;">*Although you do not know me, I have been corresponding with your parents for the past month or so in regards to a possible courtship with you. I have really enjoyed getting to know them, and in a way getting to know you through them…*</p>
-<p style="padding-left: 30px;">*…we have been “talking about you” for some time now, and your mother and father wrote me recently, saying that they felt this would be a good time to let you know about all of this.*</p>
-<p style="padding-left: 30px;">*And so my purpose in writing you this letter, is to see if you would be willing to begin a courtship relationship, with the goal of marriage in mind should the Lord so direct us.*</p>
+
+READMORE
+
+*Dear Kelsie,*
+
+*Although you do not know me, I have been corresponding with your parents for the past month or so in regards to a possible courtship with you. I have really enjoyed getting to know them, and in a way getting to know you through them…*
+
+*…we have been “talking about you” for some time now, and your mother and father wrote me recently, saying that they felt this would be a good time to let you know about all of this.*
+
+*And so my purpose in writing you this letter, is to see if you would be willing to begin a courtship relationship, with the goal of marriage in mind should the Lord so direct us.*
+
 Kelsie’s immediate response was to get alone and pray. She had my letter, the Ukrainian phrasebook, and a stack of missionary newsletters that I had written over the past two and a half years.
 
 As Kelsie prayed, the rest of us held our breaths and waited. Happily, we did not have to wait long. A few hours later I received Kelsie’s response in which she excitedly agreed to begin a relationship!
 
-[caption id="attachment_1699" align="aligncenter" width="450"]<a href="https://s3.amazonaws.com/images.ofreport.com/2012/12/P1010014_2.jpg"><img class="size-medium wp-image-1699 " alt="Our moms met and chatted at the girls' retreat before Kelsie knew what was going on." src="https://s3.amazonaws.com/images.ofreport.com/2012/12/P1010014_2-450x337.jpg" width="450" height="337" /></a> Our moms met and chatted at the girls' retreat before Kelsie knew what was going on.[/caption]
+<a href="https://s3.amazonaws.com/content.ofreport.com/2012/12/P1010014_2.jpg"><img class="size-medium wp-image-1699 " alt="Our moms met and chatted at the girls' retreat before Kelsie knew what was going on." src="https://s3.amazonaws.com/content.ofreport.com/2012/12/P1010014_2-450x337.jpg" /></a>
+{: .article-image .article-image--has-caption}
+Our moms met and chatted at the girls' retreat before Kelsie knew what was going on.
+{: .caption-text .article-image__caption}
 
-[caption id="attachment_1701" align="aligncenter" width="450"]<a href="https://s3.amazonaws.com/images.ofreport.com/2012/12/P1010013_2.jpg"><img class="size-medium wp-image-1701 " alt="Suddenly, Kelsie was spending a lot more time with her email!" src="https://s3.amazonaws.com/images.ofreport.com/2012/12/P1010013_2-450x337.jpg" width="450" height="337" /></a> Suddenly, Kelsie was spending a lot more time with her email![/caption]
+<a href="https://s3.amazonaws.com/content.ofreport.com/2012/12/P1010013_2.jpg"><img class="size-medium wp-image-1701 " alt="Suddenly, Kelsie was spending a lot more time with her email!" src="https://s3.amazonaws.com/content.ofreport.com/2012/12/P1010013_2-450x337.jpg" /></a>
+{: .article-image .article-image--has-caption}
+Suddenly, Kelsie was spending a lot more time with her email!
+{: .caption-text .article-image__caption}

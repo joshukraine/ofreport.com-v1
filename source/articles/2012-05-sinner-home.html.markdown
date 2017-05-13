@@ -1,13 +1,17 @@
 ---
+
 title: A Sinner Has Come Home
 date: '2012-05-30 01:58:50'
-tags:
-- ministry-updates
+tags: ministry
+author: ['Joshua Steele', '@joshukraine']
+
 ---
 
 There have been relatively few times during my missionary career when I have had the joyful opportunity to witness a person actually coming to Christ. Ultimately, only God can see the heart, but there are times when a person’s outward response to the Gospel leaves little doubt that they have been born again.
 
 Today I witnessed just such a rebirth in my own living room.
+
+READMORE
 
 Several months ago, a man named Vasyl began attending our English Club here in L’viv. It was evident from the beginning that God was working in his heart, and he asked lots of questions about the Lord. On two prior occasions we had extended conversations during which I explained the Gospel to him in detail. Although he seemed very open, it just didn’t quite penetrate.
 
@@ -31,4 +35,4 @@ The Vasyl that walked out the front door of my house today is not the same one t
 
 *“Either what woman having ten pieces of silver, if she lose one piece, doth not light a candle, and sweep the house, and seek diligently till she find it? And when she hath found it, she calleth her friends and her neighbours together, saying, Rejoice with me; for I have found the piece which I had lost. Likewise, I say unto you, there is joy in the presence of the angels of God over one sinner that repenteth.”*
 
-Luke 15:8-10
+*Luke 15:8-10*

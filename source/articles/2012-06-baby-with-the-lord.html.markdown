@@ -1,11 +1,15 @@
 ---
+
 title: Our Baby is With the Lord
 date: '2012-06-18 23:37:21'
-tags:
-- family-updates
+tags: family
+author: ['Joshua Steele', '@joshukraine']
+
 ---
 
 For the past week or so, Kelsie has not felt any movement from the baby. Today, we went in for an ultrasound which confirmed what we were beginning to suspect: our baby has gone home.
+
+READMORE
 
 While this news was difficult to receive, we are relieved that closure is near. God has made clear His choice to take our child to be with Him, and we have complete peace with that decision. Even now, we know that nothing is impossible with God, and we continue to trust His guidance.
 

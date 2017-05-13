@@ -1,19 +1,23 @@
 ---
+
 title: 'Our Love Story, Part 1: Three Strikes and You’re Out?'
 date: '2012-11-30 15:00:23'
-tags:
-- love-story
+tags: love story
+author: ['Joshua Steele', '@joshukraine']
+
 ---
 
 About three years ago, in response to requests from various people, Kelsie and I endeavored to publish our courtship story here on our blog. We were writing together, and posting as we went along. Unfortunately, the busyness of life and ministry at that time proved to be too much, and our posts slowly tapered off to nothing.
 
-Ever since then, I've wanted to restart that project and finish it out. This summer, the opportunity presented itself. Debi Pearl wrote me and asked if I would document our story to be published as part of Mike's new book,<a href="http://nogreaterjoy.org/shop/in-search-of-a-help-meet-book" target="_blank">* In Search of  a Help Meet*</a>. It took me longer than I expected, but I finally got the whole thing written and sent in.
+READMORE
+
+Ever since then, I've wanted to restart that project and finish it out. This summer, the opportunity presented itself. Debi Pearl wrote me and asked if I would document our story to be published as part of Mike's new book, *<a href="http://nogreaterjoy.org/shop/in-search-of-a-help-meet-book" target="_blank">In Search of  a Help Meet</a>*. It took me longer than I expected, but I finally got the whole thing written and sent in.
 
 The book is due to come out in January, but we'd like to give you a preview of our story right here. And trust me: this time you'll get the *complete* story. The entire account is already written down and waiting to be published. We'll post a new section every week or so until it's all out.
 
 And now, without further ado...
 
-<strong>Part 1 – Three Strikes and You’re Out?</strong>
+### Part 1 – Three Strikes and You’re Out?
 
 As the year 2003 was drawing to a close, I had reached the grim conclusion that God probably did not want me to be married any time soon. I was 24, and while my life heretofore had seen many successes, romance had not been among them. Onlookers, perhaps, suspected that I just was not trying hard enough, but this was far from true.
 
@@ -28,5 +32,3 @@ At last I gave up trying. I was tired. I was distracted from my work. The emotio
 In a way, I felt that I had fewer answers than when I had begun. There were many things I did not understand, many courtship and marriage questions that remained a mystery. But I did know one thing: God is faithful. Marriage or no marriage, I had committed my life to following Him, and that was not about to change.
 
 A few weeks later, I received an email from my sister Jennifer, who wrote, “I recently shared a room with a wonderful young lady named Kelsie…”
-
-&nbsp;
