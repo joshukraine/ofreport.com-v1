@@ -1,11 +1,15 @@
 ---
+
 title: A Letter from Granddad
 date: '2012-07-10 20:15:20'
-tags:
-- family-updates
+tags: family
+author: ['Joshua Steele', '@joshukraine']
+
 ---
 
 On the day that our fourth child was stillborn, my father wrote her a letter. With his permission, I've decided to share it with you. This letter offers yet another glimpse into the goodness and sovereignty of God, who used what seemed a tragedy to bless many.
+
+READMORE
 
 *Dear precious Little One,*
 
@@ -19,7 +23,7 @@ On the day that our fourth child was stillborn, my father wrote her a letter. Wi
 
 *You could not run and play, but you could hear you mommy and daddy pray.*
 
-*You could not speak a word, but holy sounds came to your little ears as your mommy, daddy and sisters spoke the words of scripture. *
+*You could not speak a word, but holy sounds came to your little ears as your mommy, daddy and sisters spoke the words of scripture.*
 
 *You did not learn to sing, but melodies of music and song that mommy and daddy made would fill the womb and relax your little body.*
 
@@ -27,14 +31,13 @@ On the day that our fourth child was stillborn, my father wrote her a letter. Wi
 
 *You knew your mommy and daddy loved you because they told you so many times. And they knew you loved them too because your love grew in their hearts each day.*
 
-*Thank you so much for what you taught us when you were here. You taught us to stop and realize what things are most precious and important in this world…..*
-<ul>
-	<li>*The joy of a gift from God as a sweet baby grows in the womb*</li>
-	<li>*The precious love of family and friends*</li>
-	<li>*Our dependence upon the Lord and His love and care for each of us.*</li>
-	<li>*And that sorrows are temporary but the joy of the Lord is forever.*</li>
-</ul>
+*Thank you so much for what you taught us when you were here. You taught us to stop and realize what things are most precious and important in this world...*
+
+* *The joy of a gift from God as a sweet baby grows in the womb*
+* *The precious love of family and friends*
+* *Our dependence upon the Lord and His love and care for each of us.*
+* *And that sorrows are temporary but the joy of the Lord is forever.*
+
 *So, dear precious Little One, thank you so much for the time you spent with us and the blessings you gave us. We will never be the same again. For we have grown closer to each other and closer to the Lord because you were here and touched our lives. Thank you also for giving us your precious little hand and foot prints so we could see when you touched our world. We will all treasure them until we see you again.*
 
-*Love,*
-*Granddad*
+*Love,<br>Granddad*

@@ -1,11 +1,13 @@
 ---
+
 title: We got visas!
 date: '2012-03-13 16:45:48'
-tags:
-- ministry-updates
----
+tags: ministry, ukraine
+author: ['Joshua Steele', '@joshukraine']
+image: '2012/03/IMG_1854-1024x682.jpg'
+caption: "The Beals, Denise and the Steeles: proud owners of shiny new class D visas!"
 
-[caption id="attachment_1486" align="aligncenter" width="450" caption="The Beals, Denise and the Steeles: proud owners of shiny new class D visas!"]<a href="http://OFReport.com/wp-content/uploads/2012/03/IMG_1854.jpg"><img class="size-medium wp-image-1486" title="IMG_1854" src="http://OFReport.com/wp-content/uploads/2012/03/IMG_1854-450x300.jpg" alt="" width="450" height="300" /></a>[/caption]
+---
 
 After many weeks of legal consultations, prepping documents, and praying, we have our visas. A huge thank-you goes out to all of you who have been praying with us about this need. And while today is definitely a big step in the right direction, there are many more steps ahead.
 

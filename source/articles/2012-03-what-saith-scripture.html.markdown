@@ -1,12 +1,17 @@
 ---
+
 title: What Saith the Scripture?
 date: '2012-03-01 13:32:15'
-tags:
-- newsletter
+tags: newsletter, ministry, ukraine
+author: ['Joshua Steele', '@joshukraine']
+download: 'OFR-Mar-2012.pdf'
+image: '2012/03/IMG_1623.jpg'
+caption: "We are very excited to announce the launch of our new Ukrainian-language video channel, “Shcho kazhe Pysannya?” (What Saith the Scripture?) Check it out at www.pysannya.com!"
+
 ---
 
-<img class="alignleft size-full wp-image-1446" title="OFR-Mar-2012" src="http://OFReport.com/wp-content/uploads/2008/11/OFR-Mar-2012.png" alt="" width="77" height="100" />The March issue of our newsletter, *Overseas Field Report*, is now available. Featured this month is our new Ukrainian-language video channel called "What saith the Scripture?" Also included is an update about the immigration situation plus some exciting family news!
+The March issue of our newsletter, *Overseas Field Report*, is now available. Featured this month is our new Ukrainian-language video channel called "What saith the Scripture?" Also included is an update about the immigration situation plus some exciting family news!
 
-<strong>Download the PDF here »</strong> [download#38#size#nohits]
+READMORE
 
 If you subscribe to *Overseas Field Report* by regular mail, you should be receiving a printed copy of this issue in the next week or so. As always, we greatly appreciate your prayers and support for our ministry.
