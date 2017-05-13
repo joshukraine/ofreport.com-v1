@@ -33,6 +33,7 @@ $navigation-font-size-mobile: $small-font-size;
     }
 
     &:focus,
+    &:active,
     &:hover {
       color: $action-color;
     }
@@ -141,6 +142,7 @@ $navigation-font-size-mobile: $small-font-size;
     }
 
     &:focus,
+    &:active,
     &:hover {
       color: $action-color;
     }
