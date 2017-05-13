@@ -26,7 +26,7 @@
   padding-bottom: $base-spacing * 2;
 
   &:last-of-type {
-    border-bottom: 0;
+    margin-bottom: $small-spacing;
   }
 }
 
@@ -100,4 +100,24 @@
 
 .article-preview__content {
   p { margin-bottom: 0.5em; }
+}
+
+.pagination-links {
+  text-align: center;
+
+  .page-prev {
+    margin-right: $base-spacing;
+
+    @include media-max($media-phone) {
+      margin-right: $small-spacing;
+    }
+  }
+
+  .page-next {
+    margin-left: $base-spacing;
+
+    @include media-max($media-phone) {
+      margin-left: $small-spacing;
+    }
+  }
 }
