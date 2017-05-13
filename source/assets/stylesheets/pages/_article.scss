@@ -112,6 +112,11 @@
     font-size: $base-font-size * 1.2;
     font-weight: 300;
   }
+
+  iframe {
+    @include margin($base-spacing * 2 auto);
+    display: block;
+  }
 }
 
 .article-image {
