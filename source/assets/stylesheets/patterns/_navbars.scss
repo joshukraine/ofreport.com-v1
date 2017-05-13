@@ -39,9 +39,30 @@ $navigation-font-size-mobile: $small-font-size;
   }
 }
 
+.navbar-top-spacing {
+  margin-top: $navigation-height;
+
+  @include media-max($media-phone) {
+    margin-top: $navigation-height-mobile;
+  }
+}
+
 .navbar {
   background-color: $navigation-background;
   border-bottom: 1px solid $base-border-color;
+  position: fixed;
+  top: 0;
+  transform: translateY(-110%);
+  width: 100%;
+  z-index: 999;
+
+  &.transition {
+    transition: all 0.15s linear;
+  }
+
+  &.is-visible {
+    transform: translateY(0);
+  }
 }
 
 .navbar__wrapper {
