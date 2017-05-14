@@ -5,7 +5,6 @@ tags:
 - abs
 - bible study
 - ministry
-- ministry
 ---
 
 <p style="text-align: left;">As Mondays come around each week, we begin preparing for English Club and ABS. Sometimes it's not without an inward sigh, especially considering other all-consuming to-do's that have to be set aside. And then Tuesday night rolls around and we come home blessed, encouraged, and excited. It is so great to be a part of what God is doing in the lives of these people. We are truly coming to love and appreciate each member of our group, and pray that they will know Christ!</p>

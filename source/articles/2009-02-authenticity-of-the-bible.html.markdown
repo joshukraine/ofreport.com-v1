@@ -6,7 +6,6 @@ tags:
 - bible study
 - english club
 - ministry
-- ministry
 ---
 
 This week at ABS, Jessie Beal taught on the authenticity of the Bible. It was a great message, and one that is certainly needed in our day. One of the main ideas that we try to communicate to people here is that the Bible is our final authority in every area. While many Ukrainians acknowledge that the Bible is a "holy book," few have any real knowledge as to the many proofs of its divine inspiration.

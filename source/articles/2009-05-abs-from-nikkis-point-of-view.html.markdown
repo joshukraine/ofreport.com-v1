@@ -6,7 +6,6 @@ tags:
 - bible study
 - english club
 - ministry
-- ministry
 ---
 
 "Nikki" is what we have affectionately dubbed our Nikon D40 camera. Every Tuesday, she goes with us to English Club and Bible study to help document the evening's events. The following are a few of her shots from recent weeks.

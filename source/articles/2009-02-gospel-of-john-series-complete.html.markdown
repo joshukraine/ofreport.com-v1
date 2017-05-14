@@ -5,7 +5,6 @@ tags:
 - abs
 - bible study
 - ministry
-- ministry
 ---
 
 Last Tuesday evening at ABS, I finished teaching through the Gospel of John. It's been a great experience, and we're very grateful for all the Ukrainians who have heard the Gospel through this series. In addition to those who actually attend our meetings live, many more will hear the messages on CD and cassette in the days to come. We have recorded every lesson that was taught from John in digital format, and soon we plan to begin mailing CD's to our students.

@@ -3,8 +3,6 @@ title: Some Girls and Some Guys
 date: '2009-05-26 19:31:38'
 tags:
 - family
-- family
-- ministry
 - ministry
 ---
 
