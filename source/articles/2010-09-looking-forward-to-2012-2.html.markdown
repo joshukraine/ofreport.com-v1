@@ -3,7 +3,7 @@ title: Looking Forward to 2012
 date: '2010-09-17 10:55:54'
 tags:
 - announcements
-- ministry-updates
+- ministry
 ---
 
 CMO 2010 is over, and we are once again rejoicing as we witness the increase God has given. We were able to show the film and preach the Gospel in 10 mountain villages this summer. We also did literature blitzes in 7 new cities we have not visited before. Over the course of the project our team distributed approximately 160,000 tracts and other forms of Bible literature. Since CMO 2010 commenced on June 1, 168 new students have enrolled in our correspondence Bible course. This year we also made our first trip to Eastern Ukraine, where we did a ten-day literature blitz in several towns and villages in the Dnipropetrovsk area. So far we have gained 21 new students as a result of that outreach alone.

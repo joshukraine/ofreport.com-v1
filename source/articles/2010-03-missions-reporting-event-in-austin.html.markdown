@@ -2,7 +2,7 @@
 title: Missions Reporting Event in Austin
 date: '2010-03-28 20:40:58'
 tags:
-- ministry-updates
+- ministry
 ---
 
 <p style="text-align: center;"><strong><span style="color: #ff0000;">EVENT CANCELLED</span></strong></p>

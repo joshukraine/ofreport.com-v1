@@ -2,7 +2,7 @@
 title: Travels in Alabama & Tennessee
 date: '2010-02-16 21:02:07'
 tags:
-- ministry-updates
+- ministry
 ---
 
 Last Friday morning we managed to break out of the record-breaking Texas snow and begin our trip north towards Alabama. We traveled for two days and arrived late Saturday afternoon at the Ballengers' home about 50 minutes outside of Birmingham. John Ballenger is one of the leaders of Grace Family Church. He had contacted me several months ago by e-mail about the possibility of our family visiting their church to present our work in Ukraine, and now we finally had the chance to meet in person.

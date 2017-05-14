@@ -2,7 +2,7 @@
 title: Magazine Interview
 date: '2011-02-01 15:40:32'
 tags:
-- ministry-updates
+- ministry
 ---
 
 <a href="http://www.generation-impact.com/"><img class="alignleft size-full wp-image-1153" title="Generation Impact Banner" src="https://s3.amazonaws.com/content.ofreport.com/2011/02/Generation-Impact-Banner.jpeg" alt="" width="125" height="200" /></a>Recently, Kelsie and I were interviewed by an online magazine called <a href="http://www.generation-impact.com/">Generation Impact</a>, edited by Grace Williamson. The magazine is a ministry of the Williamson family, and their goal is to encourage homeschoolers to be lights for Christ. Here's a brief excerpt from their web site:

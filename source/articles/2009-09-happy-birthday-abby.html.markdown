@@ -4,7 +4,6 @@ date: '2009-09-26 17:08:48'
 tags:
 - abigail
 - family
-- family-updates
 ---
 
 It's hard to believe, but as of Friday, September 25th, our little Abigail is four years old! We are unspeakably grateful for her little life and for the privilege of being her parents. Here are few pictures from her birthday party with our family.

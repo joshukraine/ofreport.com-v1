@@ -1,10 +1,11 @@
 ---
+
 title: About Love Relationships
 date: '2009-01-06 16:05:36'
 tags:
-- cbc
+- Bible First
 - ministry
-- ministry-updates
+
 ---
 
 With well over 300 Ukrainian students enrolled in our <a href="http://www.euroteamoutreach.org/index.php?p=cbc" target="_blank">Chronological Bible Course</a>, we get quite a lot of mail. Most of what we receive comes in the form of completed Bible lessons which are first graded and then returned to the student with the next lesson. But often we receive letters covering a broad range of topics. We have been asked everything from "Is it wrong to pray to icons?" to "Do I have a guardian angel?"
@@ -13,7 +14,7 @@ Recently, one of our newer students, a young lady named Maryana, wrote to us wit
 <blockquote>Can a girl who attends an evangelical church be involved romantically with a young man who goes to an Orthodox church? Please explain to me if this is permissible, and if it is done at all.</blockquote>
 Due to the nature of the question, we decided that it would be best for Kelsie to answer this. Kels wrote the girl a three page letter, and when I had read it, I was again reminded of how blessed I am to have a prudent wife who loves the Lord. (Note to single guys: Look for a prudent wife who has a deep relationship with Christ. It will bless your life like you can't imagine.)
 
-<!--more-->Below is the full text of the letter Kelsie wrote. The greeting in the opening sentence is typical of how people in Western Ukraine greet each other.
+Below is the full text of the letter Kelsie wrote. The greeting in the opening sentence is typical of how people in Western Ukraine greet each other.
 
 Dear Maryana,
 

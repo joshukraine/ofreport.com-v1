@@ -1,10 +1,11 @@
 ---
+
 title: Welcome Bryan Shufelt!
 date: '2009-01-20 05:20:51'
 tags:
-- eto
+- bryan shufelt
 - ministry
-- ministry-updates
+
 ---
 
 This week, we are excited to announce the arrival of a new <a href="http://www.euroteamoutreach.org/" target="_blank">ETO</a> team member: missionary Bryan Shufelt. Bryan served here in Ukraine with us during <a href="http://www.euroteamoutreach.org/index.php?p=album2006" target="_blank">CMO 2006</a>, and proved himself a capable and faithful minister of the Gospel. Bryan is sent out <a href="http://www.fairparkbaptist.org/" target="_blank">Fairpark Baptist Church</a> in Fort Worth, Texas.

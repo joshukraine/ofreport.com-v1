@@ -2,8 +2,8 @@
 title: The Steeles are Coming to America!
 date: '2009-07-20 08:23:18'
 tags:
-- family-updates
-- ministry-updates
+- family
+- ministry
 ---
 
 <div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">The Steeles are Coming to America!</div>

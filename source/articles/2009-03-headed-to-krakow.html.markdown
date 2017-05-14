@@ -3,8 +3,6 @@ title: Headed to Krakow
 date: '2009-03-01 16:22:09'
 tags:
 - family
-- family-updates
-- poland
 - travel
 - visa
 ---

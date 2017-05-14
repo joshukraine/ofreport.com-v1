@@ -3,9 +3,8 @@ title: Proving that ALL are under sin
 date: '2009-04-10 09:16:07'
 tags:
 - abs
-- bible-study
+- bible study
 - ministry
-- ministry-updates
 ---
 
 In the first three chapters of the book of Romans, Paul provides us with irrefutable evidence that all men are indeed under sin. A firm grasp of this concept is foundational in understanding the Gospel. Contrary to what is commonly taught, Paul does not point to a birth defect as the basis for the sinner's blame. Rather, he points out that God judges men who <span style="text-decoration: underline;">hold truth in unrighteousness</span>. (Rom. 1:18) That is, those who understand good, embrace it as a worthy standard of conduct, even judge others by it, and yet still commit sin by violating their own standard. (See Matt. 7:1-2)

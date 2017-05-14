@@ -3,7 +3,7 @@ title: We have a one-year-old!
 date: '2009-01-22 13:37:16'
 tags:
 - birthday
-- family-updates
+- family
 - rebekah
 ---
 

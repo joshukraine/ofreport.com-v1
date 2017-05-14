@@ -2,8 +2,8 @@
 title: We're Back!
 date: '2010-04-30 14:30:36'
 tags:
-- family-updates
-- ministry-updates
+- family
+- ministry
 ---
 
 At around 12:15pm on April 28th, we landed at L'viv International Airport. To me, this seemed like the shortest and smoothest flight we've had yet! The kids did very well (slept a good bit) and overall the trip was uneventful. No ash cloud either. :) That said, I did notice that we were cruising at about 38,000 feet - a good 8,000 feet higher than normal. Maybe we were flying  above the danger zone?

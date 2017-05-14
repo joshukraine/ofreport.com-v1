@@ -3,10 +3,10 @@ title: The Bible or "the Church?"
 date: '2009-02-12 09:51:35'
 tags:
 - abs
-- bible-study
-- english-club
+- bible study
+- english club
 - ministry
-- ministry-updates
+- ministry
 ---
 
 Last time at ABS (Audio Bible Study), I taught from John chapter 20 on the resurrection. During the course of the lesson, one of the verses I cited was I Timothy 2:5: *"For there is one God, and one mediator between God and men, the man Christ Jesus;"* After the lesson had ended, one of our students, Marian, came up to ask me about this point.

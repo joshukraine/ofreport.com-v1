@@ -2,8 +2,8 @@
 title: 'The Latest... '
 date: '2009-08-26 06:23:56'
 tags:
-- family-updates
-- ministry-updates
+- family
+- ministry
 ---
 
 After many weeks of preparation, the Steele family is finally departing for America! As we travel, we would greatly appreciate your prayers in the following areas:

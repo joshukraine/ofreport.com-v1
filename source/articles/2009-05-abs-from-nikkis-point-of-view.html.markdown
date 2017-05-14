@@ -3,10 +3,10 @@ title: ABS from Nikki's Point of View
 date: '2009-05-21 12:51:20'
 tags:
 - abs
-- bible-study
-- english-club
+- bible study
+- english club
 - ministry
-- ministry-updates
+- ministry
 ---
 
 "Nikki" is what we have affectionately dubbed our Nikon D40 camera. Every Tuesday, she goes with us to English Club and Bible study to help document the evening's events. The following are a few of her shots from recent weeks.

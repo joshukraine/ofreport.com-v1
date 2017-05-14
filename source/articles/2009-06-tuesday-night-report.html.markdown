@@ -1,12 +1,13 @@
 ---
+
 title: Tuesday Night Report
 date: '2009-06-14 13:01:36'
 tags:
 - abs
-- bible-study
-- english-club
-- ministry-updates
-- nathan
+- bible study
+- english club
+- ministry
+
 ---
 
 God is continuing to bless our English Club and Audio Bible Study meetings! Each week people are coming to hear the Word of God. By way of reminder, we hold English Club for the first hour of the evening, follow that with a 5 minute break, and then begin Bible teaching/preaching in Ukrainian for the second hour. The evening ends with tea, snacks, and fellowship.

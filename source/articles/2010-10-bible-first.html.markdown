@@ -2,7 +2,7 @@
 title: Bible First
 date: '2010-10-06 14:55:55'
 tags:
-- ministry-updates
+- ministry
 ---
 
 [caption id="attachment_1092" align="alignright" width="150" caption=" "]<a href="https://s3.amazonaws.com/content.ofreport.com/2010/10/DSC_2704.jpg"><img class="size-thumbnail wp-image-1092 " title="DSC_2704" src="https://s3.amazonaws.com/content.ofreport.com/2010/10/DSC_2704-150x150.jpg" alt="" width="150" height="150" /></a>[/caption]

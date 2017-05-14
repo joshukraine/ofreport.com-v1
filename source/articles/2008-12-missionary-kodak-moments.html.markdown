@@ -3,10 +3,10 @@ title: Missionary Kodak Moments
 date: '2008-12-12 16:09:57'
 tags:
 - abs
-- bible-study
-- english-club
+- bible study
+- english club
 - fellowship
-- ministry-updates
+- ministry
 ---
 
 [caption id="attachment_135" align="aligncenter" width="300" caption="Anya shows interest in the Gospel of John."]<a href="https://s3.amazonaws.com/content.ofreport.com/2008/12/dsc_3732.jpg"><img class="size-medium wp-image-135" title="dsc_3732" src="https://s3.amazonaws.com/content.ofreport.com/2008/12/dsc_3732-300x221.jpg" alt="Anya shows interest in the Gospel of John." width="300" height="221" /></a>[/caption]

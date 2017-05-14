@@ -5,7 +5,7 @@ tags:
 - abs
 - christmas
 - family
-- family-updates
+- family
 ---
 
 [caption id="attachment_155" align="aligncenter" width="199" caption="The Christmas tree makes our house so cheery during the dark winter days."]<a href="https://s3.amazonaws.com/content.ofreport.com/2008/12/dsc_37551.jpg"><img class="size-medium wp-image-155" title="dsc_37551" src="https://s3.amazonaws.com/content.ofreport.com/2008/12/dsc_37551-199x300.jpg" alt="The Christmas tree makes our house so cheery during the dark winter days." width="199" height="300" /></a>[/caption]

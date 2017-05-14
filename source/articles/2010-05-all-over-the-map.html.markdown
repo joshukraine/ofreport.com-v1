@@ -2,7 +2,7 @@
 title: All Over the Map
 date: '2010-05-20 12:18:06'
 tags:
-- ministry-updates
+- ministry
 ---
 
 The image below is a picture of the map hanging in our ministry office here in L'viv. Each pin represents a town or village where we have students enrolled studying the Bible. Denise Hutchison recently gathered this info from our student tracking system and set up the map. (Thanks, Denise!) At present, we have 406 students in active enrollment, and with CMO approaching, we're expecting that number to rise!

@@ -2,7 +2,7 @@
 title: Young Men's Conference
 date: '2010-02-08 14:46:40'
 tags:
-- ministry-updates
+- ministry
 ---
 
 Saturday was the second and final day of our Young Men's Conference. Thank you to all of you who were praying about this. We had a great turn out (over 30 guys), and I believe that these young men were encouraged and God was glorified.

@@ -1,12 +1,13 @@
 ---
+
 title: Our trip to Krakow
 date: '2009-03-09 07:31:43'
 tags:
 - abs
 - family
-- family-updates
 - travel
 - visa
+
 ---
 
 To everyone who prayed for our recent trip to Krakow - thank you! It went very well. I was able to get my visa, though not for as long a term as I had planned. There was a misunderstanding with the paperwork, and I ended up with a visa for only six months. However, in September I can apply again and, Lord willing, should be able to get my full five year visa at that time.

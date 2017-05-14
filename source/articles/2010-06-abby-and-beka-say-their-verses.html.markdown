@@ -2,7 +2,7 @@
 title: Abby and Beka say their Verses
 date: '2010-06-14 18:20:36'
 tags:
-- family-updates
+- family
 ---
 
 Here's a video we should have recorded a long time ago. We hope you'll enjoy watching Abigail and Rebekah quote some of their Bible verses. We work on a verse together as a family every morning during Bible time, and the girls have built up a good list of ones they know well.
