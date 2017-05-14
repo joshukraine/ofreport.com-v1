@@ -1,0 +1,22 @@
+.pagination-links {
+  @include padding($small-spacing 0);
+
+  border-top: 1px solid $base-border-color;
+  text-align: center;
+
+  .page-prev {
+    margin-right: $base-spacing;
+
+    @include media-max($media-phone) {
+      margin-right: $small-spacing;
+    }
+  }
+
+  .page-next {
+    margin-left: $base-spacing;
+
+    @include media-max($media-phone) {
+      margin-left: $small-spacing;
+    }
+  }
+}

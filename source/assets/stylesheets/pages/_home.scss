@@ -22,11 +22,12 @@
 
 .article-preview {
   border-bottom: 1px solid $base-border-color;
-  margin-bottom: $base-spacing * 1.8;
-  padding-bottom: $base-spacing * 2;
+  margin-bottom: $base-spacing * 1.5;
+  padding-bottom: $base-spacing * 1.5;
 
   &:last-of-type {
-    margin-bottom: $small-spacing;
+    border-bottom: 0;
+    margin-bottom: 0;
   }
 }
 
@@ -102,22 +103,3 @@
   p { margin-bottom: 0.5em; }
 }
 
-.pagination-links {
-  text-align: center;
-
-  .page-prev {
-    margin-right: $base-spacing;
-
-    @include media-max($media-phone) {
-      margin-right: $small-spacing;
-    }
-  }
-
-  .page-next {
-    margin-left: $base-spacing;
-
-    @include media-max($media-phone) {
-      margin-left: $small-spacing;
-    }
-  }
-}
