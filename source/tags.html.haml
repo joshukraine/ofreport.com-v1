@@ -1,0 +1,8 @@
+%section.container.navbar-top-spacing
+  .column
+    .tag-view__title
+      %h1 All Tags
+
+    %ul.tag-list
+      - blog.tags.sort.each do |tag, articles|
+        %li.tag-list__item= link_to "#{tag} (#{articles.size})", tag_path(tag)

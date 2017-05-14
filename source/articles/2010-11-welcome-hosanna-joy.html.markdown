@@ -2,7 +2,7 @@
 title: Welcome, Hosanna Joy!
 date: '2010-11-18 11:24:16'
 tags:
-- family-updates
+- family
 ---
 
 After long months of waiting and many prayers, our third daughter has arrived safe and sound. Hosanna Joy Steele was born at 1:57am on November 15th, weighing 8 lbs. and 1 oz. She was 19.7 inches long.

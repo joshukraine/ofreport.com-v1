@@ -2,7 +2,7 @@
 
 title: Every Perfect Gift
 date: '2012-01-03 05:18:50'
-tags: newsletter, family, cmo, Bible First
+tags: newsletter, family, cmo, bible first
 author: ['Joshua Steele', '@joshukraine']
 download: 'OFR-Jan-2012.pdf'
 image: '2012/01/fall-family-2011 005.jpg'

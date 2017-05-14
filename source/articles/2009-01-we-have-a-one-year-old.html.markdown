@@ -1,10 +1,12 @@
 ---
+
 title: We have a one-year-old!
 date: '2009-01-22 13:37:16'
 tags:
 - birthday
-- family-updates
+- family
 - rebekah
+
 ---
 
 It is hard to believe that our little baby girl is already one year old! Her actual birthday was on Saturday, the 17th, but we were so busy we didn't celebrate until last night. At least when they're this little they don't know the difference!

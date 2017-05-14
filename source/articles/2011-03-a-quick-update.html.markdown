@@ -2,7 +2,7 @@
 title: A Quick Update
 date: '2011-03-07 08:26:25'
 tags:
-- ministry-updates
+- ministry
 ---
 
 This morning, I arrived in L'viv on an early train from Kyiv, where I had spoken at two Baptist churches. Last week, while speaking at a conference for Campus Crusade for Christ, I met the Ukrainian director of student ministry within Campus, Sergiy Kryvonos. He invited me to come and speak to his church on one of the topics I had taught at the conference: Hearing from God. This session explores the concept of finding God's will, and in general learning to hear His voice and follow. My time to speak at Sergiy's church was scheduled for the evening service, and in the morning I was invited to speak at a smaller church in a suburb of Kyiv.

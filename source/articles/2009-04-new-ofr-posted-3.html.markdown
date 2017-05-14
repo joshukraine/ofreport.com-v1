@@ -1,9 +1,9 @@
 ---
+
 title: New OFR Posted!
 date: '2009-04-21 11:33:05'
-tags:
-- ministry-updates
-- ofr
+tags: newsletter, ministry
+
 ---
 
 The latest issue of <a href="http://www.ofreport.com/download-ofr/">Overseas Field Report</a> has now been posted to our blog. Hard copies will be going out in the mail soon.

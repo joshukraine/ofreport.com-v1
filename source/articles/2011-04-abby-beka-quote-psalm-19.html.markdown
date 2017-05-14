@@ -2,7 +2,7 @@
 title: Abby & Beka Quote Psalm 19
 date: '2011-04-25 18:10:20'
 tags:
-- family-updates
+- family
 ---
 
 During our morning Bible time, we often memorize passages of Scripture as a family. As the girls have gotten older, we've progressed from single verses to longer passages. Both Abby and Beka have known Psalm 19:7-11 for quite some time, but we just now got around to filming it.

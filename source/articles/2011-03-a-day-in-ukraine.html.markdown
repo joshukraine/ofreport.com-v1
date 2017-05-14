@@ -2,7 +2,7 @@
 title: A Day in Ukraine
 date: '2011-03-19 21:55:29'
 tags:
-- ministry-updates
+- ministry
 ---
 
 *Preface

@@ -2,7 +2,7 @@
 
 title: 'Bible First: The Final Lessons'
 date: '2013-04-13 13:39:06'
-tags: newsletter, Bible First, cmo
+tags: newsletter, bible first, cmo
 author: ['Joshua Steele', '@joshukraine']
 download: 'OFR-March-April-2013.pdf'
 image: '2013/04/DSC_2704.jpg'

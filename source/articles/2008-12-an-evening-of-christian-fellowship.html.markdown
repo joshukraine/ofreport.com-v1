@@ -1,12 +1,14 @@
 ---
+
 title: An Evening of Christian Fellowship
 date: '2008-12-08 14:11:11'
 tags:
 - abs
-- bible-study
+- bible study
 - english
 - fellowship
-- ministry-updates
+- ministry
+
 ---
 
 <a href="https://s3.amazonaws.com/content.ofreport.com/2008/12/dsc_37023.jpg"><img class="size-medium wp-image-117" title="dsc_37023" src="https://s3.amazonaws.com/content.ofreport.com/2008/12/dsc_37023-300x201.jpg" alt=" " width="300" height="201" /></a>

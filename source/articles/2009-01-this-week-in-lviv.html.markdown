@@ -1,13 +1,13 @@
 ---
+
 title: This week in L'viv
 date: '2009-01-27 08:51:21'
 tags:
 - abs
-- bryan-shufelt
+- bryan shufelt
 - family
-- family-updates
 - ministry
-- ministry-updates
+
 ---
 
 With the arrival of a new team member, preparations for this summer's outreach, the ongoing development and upkeep of our correspondence Bible course (CBC), and two growing little girls, our family is keeping pretty busy these days! Here's a quick news update to fill you in on the latest.

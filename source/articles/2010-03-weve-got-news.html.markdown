@@ -2,8 +2,8 @@
 title: We've Got News
 date: '2010-03-23 16:44:04'
 tags:
-- family-updates
-- ministry-updates
+- family
+- ministry
 ---
 
 Since our last post (which, yes, has been entirely too long) much has happened. So much, in fact, that I'm not quite sure where to begin. I suppose I'll start with the news that it most exciting:

@@ -1,16 +1,16 @@
 ---
+
 title: When God Provides
 date: '2009-03-23 09:18:44'
 tags:
-- economics
 - family
-- family-updates
 - testimony
+
 ---
 
 In 1997, during my first trip to Ukraine, I read a book called *Hudson Taylor's Spiritual Secret*. I was deeply impressed by this man's willingness to trust God for his needs as a missionary. Hudson Taylor never asked people for money; he made his needs known to God alone. When I read that, I immediately knew that this was what God wanted for my ministry as well. Nearly twelve years later, I can say that God has indeed held up His end of the bargain. Not once have my family and I lacked for any need that we have ever had on the mission field. We make our requests known to our Heavenly Father, and He meets our needs in amazing ways. This post is a small attempt on my part to honor the Lord by documenting some of the ways that He has provided for us in recent weeks. I hope it will be an encouragement to you that our God is very, very faithful.
 
-<!--more-->In these days, the world is going through a financial crisis. While we know that God's hand is not shortened by economics, such times can present real trials that test our faith. We say we trust God, but in our hearts do we really think that He can provide our needs, even in a recession? I must admit that I too have been tempted to doubt at times. And yet God proves His power and faithfulness to me time and time again.
+In these days, the world is going through a financial crisis. While we know that God's hand is not shortened by economics, such times can present real trials that test our faith. We say we trust God, but in our hearts do we really think that He can provide our needs, even in a recession? I must admit that I too have been tempted to doubt at times. And yet God proves His power and faithfulness to me time and time again.
 
 In recent months, our family too has felt the effects of the economic crisis. Prices here continue to go up. But over the past couple of weeks, I have been amazed at how God has blessed us in the midst of these trials in ways that I would never have imagined.
 

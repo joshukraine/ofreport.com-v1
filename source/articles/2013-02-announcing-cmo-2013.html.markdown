@@ -2,7 +2,7 @@
 
 title: Announcing CMO 2013
 date: '2013-02-13 16:25:35'
-tags: newsletter, cmo, Bible First
+tags: newsletter, cmo, bible first
 author: ['Joshua Steele', '@joshukraine']
 download: 'OFR-Feb-2013.pdf'
 image: '2013/02/cmo-2013-tents.jpg'

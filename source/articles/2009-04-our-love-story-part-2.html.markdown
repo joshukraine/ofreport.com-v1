@@ -1,9 +1,11 @@
 ---
+
 title: Our Love Story, Part 2
 date: '2009-04-14 12:08:41'
 tags:
-- family-updates
-- our-love-story
+- love story
+- family
+
 ---
 
 <p style="text-align: left;">*The following post is the second installment in a series of articles we are publishing about how God brought us together as a couple. If you haven't already done so, be sure to *<a href="http://www.OFReport.com/2009/03/our-love-story/">*read Part 1 first*</a>*.*</p>

@@ -1,9 +1,12 @@
 ---
+
 title: Our Love Story
 date: '2009-03-02 03:53:20'
 tags:
-- family-updates
-- our-love-story
+- family
+- love story
+author: Kelsie Steele
+
 ---
 
 Joshua and I have often expressed how much we wished we had written our love story in a more detailed manner. Outside of a short <a href="http://www.ofreport.com/wp-content/plugins/download-monitor/download.php?id=5">newsletter version</a> for our missionary report, we have never recorded all that God did in bringing us together. Every time we retell the story of how we met, we stand in awe of the great God that we serve, and His love and care for His children. Recently, as we were discussing this, it occurred to us that our blog would provide us with the perfect opportunity to write our story in short snippets, without having to leave out any juicy details.  =) We are quite excited about publishing a series of posts over the coming weeks that document the story of how we began our lives together.

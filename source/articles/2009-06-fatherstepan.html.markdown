@@ -4,7 +4,6 @@ date: '2009-06-10 12:25:46'
 tags:
 - cmo
 - ministry
-- ministry-updates
 ---
 
 During our first CMO project in 2006, we showed The Light of the World in a very small village called Khashchovanya. By the time of that showing, we had already experienced a fair amount of resistance from Catholic priests in other villages. Thus I was quite surprised when we saw the priest from Khashchovanya present at our showing along with his children! He viewed the entire film, and listened without objection to my Gospel presentation at the end.

@@ -26,13 +26,5 @@ layout: home
       = link_to "Read more", article
 
 - if paginate && num_pages > 1
-  %nav.pagination-links
-    - if prev_page
-      %span.page-first= link_to "&laquo; First", "/"
-      %span.page-prev= link_to "&lsaquo; Prev", prev_page
-
-    %span.page-current #{page_number} of #{num_pages}
-
-    - if next_page
-      %span.page-next= link_to "Next &rsaquo;", next_page
-      %span.page-last= link_to "Last &raquo;", "/page/#{num_pages}/"
+  = partial "partials/pagination", locals: { first_page: "/",
+    last_page: "/page/#{num_pages}/" }

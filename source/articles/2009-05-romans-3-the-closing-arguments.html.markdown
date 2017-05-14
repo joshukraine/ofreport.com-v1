@@ -2,7 +2,7 @@
 title: 'Romans 3: The Closing Arguments'
 date: '2009-05-16 05:59:22'
 tags:
-- ministry-updates
+- ministry
 ---
 
 For the past few weeks at <a href="http://www.euroteamoutreach.org/index.php?p=abs" target="_blank">ABS</a>, we've been teaching through the first two chapters of Romans. Since his opening statement in Romans 1:18, Paul has built an air-tight case against the ungodly. Furthermore, having drawn us into a position of judgment, he has shown that we who consider ourselves to be "better than the wicked" are in fact just as guilty, condemned by our own mouths.

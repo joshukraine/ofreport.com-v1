@@ -1,12 +1,14 @@
 ---
+
 title: Snapshots from ABS
 date: '2009-02-04 21:06:05'
 tags:
 - abs
-- bible-study
-- cbc
-- english-club
-- ministry-updates
+- bible study
+- bible first
+- english club
+- ministry
+
 ---
 
 <div class="mceTemp mceIEcenter" style="text-align: left;">We had a great turn out for English Club and Audio Bible Study (ABS) last night! Thanks to everyone for the prayers that are going up for this ministry!</div>

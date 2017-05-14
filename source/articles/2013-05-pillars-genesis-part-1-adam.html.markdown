@@ -2,7 +2,7 @@
 
 title: 'The Seven Pillars of Genesis, Part 1: Adam'
 date: '2013-05-25 10:00:02'
-tags: Bible First
+tags: bible first
 author: ['Joshua Steele', '@joshukraine']
 
 ---

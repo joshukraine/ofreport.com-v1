@@ -1,10 +1,11 @@
 ---
+
 title: Good and Evil Shipment has Arrived!
 date: '2009-01-02 11:14:07'
 tags:
-- good-and-evil
+- good and evil
 - ministry
-- ministry-updates
+
 ---
 
 We are very pleased to report that the entire shipment of *Good and Evil* books has arrived at last. On Tuesday morning, we unloaded all four palettes of books in L'viv. We have a growing list of people who have received the short version of G&amp;E, and have requested a full copy. We are thrilled that we can finally begin filling these requests. We believe that God will use this book to draw Ukrainians to Christ.

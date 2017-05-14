@@ -1,11 +1,11 @@
 ---
+
 title: Merry Christmas!!
 date: '2008-12-27 15:25:21'
 tags:
 - family
-- family-updates
 - fun
-- misc
+
 ---
 
 [caption id="attachment_192" align="aligncenter" width="300" caption="Abigail Hope and Rebekah Praise, Christmas Eve 2008"]<a href="https://s3.amazonaws.com/content.ofreport.com/2008/12/dsc_3850.jpg"><img class="size-medium wp-image-192" title="dsc_3850" src="https://s3.amazonaws.com/content.ofreport.com/2008/12/dsc_3850-300x199.jpg" alt="Abigail Hope and Rebekah Praise, Christmas Eve 2008" width="300" height="199" /></a>[/caption]

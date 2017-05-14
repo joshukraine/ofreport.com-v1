@@ -2,7 +2,7 @@
 
 title: Gearing Up for CMO
 date: '2014-05-13 11:19:50'
-tags: newsletter, cmo, Bible First
+tags: newsletter, cmo, bible first
 author: ['Joshua Steele', '@joshukraine']
 download: 'OFR-Apr-May-2014.pdf'
 image: '2014/05/IMG_4615-1024x682.jpg'

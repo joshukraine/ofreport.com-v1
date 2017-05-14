@@ -1,8 +1,10 @@
 ---
+
 title: New OFR Posted!
 date: '2008-10-10 12:20:48'
 tags:
-- ministry-updates
+- ministry
+
 ---
 
 [caption id="attachment_16" align="aligncenter" width="350" caption=" "]<a href="http://euroteamoutreach.org/wp-steele/wp-content/uploads/2008/11/steele_cmo2008_ofr_web.jpg"><img class="size-full wp-image-16" title="steele_cmo2008_ofr_web" src="http://euroteamoutreach.org/wp-steele/wp-content/uploads/2008/11/steele_cmo2008_ofr_web.jpg" alt=" " width="350" height="244" /></a>[/caption]

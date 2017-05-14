@@ -2,7 +2,7 @@
 
 title: 'The Seven Pillars of Genesis, Part 2: Abel'
 date: '2013-06-01 12:00:29'
-tags: Bible First
+tags: bible first
 author: ['Joshua Steele', '@joshukraine']
 
 ---
