@@ -2,7 +2,7 @@
 
 title: 'The Seven Pillars of Genesis, Part 4: Abraham'
 date: '2013-06-15 12:00:44'
-tags: Bible First
+tags: bible first
 author: ['Joshua Steele', '@joshukraine']
 
 ---

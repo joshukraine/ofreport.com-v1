@@ -5,7 +5,7 @@ tags:
 - abs
 - bible study
 - english club
-- Good and Evil
+- good and evil
 - ministry
 
 ---

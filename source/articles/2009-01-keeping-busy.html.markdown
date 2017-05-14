@@ -1,4 +1,5 @@
 ---
+
 title: Keeping Busy!
 date: '2009-01-15 15:09:37'
 tags:
@@ -6,7 +7,7 @@ tags:
 - bible study
 - english club
 - ministry
-- ministry
+
 ---
 
 [caption id="attachment_283" align="aligncenter" width="300" caption="Standing (from left to right): Jessie, Evelina, Kelsie, Taras, Roman. Sitting: Joshua, Bohdan, Marian, Roman, Anya. (Click the picture to enlarge.)"]<a href="https://s3.amazonaws.com/content.ofreport.com/2009/01/abs-jan13-20093.jpg"><img class="size-medium wp-image-283" title="abs-jan13-20093" src="https://s3.amazonaws.com/content.ofreport.com/2009/01/abs-jan13-20093-300x199.jpg" alt="Standing (from left to right): Jessie, Evelina, Kelsie, Taras, Roman. Sitting: Joshua, Bohdan, Marian, Roman, Anya." width="300" height="199" /></a>[/caption]

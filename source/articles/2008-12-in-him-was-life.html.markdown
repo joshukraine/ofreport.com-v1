@@ -1,9 +1,11 @@
 ---
+
 title: '"In Him was life..."'
 date: '2008-12-23 21:24:32'
 tags:
 - bible study
 - ministry
+
 ---
 
 "Did you notice that Roman brought a Bible with him this time?"

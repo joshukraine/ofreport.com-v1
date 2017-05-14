@@ -2,7 +2,7 @@
 
 title: 'The Seven Pillars of Genesis, Part 5: Isaac'
 date: '2013-06-22 12:00:58'
-tags: Bible First
+tags: bible first
 author: ['Joshua Steele', '@joshukraine']
 
 ---

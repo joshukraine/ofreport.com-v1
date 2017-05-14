@@ -2,7 +2,7 @@
 
 title: Registered!
 date: '2012-05-01 19:04:20'
-tags: newsletter, Bible First, ukraine, ministry
+tags: newsletter, bible first, ukraine, ministry
 author: ['Joshua Steele', '@joshukraine']
 download: 'OFR-May-2012.pdf'
 image: '2012/05/reg-card.jpg'

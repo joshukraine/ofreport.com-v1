@@ -3,7 +3,7 @@
 title: About Love Relationships
 date: '2009-01-06 16:05:36'
 tags:
-- Bible First
+- bible first
 - ministry
 
 ---

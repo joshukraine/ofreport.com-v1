@@ -2,7 +2,7 @@
 
 title: 'The Seven Pillars of Genesis, Part 6: Jacob'
 date: '2013-06-29 12:00:58'
-tags: Bible First
+tags: bible first
 author: ['Joshua Steele', '@joshukraine']
 
 ---

@@ -1,4 +1,5 @@
 ---
+
 title: How to Study the Bible
 date: '2009-03-11 14:36:36'
 tags:
@@ -6,6 +7,7 @@ tags:
 - bible study
 - english club
 - ministry
+
 ---
 
 We had our core group of men show up last night for English Club and Audio Bible Study (ABS)! As time has passed, we feel we have really gotten to know this group and that our friendships are steadily growing.

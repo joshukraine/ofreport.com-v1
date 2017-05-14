@@ -1,4 +1,5 @@
 ---
+
 title: Snapshots from Tuesday Night
 date: '2009-03-26 10:12:07'
 tags:
@@ -6,6 +7,7 @@ tags:
 - bible study
 - english club
 - ministry
+
 ---
 
 [caption id="attachment_579" align="aligncenter" width="201" caption="Marian examines a Bolivian souvenir during English Club. Our theme this week was &quot;Vacations&quot;."]<a href="https://s3.amazonaws.com/content.ofreport.com/2009/03/dsc_5132.jpg"><img class="size-medium wp-image-579" title="dsc_5132" src="https://s3.amazonaws.com/content.ofreport.com/2009/03/dsc_5132-201x300.jpg" alt="Marian examines a Bolivian souvenir during English Club. Our theme this week was &quot;Vacations&quot;." width="201" height="300" /></a>[/caption]

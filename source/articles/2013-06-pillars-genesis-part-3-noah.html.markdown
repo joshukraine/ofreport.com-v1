@@ -2,7 +2,7 @@
 
 title: 'The Seven Pillars of Genesis, Part 3: Noah'
 date: '2013-06-08 12:00:15'
-tags: Bible First
+tags: bible first
 author: ['Joshua Steele', '@joshukraine']
 
 ---

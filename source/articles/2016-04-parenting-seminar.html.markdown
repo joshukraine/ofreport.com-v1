@@ -2,7 +2,7 @@
 
 title: Parenting Seminar
 date: '2016-04-18 07:52:04'
-tags: newsletter, cmo, Bible First
+tags: newsletter, cmo, bible first
 author: ['Joshua Steele', '@joshukraine']
 download: 'OFR-Jan-Mar-2016.pdf'
 image: '2016/04/IMG_6934-1024x683.jpg'

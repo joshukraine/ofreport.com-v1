@@ -5,7 +5,7 @@ date: '2009-02-04 21:06:05'
 tags:
 - abs
 - bible study
-- Bible First
+- bible first
 - english club
 - ministry
 
