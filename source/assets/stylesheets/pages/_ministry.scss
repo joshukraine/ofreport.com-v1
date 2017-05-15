@@ -1,6 +1,3 @@
-.ministry-title {
-}
-
 .ministry-intro {
   border-bottom: 1px solid $base-border-color;
   margin-bottom: $base-spacing * 2;
@@ -41,9 +38,6 @@
   padding-bottom: $small-spacing;
 }
 
-.ministry-content__button {
-}
-
 .eto-logo__svg {
   height: 100%;
   width: 250px;
@@ -54,9 +48,9 @@
 }
 
 .bible-first-logo__svg {
-  position: relative;
-  left: 15px;
   height: 100%;
+  left: 15px;
+  position: relative;
   width: 450px;
 
   @include media-max($media-phone) {
