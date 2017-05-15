@@ -1,0 +1,13 @@
+.donate-content {
+  h3 { margin-top: 2em; }
+  strong { font-weight: 500; }
+}
+
+.donate-button {
+  @include margin(3em null);
+  text-align: center;
+}
+
+.donate-thanks {
+  @include margin(2em null);
+}

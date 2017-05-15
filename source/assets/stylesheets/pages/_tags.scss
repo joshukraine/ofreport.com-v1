@@ -1,16 +1,4 @@
 .tag-view__title {
-  @include margin(6em null);
-
-  text-align: center;
-
-  @include media-max($media-tablet) {
-    @include margin(4em null);
-  }
-
-  @include media-max($media-phone) {
-    @include margin(2em null);
-  }
-
   h1 {
     font-size: modular-scale(7);
     margin-bottom: 1rem;

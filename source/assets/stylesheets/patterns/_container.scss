@@ -15,3 +15,17 @@
 .container--spacing {
   @include margin($base-spacing null);
 }
+
+.container--title-area {
+  @include margin(4em null);
+
+  text-align: center;
+
+  @include media-max($media-phone) {
+    @include margin(2em null);
+
+    h1 {
+      font-size: modular-scale(6);
+    }
+  }
+}
