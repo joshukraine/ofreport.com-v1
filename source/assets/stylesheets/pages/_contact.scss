@@ -1,0 +1,12 @@
+.contact-subtext {
+  margin-bottom: $base-spacing * 2;
+  text-align: center;
+}
+
+.contact-form {
+  margin-bottom: $base-spacing;
+
+  textarea {
+    @include margin($base-spacing * 2 null $base-spacing);
+  }
+}
