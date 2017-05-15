@@ -2,10 +2,10 @@
 @import "reset/normalize";
 @import "vendor/font-awesome/font-awesome";
 @import "bourbon/bourbon";
+@import "mixins/mixins";
 @import "base/base";
 @import "neat/neat";
 
-@import "mixins/mixins";
 @import "pages/pages";
 @import "patterns/patterns";
 

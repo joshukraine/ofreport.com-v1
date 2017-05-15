@@ -128,6 +128,10 @@ $navigation-font-size-mobile: $small-font-size;
       margin: 0 7px;
     }
 
+    @include media-max($media-phone) {
+      margin: 0;
+    }
+
     &:last-of-type {
       margin-right: 0;
     }
