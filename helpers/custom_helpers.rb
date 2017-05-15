@@ -1,7 +1,7 @@
 module CustomHelpers
   def full_title(page_title=nil)
     page_title ||= ""
-    base_title = "MAIN SITE TITLE HERE"
+    base_title = data.site.title
     if page_title.empty?
       base_title
     else
