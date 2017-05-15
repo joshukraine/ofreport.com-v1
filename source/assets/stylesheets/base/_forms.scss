@@ -28,22 +28,21 @@ textarea {
 #{$all-text-inputs} {
   appearance: none;
   background-color: $base-background-color;
-  border: $base-border;
-  border-radius: $base-border-radius;
-  box-shadow: $form-box-shadow;
+  border: 0;
+  border-bottom: 1px solid shade($base-border-color, 20%);
   box-sizing: border-box;
   margin-bottom: $small-spacing;
-  padding: $base-spacing / 3;
+  padding: $base-spacing / 2 0;
   transition: border-color $base-duration $base-timing;
   width: 100%;
 
   &:hover {
-    border-color: shade($base-border-color, 20%);
+    border-color: shade($base-border-color, 40%);
   }
 
   &:focus {
-    border-color: $action-color;
-    box-shadow: $form-box-shadow-focus;
+    border: 0;
+    border-bottom: 1px solid $action-color;
     outline: none;
   }
 
@@ -62,7 +61,19 @@ textarea {
 }
 
 textarea {
+  border: 1px solid $base-border-color;
+  background-color: $base-border-color;
+  padding: $base-spacing / 2;
   resize: vertical;
+
+  &:hover {
+    border: 1px solid shade($base-border-color, 40%);
+  }
+
+  &:focus {
+    border: 1px solid $action-color;
+    outline: none;
+  }
 }
 
 [type="checkbox"],
