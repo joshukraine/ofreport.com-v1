@@ -21,6 +21,11 @@
   vertical-align: middle;
   white-space: nowrap;
 
+  @include media-max($media-phone) {
+    font-size: $small-font-size;
+    padding: $small-spacing;
+  }
+
   &:hover,
   &:focus {
     background-color: transparentize($action-color, 0.8);
