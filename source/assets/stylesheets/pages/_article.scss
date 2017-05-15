@@ -62,23 +62,6 @@
   }
 }
 
-.article-hero {
-  margin-bottom: $base-spacing * 2;
-  text-align: center;
-
-  @include media-max($media-tablet) {
-    margin-bottom: $base-spacing;
-  }
-
-  img {
-    border-radius: 15px;
-  }
-}
-
-.article-hero__caption {
-  @include padding(null 2em);
-}
-
 .article-body {
   h3 {
     @include margin($base-spacing null $small-spacing null)
