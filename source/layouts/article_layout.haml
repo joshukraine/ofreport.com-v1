@@ -18,9 +18,9 @@
 
   %section.wide-container
     - if current_article.data.image
-      .article-hero.column
+      .article-hero.hero-image.column
         = image_tag "https://s3.amazonaws.com/content.ofreport.com/#{current_article.data.image}"
-        .article-hero__caption
+        .hero-image__caption
           %p.caption-text #{current_article.data.caption}
 
 
