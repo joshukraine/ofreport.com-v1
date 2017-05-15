@@ -1,11 +1,28 @@
----
-layout: page_layout
----
-%h1 Family
-%h2 Family
-%h3 Family
-%h4 Family
-%h5 Family
-%h6 Family
+= wrap_layout :layout do
+  %section.container.navbar-top-spacing
+    .family-title.column.container--title-area
+      %h1 Pleased to meet you!
 
-%p Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  %section.wide-container
+    .family-hero.hero-image.column
+      = image_tag "steele-family-2016.jpg"
+      .family-hero__caption.hero-image__caption
+        %p.caption-text
+          The Steele Family<br>Joshua, Kelsie, Abigail, Rebekah, Hosanna, Kathryn, David
+
+  %section.container
+    .column
+      .family-bio
+        = partial "markdown/family"
+
+      %hr
+
+      .family-sending-church
+        %p
+          %strong Sending Church
+        %p
+          Fairpark Baptist Church<br>
+          6000 Crowley Road<br>
+          Fort Worth, TX 76134<br>
+        %p
+          = link_to "www.FairparkBaptist.org", "http://www.fairparkbaptist.org/"
