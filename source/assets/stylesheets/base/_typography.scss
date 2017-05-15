@@ -61,6 +61,10 @@ p {
   font-size: $base-font-size * 1.2;
   font-weight: 300;
   margin: 0 0 $small-spacing;
+
+  @include media-max($media-phone) {
+    font-size: $base-font-size;
+  }
 }
 
 
