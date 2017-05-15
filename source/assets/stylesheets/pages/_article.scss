@@ -1,23 +1,4 @@
-.article-header {
-  @include margin(5em null 4em);
-  text-align: center;
-
-  @include media-max($media-tablet) {
-    @include margin(3em null);
-  }
-
-  @include media-max($media-phone) {
-    @include margin(2em null);
-  }
-}
-
 .article-title {
-  @include media-max($media-phone) {
-    h1 {
-      font-size: modular-scale(6);
-    }
-  }
-
   h1 { margin-bottom: $small-spacing / 2; }
 }
 
