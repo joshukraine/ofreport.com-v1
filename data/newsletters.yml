@@ -1,22 +1,20 @@
+current_issue:
+  - title: "Meet David Noble"
+    issue: "March/April 2017"
+    file: "OFR-Mar-Apr-2017.pdf"
+
 issues_2017:
-  - title: "Meet David Noble"
-    issue: "March/April 2017"
-    file: "OFR-Mar-Apr-2017.pdf"
-  - title: "Meet David Noble"
-    issue: "March/April 2017"
-    file: "OFR-Mar-Apr-2017.pdf"
-  - title: "Meet David Noble"
-    issue: "March/April 2017"
-    file: "OFR-Mar-Apr-2017.pdf"
   - title: "Meet David Noble"
     issue: "March/April 2017"
     file: "OFR-Mar-Apr-2017.pdf"
 
 issues_2016:
-  - title: "CMO 2008: A Summary"
-    issue: "October 2008"
-    file: "steele_ofr_oct08.pdf"
+  - title: "Translators, Inc."
+    issue: "November/December 2016 (1.31 MB)"
+    file: "OFR-Nov-Dec-2016.pdf"
 
+# September/October 2016 (1.5 MB)
+# January - March, 2016 (1.95 MB)
 issues_2015:
   - title: "From Distance Learning..."
     issue: "September/October 2007"

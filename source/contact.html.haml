@@ -1,29 +1,32 @@
 ---
 title: Contact
-layout: page_layout
 ---
 
-.contact-title.container--title-area
-  %h1 Hello!
+%section.container.navbar-top-spacing
+  .column
+    .contact-title.container--title-area
+      %h1 Hello!
 
-.contact-subtext
-  %p
-    Need to get in touch? Drop us a line!
+    .contact-subtext
+      %p
+        Need to get in touch? Drop us a line!
 
-.contact-form
-  %form{ action: "https://formspree.io/#{data.site.contact_email}",
-         method: "POST" }
-    %input{ name: "full_name", type: "text", required: "",
-            placeholder: "What is your name?", maxlength: "100" }
-    %input{ name: "_replyto", type: "email", required: "",
-            placeholder: "What is your email?", maxlength: "100" }
-    %textarea{ name: "message", cols: "30", rows: "10", required: "",
-            placeholder: "What would you like to say?", maxlength: "3000" }
-    %input{ name: "_subject", type: "hidden",
-            value: "[OFReport.com] New Contact Request" }
-    %input{ name: "_next", type: "hidden",
-            value: "http://#{data.site.human_url}/contact/thanks/" }
-    %input{ name: "_gotcha", style: "display:none", type: "text" }
-    %input{ name: "_format", style: "display:none", type: "text",
-            value: "plain" }
-    %input{ type: "submit", value: "Send" }
+%section.narrow-container
+  .column
+    .contact-form
+      %form{ action: "https://formspree.io/#{data.site.contact_email}",
+             method: "POST" }
+        %input{ name: "full_name", type: "text", required: "",
+                placeholder: "What is your name?", maxlength: "100" }
+        %input{ name: "_replyto", type: "email", required: "",
+                placeholder: "What is your email?", maxlength: "100" }
+        %textarea{ name: "message", cols: "30", rows: "10", required: "",
+                placeholder: "What would you like to say?", maxlength: "3000" }
+        %input{ name: "_subject", type: "hidden",
+                value: "[OFReport.com] New Contact Request" }
+        %input{ name: "_next", type: "hidden",
+                value: "http://#{data.site.human_url}/contact/thanks/" }
+        %input{ name: "_gotcha", style: "display:none", type: "text" }
+        %input{ name: "_format", style: "display:none", type: "text",
+                value: "plain" }
+        %input{ type: "submit", value: "Send" }
