@@ -16,7 +16,6 @@
 }
 
 .archives-intro {
-  // border: 1px solid purple;
   margin-bottom: $base-spacing * 2;
 }
 
@@ -33,12 +32,12 @@
 }
 
 .archives-year {
-  // border: 1px solid green;
-  padding-right: $small-spacing;
+  padding-right: $base-spacing;
+
+  h3 { margin: 0; }
 }
 
 .archives-issues {
-  // border: 1px solid green;
   flex-grow: 1;
 }
 
@@ -47,5 +46,5 @@
 }
 
 .archives-issues__item {
-
+  font-size: $base-font-size * 1.2;
 }
