@@ -2,31 +2,30 @@
 title: Family
 ---
 
-= wrap_layout :layout do
-  %section.container.navbar-top-spacing
-    .family-title.column.container--title-area
-      %h1 Pleased to meet you!
+%section.container.navbar-top-spacing
+  .family-title.column.container--title-area
+    %h1 Pleased to meet you!
 
-  %section.wide-container
-    .family-hero.hero-image.column
-      = image_tag "steele-family-2016.jpg"
-      .family-hero__caption.hero-image__caption
-        %p.caption-text
-          The Steele Family<br>Joshua, Kelsie, Abigail, Rebekah, Hosanna, Kathryn, David
+%section.wide-container
+  .family-hero.hero-image.column
+    = image_tag "steele-family-2016.jpg"
+    .family-hero__caption.hero-image__caption
+      %p.caption-text
+        The Steele Family<br>Joshua, Kelsie, Abigail, Rebekah, Hosanna, Kathryn, David
 
-  %section.container
-    .column
-      .family-bio
-        = partial "markdown/family"
+%section.container
+  .column
+    .family-bio
+      = partial "markdown/family"
 
-      %hr
+    %hr
 
-      .family-sending-church
-        %p
-          %strong Sending Church
-        %p
-          Fairpark Baptist Church<br>
-          6000 Crowley Road<br>
-          Fort Worth, TX 76134<br>
-        %p
-          = link_to "www.FairparkBaptist.org", "http://www.fairparkbaptist.org/"
+    .family-sending-church
+      %p
+        %strong Sending Church
+      %p
+        Fairpark Baptist Church<br>
+        6000 Crowley Road<br>
+        Fort Worth, TX 76134<br>
+      %p
+        = link_to "www.FairparkBaptist.org", "http://www.fairparkbaptist.org/"

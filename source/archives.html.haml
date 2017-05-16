@@ -1,6 +1,133 @@
 ---
 title: Archives
-layout: page_layout
 ---
 
-%h1 Archives
+%section.container.navbar-top-spacing
+  .column
+    .archives-title.container--title-area
+      %h1 Through the Years
+
+    .archives-intro
+      = partial "markdown/ofr_archives_intro"
+
+%section.container
+  .column
+    .archives-segment
+      .archives-year
+        %h3 2017
+      .archives-issues
+        %ul.archives-issues__list.fa-ul
+          - data.newsletters.issues_2017.each do |item|
+            = partial "partials/archive_list_item", locals: { item: item }
+
+    .archives-segment
+      .archives-year
+        %h3 2016
+      .archives-issues
+        %ul.archives-issues__list.fa-ul
+          - data.newsletters.issues_2016.each do |item|
+            = partial "partials/archive_list_item", locals: { item: item }
+
+    .archives-segment
+      .archives-year
+        %h3 2015
+      .archives-issues
+        %ul.archives-issues__list.fa-ul
+          - data.newsletters.issues_2015.each do |item|
+            = partial "partials/archive_list_item", locals: { item: item }
+
+    .archives-segment
+      .archives-year
+        %h3 2014
+      .archives-issues
+        %ul.archives-issues__list.fa-ul
+          - data.newsletters.issues_2014.each do |item|
+            = partial "partials/archive_list_item", locals: { item: item }
+
+    .archives-segment
+      .archives-year
+        %h3 2013
+      .archives-issues
+        %ul.archives-issues__list.fa-ul
+          - data.newsletters.issues_2013.each do |item|
+            = partial "partials/archive_list_item", locals: { item: item }
+
+    .archives-segment
+      .archives-year
+        %h3 2012
+      .archives-issues
+        %ul.archives-issues__list.fa-ul
+          - data.newsletters.issues_2012.each do |item|
+            = partial "partials/archive_list_item", locals: { item: item }
+
+    .archives-segment
+      .archives-year
+        %h3 2011
+      .archives-issues
+        %ul.archives-issues__list.fa-ul
+          - data.newsletters.issues_2011.each do |item|
+            = partial "partials/archive_list_item", locals: { item: item }
+
+    .archives-segment
+      .archives-year
+        %h3 2010
+      .archives-issues
+        %ul.archives-issues__list.fa-ul
+          - data.newsletters.issues_2010.each do |item|
+            = partial "partials/archive_list_item", locals: { item: item }
+
+    .archives-segment
+      .archives-year
+        %h3 2009
+      .archives-issues
+        %ul.archives-issues__list.fa-ul
+          - data.newsletters.issues_2009.each do |item|
+            = partial "partials/archive_list_item", locals: { item: item }
+
+    .archives-segment
+      .archives-year
+        %h3 2008
+      .archives-issues
+        %ul.archives-issues__list.fa-ul
+          - data.newsletters.issues_2008.each do |item|
+            = partial "partials/archive_list_item", locals: { item: item }
+
+    .archives-segment
+      .archives-year
+        %h3 2007
+      .archives-issues
+        %ul.archives-issues__list.fa-ul
+          - data.newsletters.issues_2007.each do |item|
+            = partial "partials/archive_list_item", locals: { item: item }
+
+    .archives-segment
+      .archives-year
+        %h3 2006
+      .archives-issues
+        %ul.archives-issues__list.fa-ul
+          - data.newsletters.issues_2006.each do |item|
+            = partial "partials/archive_list_item", locals: { item: item }
+
+    .archives-segment
+      .archives-year
+        %h3 2005
+      .archives-issues
+        %ul.archives-issues__list.fa-ul
+          - data.newsletters.issues_2005.each do |item|
+            = partial "partials/archive_list_item", locals: { item: item }
+
+    .archives-segment
+      .archives-year
+        %h3 2004
+      .archives-issues
+        %ul.archives-issues__list.fa-ul
+          - data.newsletters.issues_2004.each do |item|
+            = partial "partials/archive_list_item", locals: { item: item }
+
+    .archives-segment
+      .archives-year
+        %h3 2003
+      .archives-issues
+        %ul.archives-issues__list.fa-ul
+          - data.newsletters.issues_2003.each do |item|
+            = partial "partials/archive_list_item", locals: { item: item }

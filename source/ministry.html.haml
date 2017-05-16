@@ -1,35 +1,36 @@
 ---
 title: Ministry
-layout: page_layout
 ---
 
-.ministry-title.container--title-area
-  %h1 We live to serve<br>Jesus Christ.
+%section.container.navbar-top-spacing
+  .column
+    .ministry-title.container--title-area
+      %h1 We live to serve<br>Jesus Christ.
 
-.ministry-intro
-  = partial "markdown/ministry-intro"
+    .ministry-intro
+      = partial "markdown/ministry-intro"
 
-.ministry-content
-  .ministry-content__section
-    .ministry-content__graphic.eto-logo
-      = inline_svg "eto-logo.svg", class: "eto-logo__svg"
-    .ministry-content__bio
-      = partial "markdown/eto"
-    .ministry-content__button
-      = link_to "Visit euroteamoutreach.org", "#", class: "button"
+    .ministry-content
+      .ministry-content__section
+        .ministry-content__graphic.eto-logo
+          = inline_svg "eto-logo.svg", class: "eto-logo__svg"
+        .ministry-content__bio
+          = partial "markdown/eto"
+        .ministry-content__button
+          = link_to "Visit euroteamoutreach.org", "http://euroteamoutreach.org/", class: "button"
 
-  .ministry-content__section
-    .ministry-content__graphic.bible-first-logo
-      = inline_svg "bible-first-logo.svg", class: "bible-first-logo__svg"
-    .ministry-content__bio
-      = partial "markdown/bible-first"
-    .ministry-content__button
-      = link_to "Visit getbiblefirst.com", "#", class: "button"
+      .ministry-content__section
+        .ministry-content__graphic.bible-first-logo
+          = inline_svg "bible-first-logo.svg", class: "bible-first-logo__svg"
+        .ministry-content__bio
+          = partial "markdown/bible-first"
+        .ministry-content__button
+          = link_to "Visit getbiblefirst.com", "http://getbiblefirst.com/", class: "button"
 
-  .ministry-content__section
-    .ministry-content__graphic.cmo-logo
-      = inline_svg "cmo-logo.svg", class: "cmo-logo__svg"
-    .ministry-content__bio
-      = partial "markdown/cmo"
-    .ministry-content__button
-      = link_to "Visit cmoproject.org", "#", class: "button"
+      .ministry-content__section
+        .ministry-content__graphic.cmo-logo
+          = inline_svg "cmo-logo.svg", class: "cmo-logo__svg"
+        .ministry-content__bio
+          = partial "markdown/cmo"
+        .ministry-content__button
+          = link_to "Visit cmoproject.org", "http://cmoproject.org/", class: "button"

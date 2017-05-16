@@ -30,6 +30,7 @@ textarea {
   background-color: $base-background-color;
   border: 0;
   border-bottom: 1px solid shade($base-border-color, 20%);
+  border-radius: 0;
   box-sizing: border-box;
   margin-bottom: $small-spacing;
   padding: $base-spacing / 2 0;
