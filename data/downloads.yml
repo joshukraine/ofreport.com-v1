@@ -1,0 +1,17 @@
+pdf_newsletters:
+  - title: "Meet David Noble"
+    issue: "March/April 2017"
+    path: "OFR-Mar-Apr-2017.pdf"
+  - title: "CMO 2008: A Summary"
+    issue: "October 2008"
+    path: "steele_ofr_oct08.pdf"
+  - title: "From Distance Learning..."
+    issue: "September/October 2007"
+    path: "steele_ofr_sep-oct_2007.pdf"
+  - title: "Teaching All Nations"
+    issue: "September/October 2006"
+    path: "steele_ofr_sep-oct_2006.pdf"
+  - title: "Answering the Call"
+    issue: "September/October 2003"
+    path: "steele_ofr_sep-oct_2003.pdf"
+

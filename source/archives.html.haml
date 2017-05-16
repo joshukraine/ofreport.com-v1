@@ -3,4 +3,14 @@ title: Archives
 layout: page_layout
 ---
 
-%h1 Archives
+.archives-title.container--title-area
+  %h1 Archives
+
+.archives-subtext
+  %p Here are the past issues of Overseas Field Report.
+
+.archives-content
+
+  %ul.fa-ul
+    - data.downloads.pdf_newsletters.each do |newsletter|
+      = partial "partials/pdf_newsletter", locals: { newsletter: newsletter }
