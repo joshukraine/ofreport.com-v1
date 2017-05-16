@@ -11,6 +11,28 @@ layout: page_layout
 
 .archives-content
 
-  %ul.fa-ul
-    - data.downloads.pdf_newsletters.each do |newsletter|
-      = partial "partials/pdf_newsletter", locals: { newsletter: newsletter }
+  %h2 2017
+  %ul.archives-content__list.fa-ul
+    - data.newsletters.issues_2017.each do |newsletter|
+      = partial "partials/archive_segment", locals: { newsletter: newsletter }
+
+  %hr
+
+  %h2 2016
+  %ul.archives-content__list.fa-ul
+    - data.newsletters.issues_2016.each do |newsletter|
+      = partial "partials/archive_segment", locals: { newsletter: newsletter }
+
+  %hr
+
+  %h2 2015
+  %ul.archives-content__list.fa-ul
+    - data.newsletters.issues_2015.each do |newsletter|
+      = partial "partials/archive_segment", locals: { newsletter: newsletter }
+
+  %hr
+
+  %h2 2014
+  %ul.archives-content__list.fa-ul
+    - data.newsletters.issues_2014.each do |newsletter|
+      = partial "partials/archive_segment", locals: { newsletter: newsletter }
