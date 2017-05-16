@@ -1,38 +1,31 @@
 ---
 title: Archives
-layout: page_layout
 ---
 
-.archives-title.container--title-area
-  %h1 Archives
+= wrap_layout :layout do
+  %section.container.navbar-top-spacing
+    .column
+      .archives-title.container--title-area
+        %h1 Through the Years
 
-.archives-subtext
-  %p Here are the past issues of Overseas Field Report.
+      .archives-intro
+        = partial "markdown/ofr_archives_intro"
 
-.archives-content
+  %section.narrow-container
+    .column
 
-  %h2 2017
-  %ul.archives-content__list.fa-ul
-    - data.newsletters.issues_2017.each do |newsletter|
-      = partial "partials/archive_segment", locals: { newsletter: newsletter }
+      .archives-segment
+        .archives-year
+          %h3 2017
+        .archives-issues
+          %ul.archives-issues__list.fa-ul
+            - data.newsletters.issues_2017.each do |newsletter|
+              = partial "partials/archive_list_item", locals: { newsletter: newsletter }
 
-  %hr
-
-  %h2 2016
-  %ul.archives-content__list.fa-ul
-    - data.newsletters.issues_2016.each do |newsletter|
-      = partial "partials/archive_segment", locals: { newsletter: newsletter }
-
-  %hr
-
-  %h2 2015
-  %ul.archives-content__list.fa-ul
-    - data.newsletters.issues_2015.each do |newsletter|
-      = partial "partials/archive_segment", locals: { newsletter: newsletter }
-
-  %hr
-
-  %h2 2014
-  %ul.archives-content__list.fa-ul
-    - data.newsletters.issues_2014.each do |newsletter|
-      = partial "partials/archive_segment", locals: { newsletter: newsletter }
+      .archives-segment
+        .archives-year
+          %h3 2016
+        .archives-issues
+          %ul.archives-issues__list.fa-ul
+            - data.newsletters.issues_2017.each do |newsletter|
+              = partial "partials/archive_list_item", locals: { newsletter: newsletter }

@@ -12,6 +12,13 @@
   position: relative;
 }
 
+.narrow-container {
+  @include grid-container;
+  @include margin(null auto);
+  max-width: 550px;
+  position: relative;
+}
+
 .container--spacing {
   @include margin($base-spacing null);
 }

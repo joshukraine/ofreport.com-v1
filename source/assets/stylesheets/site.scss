@@ -11,3 +11,41 @@
 
 ///////////// SANDBOX //////////////////////////////////////////////////////////
 
+.archives-title {
+
+}
+
+.archives-intro {
+  // border: 1px solid purple;
+  margin-bottom: $base-spacing;
+}
+
+.archives-segment {
+  border-bottom: 1px solid $base-border-color;
+  display: flex;
+  margin-bottom: $base-spacing;
+  padding-bottom: $base-spacing;
+
+  &:last-of-type {
+    border-bottom: 0;
+    padding-bottom: 0;
+  }
+}
+
+.archives-year {
+  // border: 1px solid green;
+  padding-right: $small-spacing;
+}
+
+.archives-issues {
+  // border: 1px solid green;
+  flex-grow: 1;
+}
+
+.archives-issues__list {
+
+}
+
+.archives-issues__item {
+
+}
