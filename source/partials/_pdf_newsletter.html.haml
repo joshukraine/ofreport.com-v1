@@ -1,3 +1,4 @@
 %li
   %i.fa-li.fa.fa-file-pdf-o
-  = link_to "#{newsletter.title} (#{newsletter.issue})", newsletter.path
+  = link_to data.site.content_server + "downloads/" + newsletter.file do
+    #{newsletter.title} (#{newsletter.issue})
