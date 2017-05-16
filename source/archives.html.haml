@@ -2,30 +2,29 @@
 title: Archives
 ---
 
-= wrap_layout :layout do
-  %section.container.navbar-top-spacing
-    .column
-      .archives-title.container--title-area
-        %h1 Through the Years
+%section.container.navbar-top-spacing
+  .column
+    .archives-title.container--title-area
+      %h1 Through the Years
 
-      .archives-intro
-        = partial "markdown/ofr_archives_intro"
+    .archives-intro
+      = partial "markdown/ofr_archives_intro"
 
-  %section.narrow-container
-    .column
+%section.narrow-container
+  .column
 
-      .archives-segment
-        .archives-year
-          %h3 2017
-        .archives-issues
-          %ul.archives-issues__list.fa-ul
-            - data.newsletters.issues_2017.each do |newsletter|
-              = partial "partials/archive_list_item", locals: { newsletter: newsletter }
+    .archives-segment
+      .archives-year
+        %h3 2017
+      .archives-issues
+        %ul.archives-issues__list.fa-ul
+          - data.newsletters.issues_2017.each do |newsletter|
+            = partial "partials/archive_list_item", locals: { newsletter: newsletter }
 
-      .archives-segment
-        .archives-year
-          %h3 2016
-        .archives-issues
-          %ul.archives-issues__list.fa-ul
-            - data.newsletters.issues_2016.each do |newsletter|
-              = partial "partials/archive_list_item", locals: { newsletter: newsletter }
+    .archives-segment
+      .archives-year
+        %h3 2016
+      .archives-issues
+        %ul.archives-issues__list.fa-ul
+          - data.newsletters.issues_2016.each do |newsletter|
+            = partial "partials/archive_list_item", locals: { newsletter: newsletter }
