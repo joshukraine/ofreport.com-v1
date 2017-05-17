@@ -11,3 +11,71 @@
 
 ///////////// SANDBOX //////////////////////////////////////////////////////////
 
+.mc-subscribe__inner {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: $base-spacing * 2;
+
+  @include media-max($media-phone) {
+    flex-direction: column;
+  }
+}
+
+.mc-subscribe__email {
+  @include border-left-radius($base-border-radius);
+  @include border-right-radius(0);
+
+  @include border-width(1px 0 1px 1px);
+  @include border-style(solid);
+  @include border-color($light-gray);
+
+  margin: 0;
+  padding: $base-spacing / 2;
+
+  @include media-max($media-phone) {
+    @include border-top-radius($base-border-radius);
+    @include border-bottom-radius(0);
+    @include border-width(1px 1px 0 1px);
+  }
+
+  &:hover {
+    @include border-color(shade($light-gray, 20%));
+    @include border-width(1px 0 1px 1px);
+
+    @include media-max($media-phone) {
+      @include border-width(1px 1px 0 1px);
+    }
+  }
+
+  &:focus {
+    @include border-color($blue);
+    @include border-width(1px 0 1px 1px);
+    outline: none;
+
+    @include media-max($media-phone) {
+      @include border-width(1px 1px 0 1px);
+    }
+  }
+}
+
+.mc-subscribe__button {
+  @include border-left-radius(0);
+  @include border-right-radius($base-border-radius);
+  background-color: $blue;
+  color: $white;
+  font-family: $base-font-family;
+  font-size: $base-font-size;
+  padding: $base-spacing / 2;
+
+  @include media-max($media-phone) {
+    @include border-bottom-radius($base-border-radius);
+    @include border-top-radius(0);
+    font-family: $base-font-family;
+    font-size: $base-font-size;
+  }
+
+  &:hover,
+  &:focus {
+    background-color: shade($blue, 20%);
+  }
+}

@@ -1,0 +1,11 @@
+.mc-subscribe
+  %form{ action: data.site.mailchimp_url, method: "post",
+    name: "mc-embedded-subscribe-form", novalidate: "", target: "_blank" }
+    .mc-subscribe__inner
+      %input.mc-subscribe__email{ name: "EMAIL", placeholder: "Your email", required: "",
+        type: "email", value: "" }
+      %div{ "aria-hidden" => "true",
+        style: "position: absolute; left: -5000px;" }
+        %input{ name: "b_1e0c65850b60905f65b151819_97b9f6a559",
+          tabindex: "-1", type: "text", value: "" }
+      %input.mc-subscribe__button{ name: "subscribe", type: "submit", value: "Subscribe" }
