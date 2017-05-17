@@ -2,7 +2,7 @@
   %form{ action: data.site.mailchimp_url, method: "post",
     name: "mc-embedded-subscribe-form", novalidate: "", target: "_blank" }
     .mc-subscribe__inner
-      %input.mc-subscribe__email{ name: "EMAIL", placeholder: "Your email", required: "",
+      %input.mc-subscribe__email{ name: "EMAIL", placeholder: "you@example.com", required: "",
         type: "email", value: "" }
       %div{ "aria-hidden" => "true",
         style: "position: absolute; left: -5000px;" }

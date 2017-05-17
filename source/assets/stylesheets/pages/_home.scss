@@ -7,11 +7,11 @@
   }
 
   @include media-max($media-tablet) {
-    @include margin(4em 0.5em 2em);
+    @include margin(4em 0.5em 3em);
   }
 
   @include media-max($media-phone) {
-    @include margin(2em 0 0);
+    @include margin(2em 0);
   }
 }
 

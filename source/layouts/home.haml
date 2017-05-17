@@ -17,7 +17,10 @@
           = link_to "/" do
             = inline_svg "ofr-logo-2017.svg", class: "home-logo__svg"
 
-    %section.container.container--spacing
+    %section.narrow-container
       .column
         = partial "partials/subscribe_form"
+
+    %section.container
+      .column
         = yield
