@@ -25,6 +25,11 @@
   margin-bottom: $base-spacing * 1.5;
   padding-bottom: $base-spacing * 1.5;
 
+  @include media-max($media-phone) {
+    margin-bottom: $base-spacing;
+    padding-bottom: $base-spacing;
+  }
+
   &:last-of-type {
     border-bottom: 0;
     margin-bottom: 0;

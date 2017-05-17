@@ -3,7 +3,7 @@
   text-align: center;
 
   @include media-max($media-tablet) {
-    margin-bottom: $base-spacing;
+    margin-bottom: 0;
   }
 
   img {
@@ -17,4 +17,8 @@
 
 .hero-image__caption {
   @include padding(null 2em);
+
+  @include media-max($media-phone) {
+    padding: 0;
+  }
 }

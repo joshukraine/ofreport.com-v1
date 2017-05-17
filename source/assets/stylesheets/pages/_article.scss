@@ -75,6 +75,10 @@
   li {
     font-size: $base-font-size * 1.2;
     font-weight: 300;
+
+    @include media-max($media-phone) {
+      font-size: $base-font-size;
+    }
   }
 
   iframe {
