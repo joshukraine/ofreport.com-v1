@@ -15,10 +15,10 @@
 }
 
 .archives-year {
-  padding-right: $base-spacing;
+  min-width: 85px;
 
   @include media-max($media-phone) {
-    padding-right: $small-spacing;
+    min-width: 55px;
   }
 
   h3 {

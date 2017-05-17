@@ -26,10 +26,11 @@ textarea {
 }
 
 #{$all-text-inputs} {
+  @include border-width(0 0 1px 0);
+  @include border-style(solid);
+  @include border-color(shade($base-border-color, 20%));
   appearance: none;
   background-color: $base-background-color;
-  border: 0;
-  border-bottom: 1px solid shade($base-border-color, 20%);
   border-radius: 0;
   box-sizing: border-box;
   margin-bottom: $small-spacing;
@@ -38,12 +39,11 @@ textarea {
   width: 100%;
 
   &:hover {
-    border-color: shade($base-border-color, 40%);
+    @include border-color(shade($base-border-color, 40%));
   }
 
   &:focus {
-    border: 0;
-    border-bottom: 1px solid $action-color;
+    @include border-color($action-color);
     outline: none;
   }
 
@@ -57,7 +57,7 @@ textarea {
   }
 
   &::placeholder {
-    color: tint($base-font-color, 40%);
+    color: $light-gray;
   }
 }
 
