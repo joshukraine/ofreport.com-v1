@@ -1,3 +1,11 @@
+.mc-subscribe {
+  @include margin(0 2em);
+
+  @include media-max($media-phone) {
+    margin: 0;
+  }
+}
+
 .mc-subscribe__inner {
   display: flex;
   flex-direction: row;
@@ -5,6 +13,7 @@
 
   @include media-max($media-phone) {
     flex-direction: column;
+    margin-bottom: $small-spacing;
   }
 }
 
@@ -15,6 +24,7 @@
   @include border-style(solid);
   @include border-color($light-gray);
 
+  flex: 1;
   margin: 0;
   padding: $base-spacing / 2;
 

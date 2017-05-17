@@ -1,0 +1,43 @@
+%footer.universal-footer
+  .footer-top
+    .footer-top__verse.wide-container
+      %p
+        But as we were allowed of God to be put in trust with the gospel, even so we speak;
+        not as pleasing men, but God, which trieth our hearts. 1 Thessalonians 2:4
+
+  .footer-middle
+    .footer-links.narrow-container
+      %ul.footer-links__left
+        %li.footer-links__item= link_to "Family", "/family"
+        %li.footer-links__item= link_to "Ministry", "/ministry"
+        %li.footer-links__item= link_to "Archives", "/archives"
+      %ul.footer-links__center
+        %li.footer-links__item= link_to "Contact", "/contact"
+        %li.footer-links__item= link_to "Subscribe", "http://ofreport.us6.list-manage.com/subscribe/post?u=1e0c65850b60905f65b151819&id=97b9f6a559"
+        %li.footer-links__item= link_to "Donate", "/donate"
+      %ul.footer-links__right
+        %li.footer-links__item= link_to "ETO", "http://euroteamoutreach.org/"
+        %li.footer-links__item= link_to "Bible First", "http://getbiblefirst.com/"
+        %li.footer-links__item= link_to "CMO", "http://www.cmoproject.org/"
+
+    %ul.footer-social.narrow-container
+      %li.footer-social__icon
+        = link_to "https://www.facebook.com/joshukraine",
+          class: "footer-social__facebook", title: "Joshua on Facebook" do
+          = image_tag "facebook-logo-circle.png", alt: "Joshua on Facebook"
+      %li.footer-social__icon
+        = link_to "https://twitter.com/joshukraine",
+          class: "footer-social__twitter", title: "Joshua on Twitter" do
+          = image_tag "twitter-logo-circle.png", alt: "Joshua on Twitter"
+      %li.footer-social__icon
+        = link_to "https://github.com/joshukraine/ofreport.com",
+          class: "footer-social__github", title: "View source on GitHub" do
+          = image_tag "github-logo-circle.png", alt: "View source on GitHub"
+
+  .footer-lower
+    .footer-copyright
+      %p.footer-copyright__jk
+        &copy;
+        %span.year
+        Joshua and Kelsie Steele
+      %p.footer-copyright__bf Bible First is a registered trademark of Euro Team Outreach, Inc.
