@@ -10,3 +10,80 @@
 @import "patterns/patterns";
 
 ///////////// SANDBOX //////////////////////////////////////////////////////////
+
+$footer-background: desaturate(darken($blue, 15%), 30%);
+$footer-border-color: transparentize($white, 0.7);
+$footer-text-color: transparentize($white, 0.5);
+
+.universal-footer {
+  background-color: $footer-background;
+  text-align: center;
+
+  p {
+    color: $footer-text-color;
+    font-size: $base-font-size;
+    font-weight: 300;
+    margin: 0;
+  }
+}
+
+.footer-top,
+.footer-middle {
+  border-bottom: 1px solid $footer-border-color;
+}
+
+.footer-top,
+.footer-middle,
+.footer-lower {
+  @include padding($base-spacing);
+
+  @include media-max($media-phone) {
+    @include padding($base-spacing $small-spacing);
+  }
+}
+
+.footer-top {
+  p {
+    text-transform: uppercase;
+
+    @include media-max($media-phone) {
+      font-size: $small-font-size;
+    }
+  }
+}
+
+.footer-links {
+  display: flex;
+
+  a {
+    color: $footer-text-color;
+    font-weight: 300;
+
+    @include media-max($media-phone) {
+      font-size: $small-font-size;
+    }
+
+    &:hover,
+    &:focus {
+      color: $white;
+    }
+  }
+}
+
+.footer-links__left,
+.footer-links__center,
+.footer-links__right {
+  flex-grow: 1;
+}
+
+.footer-copyright {
+  .footer-copyright__jk {
+    font-weight: 400;
+    margin-bottom: $small-spacing;
+  }
+
+  .footer-copyright__bf {
+    font-size: $small-font-size;
+  }
+}
+
