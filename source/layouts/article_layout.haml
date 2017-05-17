@@ -24,7 +24,7 @@
           %p.caption-text #{current_article.data.caption}
 
 
-  %section.container
+  %section.container.container--spacing
     - if current_article.tags.include?("newsletter")
       .column.pdf-download
         %i.fa.fa-file-pdf-o

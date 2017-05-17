@@ -17,4 +17,3 @@ Mail a check, payable to **Fairpark Baptist Church** to the following address:
 > Fort Worth, TX 76134**
 
 *Thank you so much for your kindness and generosity!*
-{: .donate-thanks }

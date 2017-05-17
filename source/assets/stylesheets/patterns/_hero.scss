@@ -1,5 +1,5 @@
 .hero-image {
-  margin-bottom: $base-spacing * 2;
+  margin-bottom: $small-spacing;
   text-align: center;
 
   @include media-max($media-tablet) {
