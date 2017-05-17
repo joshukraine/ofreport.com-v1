@@ -88,6 +88,7 @@ $footer-text-color: transparentize($white, 0.5);
     &:focus,
     &:hover {
       opacity: 1;
+      transition: opacity $base-duration $base-timing;
     }
   }
 }
