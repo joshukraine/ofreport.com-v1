@@ -1,5 +1,5 @@
 .home-logo {
-  @include margin(6em null);
+  @include margin(6em null 4em);
   overflow: visible;
 
   @include media-max($media-desktop) {
@@ -7,11 +7,11 @@
   }
 
   @include media-max($media-tablet) {
-    @include margin(4em null);
+    @include margin(4em 0.5em 2em);
   }
 
   @include media-max($media-phone) {
-    @include margin(2em null);
+    @include margin(2em 0 0);
   }
 }
 
