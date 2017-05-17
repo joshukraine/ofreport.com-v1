@@ -9,7 +9,7 @@ Click the button below to make a donation online via PayPal.
 
 ### Option 2 - Donate by mail
 
-Mail a check, payable to **Fairpark Baptist Church** to the following address:
+Send a check, payable to **Fairpark Baptist Church**, to the following address:
 
 > **Fairpark Baptist Church<br>
 > ATTN: Steele Family Missions<br>
