@@ -12,7 +12,7 @@
 ///////////// SANDBOX //////////////////////////////////////////////////////////
 
 $footer-background: desaturate(darken($blue, 15%), 30%);
-$footer-border-color: transparentize($white, 0.7);
+$footer-border-color: transparentize($white, 0.85);
 $footer-text-color: transparentize($white, 0.5);
 
 .universal-footer {
@@ -58,6 +58,7 @@ $footer-text-color: transparentize($white, 0.5);
 
 .footer-links {
   display: flex;
+  justify-content: center;
 
   a {
     color: $footer-text-color;
@@ -77,7 +78,7 @@ $footer-text-color: transparentize($white, 0.5);
 .footer-links__left,
 .footer-links__center,
 .footer-links__right {
-  flex-grow: 1;
+  flex: 1;
 }
 
 .footer-social {
