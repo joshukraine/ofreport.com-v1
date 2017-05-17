@@ -5,6 +5,7 @@
 
 .contact-form {
   margin-bottom: $small-spacing;
+
   textarea {
     @include margin($base-spacing * 2 null $base-spacing);
   }
