@@ -1,7 +1,7 @@
 ---
 
 title: New OFR Posted!
-date: '2008-10-10 12:20:48'
+date: "2008-10-10 12:20:48"
 tags:
 - ministry
 
