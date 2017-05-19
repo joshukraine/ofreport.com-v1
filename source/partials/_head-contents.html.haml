@@ -13,6 +13,7 @@
   = yield_content :og_tags
 - else
   = tag "meta", property: "og:url", content: data.site.url
+  = tag "meta", property: "og:type", content: "blog"
   = tag "meta", property: "og:title", content: data.site.title
   = tag "meta", property: "og:description", content: data.site.description
   = tag "meta", property: "og:image", content: data.site.default_og_image_url

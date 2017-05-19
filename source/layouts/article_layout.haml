@@ -2,6 +2,7 @@
 
   - content_for :og_tags do
     = tag "meta", property: "og:url", content: data.site.url + current_page.url
+    = tag "meta", property: "og:type", content: "article"
     = tag "meta", property: "og:title", content: current_article.data.title
     = tag "meta", property: "og:description",
       content: article_og_desc_for(current_article.data)

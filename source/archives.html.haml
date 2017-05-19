@@ -8,6 +8,7 @@ desc:
 
 - content_for :og_tags do
   = tag "meta", property: "og:url", content: data.site.url + current_page.url
+  = tag "meta", property: "og:type", content: "blog"
   = tag "meta", property: "og:title", content: current_page.data.title
   = tag "meta", property: "og:description", content: current_page.data.desc
   = tag "meta", property: "og:image",
