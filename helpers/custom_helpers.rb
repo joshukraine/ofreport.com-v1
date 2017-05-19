@@ -51,16 +51,16 @@ module CustomHelpers
     end
   end
 
-  def article_og_desc_for(article)
+  def article_og_desc_for(article, site_desc)
     if caption_or_desc_for(article)
       caption_or_desc_for(article)
     else
-      data.site.description
+      site_desc.to_s
     end
   end
 
-  def article_og_image_for(article)
-    !article.image.nil? ? article.image : data.site.default_og_image_url
+  def article_og_image_for(article, site_img)
+    !article.image.nil? ? article.image : site_img.to_s
   end
 
   private
