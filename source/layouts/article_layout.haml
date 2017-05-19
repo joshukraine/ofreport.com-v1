@@ -29,8 +29,9 @@
     - if current_article.data.image
       .article-hero.hero-image.column
         = image_tag "https://s3.amazonaws.com/content.ofreport.com/#{current_article.data.image}"
-        .hero-image__caption
-          %p.caption-text #{current_article.data.caption}
+        - if current_article.data.caption
+          .hero-image__caption
+            %p.caption-text #{current_article.data.caption}
 
 
   %section.container.container--spacing
