@@ -1,14 +1,16 @@
 ---
 title: The Steele Family
-desc: Joshua and Kelsie are missionaries enjoying life as best friends, serving their Savior, and raising up their children to honor Him.
-image: steele-family-2016.jpg
+desc:
+  Joshua and Kelsie are missionaries enjoying life as best friends, serving
+  their Savior, and raising up their children to honor Him.
 ---
 
 - content_for :og_tags do
   = tag "meta", property: "og:url", content: data.site.url + current_page.url
   = tag "meta", property: "og:title", content: current_page.data.title
   = tag "meta", property: "og:description", content: current_page.data.desc
-  = tag "meta", property: "og:image", content: image_path(current_page.data.image)
+  = tag "meta", property: "og:image",
+    content: image_path(data.site.current_family_photo)
 
 %section.container.navbar-top-spacing
   .family-title.column.container--title-area
@@ -16,7 +18,8 @@ image: steele-family-2016.jpg
 
 %section.wide-container
   .family-hero.hero-image.column
-    = image_tag "steele-family-2016.jpg"
+    = image_tag data.site.current_family_photo
+
     .family-hero__caption.hero-image__caption
       %p.caption-text
         The Steele Family<br>Joshua, Kelsie, Abigail, Rebekah, Hosanna, Kathryn, David
