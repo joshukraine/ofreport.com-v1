@@ -28,7 +28,7 @@
     - if current_article.tags.include?("newsletter")
       .column.pdf-download
         %i.fa.fa-file-pdf-o
-        = link_to "Download PDF", data.site.content_server + "ofr/" + current_article.data.download
+        = link_to "Download PDF", data.site.content_server_url + "ofr/" + current_article.data.download
 
     .article-body.column
       = yield
