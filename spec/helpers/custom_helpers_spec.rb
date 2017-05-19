@@ -81,4 +81,35 @@ describe CustomHelpers do
       end
     end
   end
+
+  describe "#article_og_desc_for" do
+    context "when article provides caption" do
+      it "returns the caption" do
+        site_desc = "The default site description."
+        article = double("article")
+        allow(article).to receive(:caption).and_return("This is my caption!")
+        expect(article_og_desc_for(article, site_desc)).to eq("This is my caption!")
+      end
+    end
+
+    context "when article provides desciption, no caption" do
+      it "returns description" do
+        site_desc = "The default site description."
+        article = double("article")
+        allow(article).to receive(:caption).and_return(nil)
+        allow(article).to receive(:desc).and_return("This is my description!")
+        expect(article_og_desc_for(article, site_desc)).to eq("This is my description!")
+      end
+    end
+
+    context "when article provides neither caption nor desciption" do
+      it "returns the default site description" do
+        site_desc = "The default site description."
+        article = double("article")
+        allow(article).to receive(:caption).and_return(nil)
+        allow(article).to receive(:desc).and_return(nil)
+        expect(article_og_desc_for(article, site_desc)).to eq(site_desc)
+      end
+    end
+  end
 end
