@@ -1,6 +1,14 @@
 ---
-title: Family
+title: The Steele Family
+desc: Joshua and Kelsie are missionaries enjoying life as best friends, serving their Savior, and raising up their children to honor Him.
+image: steele-family-2016.jpg
 ---
+
+- content_for :og_tags do
+  = tag "meta", property: "og:url", content: data.site.url + current_page.url
+  = tag "meta", property: "og:title", content: current_page.data.title
+  = tag "meta", property: "og:description", content: current_page.data.desc
+  = tag "meta", property: "og:image", content: image_path(current_page.data.image)
 
 %section.container.navbar-top-spacing
   .family-title.column.container--title-area
