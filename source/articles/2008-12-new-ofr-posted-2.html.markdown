@@ -3,6 +3,7 @@
 title: New OFR Posted
 date: '2008-12-22 14:33:48'
 tags: newsletter, ministry
+download: 'steele_ofr_oct08.pdf'
 
 ---
 
