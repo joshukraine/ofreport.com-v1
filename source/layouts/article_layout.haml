@@ -5,9 +5,9 @@
     = tag "meta", property: "og:type", content: "article"
     = tag "meta", property: "og:title", content: current_article.data.title
     = tag "meta", property: "og:description",
-      content: article_og_desc_for(current_article.data)
+      content: article_og_desc_for(current_article.data, data.site.description)
     = tag "meta", property: "og:image",
-      content: article_og_image_for(current_article.data)
+      content: article_og_image_for(current_article.data, data.site.default_og_image_url)
 
   %section.container.navbar-top-spacing
     .column.container--title-area

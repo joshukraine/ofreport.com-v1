@@ -1,17 +1,16 @@
 module CustomHelpers
-  def full_title(page_title=nil)
+  def full_title(page_title=nil, site_title)
     page_title ||= ""
-    base_title = data.site.title
     if page_title.empty?
-      base_title
+      site_title
     else
-      page_title + " | " + base_title
+      page_title + " | " + site_title
     end
   end
 
   def twitter_link_for(author)
     if author.to_s.include?("@") # We have a Twitter handle
-      link_to author[0], "https://twitter.com/#{author[1][1..-1]}"
+      "<a href=\"https://twitter.com/#{author[1][1..-1]}\">#{author[0]}</a>"
     else
       author.to_s
     end
@@ -52,19 +51,21 @@ module CustomHelpers
     end
   end
 
-  def article_og_desc_for(article)
+  def article_og_desc_for(article, site_desc)
     if caption_or_desc_for(article)
       caption_or_desc_for(article)
     else
-      data.site.description
+      site_desc.to_s
     end
   end
 
-  def caption_or_desc_for(article)
-    !article.caption.nil? ? article.caption : article.desc
+  def article_og_image_for(article, site_img)
+    !article.image.nil? ? article.image : site_img.to_s
   end
 
-  def article_og_image_for(article)
-    !article.image.nil? ? article.image : data.site.default_og_image_url
+  private
+
+  def caption_or_desc_for(article)
+    !article.caption.nil? ? article.caption : article.desc
   end
 end
