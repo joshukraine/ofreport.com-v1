@@ -11,18 +11,19 @@
           %ul.home-navbar__links
             = partial "partials/nav_links"
 
-    %section.wide-container
-      .column
-        .home-logo
-          = link_to "/" do
-            = inline_svg "ofr-logo-2017.svg", class: "home-logo__svg"
+    .content
+      %section.wide-container
+        .column
+          .home-logo
+            = link_to "/" do
+              = inline_svg "ofr-logo-2017.svg", class: "home-logo__svg"
 
-    %section.narrow-container
-      .column
-        = partial "partials/subscribe_form"
+      %section.narrow-container
+        .column
+          = partial "partials/subscribe_form"
 
-    %section.container.container--spacing
-      .column
-        = yield
+      %section.container.container--spacing
+        .column
+          = yield
 
     = partial "partials/footer"
