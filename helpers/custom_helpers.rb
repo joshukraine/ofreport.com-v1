@@ -10,7 +10,7 @@ module CustomHelpers
 
   def twitter_link_for(author)
     if author.to_s.include?("@") # We have a Twitter handle
-      link_to author[0], "https://twitter.com/#{author[1][1..-1]}"
+      "<a href=\"https://twitter.com/#{author[1][1..-1]}\">#{author[0]}</a>"
     else
       author.to_s
     end
@@ -59,11 +59,13 @@ module CustomHelpers
     end
   end
 
-  def caption_or_desc_for(article)
-    !article.caption.nil? ? article.caption : article.desc
-  end
-
   def article_og_image_for(article)
     !article.image.nil? ? article.image : data.site.default_og_image_url
+  end
+
+  private
+
+  def caption_or_desc_for(article)
+    !article.caption.nil? ? article.caption : article.desc
   end
 end

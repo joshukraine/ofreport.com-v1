@@ -61,4 +61,24 @@ describe CustomHelpers do
       end
     end
   end
+
+  describe "#twitter_link_for" do
+    context "when Twitter handle is provided" do
+      it "returns a link to the corresponding Twitter profile" do
+        author = ["Joshua", "@joshukraine"]
+        link = "<a href=\"https://twitter.com/joshukraine\">Joshua</a>"
+        expect(twitter_link_for(author)).to eq(link)
+      end
+    end
+
+    context "when no Twitter handle is provided" do
+      it "returns the author as a string" do
+        author1 = "Fred"
+        author2 = ["Joe", "Smith"]
+
+        expect(twitter_link_for(author1)).to eq("Fred")
+        expect(twitter_link_for(author2)).to eq("[\"Joe\", \"Smith\"]")
+      end
+    end
+  end
 end
