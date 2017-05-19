@@ -45,4 +45,20 @@ describe CustomHelpers do
       end
     end
   end
+
+  describe "#add_visible_path" do
+    context "when on home page" do
+      it "returns nothing" do
+        path = "/index.html"
+        expect(add_visible_class(path)).to be_nil
+      end
+    end
+
+    context "when on any page besides home page" do
+      it "returns ' is-visible'" do
+        path = "/contact/"
+        expect(add_visible_class(path)).to eq(" is-visible")
+      end
+    end
+  end
 end
