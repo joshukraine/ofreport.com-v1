@@ -16,6 +16,14 @@ module CustomHelpers
     end
   end
 
+  def feed_author_name(author)
+    if author.is_a? Array
+      author[0].to_s
+    else
+      author.to_s
+    end
+  end
+
   def smart_robots(path, env)
     # Add paths (like "thank you" pages) that search engines should not index.
     # Multiple paths look like this:
