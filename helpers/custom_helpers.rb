@@ -51,4 +51,20 @@ module CustomHelpers
       "file not found: #{file_path}"
     end
   end
+
+  def article_og_desc_for(article)
+    if caption_or_desc_for(article)
+      caption_or_desc_for(article)
+    else
+      data.site.description
+    end
+  end
+
+  def caption_or_desc_for(article)
+    !article.caption.nil? ? article.caption : article.desc
+  end
+
+  def article_og_image_for(article)
+    !article.image.nil? ? article.image : data.site.default_og_image_url
+  end
 end

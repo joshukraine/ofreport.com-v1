@@ -1,4 +1,13 @@
 = wrap_layout :layout do
+
+  - content_for :og_tags do
+    = tag "meta", property: "og:url", content: data.site.url + current_page.url
+    = tag "meta", property: "og:title", content: current_article.data.title
+    = tag "meta", property: "og:description",
+      content: article_og_desc_for(current_article.data)
+    = tag "meta", property: "og:image",
+      content: article_og_image_for(current_article.data)
+
   %section.container.navbar-top-spacing
     .column.container--title-area
       .article-title
