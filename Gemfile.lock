@@ -67,7 +67,7 @@ GEM
     formatador (0.2.5)
     haml (4.0.7)
       tilt
-    haml_lint (0.24.0)
+    haml_lint (0.25.1)
       haml (>= 4.0, < 5.1)
       rainbow
       rake (>= 10, < 13)
