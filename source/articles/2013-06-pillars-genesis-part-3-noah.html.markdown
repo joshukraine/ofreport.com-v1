@@ -1,9 +1,12 @@
 ---
 
-title: 'The Seven Pillars of Genesis, Part 3: Noah'
-date: '2013-06-08 12:00:15'
-tags: bible first
-author: ['Joshua Steele', '@joshukraine']
+title: "The Seven Pillars of Genesis, Part 3: Noah"
+date: "2013-06-08 12:00:15"
+tags:
+- bible first
+- seven pillars
+author: ["Joshua Steele", "@joshukraine"]
+desc: "Noah lived in an era of wickedness so terrible that it caused God to regret His creation of the human race."
 
 ---
 

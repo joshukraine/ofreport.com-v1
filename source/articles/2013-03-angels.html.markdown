@@ -1,9 +1,10 @@
 ---
 
 title: Angels About Us
-date: '2013-03-14 20:32:13'
+date: "2013-03-14 20:32:13"
 tags: family
-author: ['Joshua Steele', '@joshukraine']
+author: ["Joshua Steele", "@joshukraine"]
+desc: "Tonight our family was involved in a potentially serious car accident."
 
 ---
 

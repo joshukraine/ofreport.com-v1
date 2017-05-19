@@ -1,9 +1,12 @@
 ---
 
-title: 'The Seven Pillars of Genesis, Part 4: Abraham'
-date: '2013-06-15 12:00:44'
-tags: bible first
-author: ['Joshua Steele', '@joshukraine']
+title: "The Seven Pillars of Genesis, Part 4: Abraham"
+date: "2013-06-15 12:00:44"
+tags:
+- bible first
+- seven pillars
+author: ["Joshua Steele", "@joshukraine"]
+desc: "When God promised to give Abraham a son under impossible circumstances, Abraham believed that God would do exactly as He said."
 
 ---
 

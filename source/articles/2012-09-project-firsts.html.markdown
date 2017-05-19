@@ -1,11 +1,11 @@
 ---
 
 title: A Project of Firsts
-date: '2012-09-13 20:59:13'
+date: "2012-09-13 20:59:13"
 tags: newsletter, cmo
-author: ['Joshua Steele', '@joshukraine']
-download: 'OFR-September-2012.pdf'
-image: '2012/09/cmo2012-team-1.jpg'
+author: ["Joshua Steele", "@joshukraine"]
+download: "OFR-September-2012.pdf"
+image: "2012/09/cmo2012-team-1.jpg"
 caption: "The CMO 2012 team. Clockwise from top left: Cesar Rodriguez, Jonathan Steele, David Steininger, Phillip Payne, Jacob Bruce, Nathan Day, Joshua Steele, and Jessie Beal."
 
 ---

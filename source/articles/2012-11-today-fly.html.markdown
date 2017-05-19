@@ -1,10 +1,10 @@
 ---
 
 title: Today We Fly
-date: '2012-11-04 20:43:37'
+date: "2012-11-04 20:43:37"
 tags: family
-author: ['Joshua Steele', '@joshukraine']
-image: '2012/11/2012-11-04-12.28.39-1024x768.jpg'
+author: ["Joshua Steele", "@joshukraine"]
+image: "2012/11/2012-11-04-12.28.39-1024x768.jpg"
 caption: "At long last, the time for our return to Ukraine has come. Needless to say, we're very excited! Our time in the U.S. has been full and blessed. God has refreshed our family, and now we're ready to get back to our work overseas."
 
 ---

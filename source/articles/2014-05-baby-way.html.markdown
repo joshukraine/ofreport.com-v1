@@ -1,10 +1,11 @@
 ---
 
 title: Baby on the way!
-date: '2014-05-23 11:52:45'
+date: "2014-05-23 11:52:45"
 tags: family, announcements
-author: ['Joshua Steele', '@joshukraine']
-image: '2014/05/steele-2014-1024x682.jpg'
+author: ["Joshua Steele", "@joshukraine"]
+image: "2014/05/steele-2014-1024x682.jpg"
+desc: "Today, we’re very excited to share with you the news that God has blessed our family with a new member!"
 
 ---
 

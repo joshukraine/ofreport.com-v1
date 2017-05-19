@@ -1,13 +1,12 @@
 ---
 
 title: Our Love Story
-date: '2012-11-27 22:58:25'
+date: "2012-11-27 22:58:25"
 tags: newsletter, love story
-author: ['Joshua Steele', '@joshukraine']
-download: 'OFR-Nov-Dec-2012.pdf'
-image: '2012/11/IMG_7335.jpg'
-caption: 'In late October, Kelsie and I were grateful to have the privilege of sharing our courtship story
-at No Greater Joy’s Big Texas Shindig.'
+author: ["Joshua Steele", "@joshukraine"]
+download: "OFR-Nov-Dec-2012.pdf"
+image: "2012/11/IMG_7335.jpg"
+caption: "In late October, Kelsie and I were grateful to have the privilege of sharing our courtship story at No Greater Joy’s Big Texas Shindig."
 
 ---
 

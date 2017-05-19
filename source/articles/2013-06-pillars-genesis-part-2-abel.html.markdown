@@ -1,9 +1,12 @@
 ---
 
-title: 'The Seven Pillars of Genesis, Part 2: Abel'
-date: '2013-06-01 12:00:29'
-tags: bible first
-author: ['Joshua Steele', '@joshukraine']
+title: "The Seven Pillars of Genesis, Part 2: Abel"
+date: "2013-06-01 12:00:29"
+tags:
+- bible first
+- seven pillars
+author: ["Joshua Steele", "@joshukraine"]
+desc: "Abel’s offering of a lamb in Genesis 4 clearly represents the payment God requires to atone for (that is, cover) sin."
 
 ---
 

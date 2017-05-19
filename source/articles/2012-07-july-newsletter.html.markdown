@@ -1,11 +1,11 @@
 ---
 
 title: July Newsletter
-date: '2012-07-16 22:21:52'
+date: "2012-07-16 22:21:52"
 tags: newsletter, cmo
-author: ['Joshua Steele', '@joshukraine']
-download: 'OFR-July-2012.pdf'
-image: '2012/07/Little-One-b.jpg'
+author: ["Joshua Steele", "@joshukraine"]
+download: "OFR-July-2012.pdf"
+image: "2012/07/Little-One-b.jpg"
 caption: "On May 8, we learned of our unborn child’s terminal genetic illness. We learned that our child was a girl on her birthday, June 26. The following article was posted to our blog that evening."
 
 ---

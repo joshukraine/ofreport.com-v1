@@ -1,9 +1,9 @@
 ---
 
 title: A Sad Turn of Events
-date: '2012-05-09 19:37:10'
+date: "2012-05-09 19:37:10"
 tags: family
-author: ['Joshua Steele', '@joshukraine']
+author: ["Joshua Steele", "@joshukraine"]
 
 ---
 

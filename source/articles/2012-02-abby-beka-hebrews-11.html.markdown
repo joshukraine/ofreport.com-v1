@@ -1,9 +1,9 @@
 ---
 
 title: Abby & Beka – Hebrews 11
-date: '2012-02-09 19:53:09'
+date: "2012-02-09 19:53:09"
 tags: family
-author: ['Joshua Steele', '@joshukraine']
+author: ["Joshua Steele", "@joshukraine"]
 
 ---
 
