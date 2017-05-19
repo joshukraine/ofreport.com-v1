@@ -1,7 +1,7 @@
 ---
 
 title: Missionary Kodak Moments
-date: '2008-12-12 16:09:57'
+date: "2008-12-12 16:09:57"
 author: Kelsie Steele
 tags:
 - abs

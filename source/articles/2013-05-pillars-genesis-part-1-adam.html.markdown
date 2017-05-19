@@ -1,9 +1,12 @@
 ---
 
-title: 'The Seven Pillars of Genesis, Part 1: Adam'
-date: '2013-05-25 10:00:02'
-tags: bible first
-author: ['Joshua Steele', '@joshukraine']
+title: "The Seven Pillars of Genesis, Part 1: Adam"
+date: "2013-05-25 10:00:02"
+tags:
+- bible first
+- seven pillars
+author: ["Joshua Steele", "@joshukraine"]
+desc: "The Bible is a book of kingdoms, and Adam was earth’s first king. Like most monarchs, Adam’s authority was given him by right of birth."
 
 ---
 

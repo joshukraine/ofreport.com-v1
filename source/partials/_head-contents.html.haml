@@ -4,13 +4,19 @@
 = tag "meta", name: "robots", content: smart_robots(current_page.path, config[:environment].to_s)
 = tag "meta", name: "author", content: "Joshua Steele"
 = tag "meta", name: "description", content: data.site.description
+
 - if production?
   -# = tag "meta", name: "google-site-verification",
   -#   content: "[site-verification-code-here]"
-  -# = tag "meta", property: "og:url", content: data.site.url
-  -# = tag "meta", property: "og:title", content: data.site.title
-  -# = tag "meta", property: "og:description", content: data.site.description
-  -# = tag "meta", property: "og:image", content: data.site.facebook_og_image_url
+
+- if content_for?(:og_tags)
+  = yield_content :og_tags
+- else
+  = tag "meta", property: "og:url", content: data.site.url
+  = tag "meta", property: "og:type", content: "blog"
+  = tag "meta", property: "og:title", content: data.site.title
+  = tag "meta", property: "og:description", content: data.site.description
+  = tag "meta", property: "og:image", content: data.site.default_og_image_url
 
 = feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed"
 

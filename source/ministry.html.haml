@@ -1,6 +1,18 @@
 ---
 title: Ministry
+desc:
+  Our highest purpose in life is to follow our Savior, the Lord Jesus Christ.
+  We are raising our family in Ukraine, and striving to share the Gospel with
+  those around us.
 ---
+
+- content_for :og_tags do
+  = tag "meta", property: "og:url", content: data.site.url + current_page.url
+  = tag "meta", property: "og:type", content: "blog"
+  = tag "meta", property: "og:title", content: current_page.data.title
+  = tag "meta", property: "og:description", content: current_page.data.desc
+  = tag "meta", property: "og:image",
+    content: image_path(data.site.current_family_photo)
 
 %section.container.navbar-top-spacing
   .column

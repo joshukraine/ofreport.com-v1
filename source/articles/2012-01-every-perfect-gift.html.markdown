@@ -1,11 +1,11 @@
 ---
 
-title: Every Perfect Gift
-date: '2012-01-03 05:18:50'
+title: "Every Perfect Gift"
+date: "2012-01-03 05:18:50"
 tags: newsletter, family, cmo, bible first
-author: ['Joshua Steele', '@joshukraine']
-download: 'OFR-Jan-2012.pdf'
-image: '2012/01/fall-family-2011 005.jpg'
+author: ["Joshua Steele", "@joshukraine"]
+download: "OFR-Jan-2012.pdf"
+image: "2012/01/fall-family-2011 005.jpg"
 caption: "Happy New Year from the Steele family! From left: Hosanna (1), Kelsie, Rebekah (4), Joshua, Abigail (6)"
 
 ---

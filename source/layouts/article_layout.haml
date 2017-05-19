@@ -1,4 +1,14 @@
 = wrap_layout :layout do
+
+  - content_for :og_tags do
+    = tag "meta", property: "og:url", content: data.site.url + current_page.url
+    = tag "meta", property: "og:type", content: "article"
+    = tag "meta", property: "og:title", content: current_article.data.title
+    = tag "meta", property: "og:description",
+      content: article_og_desc_for(current_article.data)
+    = tag "meta", property: "og:image",
+      content: article_og_image_for(current_article.data)
+
   %section.container.navbar-top-spacing
     .column.container--title-area
       .article-title
@@ -20,15 +30,16 @@
     - if current_article.data.image
       .article-hero.hero-image.column
         = image_tag "https://s3.amazonaws.com/content.ofreport.com/#{current_article.data.image}"
-        .hero-image__caption
-          %p.caption-text #{current_article.data.caption}
+        - if current_article.data.caption
+          .hero-image__caption
+            %p.caption-text #{current_article.data.caption}
 
 
   %section.container.container--spacing
     - if current_article.tags.include?("newsletter")
       .column.pdf-download
         %i.fa.fa-file-pdf-o
-        = link_to "Download PDF", data.site.content_server + "ofr/" + current_article.data.download
+        = link_to "Download PDF", data.site.content_server_url + "ofr/" + current_article.data.download
 
     .article-body.column
       = yield

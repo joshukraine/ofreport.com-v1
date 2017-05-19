@@ -1,9 +1,12 @@
 ---
 
-title: 'The Seven Pillars of Genesis, Part 5: Isaac'
-date: '2013-06-22 12:00:58'
-tags: bible first
-author: ['Joshua Steele', '@joshukraine']
+title: "The Seven Pillars of Genesis, Part 5: Isaac"
+date: "2013-06-22 12:00:58"
+tags:
+- bible first
+- seven pillars
+author: ["Joshua Steele", "@joshukraine"]
+desc: "After repeatedly promising Abraham that he would become a great nation, God fulfilled His word by giving Abraham a miracle son: Isaac."
 
 ---
 

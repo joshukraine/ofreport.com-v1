@@ -1,11 +1,11 @@
 ---
 
 title: Registered!
-date: '2012-05-01 19:04:20'
+date: "2012-05-01 19:04:20"
 tags: newsletter, bible first, ukraine, ministry
-author: ['Joshua Steele', '@joshukraine']
-download: 'OFR-May-2012.pdf'
-image: '2012/05/reg-card.jpg'
+author: ["Joshua Steele", "@joshukraine"]
+download: "OFR-May-2012.pdf"
+image: "2012/05/reg-card.jpg"
 caption: "On April 13th, just two weeks before our class D visas were set to expire, each member of our team received long-term residency cards like the one pictured above."
 
 ---

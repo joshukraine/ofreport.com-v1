@@ -1,7 +1,7 @@
 ---
 
 title: It's beginning to look a lot like Christmas!
-date: '2008-12-19 19:12:16'
+date: "2008-12-19 19:12:16"
 tags:
 - abs
 - christmas

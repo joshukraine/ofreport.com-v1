@@ -1,9 +1,10 @@
 ---
 
-title: 'Our Love Story, Part 4: Let’s Tell Kelsie'
-date: '2012-12-21 08:43:48'
+title: "Our Love Story, Part 4: Let’s Tell Kelsie"
+date: "2012-12-21 08:43:48"
 tags: love story
-author: ['Joshua Steele', '@joshukraine']
+author: ["Joshua Steele", "@joshukraine"]
+desc: "After only three weeks, Danny surprised me by stating that he felt this was of the Lord and that we should tell Kelsie about it. “How would you like to tell her?” he asked."
 
 ---
 

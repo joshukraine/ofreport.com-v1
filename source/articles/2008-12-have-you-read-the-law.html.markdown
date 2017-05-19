@@ -1,7 +1,7 @@
 ---
 
 title: Have you read The Law?
-date: '2008-12-03 09:12:16'
+date: "2008-12-03 09:12:16"
 tags: economics, frederic bastiat
 
 ---

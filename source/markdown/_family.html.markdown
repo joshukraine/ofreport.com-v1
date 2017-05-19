@@ -7,3 +7,13 @@ Joshua and Kelsie are founding members of [Euro Team Outreach](http://euroteamou
 Kelsie oversees the training and schooling for their five children: Abigail, Rebekah, Hosanna, Kathryn, and David. Additionally, she pursues her desire to encourage Ukrainian wives and mothers via writing and blogging.
 
 The Steeles currently reside in L’viv, Ukraine. Both Joshua and Kelsie speak the Ukrainian language fluently and are actively involved in the lives of the Ukrainian people.
+
+---
+
+**Sending Church**
+
+Fairpark Baptist Church  
+6000 Crowley Road  
+Fort Worth, TX 76134  
+
+[www.FairparkBaptist.org](http://www.fairparkbaptist.org/)

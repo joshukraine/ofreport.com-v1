@@ -11,9 +11,9 @@ Click the button below to make a donation online via PayPal.
 
 Send a check, payable to **Fairpark Baptist Church**, to the following address:
 
-> **Fairpark Baptist Church<br>
-> ATTN: Steele Family Missions<br>
-> 6000 Crowley Rd.<br>
+> **Fairpark Baptist Church  
+> ATTN: Steele Family Missions  
+> 6000 Crowley Rd.  
 > Fort Worth, TX 76134**
 
 *Thank you so much for your kindness and generosity!*

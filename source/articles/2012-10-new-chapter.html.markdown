@@ -1,11 +1,11 @@
 ---
 
 title: A New Chapter
-date: '2012-10-19 19:50:12'
+date: "2012-10-19 19:50:12"
 tags: newsletter, cmo
-author: ['Joshua Steele', '@joshukraine']
-download: 'OFR-Oct-2012.pdf'
-image: '2012/10/IMG_5706.jpg'
+author: ["Joshua Steele", "@joshukraine"]
+download: "OFR-Oct-2012.pdf"
+image: "2012/10/IMG_5706.jpg"
 caption: "The Steele family - October, 2012. From the left: Abigail (7), Hosanna (23 months), Joshua (like 400 months), Kelsie (forever 21), Rebekah (almost 5)."
 
 ---

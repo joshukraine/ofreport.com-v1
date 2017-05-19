@@ -1,6 +1,18 @@
 ---
 title: Archives
+desc:
+  Since 2003, we have published a newsletter called Overseas Field Report.
+  If you're interested in reading the history of our ministry overseas, you've
+  come to the right place!
 ---
+
+- content_for :og_tags do
+  = tag "meta", property: "og:url", content: data.site.url + current_page.url
+  = tag "meta", property: "og:type", content: "blog"
+  = tag "meta", property: "og:title", content: current_page.data.title
+  = tag "meta", property: "og:description", content: current_page.data.desc
+  = tag "meta", property: "og:image",
+    content: data.site.default_og_image_url
 
 %section.container.navbar-top-spacing
   .column

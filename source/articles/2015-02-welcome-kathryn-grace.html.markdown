@@ -1,12 +1,12 @@
 ---
 
 title: Welcome, Kathryn Grace!
-date: '2015-02-09 22:28:03'
+date: "2015-02-09 22:28:03"
 tags: newsletter, family
-author: ['Joshua Steele', '@joshukraine']
-download: 'OFR-Jan-Feb-2015.pdf'
-image: '2015/02/2015-01-05-10.41.10-1024x768.jpg'
-caption: 'We are thrilled to announce the arrival of our fourth daughter, Kathryn Grace Steele! Kathryn was born on December 30, 2014 at 12:00am. She was 20 and 3/4 inches long and weighed 8 lbs., 12 oz.'
+author: ["Joshua Steele", "@joshukraine"]
+download: "OFR-Jan-Feb-2015.pdf"
+image: "2015/02/2015-01-05-10.41.10-1024x768.jpg"
+caption: "We are thrilled to announce the arrival of our fourth daughter, Kathryn Grace Steele! Kathryn was born on December 30, 2014 at 12:00am. She was 20 and 3/4 inches long and weighed 8 lbs., 12 oz."
 
 ---
 

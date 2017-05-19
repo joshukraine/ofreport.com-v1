@@ -1,9 +1,12 @@
 ---
-title: Life is Colorful
-date: '2011-11-08 07:05:48'
+
+title: "Life is Colorful"
+date: "2011-11-08 07:05:48"
 tags:
 - family
 - ministry
+desc: "L'viv is beautiful in the fall. For a large city, it's quite rich in plant life."
+
 ---
 
 L'viv is beautiful in the fall. For a large city, it's quite rich in plant life. Even the downtown area boasts rows of large trees which are now displaying all kinds of vibrant colors. In a way, all these shifting colors remind me of the current state of affairs here in Ukraine. Many things are changing, and as always we are in need of your prayers as we move forward.
