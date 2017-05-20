@@ -2,4 +2,4 @@
 
 skip_frontmatter: true
 exclude:
-  - "source/_analytics.html.haml"
+  - "source/partials/_analytics.html.haml"
