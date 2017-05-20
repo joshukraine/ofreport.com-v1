@@ -11,5 +11,5 @@ We snapped this family photo in our living room a few days ago. But not all is a
 
 READMORE
 
-<img class="aligncenter size-full wp-image-1433" title="optical-illusion" src="https://s3.amazonaws.com/content.ofreport.com/2012/02/optical-illusion.png" alt="" width="600" height="544" />
+<img class="aligncenter size-full wp-image-1433" title="optical-illusion" src="//d21yo20tm8bmc2.cloudfront.net/2012/02/optical-illusion.png" alt="" width="600" height="544" />
 {: .article-image}

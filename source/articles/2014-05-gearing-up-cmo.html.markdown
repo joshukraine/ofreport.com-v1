@@ -5,7 +5,7 @@ date: "2014-05-13 11:19:50"
 tags: newsletter, cmo, bible first
 author: ["Joshua Steele", "@joshukraine"]
 download: "OFR-Apr-May-2014.pdf"
-image: "2014/05/IMG_4615-1024x682.jpg"
+image: "/2014/05/IMG_4615-1024x682.jpg"
 caption: "Carpathian Mountain Outreach 2014 will begin in just over a month. This will be our 8th project, and we’re excited to see what God will do in western Ukraine this year!"
 
 ---

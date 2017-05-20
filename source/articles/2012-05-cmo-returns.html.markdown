@@ -5,7 +5,7 @@ date: "2012-05-29 14:36:00"
 tags: newsletter, cmo, family
 author: ["Joshua Steele", "@joshukraine"]
 download: "OFR-June-2012.pdf"
-image: "2012/06/scouting-trip-vimeo.jpg"
+image: "/2012/06/scouting-trip-vimeo.jpg"
 caption: "CMO is back! After taking a year off in 2011, Carpathian Mountain Outreach 2012 is set to begin on July 1, just one month away."
 
 ---

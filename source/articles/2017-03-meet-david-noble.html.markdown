@@ -5,7 +5,7 @@ date: "2017-03-29 09:37:19"
 tags: newsletter, family, good and evil
 author: ["Joshua Steele", "@joshukraine"]
 download: "OFR-Mar-Apr-2017.pdf"
-image: "2017/03/david-collage-1024x504.jpg"
+image: "/2017/03/david-collage-1024x504.jpg"
 caption: "David Noble Steele was born in L’viv, Ukraine, on January 16, 2017. As you may have guessed from the photos, we like this little guy a lot, and we can’t wait to introduce you!"
 
 ---
@@ -31,7 +31,7 @@ The name **Noble** is a reference to the Bereans, of whom Paul said in Acts 17:1
 
 It is our prayer for our son that even in his youth he will come to know and love the *heart of God* as he immerses himself in the study of the *Word of God*.
 
-![David Noble](https://s3.amazonaws.com/content.ofreport.com/2017/03/david-blanket-1024x575.jpg)
+![David Noble](//d21yo20tm8bmc2.cloudfront.net/2017/03/david-blanket-1024x575.jpg)
 {: .article-image}
 
 ### Good and Evil Update
@@ -43,7 +43,7 @@ Meanwhile, we have been in touch with the same printer who did Good and Evil las
 Please continue to pray for this project. Good and Evil has proven itself an effective ministry tool in Ukraine, and we’re excited to make this new translation available in color. Much work remains, but God is moving and we’re encouraged!
 
 
-![Good and Evil](https://s3.amazonaws.com/content.ofreport.com/2016/09/english-good-and-evil-bogo-special-1-240x450.jpg)
+![Good and Evil](//d21yo20tm8bmc2.cloudfront.net/2016/09/english-good-and-evil-bogo-special-1-240x450.jpg)
 {: .article-image}
 
 ### How You Can Pray

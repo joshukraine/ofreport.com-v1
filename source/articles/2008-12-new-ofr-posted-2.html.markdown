@@ -7,7 +7,7 @@ download: "steele_ofr_oct08.pdf"
 
 ---
 
-<a href="https://s3.amazonaws.com/content.ofreport.com/2008/12/ofr_img.jpg"><img class="size-medium wp-image-172 alignleft" style="border: 1px solid #999;" title="ofr_img" src="https://s3.amazonaws.com/content.ofreport.com/2008/12/ofr_img.jpg" alt="" width="100" height="130" /></a>
+<a href="//d21yo20tm8bmc2.cloudfront.net/2008/12/ofr_img.jpg"><img class="size-medium wp-image-172 alignleft" style="border: 1px solid #999;" title="ofr_img" src="//d21yo20tm8bmc2.cloudfront.net/2008/12/ofr_img.jpg" alt="" width="100" height="130" /></a>
 
 The latest version of our newsletter, *Overseas Field Report*, has now been posted to our blog. To download it in PDF format, please select "Download OFR" from the right-hand menu, or click the link below:
 

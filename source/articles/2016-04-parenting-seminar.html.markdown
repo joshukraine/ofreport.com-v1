@@ -5,7 +5,7 @@ date: "2016-04-18 07:52:04"
 tags: newsletter, cmo, bible first
 author: ["Joshua Steele", "@joshukraine"]
 download: "OFR-Jan-Mar-2016.pdf"
-image: "2016/04/IMG_6934-1024x683.jpg"
+image: "/2016/04/IMG_6934-1024x683.jpg"
 caption: "Kelsie and I recently had the privilege of teaching our very first parenting seminar! Organized by a local church here in L’viv, the event was well attended, and we were excited for the opportunity to address Ukrainian couples on the topic of child training."
 
 ---
@@ -30,17 +30,17 @@ Kelsie and I spent many hours on the couch, huddled around the laptop, typing ou
 
 Finally the day came. Speaking tag-team, in Ukrainian, for nearly seven hours turned about to be both exhausting and very rewarding. I believe God used the seminar to bless these families, and we pray that as a result, many Ukrainian children we will grow up to walk with Jesus.
 
-<a href="https://s3.amazonaws.com/content.ofreport.com/2016/04/IMG_6940-e1460954875136.jpg"><img class="size-medium wp-image-2033" src="https://s3.amazonaws.com/content.ofreport.com/2016/04/IMG_6940-e1460954875136-450x324.jpg" alt="It’s a great encouragement to see young families train up their children to follow the Lord." width="450" height="324" /></a>
+<a href="//d21yo20tm8bmc2.cloudfront.net/2016/04/IMG_6940-e1460954875136.jpg"><img class="size-medium wp-image-2033" src="//d21yo20tm8bmc2.cloudfront.net/2016/04/IMG_6940-e1460954875136-450x324.jpg" alt="It’s a great encouragement to see young families train up their children to follow the Lord." width="450" height="324" /></a>
 {: .article-image .article-image--has-caption}
 It’s a great encouragement to see young families train up their children to follow the Lord.
 {: .caption-text .article-image__caption}
 
-<a href="https://s3.amazonaws.com/content.ofreport.com/2016/04/1934696_494868230702991_8116875278078929514_n.jpg"><img class="size-medium wp-image-2031" src="https://s3.amazonaws.com/content.ofreport.com/2016/04/1934696_494868230702991_8116875278078929514_n-450x338.jpg" alt="Kelsie and I took turns speaking as we progressed through six sessions of material." width="450" height="338" /></a>
+<a href="//d21yo20tm8bmc2.cloudfront.net/2016/04/1934696_494868230702991_8116875278078929514_n.jpg"><img class="size-medium wp-image-2031" src="//d21yo20tm8bmc2.cloudfront.net/2016/04/1934696_494868230702991_8116875278078929514_n-450x338.jpg" alt="Kelsie and I took turns speaking as we progressed through six sessions of material." width="450" height="338" /></a>
 {: .article-image .article-image--has-caption}
 Kelsie and I took turns speaking as we progressed through six sessions of material.
 {: .caption-text .article-image__caption}
 
-<a href="https://s3.amazonaws.com/content.ofreport.com/2016/04/IMG_6876.jpg"><img class="size-medium wp-image-2030" src="https://s3.amazonaws.com/content.ofreport.com/2016/04/IMG_6876-450x300.jpg" alt="The seminar lasted for the better part of a Saturday. It was exhausting but fun!" width="450" height="300" /></a>
+<a href="//d21yo20tm8bmc2.cloudfront.net/2016/04/IMG_6876.jpg"><img class="size-medium wp-image-2030" src="//d21yo20tm8bmc2.cloudfront.net/2016/04/IMG_6876-450x300.jpg" alt="The seminar lasted for the better part of a Saturday. It was exhausting but fun!" width="450" height="300" /></a>
 {: .article-image .article-image--has-caption}
 The seminar lasted for the better part of a Saturday. It was exhausting but fun!
 {: .caption-text .article-image__caption}
@@ -51,7 +51,7 @@ Summer is approaching once again, and with it our annual project: Carpathian Mou
 
 As always, there is much preparation to be done. In particular, we will be printing tens of thousands of tracts. There is housing to arrange, and there are film showings to schedule. Please pray that God would open doors before us as we labor, and that as a result of our efforts, multitudes would come to repentance in Christ.
 
-<a href="http://cmoproject.org"><img class="aligncenter size-full wp-image-2023" src="https://s3.amazonaws.com/content.ofreport.com/2015/12/cmo-logo-full.png" alt="cmo-logo-full" width="300" height="300" /></a>
+<a href="http://cmoproject.org"><img class="aligncenter size-full wp-image-2023" src="//d21yo20tm8bmc2.cloudfront.net/2015/12/cmo-logo-full.png" alt="cmo-logo-full" width="300" height="300" /></a>
 {: .article-image}
 
 ### Bible First

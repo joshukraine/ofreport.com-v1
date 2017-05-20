@@ -4,7 +4,7 @@ title: Little One
 date: "2012-06-26 09:23:28"
 tags: family
 author: ["Joshua Steele", "@joshukraine"]
-image: "2012/06/2012-06-26-20.58.34-1024x768.jpg"
+image: "/2012/06/2012-06-26-20.58.34-1024x768.jpg"
 desc: "The journey that we began four months ago in Ukraine ended today in a quiet family birthing room in Houston."
 
 ---
@@ -23,7 +23,7 @@ This has been a sad chapter in our lives, and yet we rejoice that the story does
 
 Farewell, Little One. Be at peace in the glory of His presence and know that Mommy and Daddy love you. Wait a little while, and we’ll be home.
 
-<a href="https://s3.amazonaws.com/content.ofreport.com/2012/06/2012-06-26-20.56.21.jpg"><img class="aligncenter size-medium wp-image-1556" title="2012-06-26 20.56.21" src="https://s3.amazonaws.com/content.ofreport.com/2012/06/2012-06-26-20.56.21-450x337.jpg" alt="" /></a>
+<a href="//d21yo20tm8bmc2.cloudfront.net/2012/06/2012-06-26-20.56.21.jpg"><img class="aligncenter size-medium wp-image-1556" title="2012-06-26 20.56.21" src="//d21yo20tm8bmc2.cloudfront.net/2012/06/2012-06-26-20.56.21-450x337.jpg" alt="" /></a>
 {: .article-image}
 
 *“But Jesus said, Suffer little children, and forbid them not, to come unto me: for of such is the kingdom of heaven.”*

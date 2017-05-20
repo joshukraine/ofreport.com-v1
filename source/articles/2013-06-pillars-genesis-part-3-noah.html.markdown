@@ -18,7 +18,7 @@ Noah lived in an era of wickedness so terrible that it caused God to regret His 
 
 READMORE
 
-<a href="https://s3.amazonaws.com/content.ofreport.com/2013/05/Noah.jpg"><img class="alignleft  wp-image-1812" alt="Noah" src="https://s3.amazonaws.com/content.ofreport.com/2013/05/Noah-378x450.jpg" /></a>
+<a href="//d21yo20tm8bmc2.cloudfront.net/2013/05/Noah.jpg"><img class="alignleft  wp-image-1812" alt="Noah" src="//d21yo20tm8bmc2.cloudfront.net/2013/05/Noah-378x450.jpg" /></a>
 {: .article-image}
 
 As God resolved to destroy humanity in a global flood, He made provision for the salvation of Noah and his family. But this provision was narrow and exact. Noah was required to follow detailed instructions as he constructed a giant ark that would one day become the only habitable place on earth.

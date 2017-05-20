@@ -6,13 +6,22 @@ desc:
   those around us.
 ---
 
+:ruby
+  site_url = data.site.url
+  site_photo = data.site.current_family_photo
+  site_asset_server = data.site.asset_server_url
+  page_title = current_page.data.title.to_s
+  og_asset_root = "http:" + site_asset_server
+  og_url = site_url + current_page.url
+  og_desc = current_page.data.desc
+  og_default_image = og_asset_root + image_path(site_photo)
+
 - content_for :og_tags do
-  = tag "meta", property: "og:url", content: data.site.url + current_page.url
+  = tag "meta", property: "og:url", content: og_url
   = tag "meta", property: "og:type", content: "blog"
-  = tag "meta", property: "og:title", content: current_page.data.title
-  = tag "meta", property: "og:description", content: current_page.data.desc
-  = tag "meta", property: "og:image",
-    content: image_path(data.site.current_family_photo)
+  = tag "meta", property: "og:title", content: page_title
+  = tag "meta", property: "og:description", content: og_desc
+  = tag "meta", property: "og:image", content: og_default_image
 
 %section.container.navbar-top-spacing
   .column
@@ -29,7 +38,8 @@ desc:
         .ministry-content__bio
           = partial "markdown/eto"
         .ministry-content__button
-          = link_to "Visit euroteamoutreach.org", "http://euroteamoutreach.org/", class: "button"
+          = link_to "Visit euroteamoutreach.org",
+            "http://euroteamoutreach.org/", class: "button"
 
       .ministry-content__section
         .ministry-content__graphic.bible-first-logo
@@ -37,7 +47,8 @@ desc:
         .ministry-content__bio
           = partial "markdown/bible-first"
         .ministry-content__button
-          = link_to "Visit getbiblefirst.com", "http://getbiblefirst.com/", class: "button"
+          = link_to "Visit getbiblefirst.com",
+            "http://getbiblefirst.com/", class: "button"
 
       .ministry-content__section
         .ministry-content__graphic.cmo-logo
@@ -45,4 +56,5 @@ desc:
         .ministry-content__bio
           = partial "markdown/cmo"
         .ministry-content__button
-          = link_to "Visit cmoproject.org", "http://cmoproject.org/", class: "button"
+          = link_to "Visit cmoproject.org",
+            "http://cmoproject.org/", class: "button"

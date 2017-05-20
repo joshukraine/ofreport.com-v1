@@ -5,7 +5,7 @@ date: '2013-02-13 16:25:35'
 tags: newsletter, cmo, bible first
 author: ['Joshua Steele', '@joshukraine']
 download: 'OFR-Feb-2013.pdf'
-image: '2013/02/cmo-2013-tents.jpg'
+image: '/2013/02/cmo-2013-tents.jpg'
 caption: 'Registration for Carpathian Mountain Outreach 2013 officially opened on February 4th. Read on to find out how you can be involved in building this year’s team of laborers for the harvest fields of Ukraine!'
 
 ---

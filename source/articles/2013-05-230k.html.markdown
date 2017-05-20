@@ -5,7 +5,7 @@ date: '2013-05-23 10:49:40'
 tags: newsletter, cmo
 author: ['Joshua Steele', '@joshukraine']
 download: 'OFR-May-Jun-2013.pdf'
-image: '2013/05/butya.jpg'
+image: '/2013/05/butya.jpg'
 caption: 'This year Carpathian Mountain Outreach will begin on June 10th. Today, we’re placing an order for 230,000 tracts which will be distributed throughout Western Ukraine in the coming months.'
 
 ---

@@ -5,13 +5,22 @@ desc:
   the following options.
 ---
 
+:ruby
+  site_url = data.site.url
+  site_photo = data.site.current_family_photo
+  site_asset_server = data.site.asset_server_url
+  page_title = current_page.data.title.to_s
+  og_asset_root = "http:" + site_asset_server
+  og_url = site_url + current_page.url
+  og_desc = current_page.data.desc
+  og_default_image = og_asset_root + image_path(site_photo)
+
 - content_for :og_tags do
-  = tag "meta", property: "og:url", content: data.site.url + current_page.url
+  = tag "meta", property: "og:url", content: og_url
   = tag "meta", property: "og:type", content: "blog"
-  = tag "meta", property: "og:title", content: current_page.data.title
-  = tag "meta", property: "og:description", content: current_page.data.desc
-  = tag "meta", property: "og:image",
-    content: image_path(data.site.current_family_photo)
+  = tag "meta", property: "og:title", content: page_title
+  = tag "meta", property: "og:description", content: og_desc
+  = tag "meta", property: "og:image", content: og_default_image
 
 %section.container.navbar-top-spacing.container--spacing
   .column

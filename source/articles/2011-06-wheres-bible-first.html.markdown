@@ -9,4 +9,4 @@ It's been a while since we've posted an update on the progress of Bible First. T
 <p style="text-align: center;"><a title="Where's Bible First?" href="http://euroteamoutreach.org/index.php?p=ereport">Read the article here.</a></p>
 
 
-[caption id="attachment_1263" align="aligncenter" width="300" caption=" "]<a href="https://s3.amazonaws.com/content.ofreport.com/2011/06/lessons.png"><img class="size-medium wp-image-1263" title="lessons" src="https://s3.amazonaws.com/content.ofreport.com/2011/06/lessons-300x199.png" alt="" width="300" height="199" /></a>[/caption]
+[caption id="attachment_1263" align="aligncenter" width="300" caption=" "]<a href="//d21yo20tm8bmc2.cloudfront.net/2011/06/lessons.png"><img class="size-medium wp-image-1263" title="lessons" src="//d21yo20tm8bmc2.cloudfront.net/2011/06/lessons-300x199.png" alt="" width="300" height="199" /></a>[/caption]

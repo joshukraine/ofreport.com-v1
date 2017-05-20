@@ -5,7 +5,7 @@ tags:
 - announcements
 ---
 
-<img class="size-full wp-image-1066 alignright" title="skype" src="https://s3.amazonaws.com/content.ofreport.com/2010/09/skype.jpg" alt="" width="150" height="72" />Just to keep everybody guessing, Kels and I have decided to shake up our Skype accounts a bit. Here's the deal:
+<img class="size-full wp-image-1066 alignright" title="skype" src="//d21yo20tm8bmc2.cloudfront.net/2010/09/skype.jpg" alt="" width="150" height="72" />Just to keep everybody guessing, Kels and I have decided to shake up our Skype accounts a bit. Here's the deal:
 
 Kelsie's new account: <strong>joshandkels</strong> (this was previously Joshua's account)
 Joshua's new account: <strong>joshukraine</strong>

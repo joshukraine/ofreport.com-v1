@@ -5,7 +5,7 @@ date: "2015-09-01 12:42:17"
 tags: newsletter, cmo, good and evil
 author: ["Joshua Steele", "@joshukraine"]
 download: "OFR-Sep-Oct-2015.pdf"
-image: "2015/09/06-IMG_6462-1024x683.png"
+image: "/2015/09/06-IMG_6462-1024x683.png"
 caption: "Several of the CMO 2015 team hike towards a new set of buildings during a literature campaign."
 
 ---
@@ -20,7 +20,7 @@ But what are five people among 300,000? Maybe not much in terms of numbers, but 
 
 Year after year, our stats continue to demonstrate that around 40% of all our Bible students enroll via word-of-mouth recommendations. These are people with whom we never had any direct contact who are now reaching out to us with a desire to study the Word of God. And as Paul reminds us in Romans 10:17, *“...faith cometh by hearing, and hearing by the word of God.”*
 
-<a href="https://s3.amazonaws.com/content.ofreport.com/2015/09/38-20150620_175158.png"><img class="aligncenter size-medium wp-image-2004" src="https://s3.amazonaws.com/content.ofreport.com/2015/09/38-20150620_175158-1000x288.png" alt="38-20150620_175158" /></a>
+<a href="//d21yo20tm8bmc2.cloudfront.net/2015/09/38-20150620_175158.png"><img class="aligncenter size-medium wp-image-2004" src="//d21yo20tm8bmc2.cloudfront.net/2015/09/38-20150620_175158-1000x288.png" alt="38-20150620_175158" /></a>
 {: .article-image}
 
 ### New Fronts
@@ -31,7 +31,7 @@ For example, James Slice, who served with us last year, has just returned from s
 
 Men from the CMO 2015 team are also moving forward in ministry. Emanuel Schrock has already conducted literature campaigns of his own since returning from Ukraine, and he is currently studying linguistics in preparation for mission work overseas. Adam Hall is getting ready to spend a year in northern Africa with a mission work that’s previously been established there. The Henderson family continues to build their *Bible First* course in Minnesota, and they’ve been involving other believers in outreaches in their community.
 
-<a href="https://s3.amazonaws.com/content.ofreport.com/2015/09/36-CMO2015-Team-Photo.png"><img class="size-medium wp-image-2003" src="https://s3.amazonaws.com/content.ofreport.com/2015/09/36-CMO2015-Team-Photo-450x274.png" alt="The CMO 2015 team. From the left: Isaiah, Emanuel, Caleb, Ben, Nathan, Joshua, Joe, and Adam." /></a>
+<a href="//d21yo20tm8bmc2.cloudfront.net/2015/09/36-CMO2015-Team-Photo.png"><img class="size-medium wp-image-2003" src="//d21yo20tm8bmc2.cloudfront.net/2015/09/36-CMO2015-Team-Photo-450x274.png" alt="The CMO 2015 team. From the left: Isaiah, Emanuel, Caleb, Ben, Nathan, Joshua, Joe, and Adam." /></a>
 {: .article-image .article-image--has-caption}
 The CMO 2015 team. From the left: Isaiah, Emanuel, Caleb, Ben, Nathan, Joshua, Joe, and Adam.
 {: .caption-text .article-image__caption}
@@ -45,22 +45,22 @@ As always, your prayer support is greatly needed! Pray not only for our team her
 * Pray for the Day family as they prepare to travel to the US for the birth of their third child.
 * Pray our staff here as we deal with the large quantities of mail we are receiving from our Bible students.
 
-<a href="https://s3.amazonaws.com/content.ofreport.com/2015/09/31-IMG_2016.png"><img class="size-medium wp-image-2002" src="https://s3.amazonaws.com/content.ofreport.com/2015/09/31-IMG_2016-450x300.png" alt="Nathan Day and Adam (a young man from the east of Ukraine) distribute Good and Evil books in a gypsy village in the Carpathians." /></a>
+<a href="//d21yo20tm8bmc2.cloudfront.net/2015/09/31-IMG_2016.png"><img class="size-medium wp-image-2002" src="//d21yo20tm8bmc2.cloudfront.net/2015/09/31-IMG_2016-450x300.png" alt="Nathan Day and Adam (a young man from the east of Ukraine) distribute Good and Evil books in a gypsy village in the Carpathians." /></a>
 {: .article-image .article-image--has-caption}
 Nathan Day and Adam (a young man from the east of Ukraine) distribute Good and Evil books in a gypsy village in the Carpathians.
 {: .caption-text .article-image__caption}
 
-<a href="https://s3.amazonaws.com/content.ofreport.com/2015/09/22-IMG_1321.png"><img class="size-medium wp-image-2000" src="https://s3.amazonaws.com/content.ofreport.com/2015/09/22-IMG_1321-450x300.png" alt="One of our larger film showings this year in the mountains" /></a>
+<a href="//d21yo20tm8bmc2.cloudfront.net/2015/09/22-IMG_1321.png"><img class="size-medium wp-image-2000" src="//d21yo20tm8bmc2.cloudfront.net/2015/09/22-IMG_1321-450x300.png" alt="One of our larger film showings this year in the mountains" /></a>
 {: .article-image .article-image--has-caption}
 One of our larger film showings this year in the mountains
 {: .caption-text .article-image__caption}
 
-<a href="https://s3.amazonaws.com/content.ofreport.com/2015/09/25-CMO-Week-4-128.png"><img class="size-medium wp-image-2001" src="https://s3.amazonaws.com/content.ofreport.com/2015/09/25-CMO-Week-4-128-450x300.png" alt="Preaching the Gospel after the showing" /></a>
+<a href="//d21yo20tm8bmc2.cloudfront.net/2015/09/25-CMO-Week-4-128.png"><img class="size-medium wp-image-2001" src="//d21yo20tm8bmc2.cloudfront.net/2015/09/25-CMO-Week-4-128-450x300.png" alt="Preaching the Gospel after the showing" /></a>
 {: .article-image .article-image--has-caption}
 Preaching the Gospel after the showing
 {: .caption-text .article-image__caption}
 
-<a href="https://s3.amazonaws.com/content.ofreport.com/2015/09/54-CMO-Wk-1-Mango-547.png"><img class="size-medium wp-image-2005" src="https://s3.amazonaws.com/content.ofreport.com/2015/09/54-CMO-Wk-1-Mango-547-450x338.png" alt="Happy to have a Good and Evil book!" /></a>
+<a href="//d21yo20tm8bmc2.cloudfront.net/2015/09/54-CMO-Wk-1-Mango-547.png"><img class="size-medium wp-image-2005" src="//d21yo20tm8bmc2.cloudfront.net/2015/09/54-CMO-Wk-1-Mango-547-450x338.png" alt="Happy to have a Good and Evil book!" /></a>
 {: .article-image .article-image--has-caption}
 Happy to have a Good and Evil book!
 {: .caption-text .article-image__caption}

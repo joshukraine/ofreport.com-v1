@@ -6,7 +6,7 @@ tags:
 - family
 ---
 
-<a href="https://s3.amazonaws.com/content.ofreport.com/2010/09/DSC_2747.jpg"><img class="aligncenter size-medium wp-image-1081" title="Abigail Hope, posing with her new bike." src="https://s3.amazonaws.com/content.ofreport.com/2010/09/DSC_2747-199x300.jpg" alt="" width="199" height="300" /></a>
+<a href="//d21yo20tm8bmc2.cloudfront.net/2010/09/DSC_2747.jpg"><img class="aligncenter size-medium wp-image-1081" title="Abigail Hope, posing with her new bike." src="//d21yo20tm8bmc2.cloudfront.net/2010/09/DSC_2747-199x300.jpg" alt="" width="199" height="300" /></a>
 
 On Saturday we celebrated Abigail's fifth birthday. (Where does the time go?!) Abigail means "her father is joyful", and since the time she was born, Abby has truly brought great joy into our lives. She is maturing into a sweet, bright little girl and we love her so much!
 

@@ -16,6 +16,22 @@ module CustomHelpers
     end
   end
 
+  def fb_link_for(author)
+    if author.to_s.downcase.include?("joshua")
+      "https://www.facebook.com/joshukraine"
+    elsif author.to_s.downcase.include?("kelsie")
+      "https://www.facebook.com/kelsiesteele"
+    end
+  end
+
+  def feed_author_name(author)
+    if author.is_a? Array
+      author[0].to_s
+    else
+      author.to_s
+    end
+  end
+
   def smart_robots(path, env)
     # Add paths (like "thank you" pages) that search engines should not index.
     # Multiple paths look like this:
@@ -57,10 +73,6 @@ module CustomHelpers
     else
       site_desc.to_s
     end
-  end
-
-  def article_og_image_for(article, site_img)
-    !article.image.nil? ? article.image : site_img.to_s
   end
 
   private

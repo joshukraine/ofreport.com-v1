@@ -5,7 +5,7 @@ date: "2014-11-03 03:33:29"
 tags: newsletter, family, cmo
 author: ["Joshua Steele", "@joshukraine"]
 download: "OFR-Sep-Oct-2014.pdf"
-image: "2014/11/ofr-shindig-cover.png"
+image: "/2014/11/ofr-shindig-cover.png"
 caption: "This September, Kelsie and I took part in No Greater Joy’s Smoky Mountain Shindig. Over 2,000 people gathered for an unforgettable conference filled with solid Bible teaching, singing, fellowship, games, and encouragement."
 
 ---
@@ -30,7 +30,7 @@ If you’d like to learn more about the Shindig, be sure to visit <a href="http:
 
 This year, we had just one CMO guy who joined us from the US. His name is James Slice, and he is now preparing to go as a full-time missionary to Egypt. Even before coming to Ukraine, James had his eye on Egypt, and has spent more than a year studying Arabic.
 
-<img class="alignleft size-full wp-image-1941" src="https://s3.amazonaws.com/content.ofreport.com/2014/11/james-slice.png" alt="james-slice" />
+<img class="alignleft size-full wp-image-1941" src="//d21yo20tm8bmc2.cloudfront.net/2014/11/james-slice.png" alt="james-slice" />
 {: .article-image}
 
 We ministered side-by-side with James for two months in Ukraine, and I can say with conviction that he is one of the most committed and faithful men who has ever served on a CMO team. I speak for the entire board of Euro Team Outreach in saying that we heartily recommend him as man of integrity who is stepping out by faith to obey God’s call on his life.
