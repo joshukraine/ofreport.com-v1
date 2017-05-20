@@ -113,26 +113,6 @@ describe CustomHelpers do
     end
   end
 
-  describe "#article_og_image_for" do
-    context "when article provides an image path" do
-      it "returns the provided image path" do
-        site_img = "/default/image/path.jpg"
-        article = double("article")
-        allow(article).to receive(:image).and_return("/article/image/path.jpg")
-        expect(article_og_image_for(article, site_img)).to eq("/article/image/path.jpg")
-      end
-    end
-
-    context "when artice provides no image path" do
-      it "returns the default site image path" do
-        site_img = "/default/image/path.jpg"
-        article = double("article")
-        allow(article).to receive(:image).and_return(nil)
-        expect(article_og_image_for(article, site_img)).to eq("/default/image/path.jpg")
-      end
-    end
-  end
-
   describe "#feed_author_name" do
     context "when array is provided" do
       it "returns the first element as a string" do

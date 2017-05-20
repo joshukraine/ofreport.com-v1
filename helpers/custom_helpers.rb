@@ -75,10 +75,6 @@ module CustomHelpers
     end
   end
 
-  def article_og_image_for(article, site_img)
-    !article.image.nil? ? article.image : site_img.to_s
-  end
-
   private
 
   def caption_or_desc_for(article)
