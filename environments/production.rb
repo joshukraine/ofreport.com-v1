@@ -1,7 +1,7 @@
 # Use this file for production-specific deployment configs.
 # https://middlemanapp.com/basics/upgrade-v4/#environments-and-changes-to-configure-blocks
 
-# activate :asset_hash
+activate :asset_hash
 activate :asset_host,
   host: "//d1uwlk5da5dexa.cloudfront.net"
 
