@@ -12,11 +12,14 @@
 - if content_for?(:og_tags)
   = yield_content :og_tags
 - else
+  - og_image = image_path(data.site.current_family_photo)
+  - og_root = "http:" + data.site.content_server_url
+
   = tag "meta", property: "og:url", content: data.site.url
   = tag "meta", property: "og:type", content: "blog"
   = tag "meta", property: "og:title", content: data.site.title
   = tag "meta", property: "og:description", content: data.site.description
-  = tag "meta", property: "og:image", content: data.site.default_og_image_url
+  = tag "meta", property: "og:image", content: og_root + og_image
 
 = feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed"
 

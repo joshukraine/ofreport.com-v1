@@ -7,12 +7,14 @@ desc:
 ---
 
 - content_for :og_tags do
+  - og_image = image_path(data.site.current_family_photo)
+  - og_root = "http:" + data.site.content_server_url
+
   = tag "meta", property: "og:url", content: data.site.url + current_page.url
   = tag "meta", property: "og:type", content: "blog"
   = tag "meta", property: "og:title", content: current_page.data.title
   = tag "meta", property: "og:description", content: current_page.data.desc
-  = tag "meta", property: "og:image",
-    content: image_path(data.site.current_family_photo)
+  = tag "meta", property: "og:image", content: og_root + og_image
 
 %section.container.navbar-top-spacing
   .column

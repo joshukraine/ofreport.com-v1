@@ -1,13 +1,17 @@
 = wrap_layout :layout do
 
   - content_for :og_tags do
+
+    - og_default_image = image_path(data.site.current_family_photo)
+    - og_image_path = article_og_image_for(current_article.data, og_default_image)
+    - og_root = "http:" + data.site.content_server_url
+
     = tag "meta", property: "og:url", content: data.site.url + current_page.url
     = tag "meta", property: "og:type", content: "article"
     = tag "meta", property: "og:title", content: current_article.data.title
     = tag "meta", property: "og:description",
       content: article_og_desc_for(current_article.data, data.site.description)
-    = tag "meta", property: "og:image",
-      content: article_og_image_for(current_article.data, data.site.default_og_image_url)
+    = tag "meta", property: "og:image", content: og_root + og_image_path
 
   %section.container.navbar-top-spacing
     .column.container--title-area
@@ -29,7 +33,7 @@
   %section.wide-container
     - if current_article.data.image
       .article-hero.hero-image.column
-        = image_tag "https://s3.amazonaws.com/content.ofreport.com/#{current_article.data.image}"
+        = image_tag data.site.content_server_url + current_article.data.image
         - if current_article.data.caption
           .hero-image__caption
             %p.caption-text #{current_article.data.caption}
