@@ -132,4 +132,24 @@ describe CustomHelpers do
       end
     end
   end
+
+  describe "#feed_author_name" do
+    context "when array is provided" do
+      it "returns the first element as a string" do
+        author = ["Joshua", "@joshukraine"]
+        expect(feed_author_name(author)).to eq("Joshua")
+        author = [nil, "@joshukraine"]
+        expect(feed_author_name(author)).to eq("")
+      end
+    end
+
+    context "when anything else is provided" do
+      it "it returns that value as a string" do
+        author = "Fred"
+        expect(feed_author_name(author)).to eq("Fred")
+        author = nil
+        expect(feed_author_name(author)).to eq("")
+      end
+    end
+  end
 end
