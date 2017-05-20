@@ -5,7 +5,7 @@ date: "2015-12-28 13:18:08"
 tags: newsletter, family, bible first, cmo
 author: ["Joshua Steele", "@joshukraine"]
 download: "OFR-Nov-Dec-2015.pdf"
-image: "2015/12/oleg-joshua-1024x646.jpg"
+image: "/2015/12/oleg-joshua-1024x646.jpg"
 caption: "Oleg Demedyuk is a believer from L’viv. At his request, we recently started a Friday-night Bible study. Currently, we are studying the book of Romans."
 
 ---

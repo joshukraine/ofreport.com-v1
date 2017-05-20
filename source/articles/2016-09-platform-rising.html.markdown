@@ -5,7 +5,7 @@ date: "2016-09-22 09:01:58"
 tags: newsletter, family, bible first, good and evil
 author: ["Joshua Steele", "@joshukraine"]
 download: "OFR-Sep-Oct-2016.pdf"
-image: "2016/09/josh-preaching-cmo-2016-1024x497.jpg"
+image: "/2016/09/josh-preaching-cmo-2016-1024x497.jpg"
 caption: "Preaching the Gospel after a film showing in the Carpathian village of Scherbovets."
 
 ---

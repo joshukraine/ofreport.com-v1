@@ -5,7 +5,7 @@ date: "2012-03-01 13:32:15"
 tags: newsletter, ministry, ukraine
 author: ["Joshua Steele", "@joshukraine"]
 download: "OFR-Mar-2012.pdf"
-image: "2012/03/IMG_1623.jpg"
+image: "/2012/03/IMG_1623.jpg"
 caption: "We are very excited to announce the launch of our new Ukrainian-language video channel, “Shcho kazhe Pysannya?” (What Saith the Scripture?) Check it out at www.pysannya.com!"
 
 ---

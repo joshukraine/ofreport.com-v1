@@ -5,7 +5,7 @@ date: '2013-04-13 13:39:06'
 tags: newsletter, bible first, cmo
 author: ['Joshua Steele', '@joshukraine']
 download: 'OFR-March-April-2013.pdf'
-image: '2013/04/DSC_2704.jpg'
+image: '/2013/04/DSC_2704.jpg'
 caption: 'After seven years of development, the core curriculum of Bible First is now complete. The manuscripts of lessons 19 and 20 were recently finalized, and these lessons are now being prepared for print in English and Ukrainian.'
 
 ---

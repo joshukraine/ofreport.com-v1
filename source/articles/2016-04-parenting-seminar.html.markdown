@@ -5,7 +5,7 @@ date: "2016-04-18 07:52:04"
 tags: newsletter, cmo, bible first
 author: ["Joshua Steele", "@joshukraine"]
 download: "OFR-Jan-Mar-2016.pdf"
-image: "2016/04/IMG_6934-1024x683.jpg"
+image: "/2016/04/IMG_6934-1024x683.jpg"
 caption: "Kelsie and I recently had the privilege of teaching our very first parenting seminar! Organized by a local church here in L’viv, the event was well attended, and we were excited for the opportunity to address Ukrainian couples on the topic of child training."
 
 ---

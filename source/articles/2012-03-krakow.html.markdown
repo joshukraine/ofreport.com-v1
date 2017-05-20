@@ -3,7 +3,7 @@ title: Going to Krakow!
 date: "2012-03-07 05:59:15"
 tags: ministry
 author: ["Joshua Steele", "@joshukraine"]
-image: "2012/03/wawel.jpeg"
+image: "/2012/03/wawel.jpeg"
 caption: "The Wawel Castle in Krakow, Poland"
 
 ---

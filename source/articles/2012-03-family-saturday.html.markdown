@@ -4,7 +4,7 @@ title: Family Saturday
 date: "2012-03-10 15:56:38"
 tags: family
 author: ["Joshua Steele", "@joshukraine"]
-image: "2012/03/family-saturday2-1024x682.jpg"
+image: "/2012/03/family-saturday2-1024x682.jpg"
 caption: "Abby &amp; Beka – best friends"
 
 ---

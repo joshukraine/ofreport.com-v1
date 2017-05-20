@@ -5,7 +5,7 @@ date: "2013-09-03 11:21:58"
 tags: newsletter, cmo
 author: ["Joshua Steele", "@joshukraine"]
 download: "OFR-May-Jul-Sep-2013-2.pdf"
-image: "2013/09/IMG_5772.jpg"
+image: "/2013/09/IMG_5772.jpg"
 caption: "One of our larger film showings this year, held in the village of Kanora."
 
 ---

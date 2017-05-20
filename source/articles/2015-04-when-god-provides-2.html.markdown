@@ -5,7 +5,7 @@ date: "2015-04-27 18:35:57"
 tags: newsletter, family, cmo
 author: ["Joshua Steele", "@joshukraine"]
 download: "OFR-Mar-Apr-2015.pdf"
-image: "2015/04/steele-family-spring-20151-1024x683.jpg"
+image: "/2015/04/steele-family-spring-20151-1024x683.jpg"
 caption: "After nearly seven years living in a 775 square foot apartment, God has graciously provided the Steeles with more living space! We’d like to share with you the story of how God recently led our growing family to a new home in L’viv."
 
 ---

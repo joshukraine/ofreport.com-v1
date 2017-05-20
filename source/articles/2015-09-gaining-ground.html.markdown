@@ -5,7 +5,7 @@ date: "2015-09-01 12:42:17"
 tags: newsletter, cmo, good and evil
 author: ["Joshua Steele", "@joshukraine"]
 download: "OFR-Sep-Oct-2015.pdf"
-image: "2015/09/06-IMG_6462-1024x683.png"
+image: "/2015/09/06-IMG_6462-1024x683.png"
 caption: "Several of the CMO 2015 team hike towards a new set of buildings during a literature campaign."
 
 ---
