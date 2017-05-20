@@ -2,8 +2,8 @@
 # https://middlemanapp.com/basics/upgrade-v4/#environments-and-changes-to-configure-blocks
 
 # activate :asset_hash
-# activate :asset_host,
-#   host: "//<your-cloudfront-domain>.cloudfront.net"
+activate :asset_host,
+  host: "//d1uwlk5da5dexa.cloudfront.net"
 
 set :url_root, "http://OFReport.com"
 
