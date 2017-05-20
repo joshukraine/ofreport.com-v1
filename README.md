@@ -89,4 +89,4 @@ OFReport.com is currently deployed on Amazon S3. [Detailed instructions](http://
 Legal
 -----
 
-Blog content is copyrighted by Joshua and Kelsie Steele. Software is licensed under [MIT](https://github.com/joshukraine/ofreport.com/blob/a0438cc49039eb5d90e26beb1043fd76886caf1b/LICENSE).
+Blog content is copyrighted by Joshua and Kelsie Steele. Software is licensed under [MIT](https://github.com/joshukraine/ofreport.com/blob/master/LICENSE).
