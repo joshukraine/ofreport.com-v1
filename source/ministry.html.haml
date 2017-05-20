@@ -6,15 +6,22 @@ desc:
   those around us.
 ---
 
-- content_for :og_tags do
-  - og_image = image_path(data.site.current_family_photo)
-  - og_root = "http:" + data.site.asset_server_url
+:ruby
+  site_url = data.site.url
+  site_photo = data.site.current_family_photo
+  site_asset_server = data.site.asset_server_url
+  page_title = current_page.data.title.to_s
+  og_asset_root = "http:" + site_asset_server
+  og_url = site_url + current_page.url
+  og_desc = current_page.data.desc
+  og_default_image = og_asset_root + image_path(site_photo)
 
-  = tag "meta", property: "og:url", content: data.site.url + current_page.url
+- content_for :og_tags do
+  = tag "meta", property: "og:url", content: og_url
   = tag "meta", property: "og:type", content: "blog"
-  = tag "meta", property: "og:title", content: current_page.data.title
-  = tag "meta", property: "og:description", content: current_page.data.desc
-  = tag "meta", property: "og:image", content: og_root + og_image
+  = tag "meta", property: "og:title", content: page_title
+  = tag "meta", property: "og:description", content: og_desc
+  = tag "meta", property: "og:image", content: og_default_image
 
 %section.container.navbar-top-spacing
   .column
