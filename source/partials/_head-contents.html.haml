@@ -5,10 +5,6 @@
 = tag "meta", name: "author", content: "Joshua Steele"
 = tag "meta", name: "description", content: data.site.description
 
-- if production?
-  -# = tag "meta", name: "google-site-verification",
-  -#   content: "[site-verification-code-here]"
-
 - if content_for?(:og_tags)
   = yield_content :og_tags
 - else
@@ -21,13 +17,10 @@
   = tag "meta", property: "og:description", content: data.site.description
   = tag "meta", property: "og:image", content: og_root + og_image
 
-= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed"
-
 %title= full_title(current_page.data.title, data.site.title)
+= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed"
 = favicon_tag "favicon.ico"
-
 -# = tag "link", rel: "apple-touch-icon", href: "images/apple-touch-icon.png"
-
 = stylesheet_link_tag :site
 = javascript_include_tag :bundle, async: !development?
 = partial "partials/analytics" if production?
