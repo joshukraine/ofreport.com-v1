@@ -16,6 +16,14 @@ module CustomHelpers
     end
   end
 
+  def fb_link_for(author)
+    if author.to_s.downcase.include?("joshua")
+      "https://www.facebook.com/joshukraine"
+    elsif author.to_s.downcase.include?("kelsie")
+      "https://www.facebook.com/kelsiesteele"
+    end
+  end
+
   def feed_author_name(author)
     if author.is_a? Array
       author[0].to_s
