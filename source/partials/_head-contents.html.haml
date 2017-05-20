@@ -30,3 +30,4 @@
 
 = stylesheet_link_tag :site
 = javascript_include_tag :bundle, async: !development?
+= partial "partials/analytics" if production?
