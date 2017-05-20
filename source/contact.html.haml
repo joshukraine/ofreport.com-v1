@@ -5,7 +5,7 @@ desc: Need to get in touch? Drop us a line!
 
 - content_for :og_tags do
   - og_image = image_path(data.site.current_family_photo)
-  - og_root = "http:" + data.site.content_server_url
+  - og_root = "http:" + data.site.asset_server_url
 
   = tag "meta", property: "og:url", content: data.site.url + current_page.url
   = tag "meta", property: "og:type", content: "blog"
