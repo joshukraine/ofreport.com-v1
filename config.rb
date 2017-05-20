@@ -25,6 +25,7 @@ activate :blog do |blog|
   blog.paginate = true
   blog.per_page = 10
   blog.page_link = "page/{num}"
+  blog.new_article_template = File.expand_path("source/article-template.erb", File.dirname(__FILE__))
 end
 
 configure :build do
