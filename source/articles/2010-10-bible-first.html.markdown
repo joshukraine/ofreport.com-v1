@@ -5,7 +5,7 @@ tags:
 - ministry
 ---
 
-[caption id="attachment_1092" align="alignright" width="150" caption=" "]<a href="https://s3.amazonaws.com/content.ofreport.com/2010/10/DSC_2704.jpg"><img class="size-thumbnail wp-image-1092 " title="DSC_2704" src="https://s3.amazonaws.com/content.ofreport.com/2010/10/DSC_2704-150x150.jpg" alt="" width="150" height="150" /></a>[/caption]
+[caption id="attachment_1092" align="alignright" width="150" caption=" "]<a href="//d21yo20tm8bmc2.cloudfront.net/2010/10/DSC_2704.jpg"><img class="size-thumbnail wp-image-1092 " title="DSC_2704" src="//d21yo20tm8bmc2.cloudfront.net/2010/10/DSC_2704-150x150.jpg" alt="" width="150" height="150" /></a>[/caption]
 
 Here in Ukraine, anyone who isn't Catholic or Orthodox is considered a "sektant" (member of a sect or cult). The mere mention of attending an evangelical church is usually met with fear, skepticism and even anger.
 
@@ -18,4 +18,4 @@ In late 2004, our team began the development of a Bible correspondence course th
 Our course consists of 17 lessons and takes students one chapter at a time from Creation, through the stories of Adam &amp; Eve, Cain &amp; Abel, Noah, Abraham, Sodom &amp; Gomorrah, Isaac, Jacob and Joseph. In each story, we point them to Jesus, drawing on the types and parallels that God Himself built into Genesis for that very purpose. And now we have a new problem: the number of Ukrainians enrolling in our course continues to grow. It takes the full attention of all seven of our staff to grade the stacks of lessons we receive each week, answer the letters, and write new material to stay ahead of our students.
 
 The development of our course is nearing completion and soon it will be available in English to anyone who would like to use it in ministry. We call it Bible First. If you'd like to learn more, visit our Bible First web page: <a href="http://www.euroteamoutreach.org/biblefirst/" target="_blank">www.euroteamoutreach.org/biblefirst</a>
-<p style="text-align: center;"><a href="http://www.euroteamoutreach.org/index.php?p=biblefirst"><img class="aligncenter size-medium wp-image-1088" title="Bible First" src="https://s3.amazonaws.com/content.ofreport.com/2010/10/Bible-First-300x102.png" alt="" width="300" height="102" /></a></p>
+<p style="text-align: center;"><a href="http://www.euroteamoutreach.org/index.php?p=biblefirst"><img class="aligncenter size-medium wp-image-1088" title="Bible First" src="//d21yo20tm8bmc2.cloudfront.net/2010/10/Bible-First-300x102.png" alt="" width="300" height="102" /></a></p>

@@ -15,7 +15,7 @@ READMORE
 
 We appreciate your prayers for our family as we make preparations for the arrival of our baby. We couldn’t be more thrilled, and we praise the Lord for His generous reward.
 
-<a href="https://s3.amazonaws.com/content.ofreport.com/2014/05/ultrasound.jpg"><img class="wp-image-1904 size-medium" src="https://s3.amazonaws.com/content.ofreport.com/2014/05/ultrasound-321x450.jpg" alt="ultrasound" width="321" height="450" /></a>
+<a href="//d21yo20tm8bmc2.cloudfront.net/2014/05/ultrasound.jpg"><img class="wp-image-1904 size-medium" src="//d21yo20tm8bmc2.cloudfront.net/2014/05/ultrasound-321x450.jpg" alt="ultrasound" width="321" height="450" /></a>
 {: .article-image .article-image--has-caption}
 Seeing a new heartbeat for the first time never gets old.
 {: .caption-text .article-image__caption}

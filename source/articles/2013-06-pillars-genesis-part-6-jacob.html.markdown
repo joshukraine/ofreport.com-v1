@@ -16,7 +16,7 @@ Jacob, the third of the great patriarchs, seemed an unlikely candidate to carry 
 
 READMORE
 
-<a href="https://s3.amazonaws.com/content.ofreport.com/2013/05/Jacob.jpg"><img class="alignleft  wp-image-1831" alt="Jacob" src="https://s3.amazonaws.com/content.ofreport.com/2013/05/Jacob-366x450.jpg" /></a>
+<a href="//d21yo20tm8bmc2.cloudfront.net/2013/05/Jacob.jpg"><img class="alignleft  wp-image-1831" alt="Jacob" src="//d21yo20tm8bmc2.cloudfront.net/2013/05/Jacob-366x450.jpg" /></a>
 {: .article-image}
 
 On the night that Jacob wrestled with God, his name was changed to Israel, which also became the name of the nation God had revealed to Abraham years earlier. Jacob’s sons, who themselves became the heads of twelve tribes, were born into a glorious inheritance. From their lineage sprang a nation without equal on the earth: chosen of God, blessed of God, and known to the world as the people of God.

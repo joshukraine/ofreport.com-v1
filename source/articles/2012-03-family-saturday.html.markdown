@@ -13,32 +13,32 @@ Today we decided to take the whole family out for trip to downtown L'viv. We sta
 
 READMORE
 
-<a href="https://s3.amazonaws.com/content.ofreport.com/2012/03/family-saturday3.jpg"><img class="size-medium wp-image-1475" title="family-saturday3" src="https://s3.amazonaws.com/content.ofreport.com/2012/03/family-saturday3-450x300.jpg" alt="" /></a>
+<a href="//d21yo20tm8bmc2.cloudfront.net/2012/03/family-saturday3.jpg"><img class="size-medium wp-image-1475" title="family-saturday3" src="//d21yo20tm8bmc2.cloudfront.net/2012/03/family-saturday3-450x300.jpg" alt="" /></a>
 {: .article-image .article-image--has-caption}
 Hosanna loves to push the basket with Mommy.
 {: .caption-text .article-image__caption}
 
-<a href="https://s3.amazonaws.com/content.ofreport.com/2012/03/family-saturday6.jpg"><img class="size-medium wp-image-1476" title="family-saturday6" src="https://s3.amazonaws.com/content.ofreport.com/2012/03/family-saturday6-450x300.jpg" alt="" /></a>
+<a href="//d21yo20tm8bmc2.cloudfront.net/2012/03/family-saturday6.jpg"><img class="size-medium wp-image-1476" title="family-saturday6" src="//d21yo20tm8bmc2.cloudfront.net/2012/03/family-saturday6-450x300.jpg" alt="" /></a>
 {: .article-image .article-image--has-caption}
 Abby took part in an English lesson at Antoshka.
 {: .caption-text .article-image__caption}
 
-<a href="https://s3.amazonaws.com/content.ofreport.com/2012/03/family-saturday8.jpg"><img class="size-medium wp-image-1477" title="family-saturday8" src="https://s3.amazonaws.com/content.ofreport.com/2012/03/family-saturday8-450x300.jpg" alt="" /></a>
+<a href="//d21yo20tm8bmc2.cloudfront.net/2012/03/family-saturday8.jpg"><img class="size-medium wp-image-1477" title="family-saturday8" src="//d21yo20tm8bmc2.cloudfront.net/2012/03/family-saturday8-450x300.jpg" alt="" /></a>
 {: .article-image .article-image--has-caption}
 Learning to climb
 {: .caption-text .article-image__caption}
 
-<a href="https://s3.amazonaws.com/content.ofreport.com/2012/03/family-saturday16.jpg"><img class="size-medium wp-image-1478" title="family-saturday16" src="https://s3.amazonaws.com/content.ofreport.com/2012/03/family-saturday16-450x300.jpg" alt="" /></a>
+<a href="//d21yo20tm8bmc2.cloudfront.net/2012/03/family-saturday16.jpg"><img class="size-medium wp-image-1478" title="family-saturday16" src="//d21yo20tm8bmc2.cloudfront.net/2012/03/family-saturday16-450x300.jpg" alt="" /></a>
 {: .article-image .article-image--has-caption}
 Today we met Ivanka - a Christian Ukrainian girl who speaks English. Hosanna took to her right away.
 {: .caption-text .article-image__caption}
 
-<a href="https://s3.amazonaws.com/content.ofreport.com/2012/03/family-saturday19.jpg"><img class="size-medium wp-image-1479" title="family-saturday19" src="https://s3.amazonaws.com/content.ofreport.com/2012/03/family-saturday19-450x300.jpg" alt="" /></a>
+<a href="//d21yo20tm8bmc2.cloudfront.net/2012/03/family-saturday19.jpg"><img class="size-medium wp-image-1479" title="family-saturday19" src="//d21yo20tm8bmc2.cloudfront.net/2012/03/family-saturday19-450x300.jpg" alt="" /></a>
 {: .article-image .article-image--has-caption}
 Fun at the Lego table!
 {: .caption-text .article-image__caption}
 
-<a href="https://s3.amazonaws.com/content.ofreport.com/2012/03/family-saturday21.jpg"><img class="size-medium wp-image-1480" title="family-saturday21" src="https://s3.amazonaws.com/content.ofreport.com/2012/03/family-saturday21-450x300.jpg" alt="" /></a>
+<a href="//d21yo20tm8bmc2.cloudfront.net/2012/03/family-saturday21.jpg"><img class="size-medium wp-image-1480" title="family-saturday21" src="//d21yo20tm8bmc2.cloudfront.net/2012/03/family-saturday21-450x300.jpg" alt="" /></a>
 {: .article-image .article-image--has-caption}
 My little Rebekah Praise
 {: .caption-text .article-image__caption}

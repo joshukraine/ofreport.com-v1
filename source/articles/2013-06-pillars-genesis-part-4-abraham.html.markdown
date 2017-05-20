@@ -18,7 +18,7 @@ Historically, men have sought God’s favor through their works. While this purs
 
 READMORE
 
-<a href="https://s3.amazonaws.com/content.ofreport.com/2013/05/Abraham.jpg"><img class="alignleft  wp-image-1816" alt="Abraham" src="https://s3.amazonaws.com/content.ofreport.com/2013/05/Abraham-372x450.jpg" /></a>
+<a href="//d21yo20tm8bmc2.cloudfront.net/2013/05/Abraham.jpg"><img class="alignleft  wp-image-1816" alt="Abraham" src="//d21yo20tm8bmc2.cloudfront.net/2013/05/Abraham-372x450.jpg" /></a>
 {: .article-image .article-image--has-caption}
 “But without faith it is impossible to please [God]…” (Hebrews 11:6)
 {: .caption-text .article-image__caption}

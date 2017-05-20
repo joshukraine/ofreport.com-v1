@@ -24,7 +24,7 @@ In just a few days, our family will be flying back to Ukraine to continue our mi
 
 This year’s CMO project is on track to begin June 15th. As I mentioned above, the military conflict in Ukraine has caused many to give greater consideration to the things of eternity, and we believe that we are facing a special door of opportunity to sow the seed of the Gospel on fertile ground. We’re praying that God will raise up a strong team of young men to help us preach Christ in Ukraine this summer!
 
-<a href="http://cmoproject.org"><img class="aligncenter wp-image-1951" src="https://s3.amazonaws.com/content.ofreport.com/2015/02/cmo_2015_logo-417x450.png" alt="cmo_2015_logo" width="250" height="270" /></a>
+<a href="http://cmoproject.org"><img class="aligncenter wp-image-1951" src="//d21yo20tm8bmc2.cloudfront.net/2015/02/cmo_2015_logo-417x450.png" alt="cmo_2015_logo" width="250" height="270" /></a>
 {: .article-image}
 
 The deadline to <a title="CMO 2015" href="http://www.euroteamoutreach.org/index.php?p=cmo" target="_blank">register for CMO 2015 is May 1</a>, so if you or someone you know is interested in coming, please contact us right away! And of course, please continue to lift up our team in prayer as we make preparations for the summer.
@@ -33,7 +33,7 @@ The deadline to <a title="CMO 2015" href="http://www.euroteamoutreach.org/index.
 
 Our list of *Bible First* graduates in Ukraine continues to grow, with the majority professing faith in Christ and expressing interest in receiving more of our materials in the future. One of our next major objectives is to make *Bible First* available online, and to this end we’ve begun developing a web-based application that will allow anyone world-wide to begin and manage their own *Bible First* course. This application will open the door to allowing our Ukrainian graduates to begin their own indigenous ministries, reaching their fellow Ukrainians using the same materials that brought them to Christ.
 
-<a href="https://s3.amazonaws.com/content.ofreport.com/2015/02/trevor-josh-color.jpg"><img class="size-large wp-image-1950" src="https://s3.amazonaws.com/content.ofreport.com/2015/02/trevor-josh-color-1024x768.jpg" alt="Trevor Brown and I spent a week getting the Bible First online project started." width="584" height="438" /></a>
+<a href="//d21yo20tm8bmc2.cloudfront.net/2015/02/trevor-josh-color.jpg"><img class="size-large wp-image-1950" src="//d21yo20tm8bmc2.cloudfront.net/2015/02/trevor-josh-color-1024x768.jpg" alt="Trevor Brown and I spent a week getting the Bible First online project started." width="584" height="438" /></a>
 {: .article-image .article-image--has-caption}
 Trevor Brown and I spent a week getting the Bible First online project started.
 {: .caption-text .article-image__caption}
@@ -48,27 +48,27 @@ In late January, we were very blessed to have Trevor Brown, a software developer
 * Pray for the development of the Bible First web app.
 * Pray that God would continue to bless and expand the impact of *Bible First* in Ukraine, the U.S. and other countries.
 
-<a href="https://s3.amazonaws.com/content.ofreport.com/2015/02/2015-01-11-21.19.15-2.jpg"><img class="size-medium wp-image-1954" src="https://s3.amazonaws.com/content.ofreport.com/2015/02/2015-01-11-21.19.15-2-450x338.jpg" alt="Beka, Abby, and Hosanna greet their new little sister.  No happier group of future mommies was ever seen!" /></a>
+<a href="//d21yo20tm8bmc2.cloudfront.net/2015/02/2015-01-11-21.19.15-2.jpg"><img class="size-medium wp-image-1954" src="//d21yo20tm8bmc2.cloudfront.net/2015/02/2015-01-11-21.19.15-2-450x338.jpg" alt="Beka, Abby, and Hosanna greet their new little sister.  No happier group of future mommies was ever seen!" /></a>
 {: .article-image .article-image--has-caption}
 Beka, Abby, and Hosanna greet their new little sister.<br />No happier group of future mommies was ever seen!
 {: .caption-text .article-image__caption}
 
-<a href="https://s3.amazonaws.com/content.ofreport.com/2015/02/IMG_2681.jpg"><img class="aligncenter wp-image-1955 size-medium" src="https://s3.amazonaws.com/content.ofreport.com/2015/02/IMG_2681-e1423511224811-338x450.jpg" alt="IMG_2681" /></a>
+<a href="//d21yo20tm8bmc2.cloudfront.net/2015/02/IMG_2681.jpg"><img class="aligncenter wp-image-1955 size-medium" src="//d21yo20tm8bmc2.cloudfront.net/2015/02/IMG_2681-e1423511224811-338x450.jpg" alt="IMG_2681" /></a>
 {: .article-image}
 
-<a href="https://s3.amazonaws.com/content.ofreport.com/2015/02/IMG_2872.jpg"><img class="aligncenter wp-image-1956 size-medium" src="https://s3.amazonaws.com/content.ofreport.com/2015/02/IMG_2872-e1423511276129-338x450.jpg" alt="IMG_2872" /></a>
+<a href="//d21yo20tm8bmc2.cloudfront.net/2015/02/IMG_2872.jpg"><img class="aligncenter wp-image-1956 size-medium" src="//d21yo20tm8bmc2.cloudfront.net/2015/02/IMG_2872-e1423511276129-338x450.jpg" alt="IMG_2872" /></a>
 {: .article-image}
 
-<a href="https://s3.amazonaws.com/content.ofreport.com/2015/02/2015-01-17-11.18.06.jpg"><img class="wp-image-1961 size-medium" src="https://s3.amazonaws.com/content.ofreport.com/2015/02/2015-01-17-11.18.06-450x338.jpg" alt="2015-01-17 11.18.06" /></a>
+<a href="//d21yo20tm8bmc2.cloudfront.net/2015/02/2015-01-17-11.18.06.jpg"><img class="wp-image-1961 size-medium" src="//d21yo20tm8bmc2.cloudfront.net/2015/02/2015-01-17-11.18.06-450x338.jpg" alt="2015-01-17 11.18.06" /></a>
 {: .article-image .article-image--has-caption}
 Kathryn meets her cousins!
 {: .caption-text .article-image__caption}
 
-<a href="https://s3.amazonaws.com/content.ofreport.com/2015/02/IMG_3723.jpg"><img class="aligncenter wp-image-1962 size-medium" src="https://s3.amazonaws.com/content.ofreport.com/2015/02/IMG_3723-e1423512037827-338x450.jpg" alt="IMG_3723" /></a>
+<a href="//d21yo20tm8bmc2.cloudfront.net/2015/02/IMG_3723.jpg"><img class="aligncenter wp-image-1962 size-medium" src="//d21yo20tm8bmc2.cloudfront.net/2015/02/IMG_3723-e1423512037827-338x450.jpg" alt="IMG_3723" /></a>
 {: .article-image}
 
-<a href="https://s3.amazonaws.com/content.ofreport.com/2015/02/2015-01-08-15.29.58-1.jpg"><img class="aligncenter size-medium wp-image-1957" src="https://s3.amazonaws.com/content.ofreport.com/2015/02/2015-01-08-15.29.58-1-450x450.jpg" alt="2015-01-08 15.29.58-1" /></a>
+<a href="//d21yo20tm8bmc2.cloudfront.net/2015/02/2015-01-08-15.29.58-1.jpg"><img class="aligncenter size-medium wp-image-1957" src="//d21yo20tm8bmc2.cloudfront.net/2015/02/2015-01-08-15.29.58-1-450x450.jpg" alt="2015-01-08 15.29.58-1" /></a>
 {: .article-image}
 
-<a href="https://s3.amazonaws.com/content.ofreport.com/2015/02/2015-01-08-20.47.38.jpg"><img class="aligncenter size-medium wp-image-1958" src="https://s3.amazonaws.com/content.ofreport.com/2015/02/2015-01-08-20.47.38-338x450.jpg" alt="2015-01-08 20.47.38" /></a>
+<a href="//d21yo20tm8bmc2.cloudfront.net/2015/02/2015-01-08-20.47.38.jpg"><img class="aligncenter size-medium wp-image-1958" src="//d21yo20tm8bmc2.cloudfront.net/2015/02/2015-01-08-20.47.38-338x450.jpg" alt="2015-01-08 20.47.38" /></a>
 {: .article-image}
