@@ -7,6 +7,7 @@ desc: Need to get in touch? Drop us a line!
   site_url = data.site.url
   site_photo = data.site.current_family_photo
   site_asset_server = data.site.asset_server_url
+  contact_email = data.site.contact_email
   page_title = current_page.data.title.to_s
   og_url = site_url + current_page.url
   og_desc = current_page.data.desc
@@ -31,7 +32,7 @@ desc: Need to get in touch? Drop us a line!
 %section.narrow-container.container--spacing
   .column
     .contact-form
-      %form{ action: "https://formspree.io/#{data.site.contact_email}",
+      %form{ action: "https://formspree.io/#{contact_email}",
              method: "POST" }
         %input{ name: "full_name", type: "text", required: "",
                 placeholder: "What is your name?", maxlength: "100" }
@@ -42,7 +43,7 @@ desc: Need to get in touch? Drop us a line!
         %input{ name: "_subject", type: "hidden",
                 value: "[OFReport.com] New Contact Request" }
         %input{ name: "_next", type: "hidden",
-                value: "http://#{data.site.human_url}/contact/thanks/" }
+                value: "#{site_url}/contact/thanks/" }
         %input{ name: "_gotcha", style: "display:none", type: "text" }
         %input{ name: "_format", style: "display:none", type: "text",
                 value: "plain" }
