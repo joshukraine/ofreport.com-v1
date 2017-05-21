@@ -3,7 +3,7 @@
 
 activate :asset_hash
 activate :asset_host,
-  host: "//d1uwlk5da5dexa.cloudfront.net"
+  host: "https://d1uwlk5da5dexa.cloudfront.net"
 
 set :url_root, "http://OFReport.com"
 
