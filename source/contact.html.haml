@@ -8,10 +8,9 @@ desc: Need to get in touch? Drop us a line!
   site_photo = data.site.current_family_photo
   site_asset_server = data.site.asset_server_url
   page_title = current_page.data.title.to_s
-  og_asset_root = "http:" + site_asset_server
   og_url = site_url + current_page.url
   og_desc = current_page.data.desc
-  og_default_image = og_asset_root + image_path(site_photo)
+  og_default_image = site_asset_server + image_path(site_photo)
 
 - content_for :og_tags do
   = tag "meta", property: "og:url", content: og_url

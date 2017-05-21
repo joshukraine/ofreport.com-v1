@@ -3,7 +3,7 @@
 
 activate :asset_hash
 activate :asset_host,
-  host: "//d1uwlk5da5dexa.cloudfront.net"
+  host: "https://d1uwlk5da5dexa.cloudfront.net"
 
 set :url_root, "http://OFReport.com"
 
@@ -22,4 +22,4 @@ end
 
 # https://github.com/fredjean/middleman-s3_sync#http-caching
 default_caching_policy max_age: (60 * 60 * 24 * 365)
-caching_policy 'text/html', public: true, max_age: 0, must_revalidate: true
+caching_policy "text/html", public: true, max_age: 0, must_revalidate: true

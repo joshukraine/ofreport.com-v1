@@ -12,13 +12,11 @@
   article_download_link = site_content_server + "/ofr/" + article_download
   article_image = current_article.data.image.to_s
   article_caption = current_article.data.caption.to_s
-  og_content_root = "http:" + site_content_server
-  og_asset_root = "http:" + site_asset_server
   og_url = site_url + current_page.url
   og_author = fb_link_for(article_author)
   og_desc = article_og_desc_for(current_article.data, site_desc)
-  og_article_image = og_content_root + article_image
-  og_default_image = og_asset_root + image_path(site_photo)
+  og_article_image = site_content_server + article_image
+  og_default_image = site_asset_server + image_path(site_photo)
 
 = wrap_layout :layout do
   - content_for :og_tags do

@@ -3,7 +3,6 @@
   site_title = data.site.title
   site_desc = data.site.description
   site_photo = data.site.current_family_photo
-  site_content_server = data.site.content_server_url
   site_asset_server = data.site.asset_server_url
   page_title = current_page.data.title.to_s
   page_path = current_page.path
@@ -11,9 +10,7 @@
   og_url = site_url
   og_title = site_title
   og_desc = site_desc
-  og_content_root = "http:" + site_content_server
-  og_asset_root = "http:" + site_asset_server
-  og_default_image = og_asset_root + image_path(site_photo)
+  og_default_image = site_asset_server + image_path(site_photo)
 
 = tag "meta", charset: "utf-8"
 = tag "meta", content: "IE=edge", "http-equiv" => "X-UA-Compatible"
