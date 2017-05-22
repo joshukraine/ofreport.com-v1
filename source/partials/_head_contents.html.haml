@@ -29,10 +29,11 @@
   = tag "meta", property: "og:image", content: og_default_image
 
 %title= full_title(page_title, site_title)
+
+= partial "partials/analytics" if production?
 = feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed"
 = favicon_tag "favicon.ico"
 = tag "link", rel: "apple-touch-icon", href: image_path("apple-touch-icon.png")
 = stylesheet_link_tag :site
 = javascript_include_tag :bundle, async: !development?
 = javascript_include_tag "https://use.fontawesome.com/e586672abd.js"
-= partial "partials/analytics" if production?

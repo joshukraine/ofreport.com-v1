@@ -5,7 +5,7 @@ activate :asset_hash
 activate :asset_host,
   host: "https://d1uwlk5da5dexa.cloudfront.net"
 
-set :url_root, "http://OFReport.com"
+set :url_root, "https://OFReport.com"
 
 # https://github.com/Aupajo/middleman-search_engine_sitemap
 activate :search_engine_sitemap
