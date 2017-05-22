@@ -10,7 +10,6 @@ page "/404.html", directory_index: false
 page "/feed.xml", layout: false
 
 set :css_dir, "assets/stylesheets"
-set :fonts_dir, "assets/fonts"
 set :images_dir, "assets/images"
 set :js_dir, "assets/javascripts"
 
