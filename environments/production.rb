@@ -2,12 +2,10 @@
 # https://middlemanapp.com/basics/upgrade-v4/#environments-and-changes-to-configure-blocks
 
 activate :asset_hash
-activate :asset_host,
-  host: "https://d1uwlk5da5dexa.cloudfront.net"
-
-set :url_root, "https://OFReport.com"
+activate :asset_host, host: "https://d1uwlk5da5dexa.cloudfront.net"
 
 # https://github.com/Aupajo/middleman-search_engine_sitemap
+set :url_root, "https://OFReport.com"
 activate :search_engine_sitemap
 
 # https://github.com/fredjean/middleman-s3_sync
