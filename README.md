@@ -5,19 +5,19 @@
 OFReport.com
 ============
 
-[![Build Status](https://travis-ci.org/joshukraine/ofreport.com.svg?branch=master)](https://travis-ci.org/joshukraine/ofreport.com) [![Dependency Status](https://gemnasium.com/badges/github.com/joshukraine/ofreport.com.svg)](https://gemnasium.com/github.com/joshukraine/ofreport.com)
+[![Build Status][travis-svg]][travis] [![Dependency Status][gemnasium-svg]][gemnasium]
 
-[OFReport.com](http://OFReport.com/) is our family blog, documenting our ministry in Ukraine.
+[OFReport.com][ofreport] is our family blog, documenting our ministry in Ukraine.
 
-This site was built using [Middleman](https://middlemanapp.com/).
+This site was built using [Middleman][middleman].
 
 Requirements
 ------------
 
-* [Middleman 4.x](https://middlemanapp.com/basics/install/)
-* [Ruby 2.x](https://github.com/rbenv/rbenv#readme)
-* [Node 6.x](https://github.com/creationix/nvm#readme)
-* [Gulp CLI](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md#getting-started)
+* [Middleman 4.x][middleman-docs]
+* [Ruby 2.x][rbenv]
+* [Node 6.x][nvm]
+* [Gulp CLI][gulp-cli]
 
 Setup
 -----
@@ -31,7 +31,7 @@ $ bin/setup
 Development
 -----------
 
-This project uses [Gulp](http://gulpjs.com/) with Middleman's new [`external_pipeline`](https://middlemanapp.com/advanced/external-pipeline/) feature introduced in v4.
+This project uses [Gulp][gulp] with Middleman's new [`external_pipeline`][external-pipeline] feature introduced in v4.
 
     # Run the development server with Gulp
     $ bundle exec middleman server
@@ -84,9 +84,27 @@ mms='bundle exec middleman server'
 Deployment
 ----------
 
-OFReport.com is currently deployed on Amazon S3. [Detailed instructions](http://docs.aws.amazon.com/gettingstarted/latest/swh/website-hosting-intro.html) are available from Amazon.
+OFReport.com is currently deployed on Amazon S3. [Detailed instructions][aws-s3-deployment] are available from Amazon.
+
+**BONUS: If you deploy with Amazon, you can get a [free ssl certificate][aws-cert-manager] for your site!**
 
 Legal
 -----
 
-Blog content is copyrighted by Joshua and Kelsie Steele. Software is licensed under [MIT](https://github.com/joshukraine/ofreport.com/blob/master/LICENSE).
+Copyright &copy; 2017 Joshua and Kelsie Steele. Software is licensed under [MIT][license].
+
+[travis-svg]: https://travis-ci.org/joshukraine/ofreport.com.svg?branch=master
+[travis]: https://travis-ci.org/joshukraine/ofreport.com
+[gemnasium-svg]: https://gemnasium.com/badges/github.com/joshukraine/ofreport.com.svg
+[gemnasium]: https://gemnasium.com/github.com/joshukraine/ofreport.com
+[ofreport]: https://OFReport.com/
+[middleman]: https://middlemanapp.com/
+[middleman-docs]: https://middlemanapp.com/basics/install/
+[rbenv]: https://github.com/rbenv/rbenv#readme
+[nvm]: https://github.com/creationix/nvm#readme
+[gulp-cli]: https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md#getting-started
+[gulp]: http://gulpjs.com/
+[external-pipeline]: https://middlemanapp.com/advanced/external-pipeline/
+[aws-s3-deployment]: http://docs.aws.amazon.com/gettingstarted/latest/swh/website-hosting-intro.html
+[aws-cert-manager]: https://aws.amazon.com/blogs/aws/new-aws-certificate-manager-deploy-ssltls-based-apps-on-aws/
+[license]: https://github.com/joshukraine/ofreport.com/blob/master/LICENSE
