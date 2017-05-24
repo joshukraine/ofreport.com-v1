@@ -27,6 +27,11 @@ In addition to the lovely weather, we were also blessed to have Bohdana with us.
 
 We hope you enjoy the pictures. God has blessed our family with five precious children, and we couldn't be more grateful!
 
+---
+
+*Click on any photo to enlarge it.*
+{: .article-text--centered}
+
 
 [![Abigail Hope](https://d21yo20tm8bmc2.cloudfront.net/2017/abigail-2017-550w.jpg)](https://d21yo20tm8bmc2.cloudfront.net/2017/abigail-2017-2000w.jpg)
 {: .article-image .article-image--has-caption}
@@ -63,7 +68,7 @@ Hosanna, Rebekah, Abigail
 This little girl loves to pick flowers!
 {: .caption-text .article-image__caption}
 
-**"Lo, children are an heritage of the LORD:  
-and the fruit of the womb is his reward."  
+**Lo, children are an heritage of the LORD:  
+and the fruit of the womb is his reward.  
 (Psalms 127:3)**
 {: .article-text--centered}
