@@ -88,8 +88,12 @@
 }
 
 .article-image {
-  @include padding($base-spacing $small-spacing);
+  @include padding($base-spacing null);
   text-align: center;
+
+  @include media-min($media-phone) {
+    img { max-width: 80%; }
+  }
 }
 
 .article-image--has-caption {
