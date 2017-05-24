@@ -20,7 +20,6 @@ activate :blog do |blog|
   blog.layout = "article_layout"
   blog.summary_separator = /(READMORE)/
   blog.tag_template = "tag.html"
-  blog.calendar_template = "calendar.html"
   blog.paginate = true
   blog.per_page = 10
   blog.page_link = "page/{num}"

@@ -2,7 +2,6 @@ include CustomHelpers
 
 describe CustomHelpers do
   describe "#full_title" do
-
     context "when no custom page title is provided" do
       it "provides only the base title" do
         site_title = "MAIN SITE TITLE"

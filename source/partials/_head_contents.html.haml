@@ -2,6 +2,7 @@
   site_url = data.site.url
   site_title = data.site.title
   site_desc = data.site.description
+  site_author = data.site.author
   site_photo = data.site.current_family_photo
   site_asset_server = data.site.asset_server_url
   page_title = current_page.data.title.to_s
@@ -15,8 +16,8 @@
 = tag "meta", charset: "utf-8"
 = tag "meta", content: "IE=edge", "http-equiv" => "X-UA-Compatible"
 = tag "meta", content: "width=device-width, initial-scale=1.0", name: "viewport"
+= tag "meta", name: "author", content: site_author
 = tag "meta", name: "robots", content: smart_robots(page_path, current_env)
-= tag "meta", name: "author", content: "Joshua Steele"
 = tag "meta", name: "description", content: site_desc
 
 - if content_for?(:og_tags)
@@ -31,9 +32,9 @@
 %title= full_title(page_title, site_title)
 
 = partial "partials/analytics" if production?
-= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed"
 = favicon_tag "favicon.ico"
 = tag "link", rel: "apple-touch-icon", href: image_path("apple-touch-icon.png")
+= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed"
 = stylesheet_link_tag :site
 = javascript_include_tag :bundle, async: !development?
 = javascript_include_tag "https://use.fontawesome.com/e586672abd.js"
