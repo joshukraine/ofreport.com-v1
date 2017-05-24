@@ -58,7 +58,7 @@ Kathryn Grace, 2yrs.
 Abby and David
 {: .caption-text .article-image__caption}
 
-[![Hosanna, Rebekah, Abigail](https://d21yo20tm8bmc2.cloudfront.net/2017/3-eldest-2017-550w.jpg)](https://d21yo20tm8bmc2.cloudfront.net/2017/hosanna-2017-2000w.jpg)
+[![Hosanna, Rebekah, Abigail](https://d21yo20tm8bmc2.cloudfront.net/2017/3-eldest-2017-550w.jpg)](https://d21yo20tm8bmc2.cloudfront.net/2017/3-eldest-2017-2000w.jpg)
 {: .article-image .article-image--has-caption}
 Hosanna, Rebekah, Abigail
 {: .caption-text .article-image__caption}
