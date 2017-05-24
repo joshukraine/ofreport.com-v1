@@ -105,6 +105,10 @@
   margin-bottom: $base-spacing * 2;
 }
 
+.article-text--centered {
+  text-align: center;
+}
+
 .to-God-be-the-glory {
   @include margin(3em auto 0);
   display: flex;
