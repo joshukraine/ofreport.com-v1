@@ -4,6 +4,7 @@ title: "Spring Family Photos"
 date: "2017-05-24 12:10:45 UTC"
 tags:
 - family
+- photos
 author: ["Joshua Steele", "@joshukraine"]
 image: "/2017/steele-family-2017-1200w.jpg"
 image_lg: "/2017/steele-family-2017-2000w.jpg"

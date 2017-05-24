@@ -2,7 +2,10 @@
 
 title: Welcome, Kathryn Grace!
 date: "2015-02-09 22:28:03"
-tags: newsletter, family
+tags:
+- newsletter
+- family
+- photos
 author: ["Joshua Steele", "@joshukraine"]
 download: "OFR-Jan-Feb-2015.pdf"
 image: "/2015/02/2015-01-05-10.41.10-1024x768.jpg"
