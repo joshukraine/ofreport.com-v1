@@ -8,7 +8,7 @@ tags:
 author: ["Joshua Steele", "@joshukraine"]
 image: "/2017/steele-family-2017-1200w.jpg"
 image_lg: "/2017/steele-family-2017-2000w.jpg"
-caption: "The Steele Family - Spring 2017 // Joshua, Kelsie, Abigail, Rebekah, Hosanna, Kathryn, David"
+caption: "The Steele Family - Spring 2017: Joshua, Kelsie, Abigail, Rebekah, Hosanna, Kathryn, David"
 
 ---
 
@@ -62,3 +62,8 @@ Hosanna, Rebekah, Abigail
 {: .article-image .article-image--has-caption}
 This little girl loves to pick flowers!
 {: .caption-text .article-image__caption}
+
+**"Lo, children are an heritage of the LORD:  
+and the fruit of the womb is his reward."  
+(Psalms 127:3)**
+{: .article-text--centered}
