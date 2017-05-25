@@ -1,12 +1,16 @@
 ---
-title: She's FIVE!
-date: '2010-09-28 15:25:13'
+
+title: "She's FIVE!"
+date: "2010-09-28 15:25:13"
 tags:
 - abigail
 - family
+- photos
+
 ---
 
 <a href="//d21yo20tm8bmc2.cloudfront.net/2010/09/DSC_2747.jpg"><img class="aligncenter size-medium wp-image-1081" title="Abigail Hope, posing with her new bike." src="//d21yo20tm8bmc2.cloudfront.net/2010/09/DSC_2747-199x300.jpg" alt="" width="199" height="300" /></a>
+{: .article-image}
 
 On Saturday we celebrated Abigail's fifth birthday. (Where does the time go?!) Abigail means "her father is joyful", and since the time she was born, Abby has truly brought great joy into our lives. She is maturing into a sweet, bright little girl and we love her so much!
 
