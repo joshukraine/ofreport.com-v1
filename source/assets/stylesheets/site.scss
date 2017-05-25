@@ -1,9 +1,9 @@
 @charset "utf-8";
 @import "reset/normalize";
-@import "bourbon/bourbon";
+@import "bourbon";
 @import "mixins/mixins";
 @import "base/base";
-@import "neat/neat";
+@import "neat";
 
 @import "pages/pages";
 @import "patterns/patterns";
