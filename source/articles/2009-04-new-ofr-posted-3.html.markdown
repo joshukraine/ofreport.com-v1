@@ -7,7 +7,7 @@ download: 'OFR_May_2009.pdf'
 
 ---
 
-The latest issue of <a href="http://www.ofreport.com/download-ofr/">Overseas Field Report</a> has now been posted to our blog. Hard copies will be going out in the mail soon.
+The latest issue of <a href="http://www.ofreport.com/archives/">Overseas Field Report</a> has now been posted to our blog. Hard copies will be going out in the mail soon.
 
 <a href="//d21yo20tm8bmc2.cloudfront.net/2009/04/all-under-sin-web.jpg"><img class="aligncenter size-medium wp-image-685" title="all-under-sin-web" src="//d21yo20tm8bmc2.cloudfront.net/2009/04/all-under-sin-web-300x171.jpg" alt="all-under-sin-web" width="300" height="171" /></a>
 
