@@ -1,8 +1,10 @@
 ---
 
-title: July Newsletter
+title: "July Newsletter"
 date: "2012-07-16 22:21:52"
-tags: newsletter, cmo
+tags:
+- newsletter
+- cmo
 author: ["Joshua Steele", "@joshukraine"]
 download: "OFR-July-2012.pdf"
 image: "/2012/07/Little-One-b.jpg"

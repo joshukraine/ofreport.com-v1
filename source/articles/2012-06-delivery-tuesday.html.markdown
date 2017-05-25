@@ -1,8 +1,9 @@
 ---
 
-title: Delivery on Tuesday
+title: "Delivery on Tuesday"
 date: "2012-06-24 04:26:30"
-tags: family
+tags:
+- family
 author: ["Joshua Steele", "@joshukraine"]
 
 ---

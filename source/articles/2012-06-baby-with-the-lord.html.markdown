@@ -1,8 +1,9 @@
 ---
 
-title: Our Baby is With the Lord
+title: "Our Baby is With the Lord"
 date: "2012-06-18 23:37:21"
-tags: family
+tags:
+- family
 author: ["Joshua Steele", "@joshukraine"]
 
 ---

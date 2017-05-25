@@ -1,8 +1,9 @@
 ---
 
-title: About Subscriptions to our Blog
+title: "About Subscriptions to our Blog"
 date: "2012-09-30 02:15:52"
-tags: announcements
+tags:
+- announcements
 author: ["Joshua Steele", "@joshukraine"]
 desc: "Due to an unexpected email policy change made by our web hosting provider, we have been forced to completely rebuild the subscriber database used by our blog."
 

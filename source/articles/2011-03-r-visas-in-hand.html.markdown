@@ -1,8 +1,11 @@
 ---
-title: R-Visas in Hand!
+
+title: "R-Visas in Hand!"
 date: "2011-03-19 07:38:50"
 tags:
 - ministry
+author: ["Joshua Steele", "@joshukraine"]
+
 ---
 
 Last Monday morning (3/14), Kelsie and I traveled with our friends, the Days, to Krakow to apply for new religious visas. Essentially these visas will allow us to stay in the country for longer periods of time without having to continually cross the border every 90 days.

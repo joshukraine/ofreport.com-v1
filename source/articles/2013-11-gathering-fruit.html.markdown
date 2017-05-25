@@ -1,8 +1,10 @@
 ---
 
-title: Gathering Fruit
+title: "Gathering Fruit"
 date: "2013-11-06 15:00:55"
-tags: newsletter, cmo
+tags:
+- newsletter
+- cmo
 author: ["Joshua Steele", "@joshukraine"]
 download: "OFR-Oct-Nov-2013.pdf"
 image: "/2013/11/IMG_5965.jpg"

@@ -1,8 +1,9 @@
 ---
 
-title: Little One
+title: "Little One"
 date: "2012-06-26 09:23:28"
-tags: family
+tags:
+- family
 author: ["Joshua Steele", "@joshukraine"]
 image: "/2012/06/2012-06-26-20.58.34-1024x768.jpg"
 desc: "The journey that we began four months ago in Ukraine ended today in a quiet family birthing room in Houston."

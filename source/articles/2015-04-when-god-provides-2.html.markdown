@@ -2,7 +2,10 @@
 
 title: When God Provides
 date: "2015-04-27 18:35:57"
-tags: newsletter, family, cmo
+tags:
+- newsletter
+- family
+- cmo
 author: ["Joshua Steele", "@joshukraine"]
 download: "OFR-Mar-Apr-2015.pdf"
 image: "/2015/04/steele-family-spring-20151-1024x683.jpg"

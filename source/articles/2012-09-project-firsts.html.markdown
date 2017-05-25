@@ -1,8 +1,10 @@
 ---
 
-title: A Project of Firsts
+title: "A Project of Firsts"
 date: "2012-09-13 20:59:13"
-tags: newsletter, cmo
+tags:
+- newsletter
+- cmo
 author: ["Joshua Steele", "@joshukraine"]
 download: "OFR-September-2012.pdf"
 image: "/2012/09/cmo2012-team-1.jpg"

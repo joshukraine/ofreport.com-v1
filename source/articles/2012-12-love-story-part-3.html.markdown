@@ -2,7 +2,8 @@
 
 title: "Our Love Story, Part 3: Dating the Dad?"
 date: "2012-12-14 15:00:07"
-tags: love story
+tags:
+- love story
 author: ["Joshua Steele", "@joshukraine"]
 desc: "While I realize that there may be exceptions, my position to this day remains the same: if at all possible, ask Dad first. The benefits of such an approach are numerous, and in my case, though a bit nervous initially, I never regretted for a moment my decision to correspond with Kelsie’s father before making my intentions known to her."
 

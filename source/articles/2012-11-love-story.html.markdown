@@ -1,8 +1,10 @@
 ---
 
-title: Our Love Story
+title: "Our Love Story"
 date: "2012-11-27 22:58:25"
-tags: newsletter, love story
+tags:
+- newsletter
+- love story
 author: ["Joshua Steele", "@joshukraine"]
 download: "OFR-Nov-Dec-2012.pdf"
 image: "/2012/11/IMG_7335.jpg"

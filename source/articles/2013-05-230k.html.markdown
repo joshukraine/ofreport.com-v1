@@ -2,7 +2,9 @@
 
 title: 230K
 date: '2013-05-23 10:49:40'
-tags: newsletter, cmo
+tags:
+- newsletter
+- cmo
 author: ['Joshua Steele', '@joshukraine']
 download: 'OFR-May-Jun-2013.pdf'
 image: '/2013/05/butya.jpg'

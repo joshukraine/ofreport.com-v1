@@ -1,8 +1,11 @@
 ---
-title: The Immigration Monster Rears its Ugly Head
-date: '2011-02-16 08:34:08'
+
+title: "The Immigration Monster Rears its Ugly Head"
+date: "2011-02-16 08:34:08"
 tags:
 - ministry
+author: ["Joshua Steele", "@joshukraine"]
+
 ---
 
 <strong>UPDATE (March, 13):</strong> *Since publishing this post, we have done more research on the visa issue. In short, we have decided that at this point, religious visas (type-R) are the way to go for our team. We were able to get letters of invitation for our family and the Day family at a very reasonable price. In the morning, we leave for Poland where we will apply for our visas at the Ukrainian consulate in Krakow. We would appreciate your prayers for smooth border crossings, and successful visa application. If all goes well, we should be back in Ukraine Wednesday morning.*

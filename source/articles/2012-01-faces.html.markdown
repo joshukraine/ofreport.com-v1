@@ -2,7 +2,8 @@
 
 title: "New Faces"
 date: "2012-01-04 12:19:57"
-tags: ministry
+tags:
+- ministry
 author: ["Joshua Steele", "@joshukraine"]
 desc: "This past week, our team held a four-day English Club in the Carpathian town of Skole. (pronounced skó-leh) This outreach was actually begun by a Ukrainian friend of ours, Sergiy Chepara, who is native to Skole."
 
