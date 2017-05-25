@@ -49,8 +49,8 @@
           - article_tags.each do |tag|
             %li.meta-tag-item= link_to "#{tag}", tag_path(tag)
 
-  %section.wide-container
-    - unless article_image.blank?
+  - unless article_image.blank?
+    %section.wide-container
       .article-hero.hero-image.column
         - if !article_image_lg.blank?
           = link_to site_content_server + article_image_lg do
