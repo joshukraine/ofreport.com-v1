@@ -5,7 +5,6 @@ date: "2009-03-09 07:31:43"
 tags:
 - abs
 - family
-- travel
 - photos
 
 ---

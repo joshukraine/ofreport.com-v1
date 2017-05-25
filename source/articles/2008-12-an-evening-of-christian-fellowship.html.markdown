@@ -1,13 +1,12 @@
 ---
 
-title: An Evening of Christian Fellowship
+title: "An Evening of Christian Fellowship"
 date: "2008-12-08 14:11:11"
 author: Kelsie Steele
 tags:
 - abs
 - bible study
-- english
-- fellowship
+- english club
 - ministry
 
 ---

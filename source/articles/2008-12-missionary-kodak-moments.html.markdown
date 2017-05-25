@@ -7,8 +7,8 @@ tags:
 - abs
 - bible study
 - english club
-- fellowship
 - ministry
+- photos
 
 ---
 

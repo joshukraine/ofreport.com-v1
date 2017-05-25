@@ -1,8 +1,11 @@
 ---
-title: Recap of Bukovets and Kozakivka
-date: '2010-06-28 19:43:42'
+
+title: "Recap of Bukovets and Kozakivka"
+date: "2010-06-28 19:43:42"
 tags:
 - ministry
+- video
+
 ---
 
 Watch this video and get the rest of the story of these two Carpathian villages. This report helps to illustrate the kind of religious bondage people are under in the mountains.

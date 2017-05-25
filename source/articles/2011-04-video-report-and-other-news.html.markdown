@@ -1,9 +1,12 @@
 ---
-title: Video Report and Other News
-date: '2011-04-20 08:45:10'
+
+title: "Video Report and Other News"
+date: "2011-04-20 08:45:10"
 tags:
 - family
 - ministry
+- video
+
 ---
 
 Better late than never? I suppose the truth of that statement depends on the situation, but late as it may be, our *latest* ETO Video Report is online! Go ahead and check it out, then keep scrolling down for more news. And as always, thanks for keeping up with our ministry and praying for us!
