@@ -88,8 +88,12 @@
 }
 
 .article-image {
-  @include padding($base-spacing $small-spacing);
+  @include padding($base-spacing null);
   text-align: center;
+
+  @include media-min($media-phone) {
+    img { max-width: 80%; }
+  }
 }
 
 .article-image--has-caption {
@@ -99,6 +103,10 @@
 
 .article-image__caption {
   margin-bottom: $base-spacing * 2;
+}
+
+.article-text--centered {
+  text-align: center;
 }
 
 .to-God-be-the-glory {

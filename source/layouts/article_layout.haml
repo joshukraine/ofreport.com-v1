@@ -11,6 +11,7 @@
   article_download = current_article.data.download.to_s
   article_download_link = site_content_server + "/ofr/" + article_download
   article_image = current_article.data.image.to_s
+  article_image_lg = current_article.data.image_lg.to_s
   article_caption = current_article.data.caption.to_s
   og_url = site_url + current_page.url
   og_author = fb_link_for(article_author)
@@ -51,7 +52,11 @@
   %section.wide-container
     - unless article_image.blank?
       .article-hero.hero-image.column
-        = image_tag site_content_server + article_image
+        - if !article_image_lg.blank?
+          = link_to site_content_server + article_image_lg do
+            = image_tag site_content_server + article_image
+        - else
+          = image_tag site_content_server + article_image
         - unless article_caption.blank?
           .hero-image__caption
             %p.caption-text= article_caption
