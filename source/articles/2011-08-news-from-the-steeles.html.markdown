@@ -1,9 +1,12 @@
 ---
-title: News from the Steeles
-date: '2011-08-15 10:58:09'
+
+title: "News from the Steeles"
+date: "2011-08-15 10:58:09"
 tags:
 - family
 - ministry
+- video
+
 ---
 
 Yes, once again our blog has fallen behind. One reason that occurred this time is that I had to make an unexpected trip to the United States for a few weeks. I've just recently returned and am trying to get caught up.
@@ -13,5 +16,3 @@ We've just posted a couple of new videos to YouTube which we'd like to share wit
 <iframe src="http://www.youtube.com/embed/EAanMSxoUCA" frameborder="0" width="450" height="286"></iframe>
 
 <iframe src="http://www.youtube.com/embed/L-V4f036lxU" frameborder="0" width="450" height="286"></iframe>
-
-&nbsp;

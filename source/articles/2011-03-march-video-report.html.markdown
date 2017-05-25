@@ -1,8 +1,11 @@
 ---
-title: March Video Report
-date: '2011-03-07 14:43:18'
+
+title: "March Video Report"
+date: "2011-03-07 14:43:18"
 tags:
 - ministry
+- video
+
 ---
 
 Recently we decided that we would try to release a new ETO video report every month. Well, so far so good. The March report is here! This one's a bit longer than usual, but I think you'll forgive us when you see it. Here's a quick overview:

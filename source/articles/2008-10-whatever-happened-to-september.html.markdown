@@ -1,12 +1,10 @@
 ---
 
-title: Whatever Happened to September?
+title: "Whatever Happened to September?"
 date: "2008-10-11 12:20:48"
 tags:
-- abigail
-- birthday
 - family
-- rebekah
+- photos
 
 ---
 

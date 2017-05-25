@@ -1,10 +1,9 @@
 ---
 
-title: When God Provides
-date: '2009-03-23 09:18:44'
+title: "When God Provides"
+date: "2009-03-23 09:18:44"
 tags:
 - family
-- testimony
 
 ---
 

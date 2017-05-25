@@ -68,8 +68,13 @@
   }
 
   ul {
-    @include margin(null null $base-spacing $base-spacing);
+    @include margin(null null $base-spacing $base-spacing * 2);
     list-style-type: disc;
+  }
+
+  ol {
+    @include margin(null null $base-spacing $base-spacing * 2);
+    list-style-type: decimal;
   }
 
   li {

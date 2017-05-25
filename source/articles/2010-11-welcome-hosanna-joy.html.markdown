@@ -1,15 +1,21 @@
 ---
-title: Welcome, Hosanna Joy!
-date: '2010-11-18 11:24:16'
+
+title: "Welcome, Hosanna Joy!"
+date: "2010-11-18 11:24:16"
 tags:
 - family
+- photos
+- video
+
 ---
 
 After long months of waiting and many prayers, our third daughter has arrived safe and sound. Hosanna Joy Steele was born at 1:57am on November 15th, weighing 8 lbs. and 1 oz. She was 19.7 inches long.
 
-[caption id="attachment_1099" align="aligncenter" width="300" caption="Hosanna Joy Steele - Born November 15, 2010"]<a href="//d21yo20tm8bmc2.cloudfront.net/2010/11/DSC_2914.jpg"><img class="size-medium wp-image-1099" title="DSC_2914" src="//d21yo20tm8bmc2.cloudfront.net/2010/11/DSC_2914-300x199.jpg" alt="" width="300" height="199" /></a>[/caption]
+<a href="//d21yo20tm8bmc2.cloudfront.net/2010/11/DSC_2914.jpg"><img class="size-medium wp-image-1099" title="DSC_2914" src="//d21yo20tm8bmc2.cloudfront.net/2010/11/DSC_2914-300x199.jpg" alt="" width="300" height="199" /></a>
+{: .article-image}
 
-[caption id="attachment_1101" align="aligncenter" width="300" caption="Abigail gets to hold Hosanna for the first time."]<a href="//d21yo20tm8bmc2.cloudfront.net/2010/11/DSC_2947.jpg"><img class="size-medium wp-image-1101" title="DSC_2947" src="//d21yo20tm8bmc2.cloudfront.net/2010/11/DSC_2947-300x199.jpg" alt="" width="300" height="199" /></a>[/caption]
+<a href="//d21yo20tm8bmc2.cloudfront.net/2010/11/DSC_2947.jpg"><img class="size-medium wp-image-1101" title="DSC_2947" src="//d21yo20tm8bmc2.cloudfront.net/2010/11/DSC_2947-300x199.jpg" alt="" width="300" height="199" /></a>
+{: .article-image}
 
 Like her older sister Rebekah, Hosanna was born in a Ukrainian hospital here in L'viv. The birth itself went well, almost textbook you might say. Kelsie was only in labor about four hours. The problems began after we thought "the hard part was behind us." Kelsie and the baby were cleaned up and left to rest. I was also trying to get some sleep in the same room on a couch. But unbeknownst to us, Kelsie was still bleeding internally. Unfortunately, by the time the doctors realized this, she had lost quite a bit of blood and the clinic went into emergency mode.
 
@@ -27,12 +33,16 @@ In L'viv, Nathan and Katelin Day were up in the middle of the night as well offe
 
 I know of many others who were also up in the night praying for our family. Thank you all so very much! Your love and support are priceless and we praise God for giving us such precious family and friends.
 
-[caption id="attachment_1104" align="aligncenter" width="300" caption="Abby and Beka get to meet Hosanna for the first time."]<a href="//d21yo20tm8bmc2.cloudfront.net/2010/11/DSC_2941.jpg"><img class="size-medium wp-image-1104" title="DSC_2941" src="//d21yo20tm8bmc2.cloudfront.net/2010/11/DSC_2941-300x222.jpg" alt="" width="300" height="222" /></a>[/caption]
+<a href="//d21yo20tm8bmc2.cloudfront.net/2010/11/DSC_2941.jpg"><img class="size-medium wp-image-1104" title="DSC_2941" src="//d21yo20tm8bmc2.cloudfront.net/2010/11/DSC_2941-300x222.jpg" alt="" width="300" height="222" /></a>
+{: .article-image}
 
-[caption id="attachment_1105" align="aligncenter" width="300" caption="Rebekah Praise - our little future mommy. One of three, actually."]<a href="//d21yo20tm8bmc2.cloudfront.net/2010/11/DSC_2937.jpg"><img class="size-medium wp-image-1105" title="DSC_2937" src="//d21yo20tm8bmc2.cloudfront.net/2010/11/DSC_2937-300x199.jpg" alt="" width="300" height="199" /></a>[/caption]
+<a href="//d21yo20tm8bmc2.cloudfront.net/2010/11/DSC_2937.jpg"><img class="size-medium wp-image-1105" title="DSC_2937" src="//d21yo20tm8bmc2.cloudfront.net/2010/11/DSC_2937-300x199.jpg" alt="" width="300" height="199" /></a>
+{: .article-image}
 
-[caption id="attachment_1106" align="aligncenter" width="300" caption=" "]<a href="//d21yo20tm8bmc2.cloudfront.net/2010/11/DSC_2928.jpg"><img class="size-medium wp-image-1106" title="DSC_2928" src="//d21yo20tm8bmc2.cloudfront.net/2010/11/DSC_2928-300x199.jpg" alt="" width="300" height="199" /></a>[/caption]
+<a href="//d21yo20tm8bmc2.cloudfront.net/2010/11/DSC_2928.jpg"><img class="size-medium wp-image-1106" title="DSC_2928" src="//d21yo20tm8bmc2.cloudfront.net/2010/11/DSC_2928-300x199.jpg" alt="" width="300" height="199" /></a>
+{: .article-image}
 
-[caption id="attachment_1107" align="aligncenter" width="300" caption=" "]<a href="//d21yo20tm8bmc2.cloudfront.net/2010/11/DSC_2927.jpg"><img class="size-medium wp-image-1107" title="DSC_2927" src="//d21yo20tm8bmc2.cloudfront.net/2010/11/DSC_2927-300x199.jpg" alt="" width="300" height="199" /></a>[/caption]
+<a href="//d21yo20tm8bmc2.cloudfront.net/2010/11/DSC_2927.jpg"><img class="size-medium wp-image-1107" title="DSC_2927" src="//d21yo20tm8bmc2.cloudfront.net/2010/11/DSC_2927-300x199.jpg" alt="" width="300" height="199" /></a>
+{: .article-image}
 
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="450" height="273" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/GrfyhS-wZUE?fs=1&amp;hl=en_US" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="450" height="273" src="http://www.youtube.com/v/GrfyhS-wZUE?fs=1&amp;hl=en_US" allowscriptaccess="always" allowfullscreen="true"> </embed></object>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GrfyhS-wZUE" frameborder="0" allowfullscreen></iframe>

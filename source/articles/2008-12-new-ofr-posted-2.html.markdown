@@ -13,4 +13,4 @@ The latest version of our newsletter, *Overseas Field Report*, has now been post
 
 <a href="http://www.OFReport.com/download-ofr/">http://www.OFReport.com/download-ofr/</a>
 
-If you would like to receive *Overseas Field Report* by regular mail, just <a href="http://www.OFReport.com/contact-us/">send us an e-mail</a> request. There is no cost for subscription to our newsletter. We appreciate your continued prayer support for our ministry.
+If you would like to receive *Overseas Field Report* by regular mail, just <a href="http://www.OFReport.com/contact/">send us an e-mail</a> request. There is no cost for subscription to our newsletter. We appreciate your continued prayer support for our ministry.

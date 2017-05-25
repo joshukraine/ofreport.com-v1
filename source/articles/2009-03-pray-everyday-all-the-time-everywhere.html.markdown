@@ -1,13 +1,12 @@
 ---
 
 title: '"Pray everyday, all the time, everywhere."'
-date: '2009-03-19 15:11:51'
+date: "2009-03-19 15:11:51"
 tags:
 - abs
 - bible study
 - english club
 - ministry
-- prayer
 
 ---
 
