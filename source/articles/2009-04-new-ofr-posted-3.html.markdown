@@ -15,4 +15,4 @@ The main article in this issue of OFR is a reprint of our recent blog post entit
 
 <strong>Download the current OFR here »</strong> [download#25#size#nohits]
 
-If you would like to subscribe to receive Overseas Field Report by mail, please <a href="http://www.ofreport.com/contact-us/">send us your name and US mailing address</a>. We appreciate your interest in overseas missions.
+If you would like to subscribe to receive Overseas Field Report by mail, please <a href="http://www.ofreport.com/contact/">send us your name and US mailing address</a>. We appreciate your interest in overseas missions.

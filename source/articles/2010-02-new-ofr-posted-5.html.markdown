@@ -15,4 +15,4 @@ The latest issue of <a href="http://www.ofreport.com/download-ofr/">Overseas Fi
 
 <strong>Download the latest OFR here » [download#27#size#nohits]</strong>
 
-If you would like to subscribe to receive Overseas Field Report by mail, please <a href="http://www.ofreport.com/contact-us/">send us your name and US mailing address</a>. We appreciate your interest in overseas missions.
+If you would like to subscribe to receive Overseas Field Report by mail, please <a href="http://www.ofreport.com/contact/">send us your name and US mailing address</a>. We appreciate your interest in overseas missions.
