@@ -63,8 +63,8 @@
 }
 
 .article-body {
-  h3 {
-    @include margin($base-spacing null $small-spacing null)
+  h2, h3, h4 {
+    @include margin($base-spacing null $small-spacing)
   }
 
   ul {

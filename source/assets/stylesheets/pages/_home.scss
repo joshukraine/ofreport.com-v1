@@ -1,5 +1,5 @@
 .home-logo {
-  @include margin(6em null 4em);
+  @include margin(6em null 1.5em);
   overflow: visible;
 
   @include media-max($media-desktop) {
@@ -7,11 +7,11 @@
   }
 
   @include media-max($media-tablet) {
-    @include margin(4em 0.5em 3em);
+    @include margin(4em 0.5em 1em);
   }
 
   @include media-max($media-phone) {
-    @include margin(2em 0);
+    @include margin(2em 0 0);
   }
 }
 
@@ -40,6 +40,10 @@
   h2 {
     line-height: 1;
     margin-bottom: 7px;
+
+    @include media-max($media-phone) {
+      font-size: modular-scale(5);
+    }
   }
 
   a {
