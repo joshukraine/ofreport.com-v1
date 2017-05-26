@@ -32,44 +32,45 @@
     - else
       = tag "meta", property: "og:image", content: og_default_image
 
-  %section.container.navbar-top-spacing
-    .column.container--title-area
-      .article-title
-        %h1= article_title
+  %article
+    %section.container.navbar-top-spacing
+      .column.container--title-area
+        .article-title
+          %h1= article_title
 
-      .article-meta
-        - if article_author
-          .meta-author
-            = twitter_link_for(article_author)
+        .article-meta
+          - if article_author
+            .meta-author
+              = twitter_link_for(article_author)
 
-        %time.meta-date{ datetime: "#{article_date}" }
-          = article_date.strftime("%b %d, %Y")
+          %time.meta-date{ datetime: "#{article_date}" }
+            = article_date.strftime("%b %d, %Y")
 
-        %ul.meta-tag-list
-          - article_tags.each do |tag|
-            %li.meta-tag-item= link_to "#{tag}", tag_path(tag)
+          %ul.meta-tag-list
+            - article_tags.each do |tag|
+              %li.meta-tag-item= link_to "#{tag}", tag_path(tag)
 
-  - unless article_image.blank?
-    %section.wide-container
-      .article-hero.hero-image.column
-        - if !article_image_lg.blank?
-          = link_to site_content_server + article_image_lg do
+    - unless article_image.blank?
+      %section.wide-container
+        .article-hero.hero-image.column
+          - if !article_image_lg.blank?
+            = link_to site_content_server + article_image_lg do
+              = image_tag site_content_server + article_image
+          - else
             = image_tag site_content_server + article_image
-        - else
-          = image_tag site_content_server + article_image
-        - unless article_caption.blank?
-          .hero-image__caption
-            %p.caption-text= article_caption
+          - unless article_caption.blank?
+            .hero-image__caption
+              %p.caption-text= article_caption
 
-  %section.container.container--spacing
-    - if article_tags.include?("newsletter")
-      .column.pdf-download
-        %i.fa.fa-file-pdf-o
-        = link_to "Download PDF", article_download_link
-
-    .article-body.column
-      = yield
-
+    %section.container.container--spacing
       - if article_tags.include?("newsletter")
-        .to-God-be-the-glory
-          = inline_svg "to-God-be-the-glory.svg"
+        .column.pdf-download
+          %i.fa.fa-file-pdf-o
+          = link_to "Download PDF", article_download_link
+
+      .article-body.column
+        = yield
+
+        - if article_tags.include?("newsletter")
+          .to-God-be-the-glory
+            = inline_svg "to-God-be-the-glory.svg"
