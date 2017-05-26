@@ -27,7 +27,7 @@ In just a few days, our family will be flying back to Ukraine to continue our mi
 
 This year’s CMO project is on track to begin June 15th. As I mentioned above, the military conflict in Ukraine has caused many to give greater consideration to the things of eternity, and we believe that we are facing a special door of opportunity to sow the seed of the Gospel on fertile ground. We’re praying that God will raise up a strong team of young men to help us preach Christ in Ukraine this summer!
 
-<a href="http://cmoproject.org"><img class="aligncenter wp-image-1951" src="//d21yo20tm8bmc2.cloudfront.net/2015/02/cmo_2015_logo-417x450.png" alt="cmo_2015_logo" width="250" height="270" /></a>
+<a href="http://cmoproject.org"><img class="aligncenter wp-image-1951" src="//d21yo20tm8bmc2.cloudfront.net/2015/02/cmo_2015_logo-417x450.png" alt="cmo_2015_logo" /></a>
 {: .article-image}
 
 The deadline to <a title="CMO 2015" href="http://www.euroteamoutreach.org/index.php?p=cmo" target="_blank">register for CMO 2015 is May 1</a>, so if you or someone you know is interested in coming, please contact us right away! And of course, please continue to lift up our team in prayer as we make preparations for the summer.
@@ -36,7 +36,7 @@ The deadline to <a title="CMO 2015" href="http://www.euroteamoutreach.org/index.
 
 Our list of *Bible First* graduates in Ukraine continues to grow, with the majority professing faith in Christ and expressing interest in receiving more of our materials in the future. One of our next major objectives is to make *Bible First* available online, and to this end we’ve begun developing a web-based application that will allow anyone world-wide to begin and manage their own *Bible First* course. This application will open the door to allowing our Ukrainian graduates to begin their own indigenous ministries, reaching their fellow Ukrainians using the same materials that brought them to Christ.
 
-<a href="//d21yo20tm8bmc2.cloudfront.net/2015/02/trevor-josh-color.jpg"><img class="size-large wp-image-1950" src="//d21yo20tm8bmc2.cloudfront.net/2015/02/trevor-josh-color-1024x768.jpg" alt="Trevor Brown and I spent a week getting the Bible First online project started." width="584" height="438" /></a>
+<a href="//d21yo20tm8bmc2.cloudfront.net/2015/02/trevor-josh-color.jpg"><img class="size-large wp-image-1950" src="//d21yo20tm8bmc2.cloudfront.net/2015/02/trevor-josh-color-1024x768.jpg" alt="Trevor Brown and I spent a week getting the Bible First online project started." /></a>
 {: .article-image .article-image--has-caption}
 Trevor Brown and I spent a week getting the Bible First online project started.
 {: .caption-text .article-image__caption}
