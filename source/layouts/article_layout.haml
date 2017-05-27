@@ -51,7 +51,7 @@
               %li.meta-tag-item= link_to "#{tag}", tag_path(tag)
 
     - unless article_image.blank?
-      %section.wide-container
+      %section.wide-container.container--spacing
         .article-hero.hero-image.column
           - if !article_image_lg.blank?
             = link_to site_content_server + article_image_lg do
