@@ -11,6 +11,8 @@ author: ["Joshua Steele", "@joshukraine"]
 
 Last weekend, I had the privilege of speaking at the national Campus Crusade for Christ conference in Vinnystya. Their were about 275 people in attendance from Ukraine and Belarus, as well as few from other countries. The theme of the conference was "Living Upstream". That is, following after Christ (upstream) as opposed to following the world (downstream). The topics were primarily aimed at believers, though I also had many opportunities to present the Gospel to unbelievers. Here's a quick overview of the four sessions I taught, followed by some pictures.
 
+READMORE
+
 ### Session 1: Conformity to Christ
 
 In this session I spoke about God's universal plan for all believers, conformity to the image of Jesus Christ.

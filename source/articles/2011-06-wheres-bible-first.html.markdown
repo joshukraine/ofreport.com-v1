@@ -9,6 +9,9 @@ author: ["Joshua Steele", "@joshukraine"]
 ---
 
 It's been a while since we've posted an update on the progress of Bible First. Things are moving right along, and we're still on track to release the course in the US this summer. If you want more details, check out our latest post on the ETO web site. Thanks for your continued prayer support!
+
+READMORE
+
 <a title="Where's Bible First?" href="http://euroteamoutreach.org/index.php?p=ereport">Read the article here.</a>
 
 

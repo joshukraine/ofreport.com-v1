@@ -12,6 +12,8 @@ author: ["Joshua Steele", "@joshukraine"]
 
 Better late than never? I suppose the truth of that statement depends on the situation, but late as it may be, our *latest* ETO Video Report is online! Go ahead and check it out, then keep scrolling down for more news. And as always, thanks for keeping up with our ministry and praying for us!
 
+READMORE
+
 <iframe title="YouTube video player" width="450" height="273" src="http://www.youtube.com/embed/Czj5jzdAoa0" frameborder="0" allowfullscreen></iframe>
 
 ### New OFR Available

@@ -8,7 +8,7 @@ author: ["Joshua Steele", "@joshukraine"]
 
 ---
 
-This morning, I arrived in L'viv on an early train from Kyiv, where I had spoken at two Baptist churches. Last week, while speaking at a conference for Campus Crusade for Christ, I met the Ukrainian director of student ministry within Campus, Sergiy Kryvonos. He invited me to come and speak to his church on one of the topics I had taught at the conference: Hearing from God. This session explores the concept of finding God's will, and in general learning to hear His voice and follow. My time to speak at Sergiy's church was scheduled for the evening service, and in the morning I was invited to speak at a smaller church in a suburb of Kyiv.
+This morning, I arrived in L'viv on an early train from Kyiv, where I had spoken at two Baptist churches. Last week, while speaking at a conference for Campus Crusade for Christ, I met the Ukrainian director of student ministry within Campus, Sergiy Kryvonos. He invited me to come and speak to his church on one of the topics I had taught at the conference: Hearing from God. READMORE This session explores the concept of finding God's will, and in general learning to hear His voice and follow. My time to speak at Sergiy's church was scheduled for the evening service, and in the morning I was invited to speak at a smaller church in a suburb of Kyiv.
 
 Unfortunately, I don't have any pictures for this post, but I just wanted to provide a quick report and to thank those of you who prayed for me during this time. I believe that God was honored and that saints were encouraged to follow Him.
 

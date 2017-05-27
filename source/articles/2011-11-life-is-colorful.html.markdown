@@ -13,6 +13,8 @@ desc: "L'viv is beautiful in the fall. For a large city, it's quite rich in plan
 
 L'viv is beautiful in the fall. For a large city, it's quite rich in plant life. Even the downtown area boasts rows of large trees which are now displaying all kinds of vibrant colors. In a way, all these shifting colors remind me of the current state of affairs here in Ukraine. Many things are changing, and as always we are in need of your prayers as we move forward.
 
+READMORE
+
 <img class="size-large wp-image-1281" title="IMG_0156_opt" src="//d21yo20tm8bmc2.cloudfront.net/2011/11/IMG_0156_opt-1024x682.jpg" alt="" width="584" height="388" />
 {: .article-image .article-image--has-caption}
 The center of L'viv, looking towards the Opera Theater
