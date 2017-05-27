@@ -32,6 +32,8 @@
     @include border-top-radius($base-border-radius);
     @include border-bottom-radius(0);
     @include border-width(1px 1px 0 1px);
+    font-size: $small-font-size;
+    padding: $small-spacing;
   }
 
   &:hover {
@@ -67,7 +69,8 @@
     @include border-bottom-radius($base-border-radius);
     @include border-top-radius(0);
     font-family: $base-font-family;
-    font-size: $base-font-size;
+    font-size: $small-font-size;
+    padding: $small-spacing;
   }
 
   &:hover,

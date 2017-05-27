@@ -12,5 +12,6 @@
 }
 
 .thanks-content {
+  @include margin(null null $base-spacing * 2);
   text-align: center;
 }

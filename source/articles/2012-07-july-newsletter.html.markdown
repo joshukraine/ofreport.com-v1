@@ -1,8 +1,10 @@
 ---
 
-title: July Newsletter
+title: "July Newsletter"
 date: "2012-07-16 22:21:52"
-tags: newsletter, cmo
+tags:
+- newsletter
+- cmo
 author: ["Joshua Steele", "@joshukraine"]
 download: "OFR-July-2012.pdf"
 image: "/2012/07/Little-One-b.jpg"
@@ -10,7 +12,7 @@ caption: "On May 8, we learned of our unborn child’s terminal genetic illness.
 
 ---
 
-The July issue of our newsletter, *Overseas Field Report*, is now available. This issue includes a reprint of our ["Little One"](../../06/little-one/) article, plus updates on <a href="http://cmoproject.org/" target="_blank">CMO 2012</a> and <a title="A Sinner Has Come Home" href="../../05/sinner-home/" target="_blank">Vasyl</a>, the man from our English Club who recently got saved.
+The July issue of our newsletter, *Overseas Field Report*, is now available. This issue includes a reprint of our ["Little One"](/2012/06/little-one/) article, plus updates on <a href="http://cmoproject.org/" target="_blank">CMO 2012</a> and <a title="A Sinner Has Come Home" href="/2012/05/sinner-home/" target="_blank">Vasyl</a>, the man from our English Club who recently got saved.
 
 READMORE
 

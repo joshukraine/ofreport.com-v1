@@ -1,8 +1,12 @@
 ---
 
-title: Pray for Open Doors
+title: "Pray for Open Doors"
 date: "2012-02-05 13:52:14"
-tags: newsletter, family, cmo, bible first
+tags:
+- newsletter
+- family
+- cmo
+- bible first
 author: ["Joshua Steele", "@joshukraine"]
 download: "OFR-Feb-2012.pdf"
 image: "/2012/02/IMG_2056.jpg"

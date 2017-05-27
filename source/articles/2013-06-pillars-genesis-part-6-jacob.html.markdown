@@ -2,7 +2,9 @@
 
 title: "The Seven Pillars of Genesis, Part 6: Jacob"
 date: "2013-06-29 12:00:58"
-tags: bible first, seven pillars
+tags:
+- bible first
+- seven pillars
 author: ["Joshua Steele", "@joshukraine"]
 desc: "Jacob, the third of the great patriarchs, seemed an unlikely candidate to carry on the Abrahamic covenant, and yet his life demonstrated a personal relationship with God and a genuine walk of faith."
 

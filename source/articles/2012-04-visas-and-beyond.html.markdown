@@ -1,8 +1,11 @@
 ---
 
-title: Visas and Beyond
+title: "Visas and Beyond"
 date: "2012-04-05 14:30:44"
-tags: newsletter, ukraine, ministry
+tags:
+- newsletter
+- ukraine
+- ministry
 author: ["Joshua Steele", "@joshukraine"]
 download: "OFR-Apr-2012.pdf"
 image: "/2012/04/IMG_1854.jpg"

@@ -2,7 +2,9 @@
 
 title: News from the Front
 date: "2014-03-05 12:14:24"
-tags: newsletter, cmo
+tags:
+- newsletter
+- cmo
 author: ["Joshua Steele", "@joshukraine"]
 download: "OFR-Jan-Mar-2014.pdf"
 image: "/2014/03/kyiv-burning.jpg"

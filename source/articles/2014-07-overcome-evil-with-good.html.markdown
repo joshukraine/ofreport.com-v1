@@ -1,8 +1,13 @@
 ---
 
-title: Overcome Evil with Good
+title: "Overcome Evil with Good"
 date: "2014-07-17 15:24:46"
-tags: newsletter, cmo, good and evil, family, bible first
+tags:
+- newsletter
+- cmo
+- good and evil
+- family
+- bible first
 author: ["Joshua Steele", "@joshukraine"]
 download: "OFR-Jun-Aug-2014.pdf"
 image: "/2014/07/overcome-1024x572.jpg"

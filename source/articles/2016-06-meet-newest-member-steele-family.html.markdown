@@ -2,7 +2,9 @@
 
 title: Meet the Newest Member of the Steele Family!
 date: "2016-06-17 15:13:22"
-tags: family, announcements
+tags:
+- family
+- announcements
 author: ["Joshua Steele", "@joshukraine"]
 image: "/2016/06/baby-steele-2016-crp-450x319.jpg"
 desc: Today we are excited to announce that we are expecting a new addition to our family!

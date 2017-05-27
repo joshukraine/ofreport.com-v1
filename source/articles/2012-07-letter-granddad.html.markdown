@@ -1,8 +1,9 @@
 ---
 
-title: A Letter from Granddad
+title: "A Letter from Granddad"
 date: "2012-07-10 20:15:20"
-tags: family
+tags:
+- family
 author: ["Joshua Steele", "@joshukraine"]
 desc: "On the day that our fourth child was stillborn, my father wrote her a letter. With his permission, I've decided to share it with you."
 

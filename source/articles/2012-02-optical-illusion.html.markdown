@@ -1,8 +1,10 @@
 ---
 
-title: Optical Illusion
+title: "Optical Illusion"
 date: "2012-02-28 16:38:17"
-tags: announcements, family
+tags:
+- announcements
+- family
 author: ["Joshua Steele", "@joshukraine"]
 
 ---

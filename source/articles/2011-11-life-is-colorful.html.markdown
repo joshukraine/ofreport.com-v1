@@ -6,11 +6,14 @@ tags:
 - family
 - ministry
 - photos
+author: ["Joshua Steele", "@joshukraine"]
 desc: "L'viv is beautiful in the fall. For a large city, it's quite rich in plant life."
 
 ---
 
 L'viv is beautiful in the fall. For a large city, it's quite rich in plant life. Even the downtown area boasts rows of large trees which are now displaying all kinds of vibrant colors. In a way, all these shifting colors remind me of the current state of affairs here in Ukraine. Many things are changing, and as always we are in need of your prayers as we move forward.
+
+READMORE
 
 <img class="size-large wp-image-1281" title="IMG_0156_opt" src="//d21yo20tm8bmc2.cloudfront.net/2011/11/IMG_0156_opt-1024x682.jpg" alt="" width="584" height="388" />
 {: .article-image .article-image--has-caption}
@@ -19,7 +22,7 @@ The center of L'viv, looking towards the Opera Theater
 
 ## Immigration
 
-<a href="//d21yo20tm8bmc2.cloudfront.net/2011/11/ukraine_coat_of_arms.png"><img class="alignleft size-full wp-image-1283" style="margin-right: 10px; border-style: initial; border-color: initial; border-image: initial; border-width: 0px;" title="ukraine_coat_of_arms" src="//d21yo20tm8bmc2.cloudfront.net/2011/11/ukraine_coat_of_arms.png" alt="" width="100" height="139" /></a>
+<img class="alignleft size-full wp-image-1283" style="margin-right: 10px; border-style: initial; border-color: initial; border-image: initial; border-width: 0px;" title="ukraine_coat_of_arms" src="//d21yo20tm8bmc2.cloudfront.net/2011/11/ukraine_coat_of_arms.png" alt="" />
 {: .article-image}
 
 If you've been following our ministry for any length of time, then you've heard us speak about the difficulties of obtaining visas and other documents necessary for us to live in Ukraine on a continual basis. One of the biggest problems in this area is the frequency with which Ukraine changes its immigration policies. Guess what? They did it again.

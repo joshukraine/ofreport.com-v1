@@ -1,9 +1,10 @@
 ---
 
-title: The Gospel in the Story of Joseph
-date: '2013-02-20 13:00:40'
-tags: bible first
-author: ['Joshua Steele', '@joshukraine']
+title: "The Gospel in the Story of Joseph"
+date: "2013-02-20 13:00:40"
+tags:
+- bible first
+author: ["Joshua Steele", "@joshukraine"]
 
 ---
 

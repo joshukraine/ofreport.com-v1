@@ -2,7 +2,10 @@
 
 title: Smoky Mountain Shindig
 date: "2014-11-03 03:33:29"
-tags: newsletter, family, cmo
+tags:
+- newsletter
+- family
+- cmo
 author: ["Joshua Steele", "@joshukraine"]
 download: "OFR-Sep-Oct-2014.pdf"
 image: "/2014/11/ofr-shindig-cover.png"

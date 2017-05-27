@@ -1,8 +1,11 @@
 ---
 
-title: CMO Returns
+title: "CMO Returns"
 date: "2012-05-29 14:36:00"
-tags: newsletter, cmo, family
+tags:
+- newsletter
+- cmo
+- family
 author: ["Joshua Steele", "@joshukraine"]
 download: "OFR-June-2012.pdf"
 image: "/2012/06/scouting-trip-vimeo.jpg"

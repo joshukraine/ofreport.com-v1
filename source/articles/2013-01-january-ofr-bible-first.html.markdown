@@ -2,7 +2,9 @@
 
 title: "January OFR: Bible First Is Here!"
 date: "2013-01-08 15:21:40"
-tags: newsletter, bible first
+tags:
+- newsletter
+- bible first
 author: ["Joshua Steele", "@joshukraine"]
 download: "OFR-Jan-2013.pdf"
 image: "/2013/01/bible-first-is-here.jpg"

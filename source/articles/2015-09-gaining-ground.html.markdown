@@ -2,7 +2,10 @@
 
 title: Gaining New Ground
 date: "2015-09-01 12:42:17"
-tags: newsletter, cmo, good and evil
+tags:
+- newsletter
+- cmo
+- good and evil
 author: ["Joshua Steele", "@joshukraine"]
 download: "OFR-Sep-Oct-2015.pdf"
 image: "/2015/09/06-IMG_6462-1024x683.png"

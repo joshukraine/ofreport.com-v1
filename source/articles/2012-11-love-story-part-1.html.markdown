@@ -2,7 +2,8 @@
 
 title: "Our Love Story, Part 1: Three Strikes and You’re Out?"
 date: "2012-11-30 15:00:23"
-tags: love story
+tags:
+- love story
 author: ["Joshua Steele", "@joshukraine"]
 desc: "About three years ago, in response to requests from various people, Kelsie and I endeavored to publish our courtship story here on our blog."
 

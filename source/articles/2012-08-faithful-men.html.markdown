@@ -1,8 +1,10 @@
 ---
 
-title: Faithful Men
+title: "Faithful Men"
 date: "2012-08-14 20:20:29"
-tags: newsletter, cmo
+tags:
+- newsletter
+- cmo
 author: ["Joshua Steele", "@joshukraine"]
 download: "OFR-August-2012.pdf"
 image: "/2012/08/CMO-MEN.jpg"

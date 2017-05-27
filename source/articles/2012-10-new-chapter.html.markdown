@@ -1,8 +1,10 @@
 ---
 
-title: A New Chapter
+title: "A New Chapter"
 date: "2012-10-19 19:50:12"
-tags: newsletter, cmo
+tags:
+- newsletter
+- cmo
 author: ["Joshua Steele", "@joshukraine"]
 download: "OFR-Oct-2012.pdf"
 image: "/2012/10/IMG_5706.jpg"

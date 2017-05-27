@@ -20,7 +20,7 @@
 }
 
 .container--spacing {
-  @include margin($base-spacing null);
+  @include margin(null null $base-spacing);
 }
 
 .container--title-area {

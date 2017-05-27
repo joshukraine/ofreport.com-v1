@@ -1,11 +1,13 @@
 ---
 pageable: true
-per_page: 10
+per_page: 15
 layout: home
 ---
 
 - page_articles.each_with_index do |article, i|
-  .article-preview
+  - pretty_date = article.date.strftime("%b %d, %Y")
+
+  %article.article-preview
     .article-preview__title
       %h2
         = link_to article.title, article
@@ -15,7 +17,7 @@ layout: home
         .meta-author
           = twitter_link_for(article.data.author)
 
-      %time.meta-date{datetime: "#{article.date}"}= article.date.strftime("%b %d, %Y")
+      %time.meta-date{ datetime: "#{article.date}" }= pretty_date
 
       %ul.meta-tag-list
         - article.tags.each do |tag|
