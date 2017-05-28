@@ -6,10 +6,13 @@ tags:
 - family
 - ministry
 - photos
+author: ["Joshua Steele", "@joshukraine"]
 
 ---
 
 Yep, we're still here! Why? Just Google the terms "<a href="http://lmgtfy.com/?q=iceland+volcano" target="_blank">Iceland volcano</a>" and you'll find a whole pile of news stories covering the most recent act of God which has paralyzed European air travel. Bottom line: our original flight to Ukraine was cancelled, and we have been rebooked for April 27th, ash-cloud permitting. Please pray that God would remove this ash cloud and that we would have safe flying conditions for our return to L'viv. Traveling with us on the same day will be Bryan Shufelt.
+
+READMORE
 
 <a href="//d21yo20tm8bmc2.cloudfront.net/2010/04/DSC_8837.jpg"><img class="size-medium wp-image-973" title="DSC_8837" src="//d21yo20tm8bmc2.cloudfront.net/2010/04/DSC_8837-300x233.jpg" alt="" width="300" height="233" /></a>
 {: .article-image .article-image--has-caption}
