@@ -6,6 +6,7 @@ tags:
 - newsletter
 - ministry
 - family
+- cmo
 author: ["Joshua Steele", "@joshukraine"]
 download: "OFR-Jan-Feb-2010.pdf"
 
