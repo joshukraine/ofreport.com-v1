@@ -5,12 +5,15 @@ date: "2010-03-23 16:44:04"
 tags:
 - family
 - ministry
+author: ["Joshua Steele", "@joshukraine"]
 
 ---
 
 Since our last post (which, yes, has been entirely too long) much has happened. So much, in fact, that I'm not quite sure where to begin. I suppose I'll start with the news that it most exciting:
-<p style="text-align: center;"><strong>Kelsie and I are expecting our third child!</strong></p>
 
+READMORE
+
+<p style="text-align: center;"><strong>Kelsie and I are expecting our third child!</strong></p>
 
 <a href="//d21yo20tm8bmc2.cloudfront.net/2010/03/DSC_8448_fb.jpg"><img class="size-medium wp-image-962" title="DSC_8448_fb" src="//d21yo20tm8bmc2.cloudfront.net/2010/03/DSC_8448_fb-231x300.jpg" alt="" width="231" height="300" /></a>
 {: .article-image .article-image--has-caption}

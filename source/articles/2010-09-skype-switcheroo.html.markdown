@@ -1,14 +1,17 @@
 ---
-title: Skype Switcheroo
-date: '2010-09-10 10:28:52'
+
+title: "Skype Switcheroo"
+date: "2010-09-10 10:28:52"
 tags:
 - announcements
+author: ["Joshua Steele", "@joshukraine"]
+
 ---
 
-<img class="size-full wp-image-1066 alignright" title="skype" src="//d21yo20tm8bmc2.cloudfront.net/2010/09/skype.jpg" alt="" width="150" height="72" />Just to keep everybody guessing, Kels and I have decided to shake up our Skype accounts a bit. Here's the deal:
+Just to keep everybody guessing, Kels and I have decided to shake up our Skype accounts a bit. Here's the deal:
 
-Kelsie's new account: <strong>joshandkels</strong> (this was previously Joshua's account)
-Joshua's new account: <strong>joshukraine</strong>
+* Kelsie's new account: <strong>joshandkels</strong> (this was previously Joshua's account)
+* Joshua's new account: <strong>joshukraine</strong>
 
 The <strong>kelsiesteele</strong> Skype account still exists but is not being used right now. Also, for the record, if you call our Skype phone number (817-349-6412), it rings to the <strong>joshandkels</strong> account as it always has. That means that for those of you who like to call Kels, you can reach her faster! And for those who like to call Josh, you've got to go through our family secretary and request access. ;) Yep, we did that on purpose.
 
