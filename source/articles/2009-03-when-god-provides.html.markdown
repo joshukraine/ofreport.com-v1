@@ -4,10 +4,11 @@ title: "When God Provides"
 date: "2009-03-23 09:18:44"
 tags:
 - family
+author: ["Joshua Steele", "@joshukraine"]
 
 ---
 
-In 1997, during my first trip to Ukraine, I read a book called *Hudson Taylor's Spiritual Secret*. I was deeply impressed by this man's willingness to trust God for his needs as a missionary. Hudson Taylor never asked people for money; he made his needs known to God alone. When I read that, I immediately knew that this was what God wanted for my ministry as well. Nearly twelve years later, I can say that God has indeed held up His end of the bargain. Not once have my family and I lacked for any need that we have ever had on the mission field. We make our requests known to our Heavenly Father, and He meets our needs in amazing ways. This post is a small attempt on my part to honor the Lord by documenting some of the ways that He has provided for us in recent weeks. I hope it will be an encouragement to you that our God is very, very faithful.
+In 1997, during my first trip to Ukraine, I read a book called *Hudson Taylor's Spiritual Secret*. I was deeply impressed by this man's willingness to trust God for his needs as a missionary. Hudson Taylor never asked people for money; he made his needs known to God alone. When I read that, I immediately knew that this was what God wanted for my ministry as well. Nearly twelve years later, I can say that God has indeed held up His end of the bargain. READMORE Not once have my family and I lacked for any need that we have ever had on the mission field. We make our requests known to our Heavenly Father, and He meets our needs in amazing ways. This post is a small attempt on my part to honor the Lord by documenting some of the ways that He has provided for us in recent weeks. I hope it will be an encouragement to you that our God is very, very faithful.
 
 In these days, the world is going through a financial crisis. While we know that God's hand is not shortened by economics, such times can present real trials that test our faith. We say we trust God, but in our hearts do we really think that He can provide our needs, even in a recession? I must admit that I too have been tempted to doubt at times. And yet God proves His power and faithfulness to me time and time again.
 

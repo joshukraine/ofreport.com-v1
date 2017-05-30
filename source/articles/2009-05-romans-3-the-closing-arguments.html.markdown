@@ -1,15 +1,19 @@
 ---
-title: 'Romans 3: The Closing Arguments'
-date: '2009-05-16 05:59:22'
+
+title: "Romans 3: The Closing Arguments"
+date: "2009-05-16 05:59:22"
 tags:
 - ministry
+- theology
+author: ["Joshua Steele", "@joshukraine"]
+
 ---
 
-For the past few weeks at <a href="http://www.euroteamoutreach.org/index.php?p=abs" target="_blank">ABS</a>, we've been teaching through the first two chapters of Romans. Since his opening statement in Romans 1:18, Paul has built an air-tight case against the ungodly. Furthermore, having drawn us into a position of judgment, he has shown that we who consider ourselves to be "better than the wicked" are in fact just as guilty, condemned by our own mouths.
+For the past few weeks at ABS, we've been teaching through the first two chapters of Romans. Since his opening statement in Romans 1:18, Paul has built an air-tight case against the ungodly. Furthermore, having drawn us into a position of judgment, he has shown that we who consider ourselves to be "better than the wicked" are in fact just as guilty, condemned by our own mouths. READMORE
 
 This past week, we taught through Romans 3:1-20. In this chapter, Paul begins by addressing several common heresies of his day. He first clarifies the significance of the Jewish people - God gave us the Scriptures through the Jews - but points out that even if the majority of the Jews (or people in general) did not receive God's plan of salvation, that does not negate it. God is not an elected official who needs a majority vote in order to move forward.
 
-<!--more-->Paul then moves on to address the erroneous idea that the sin of mankind is simply his assigned role in the universe. This heresy, based on the assumption that God's sovereignty denotes His direct control over and responsibility for human wickedness, attempts to justify men by claiming that sin is part of God's design. They point out that God receives glory by forgiving sin, and then move on to say, "If my sin results in God's glory, why then does God blame me? Am I not simply another actor in the drama, contributing in my own way to the 'success' of the picture?" Paul answers this notion with a very appropriate "God forbid," and points out that if we are all "puppet sinners" as these heretics claim, then it follows that God Himself is the author of sin and thus unfit to be the Judge of the world. (Rom. 3:5-6)
+Paul then moves on to address the erroneous idea that the sin of mankind is simply his assigned role in the universe. This heresy, based on the assumption that God's sovereignty denotes His direct control over and responsibility for human wickedness, attempts to justify men by claiming that sin is part of God's design. They point out that God receives glory by forgiving sin, and then move on to say, "If my sin results in God's glory, why then does God blame me? Am I not simply another actor in the drama, contributing in my own way to the 'success' of the picture?" Paul answers this notion with a very appropriate "God forbid," and points out that if we are all "puppet sinners" as these heretics claim, then it follows that God Himself is the author of sin and thus unfit to be the Judge of the world. (Rom. 3:5-6)
 
 If we have learned nothing else in Romans, we have learned that Paul is a master of persuasive logic. He lays out his arguments so clearly that we feel our thoughts are structured for us, and we are brought not only to agreement, but to an enthusiastic embrace of his position. It would be well to note that this is the natural effect of truth. God has written truth on our hearts (Rom. 2:15). Our very nature demands adherence to His laws (Rom. 2:14). When we hear genuine truth, it touches a chord deep in our being, and we not only agree with its statements, but volunteer our sincerest efforts to ensure its promotion. "Yes, Paul, it's true! How wicked are those who blame God for their sinful state. Their damnation is just!" (Rom. 3:8)
 
@@ -26,12 +30,13 @@ When the liberal media tries to tell us that homosexuals were "born that way," w
 Romans 3:10-18 gives us Paul's final exposure of the acts of wicked: there is none that seeks God, their throats are like open tombs, they run to shed the blood of the innocent, their ways are destruction and misery. And thus we come to his conclusion in Romans 3:20: *no one can be justified by the law*. Whatever men may say of each other, God's verdict is clear: our works are evil, and we stand silenced, guilty before a Holy God (Rom. 3:19). The law, which was given to show us the way of life, judges us to be sinners. It is the light of the law that exposes our sin and demands our damnation. This is a grim conclusion indeed, but if we keep reading, we find that we have come to yet another major turning point in Romans. Hope begins here with verse 21: *"But now the righteousness of God <span style="text-decoration: underline;">without the law</span> is manifested..."* The disease has been defined, we are convinced of our need, and the cure is coming. Let's not run back to our old excuses before God has a chance to offer us salvation.
 
 I am not afraid to confess that Joshua Steele is fully to blame for the sins of Joshua Steele. I do not need to search for a scapegoat. Why? Because God has provided One for me. (Lev. 16:10-14) He sent His beloved Son to be the scapegoat for my sin. Jesus took it all: the sin, the shame, the punishment. He died in my place as though He were to blame, so that I can live as though I never sinned at all. I am no longer a son of Adam, stumbling along through a life of disillusionment and guilt. I am an overcoming son of God, cleansed by His blood, walking in freedom (I John 5:1, 4). Christ has made me so. (II Cor. 5:21) He is the Author of this work in my life, and in the lives of all believers. (Phil. 1:6) Let us call sin by its right name: our willful plunge into evil. And having confessed our sin (I John 1:9), thus receiving total forgiveness once and for all eternity (Col. 2:13), let us rejoice as saints in the victory of our Savior, who has plunged us into His own cleansing blood, granting us His righteousness and eternal life!
-<p style="text-align: center;">*There is a fountain filled with blood
-Drawn from Immanuel's veins,
-And sinners plunged beneath that flood
-Lose all their guilty stains!</em>
 
-<p style="text-align: center;">*E'er since by faith I saw the stream
-Thy flowing wounds supply,
-Redeeming love has been my theme
-And shall be till I die!</em>
+*There is a fountain filled with blood  
+Drawn from Immanuel's veins,  
+And sinners plunged beneath that flood  
+Lose all their guilty stains!  
+E'er since by faith I saw the stream  
+Thy flowing wounds supply,  
+Redeeming love has been my theme  
+And shall be till I die!*
+{: .article-text--centered}

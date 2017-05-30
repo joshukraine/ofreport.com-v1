@@ -6,12 +6,15 @@ tags:
 - family
 - ministry
 - photos
+author: ["Joshua Steele", "@joshukraine"]
 
 ---
 
 ### The Girls
 
 It's been a while since we've posted any pictures of Abby and Rebekah. Here's a sampling of some family shots.
+
+READMORE
 
 <a href="//d21yo20tm8bmc2.cloudfront.net/2009/05/dsc_6319.jpg"><img class="size-medium wp-image-779" title="dsc_6319" src="//d21yo20tm8bmc2.cloudfront.net/2009/05/dsc_6319-198x300.jpg" alt="Abby tries on a new skirt that Baba (her grandma) made for her." width="198" height="300" />
 </a>
