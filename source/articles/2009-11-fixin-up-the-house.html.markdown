@@ -5,10 +5,11 @@ date: "2009-11-27 18:00:16"
 tags:
 - family
 - photos
+author: ["Joshua Steele", "@joshukraine"]
 
 ---
 
-As many of you know, God recently opened the door for our family to purchase a house here in the States. We plan to live in the house until our return to Ukraine, and then rent it out. The house needed quite a bit of work when we bought it, and we have been very blessed by the many believers who have come forward and volunteered their efforts to help with repairs. Last Wednesday, Rob Spivey organized a group of about 25 people from our church who worked with us all day painting, caulking, scraping floors, installing siding, and much more. Before that, we had the entire Courter family here from Tennessee for a whole week. Several members of our family - my mom especially - have also spent many hours assisting us with this project.
+As many of you know, God recently opened the door for our family to purchase a house here in the States. We plan to live in the house until our return to Ukraine, and then rent it out. The house needed quite a bit of work when we bought it, and we have been very blessed by the many believers who have come forward and volunteered their efforts to help with repairs. READMORE Last Wednesday, Rob Spivey organized a group of about 25 people from our church who worked with us all day painting, caulking, scraping floors, installing siding, and much more. Before that, we had the entire Courter family here from Tennessee for a whole week. Several members of our family - my mom especially - have also spent many hours assisting us with this project.
 
 We are eternally grateful to everyone who has given of themselves so freely in order to help us finish this project. May the Lord bless you richly for the kindness you have shown to our family.
 

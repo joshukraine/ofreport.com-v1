@@ -7,10 +7,13 @@ tags:
 - ministry
 - cmo
 - photos
+author: ["Joshua Steele", "@joshukraine"]
 
 ---
 
 Since we posted out last update regarding our trip to the US, God has provided us a car free of charge! A missionary family  based out of Illinois contacted us to say that they no longer need their '95 Toyota Camry since they are moving to Japan. As it stands right now, we will be picking up the car when we come through Chicago on our way down to DFW.
+
+READMORE
 
 We are, however, still in need in of housing for our nine-month stay in America. Please continue to pray with us about this need, and if you know of any available housing options in the Fort Worth area, please <a href="http://www.ofreport.com/contact/">let us know</a>.
 

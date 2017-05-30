@@ -6,10 +6,11 @@ tags:
 - abs
 - family
 - photos
+author: ["Joshua Steele", "@joshukraine"]
 
 ---
 
-To everyone who prayed for our recent trip to Krakow - thank you! It went very well. I was able to get my visa, though not for as long a term as I had planned. There was a misunderstanding with the paperwork, and I ended up with a visa for only six months. However, in September I can apply again and, Lord willing, should be able to get my full five year visa at that time.
+To everyone who prayed for our recent trip to Krakow - thank you! It went very well. I was able to get my visa, though not for as long a term as I had planned. There was a misunderstanding with the paperwork, and I ended up with a visa for only six months. However, in September I can apply again and, Lord willing, should be able to get my full five year visa at that time. READMORE
 
 <a href="//d21yo20tm8bmc2.cloudfront.net/2009/03/dsc_5101.jpg"><img class="size-medium wp-image-529" title="dsc_5101" src="//d21yo20tm8bmc2.cloudfront.net/2009/03/dsc_5101-199x300.jpg" alt="We got one of the locals to snap this shot of us standing in front of Krakow's Florian Gate." width="199" height="300" /></a>
 {: .article-image .article-image--has-caption}

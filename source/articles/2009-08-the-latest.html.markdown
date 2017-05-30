@@ -5,10 +5,13 @@ date: "2009-08-26 06:23:56"
 tags:
 - family
 - ministry
+author: ["Joshua Steele", "@joshukraine"]
 
 ---
 
 After many weeks of preparation, the Steele family is finally departing for America! As we travel, we would greatly appreciate your prayers in the following areas:
+
+READMORE
 
 * A smooth border crossing out of Ukraine (We don’t expect any problems, but you never know.)
 * Strength for the children
