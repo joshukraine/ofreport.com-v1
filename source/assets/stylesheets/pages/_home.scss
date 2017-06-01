@@ -20,6 +20,18 @@
   width: 103%;
 }
 
+.site-author {
+  text-align: center;
+
+  @include media-max($media-phone) {
+    margin-top: $small-spacing;
+
+    p {
+      font-size: $small-font-size;
+    }
+  }
+}
+
 .article-preview {
   border-bottom: 1px solid $base-border-color;
   margin-bottom: $base-spacing * 1.5;
