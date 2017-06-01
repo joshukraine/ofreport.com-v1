@@ -17,6 +17,8 @@
           .home-logo
             = link_to "/" do
               = inline_svg "ofr-logo-2017.svg", class: "home-logo__svg"
+          .site-author
+            %p by #{data.site.author}
 
       %section.narrow-container.container--spacing
         .column
