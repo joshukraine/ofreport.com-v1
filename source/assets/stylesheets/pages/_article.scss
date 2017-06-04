@@ -63,7 +63,9 @@
 }
 
 .article-body {
-  h2, h3, h4 {
+  h2,
+  h3,
+  h4 {
     @include margin($base-spacing null $small-spacing)
   }
 
@@ -93,7 +95,7 @@
 }
 
 .article-image {
-  @include padding($base-spacing null);
+  @include padding($small-spacing null);
   text-align: center;
 
   @include media-min($media-phone) {
@@ -107,7 +109,7 @@
 }
 
 .article-image__caption {
-  margin-bottom: $base-spacing * 2;
+  margin-bottom: $base-spacing;
 }
 
 .article-text--centered {
