@@ -2,6 +2,9 @@
 title: All Tags
 ---
 
+- content_for :meta_desc do
+  = tag "meta", name: "description", content: "All Tags"
+
 %section.container.navbar-top-spacing.container--spacing
   .column
     .tag-view__title.container--title-area

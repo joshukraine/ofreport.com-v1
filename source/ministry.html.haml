@@ -11,15 +11,18 @@ desc:
   site_photo = data.site.current_family_photo
   site_asset_server = data.site.asset_server_url
   page_title = current_page.data.title.to_s
-  og_url = site_url + current_page.url
-  og_desc = current_page.data.desc
+  page_desc = current_page.data.desc
+  page_url = site_url + current_page.url
   og_default_image = site_asset_server + image_path(site_photo)
 
+- content_for :meta_desc do
+  = tag "meta", name: "description", content: page_desc
+
 - content_for :og_tags do
-  = tag "meta", property: "og:url", content: og_url
+  = tag "meta", property: "og:url", content: page_url
   = tag "meta", property: "og:type", content: "blog"
   = tag "meta", property: "og:title", content: page_title
-  = tag "meta", property: "og:description", content: og_desc
+  = tag "meta", property: "og:description", content: page_desc
   = tag "meta", property: "og:image", content: og_default_image
 
 .container.navbar-top-spacing
