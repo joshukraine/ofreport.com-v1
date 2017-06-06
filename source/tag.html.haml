@@ -3,6 +3,9 @@ pageable: true
 per_page: 12
 ---
 
+- content_for :meta_desc do
+  = tag "meta", name: "description", content: "Articles tagged '#{tagname}'"
+
 %section.container.navbar-top-spacing.container--spacing
   .column
     .tag-view__title.container--title-area
