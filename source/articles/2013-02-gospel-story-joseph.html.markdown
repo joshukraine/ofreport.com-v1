@@ -4,20 +4,19 @@ title: "The Gospel in the Story of Joseph"
 date: "2013-02-20 13:00:40"
 tags:
 - bible first
+- theology
 author: ["Joshua Steele", "@joshukraine"]
+image: "/2013/02/joseph_meets_his_brothers_997w.jpg"
+image_lg: "/2013/02/joseph_meets_his_brothers.jpg"
+caption: "Joseph meets his brothers in Egypt."
 
 ---
 
-The following text is taken from the concluding section of Lesson 19 of Bible First. Lesson 19 is the second in a two-part series on the life of Joseph. READMORE
+*The following text is taken from the concluding section of Lesson 19 of Bible First. Lesson 19 is the second in a two-part series on the life of Joseph.* READMORE
 
 ---
 
 Joseph is the final hero of faith set forth in the book of Genesis. Though his life represents one of the most compelling illustrations of godly character found anywhere in Scripture, his story contains a deeper lesson, far more valuable than recommendations of devout living.
-
-<a href="//d21yo20tm8bmc2.cloudfront.net/2013/02/joseph_meets_his_brothers.jpg"><img class=" wp-image-1761" alt="Joseph meets his brothers in Egypt." src="//d21yo20tm8bmc2.cloudfront.net/2013/02/joseph_meets_his_brothers-373x450.jpg" /></a>
-{: .article-image .article-image--has-caption}
-Joseph meets his brothers in Egypt.
-{: .caption-text .article-image__caption}
 
 Joseph is a figure of the coming Christ. His story is replete with clues and parallels that point the reader to Messiah. While earthly prosperity may be found by emulating Joseph’s behavior, eternal life is found by believing on the Savior he so vividly personifies.
 
