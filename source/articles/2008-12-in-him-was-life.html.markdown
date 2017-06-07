@@ -1,22 +1,25 @@
 ---
 
-title: '"In Him was life..."'
+title: "In Him was life..."
 date: "2008-12-23 21:24:32"
 tags:
 - bible study
 - ministry
+author: "Kelsie Steele"
 
 ---
 
-"Did you notice that Roman brought a Bible with him this time?"
+*"Did you notice that Roman brought a Bible with him this time?"*
 
-"Yes! and Bohdan, who sat next to me, was able to locate all the Scripture references as we went."
+*"Yes! and Bohdan, who sat next to me, was able to locate all the Scripture references as we went."*
 
-"And we had ALL guys! It was a men's Bible study!"
+READMORE
 
-"And our new rock climbing friend came too, and stayed the whole time."
+*"And we had ALL guys! It was a men's Bible study!"*
 
-"It seemed like you really had their attention during the preaching."
+*"And our new rock climbing friend came too, and stayed the whole time."*
+
+*"It seemed like you really had their attention during the preaching."*
 
 If you could've overheard Joshua and I after English Club/Bible study this evening, you would've heard something like the above. We were greatly encouraged and excited, to say the least. We had a great group of six men tonight, many of whom showed key signs of interest in God's Word.
 
