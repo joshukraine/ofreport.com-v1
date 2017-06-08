@@ -17,8 +17,6 @@ Our family is getting things ready for the holidays! READMORE
 The Christmas tree makes our house so cheery during the dark winter days.
 {: .caption-text .article-image__caption}
 
-READMORE
-
 <a href="//d21yo20tm8bmc2.cloudfront.net/2008/12/dsc_3759.jpg"><img class="size-medium wp-image-156" title="dsc_3759" src="//d21yo20tm8bmc2.cloudfront.net/2008/12/dsc_3759-199x300.jpg" alt="Here is what I did today..." width="199" height="300" /></a>
 {: .article-image .article-image--has-caption}
 Here is what I did today...
