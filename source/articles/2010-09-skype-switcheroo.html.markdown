@@ -8,7 +8,7 @@ author: ["Joshua Steele", "@joshukraine"]
 
 ---
 
-Just to keep everybody guessing, Kels and I have decided to shake up our Skype accounts a bit. Here's the deal:
+Just to keep everybody guessing, Kels and I have decided to shake up our Skype accounts a bit. READMORE Here's the deal:
 
 * Kelsie's new account: <strong>joshandkels</strong> (this was previously Joshua's account)
 * Joshua's new account: <strong>joshukraine</strong>
