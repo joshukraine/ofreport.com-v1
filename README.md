@@ -5,8 +5,7 @@
 OFReport.com
 ============
 
-[![CircleCI][circle-svg]][circle-ci]
-[![Dependency Status][gemnasium-svg]][gemnasium]
+[![Build Status][travis-svg]][travis] [![Dependency Status][gemnasium-svg]][gemnasium]
 
 [OFReport.com][ofreport] is our family blog, documenting our ministry in Ukraine.
 
@@ -94,8 +93,8 @@ Legal
 
 Copyright &copy; 2017 Joshua and Kelsie Steele. Software is licensed under [MIT][license].
 
-[circle-svg]: https://circleci.com/gh/joshukraine/ofreport.com.svg?style=svg
-[circle-ci]: https://circleci.com/gh/joshukraine/ofreport.com
+[travis-svg]: https://travis-ci.org/joshukraine/ofreport.com.svg?branch=master
+[travis]: https://travis-ci.org/joshukraine/ofreport.com
 [gemnasium-svg]: https://gemnasium.com/badges/github.com/joshukraine/ofreport.com.svg
 [gemnasium]: https://gemnasium.com/github.com/joshukraine/ofreport.com
 [ofreport]: https://OFReport.com/
