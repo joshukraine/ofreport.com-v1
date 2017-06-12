@@ -94,7 +94,8 @@
   }
 }
 
-.article-image {
+.article-image,
+.article-button {
   @include padding($small-spacing null);
   text-align: center;
 
