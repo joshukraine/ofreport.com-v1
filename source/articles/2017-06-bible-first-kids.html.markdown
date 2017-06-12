@@ -14,7 +14,7 @@ caption: "Meet some of the young people of Bible First Kids - a new class we’v
 
 ---
 
-On April 8, 2017, our eldest daughter [Abigail was baptized](https://youtu.be/uK3PKNu_alw) following her profession of faith in Christ. After the event, as we stood outside and chatted with various friends who had attended, Pastor Mihailo approached me with a request. “I heard that you’ve been taking Abigail through the *Bible First* lessons at home.” I acknowledged that this was correct. “Would you be willing to do the same for our older kids at church?”
+On April 8, 2017, our eldest daughter [Abigail was baptized](https://youtu.be/uK3PKNu_alw) following her profession of faith in Christ. After the event, as we stood outside and chatted with various friends who had attended, Pastor Mihailo approached me with a request. READMORE “I heard that you’ve been taking Abigail through the *Bible First* lessons at home.” I acknowledged that this was correct. “Would you be willing to do the same for our older kids at church?”
 
 Our first class was held on the Sunday after Easter. I brought a short message for the church during which I introduced *Bible First*, giving an overview of the course and explaining our goals to the parents. I then invited all the older kids up on the stage and gave them three challenges on which to focus as we started our new class: 1. Set aside childish things (1 Cor. 13:11), 2. Build a Godly reputation (Prov. 20:11), and 3. Seek the Lord in their youth (Eccl. 12:1). This done, we prayed and exited the main auditorium together.
 
