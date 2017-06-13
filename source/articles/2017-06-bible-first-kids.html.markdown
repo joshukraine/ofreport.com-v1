@@ -1,7 +1,7 @@
 ---
 
 title: "Bible First Kids"
-date: "2017-06-12 14:27:02 UTC"
+date: "2017-06-13 03:48:42 UTC"
 tags:
 - newsletter
 - bible first
