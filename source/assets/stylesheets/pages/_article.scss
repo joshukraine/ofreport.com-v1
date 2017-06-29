@@ -95,6 +95,7 @@
 
   video {
     @include margin($base-spacing * 2 auto);
+    border: 1px solid $base-border-color;
     display: block;
     height: auto;
     width: 100%;
