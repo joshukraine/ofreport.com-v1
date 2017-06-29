@@ -68,26 +68,26 @@ Here's one for the refrigerator! Please remember to pray for our Bible First Kid
 At the end of the rope course, everyone faced a mini rock-climbing wall followed by a zip line. Check out these videos of a few of our brave climbers!
 
 <video controls>
-  <source src="https://d21yo20tm8bmc2.cloudfront.net/2017/rope-course-video-01.m4v" type="video/mp4">
+  <source src="https://d21yo20tm8bmc2.cloudfront.net/2017/rope-course-video-001.m4v" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
 <video controls>
-  <source src="https://d21yo20tm8bmc2.cloudfront.net/2017/rope-course-video-02.m4v" type="video/mp4">
+  <source src="https://d21yo20tm8bmc2.cloudfront.net/2017/rope-course-video-002.m4v" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
 <video controls>
-  <source src="https://d21yo20tm8bmc2.cloudfront.net/2017/rope-course-video-03.m4v" type="video/mp4">
+  <source src="https://d21yo20tm8bmc2.cloudfront.net/2017/rope-course-video-003.m4v" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
 <video controls>
-  <source src="https://d21yo20tm8bmc2.cloudfront.net/2017/rope-course-video-04.m4v" type="video/mp4">
+  <source src="https://d21yo20tm8bmc2.cloudfront.net/2017/rope-course-video-004.m4v" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
 <video controls>
-  <source src="https://d21yo20tm8bmc2.cloudfront.net/2017/rope-course-video-05.m4v" type="video/mp4">
+  <source src="https://d21yo20tm8bmc2.cloudfront.net/2017/rope-course-video-005.m4v" type="video/mp4">
 Your browser does not support the video tag.
 </video>
