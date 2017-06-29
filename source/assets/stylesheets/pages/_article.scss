@@ -92,6 +92,13 @@
     @include margin($base-spacing * 2 auto);
     display: block;
   }
+
+  video {
+    @include margin($base-spacing * 2 auto);
+    display: block;
+    height: auto;
+    width: 100%;
+  }
 }
 
 .article-image,
