@@ -16,6 +16,6 @@ READMORE
 
 We've just posted a couple of new videos to YouTube which we'd like to share with you. In the first, our two oldest daughters quote 1 John 4:7-11. Also included in this video is an explanation of the Scripture memory technique that our family uses to help our kids learn Bible passages with confidence. The second video is our latest ETO Video Report which contains some new information about Bible First development. We hope you enjoy these videos and we appreciate your prayers for our family and ministry in Ukraine.
 
-<iframe src="http://www.youtube.com/embed/EAanMSxoUCA" frameborder="0" width="450" height="286"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EAanMSxoUCA" frameborder="0" allowfullscreen></iframe>
 
-<iframe src="http://www.youtube.com/embed/L-V4f036lxU" frameborder="0" width="450" height="286"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L-V4f036lxU" frameborder="0" allowfullscreen></iframe>
