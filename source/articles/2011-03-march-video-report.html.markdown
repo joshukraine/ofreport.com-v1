@@ -20,4 +20,4 @@ READMORE
 
 Thanks for keeping our ministry in your prayers!
 
-<iframe title="YouTube video player" width="450" height="273" src="http://www.youtube.com/embed/pR2NILBTW5A" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pR2NILBTW5A" frameborder="0" allowfullscreen></iframe>

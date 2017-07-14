@@ -13,4 +13,4 @@ Check out our latest video of Abigail and Rebekah quoting Scripture! Due to our 
 
 READMORE
 
-<iframe src="http://www.youtube.com/embed/UFzM_Ze0ehU" frameborder="0" width="560" height="315"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UFzM_Ze0ehU" frameborder="0" allowfullscreen></iframe>
