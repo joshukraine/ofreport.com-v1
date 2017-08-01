@@ -1,15 +1,15 @@
 ---
 
 title: "<%= @title.titleize %>"
-date: "<%= @date %>"
+date: "<%= @date.strftime("%Y-%m-%d") %>"
 tags:
-- newsletter
+- tag1
 - tag2
 author: ["Joshua Steele", "@joshukraine"]
 download: "OFR-NAME.pdf"
 image: "/<%= @date.strftime("%Y") %>/image-name.jpg"
 image_lg: "/<%= @date.strftime("%Y") %>/image-name.jpg"
-caption: "CAPTION"
+caption: "CAPTION TEXT HERE"
 
 ---
 
@@ -26,9 +26,9 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 ### How You Can Pray
 
-* Item
-* Item
-* Item
+- Item
+- Item
+- Item
 
 [![Description](https://d21yo20tm8bmc2.cloudfront.net/<%= @date.strftime("%Y") %>/SM)](https://d21yo20tm8bmc2.cloudfront.net/<%= @date.strftime("%Y") %>/LG)
 {: .article-image .article-image--has-caption}
@@ -41,15 +41,7 @@ My caption text.
 {: .caption-text .article-image__caption}
 
 [![Description](https://d21yo20tm8bmc2.cloudfront.net/<%= @date.strftime("%Y") %>/SM)](https://d21yo20tm8bmc2.cloudfront.net/<%= @date.strftime("%Y") %>/LG)
-{: .article-image .article-image--has-caption}
-My caption text.
-{: .caption-text .article-image__caption}
-
-![Description](//d21yo20tm8bmc2.cloudfront.net/<%= @date.strftime("%Y") %>/image.jpg)
 {: .article-image}
 
-![Description](//d21yo20tm8bmc2.cloudfront.net/<%= @date.strftime("%Y") %>/image.jpg)
-{: .article-image}
-
-![Description](//d21yo20tm8bmc2.cloudfront.net/<%= @date.strftime("%Y") %>/image.jpg)
+[![Description](https://d21yo20tm8bmc2.cloudfront.net/<%= @date.strftime("%Y") %>/SM)](https://d21yo20tm8bmc2.cloudfront.net/<%= @date.strftime("%Y") %>/LG)
 {: .article-image}
