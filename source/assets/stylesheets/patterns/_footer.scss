@@ -96,11 +96,5 @@ $footer-text-color: transparentize($white, 0.5);
 .footer-copyright {
   .footer-copyright__jk {
     font-weight: 400;
-    margin-bottom: $small-spacing;
-  }
-
-  .footer-copyright__bf {
-    font-size: $small-font-size;
-    margin: 0;
   }
 }
