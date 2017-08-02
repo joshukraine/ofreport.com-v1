@@ -87,3 +87,7 @@ strong { font-weight: 500; }
 blockquote {
   font-style: italic;
 }
+
+.hr--bold {
+  border-bottom: 5px solid $base-border-color;
+}
