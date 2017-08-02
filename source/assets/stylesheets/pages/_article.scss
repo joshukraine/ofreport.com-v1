@@ -149,3 +149,16 @@
   color: $red;
   margin-right: 7px;
 }
+
+.link-target__container {
+  position: relative;
+}
+
+.link-target {
+  position: absolute;
+  top: -78px;
+
+  @include media-max($media-phone) {
+    top: -98px;
+  }
+}
