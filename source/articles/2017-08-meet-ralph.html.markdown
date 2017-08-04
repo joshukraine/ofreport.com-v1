@@ -53,17 +53,17 @@ In order to properly understand the scope of what Ralph has done, I'd like to br
 
 The full text of our *Bible First* course is well over 100,000 words in length. We also have translations in progress in four foreign languages: French, Russian, Spanish and a revision of our Ukrainian text. When these translations are added to the English original, that gives us over half a million words to manage!
 
-Now imagine the following scenario. You have a collection of Word documents that contain a total of 500,000 words. (By way of comparison, the [average novel is around 80,000 words][word-count].) Someone points out a typo, so you open one of the documents, search for the paragraph in question, and make the correction. But while you have the document open, you accidentally delete a word. Or a sentence, or an entire paragraph. How would you know? What if you didn't notice, and that text was lost?
+Now imagine the following scenario. You have a collection of Word documents that contain a total of 500,000 words. (By way of comparison, the [average novel is around 80,000 words][word-count title].) Someone points out a typo, so you open one of the documents, search for the paragraph in question, and make the correction. But while you have the document open, you accidentally delete a word. Or a sentence, or an entire paragraph. How would you know? What if you didn't notice, and that text was lost?
 
-One solution to this problem is a technology known as [version control][vcs]. In our organization, we use a version control system (VCS) called [Git][git]. Git allows us to store our text in a repository, and it tracks every single change we make. Git also provides for easy remote backup. In short, once a body of text is placed under version control with Git, it is nearly impossible to lose content through human error.
+One solution to this problem is a technology known as [version control][vcs title]. In our organization, we use a version control system (VCS) called [Git][git title]. Git allows us to store our text in a repository, and it tracks every single change we make. Git also provides for easy remote backup. In short, once a body of text is placed under version control with Git, it is nearly impossible to lose content through human error.
 
 ### The Plain-Text Master
 
-The text of *Bible First* was initially stored in a page-layout program called [Adobe InDesign][indesign]. This program is great if you want to get your text ready for print, but InDesign wasn't intended to serve as a dedicated VCS.
+The text of *Bible First* was initially stored in a page-layout program called [Adobe InDesign][indesign title]. This program is great if you want to get your text ready for print, but InDesign wasn't intended to serve as a dedicated VCS.
 
-As you have likely inferred by now, we needed to move the text of *Bible First* into version control as soon as possible. But there was one small problem. Git, like most other version control systems, was designed to track *[plain text][plain-text]* – that is, text which contains no formatting, only line breaks and spaces. So before we could store our text in Git, we first needed to convert every word into plain text. And we needed to be 100% certain that nothing was lost during the conversion process. Enter Ralph - ETO's new resident plain-text master.
+As you have likely inferred by now, we needed to move the text of *Bible First* into version control as soon as possible. But there was one small problem. Git, like most other version control systems, was designed to track *[plain text][plain-text title]* – that is, text which contains no formatting, only line breaks and spaces. So before we could store our text in Git, we first needed to convert every word into plain text. And we needed to be 100% certain that nothing was lost during the conversion process. Enter Ralph - ETO's new resident plain-text master.
 
-Ralph's first task would be to take every English lesson in the *Bible First* program and convert it into a plain-text format called [Markdown][md]. From there he would go through the entire lesson, paragraph by paragraph, and ensure that all the content was present and displayed in its proper order. This also involved adding special formatting markers that would indicate which text should be bold or italic, which headings should be primary or secondary, and so on.
+Ralph's first task would be to take every English lesson in the *Bible First* program and convert it into a plain-text format called [Markdown][md title]. From there he would go through the entire lesson, paragraph by paragraph, and ensure that all the content was present and displayed in its proper order. This also involved adding special formatting markers that would indicate which text should be bold or italic, which headings should be primary or secondary, and so on.
 
 [![Comparing Spanish and English versions of Bible First in Vim.](https://d21yo20tm8bmc2.cloudfront.net/2017/vim-markdown-550w.png)](https://d21yo20tm8bmc2.cloudfront.net/2017/vim-markdown-2300w.png)
 {: .article-image .article-image--has-caption}
@@ -74,10 +74,10 @@ Ever step of the way, Ralph would save his work in Git - an operation known as *
 
 If that all sounded a bit technical, that's because it is. It's hard. Not only can the work become tedious, but it requires a working knowledge of several technologies. Here are some of the primary technologies Ralph learned from scratch in order to work on this project.
 
-- [Unix command line][cli] (Think black screen, green glowing text - the domain of hackers)
-- [Vim][vim] (A plain-text editor with a reputation for having a steep learning curve)
-- [Git][git] (A distributed version control system)
-- [Markdown][md] (A lightweight markup language for formatting plain text)
+- [Unix command line][cli title] (Think black screen, green glowing text - the domain of hackers)
+- [Vim][vim title] (A plain-text editor with a reputation for having a steep learning curve)
+- [Git][git title] (A distributed version control system)
+- [Markdown][md title] (A lightweight markup language for formatting plain text)
 
 As I write this blog post, my email is pinging me about every 30 minutes with Git notifications. It's Ralph, steadily plowing through more plain-text conversion. As of this writing, all the English lessons have been converted and stored safely in our Git repository. 14 lessons of Russian have also been converted, two lessons in Ukrainian, and 16 lessons in Spanish.
 
@@ -133,12 +133,12 @@ Be like Ralph.**
 ---
 {: .hr--bold}
 
-[cli]: https://en.wikipedia.org/wiki/Command-line_interface
-[vim]: https://en.wikipedia.org/wiki/Vim_(text_editor)
-[git]: https://en.wikipedia.org/wiki/Git
-[md]: https://en.wikipedia.org/wiki/Markdown
-[plain-text]: https://en.wikipedia.org/wiki/Plain_text
-[vcs]: https://en.wikipedia.org/wiki/Version_control
-[indesign]: https://en.wikipedia.org/wiki/Adobe_InDesign
-[word-count]: http://thewritepractice.com/word-count/
+[cli title]: https://en.wikipedia.org/wiki/Command-line_interface "Read more about command line interfaces."
+[vim title]: https://en.wikipedia.org/wiki/Vim_(text_editor) "Read more about Vim."
+[git title]: https://en.wikipedia.org/wiki/Git "Read more about Git."
+[md title]: https://en.wikipedia.org/wiki/Markdown "Read more about Markdown."
+[plain-text title]: https://en.wikipedia.org/wiki/Plain_text "Read more about plain text."
+[vcs title]: https://en.wikipedia.org/wiki/Version_control "Read more about version control."
+[indesign title]: https://en.wikipedia.org/wiki/Adobe_InDesign "Read more about Adobe InDesign."
+[word-count title]: http://thewritepractice.com/word-count/ "Read more about word count in novels."
 [cmo title]: http://www.cmoproject.org/ "Learn more about Carpathian Mountain Outreach."
