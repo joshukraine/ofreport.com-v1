@@ -79,7 +79,7 @@ If that all sounded a bit technical, that's because it is. It's hard. Not only c
 - [Git][git title] (A distributed version control system)
 - [Markdown][md title] (A lightweight markup language for formatting plain text)
 
-As I write this blog post, my email is pinging me about every 30 minutes with Git notifications. It's Ralph, steadily plowing through more plain-text conversion. As of this writing, all the English lessons have been converted and stored safely in our Git repository. 14 lessons of Russian have also been converted, two lessons in Ukrainian, and 16 lessons in Spanish.
+As I write this blog post, my email is pinging me about every 30 minutes with Git notifications. It's Ralph, steadily plowing through more plain-text conversion. As of this writing, all the English lessons have been converted and stored safely in our Git repository. 14 lessons of Russian have also been converted, two lessons in Ukrainian, and 17 lessons in Spanish.
 
 ### Working in Five Languages
 
