@@ -12,7 +12,7 @@ caption: "Raphaël \"Ralph\" Villeneuve is our tri-lingual summer intern with a 
 
 ---
 
-Over the years I've corresponded with many young men about ministering in Ukraine. The ones who come here usually do so to participate in our [CMO project][cmo title]. This year, we decided to skip CMO so we could focus on some behind-the-scenes work, but God sent us a young man anyway. His name is Ralph, and I'd like for you to meet him. READMORE
+Over the years, I've corresponded with many young men about ministering in Ukraine. The ones who come here usually do so to participate in our [CMO project][cmo title]. This year, we decided to skip CMO so we could focus on some behind-the-scenes work, but God sent us a young man anyway. His name is Ralph, and I'd like for you to meet him. READMORE
 
 ---
 {: .hr--bold}
@@ -70,7 +70,7 @@ Ralph's first task would be to take every English lesson in the *Bible First* pr
 Comparing Spanish and English versions of Bible First in Vim.
 {: .caption-text .article-image__caption}
 
-Ever step of the way, Ralph would save his work in Git - an operation known as *making a commit* - and upload it to a remote repository. When this process was completed for a given lesson, Ralph would send us a request for review. Once approved, the lesson would be merged into what is called the *master branch* - the main body of the repository where all content is kept.
+Every step of the way, Ralph would save his work in Git - an operation known as *making a commit* - and upload it to a remote repository. When this process was completed for a given lesson, Ralph would send us a request for review. Once approved, the lesson would be merged into what is called the *master branch* - the main body of the repository where all content is kept.
 
 If that all sounded a bit technical, that's because it is. It's hard. Not only can the work become tedious, but it requires a working knowledge of several technologies. Here are some of the primary technologies Ralph learned from scratch in order to work on this project.
 
