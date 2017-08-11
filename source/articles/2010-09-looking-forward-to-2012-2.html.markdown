@@ -6,7 +6,7 @@ tags:
 - announcements
 - ministry
 - cmo
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 
 ---
 

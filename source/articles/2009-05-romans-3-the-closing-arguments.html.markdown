@@ -5,7 +5,7 @@ date: "2009-05-16 05:59:22"
 tags:
 - ministry
 - theology
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 
 ---
 

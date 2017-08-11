@@ -4,7 +4,7 @@ title: "Where's Bible First?"
 date: "2011-06-06 14:13:02"
 tags:
 - ministry
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 
 ---
 

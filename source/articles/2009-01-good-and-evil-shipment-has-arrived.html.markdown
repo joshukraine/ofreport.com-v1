@@ -6,7 +6,7 @@ tags:
 - good and evil
 - ministry
 - photos
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 
 ---
 

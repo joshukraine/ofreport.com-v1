@@ -5,7 +5,7 @@ date: "2012-03-10 15:56:38"
 tags:
 - family
 - photos
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 image: "/2012/03/family-saturday2-1024x682.jpg"
 caption: "Abby &amp; Beka – best friends"
 

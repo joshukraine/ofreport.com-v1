@@ -4,7 +4,7 @@ title: "Skype Switcheroo"
 date: "2010-09-10 10:28:52"
 tags:
 - announcements
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 
 ---
 

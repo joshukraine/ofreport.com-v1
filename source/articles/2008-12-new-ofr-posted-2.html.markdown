@@ -5,7 +5,7 @@ date: "2008-12-22 14:33:48"
 tags:
 - newsletter
 - ministry
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 download: "ofr_dec_2008.pdf"
 
 ---

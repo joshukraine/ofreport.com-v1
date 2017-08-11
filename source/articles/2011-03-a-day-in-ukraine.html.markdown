@@ -4,7 +4,7 @@ title: A Day in Ukraine
 date: "2011-03-19 21:55:29"
 tags:
 - ministry
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 
 ---
 

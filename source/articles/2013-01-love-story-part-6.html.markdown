@@ -4,7 +4,7 @@ title: "Our Love Story, Part 6: Mystery Courtship"
 date: "2013-01-04 10:00:03"
 tags:
 - love story
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 desc: "It wasn’t long before I knew I needed to get State-side. Only a couple of weeks after completing a transition back to Ukraine from Thailand, I flew home to Texas where Kelsie was waiting for me."
 
 ---

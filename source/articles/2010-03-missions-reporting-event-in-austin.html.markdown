@@ -4,7 +4,7 @@ title: "Missions Reporting Event in Austin"
 date: "2010-03-28 20:40:58"
 tags:
 - ministry
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 
 ---
 

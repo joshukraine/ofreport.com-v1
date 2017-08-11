@@ -6,7 +6,7 @@ tags:
 - newsletter
 - ukraine
 - ministry
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 download: "OFR-Apr-2012.pdf"
 image: "/2012/04/IMG_1854.jpg"
 caption: "Yes, we got our visas. But that’s just the beginning. Now we have to register..."

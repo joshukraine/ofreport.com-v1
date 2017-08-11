@@ -5,7 +5,7 @@ date: "2009-01-20 05:20:51"
 tags:
 - bryan shufelt
 - ministry
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 
 ---
 

@@ -5,7 +5,7 @@ date: "2017-08-04"
 tags:
 - ministry
 - photos
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 image: "/2017/meet-ralph-1200w.jpg"
 image_lg: "/2017/meet-ralph-2000w.jpg"
 caption: "Raphaël \"Ralph\" Villeneuve is our tri-lingual summer intern with a heart for missions in Eastern Europe."

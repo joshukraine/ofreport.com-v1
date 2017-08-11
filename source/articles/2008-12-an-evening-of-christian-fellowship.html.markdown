@@ -7,7 +7,7 @@ tags:
 - bible study
 - english club
 - ministry
-author: Kelsie Steele
+author: ["Kelsie Steele", "steelekelsie", "@ig"]
 
 ---
 

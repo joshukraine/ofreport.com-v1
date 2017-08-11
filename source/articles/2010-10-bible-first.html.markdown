@@ -5,7 +5,7 @@ date: "2010-10-06 14:55:55"
 tags:
 - ministry
 - bible first
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 image: "/2010/10/every-word-1200w.jpg"
 image_lg: "/2010/10/every-word-2000w.jpg"
 

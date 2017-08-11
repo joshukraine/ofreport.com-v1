@@ -5,7 +5,7 @@ date: "2009-01-06 16:05:36"
 tags:
 - bible first
 - ministry
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 
 ---
 

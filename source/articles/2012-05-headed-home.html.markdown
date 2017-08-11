@@ -4,7 +4,7 @@ title: "Going Home"
 date: "2012-05-15 15:13:08"
 tags:
 - family
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 image: "/2012/05/photo-1024x768.jpg"
 caption: "At the new airport in L'viv. Next stop: Warsaw!"
 

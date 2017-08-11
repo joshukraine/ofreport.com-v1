@@ -6,7 +6,7 @@ tags:
 - newsletter
 - family
 - bible first
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 download: "OFR-Nov-Dec-2016.pdf"
 image: "/2016/12/IMG_1900-1024x497.jpg"
 caption: "Every morning on weekdays, Abigail and I read through a portion of Bible First.<br>We are now on Lesson 10!"

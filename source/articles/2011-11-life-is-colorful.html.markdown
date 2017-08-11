@@ -6,7 +6,7 @@ tags:
 - family
 - ministry
 - photos
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 desc: "L'viv is beautiful in the fall. For a large city, it's quite rich in plant life."
 
 ---

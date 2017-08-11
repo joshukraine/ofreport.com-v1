@@ -6,7 +6,7 @@ tags:
 - bible study
 - ministry
 - theology
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 image: "/2009/04/all-under-sin-web.jpg"
 
 ---

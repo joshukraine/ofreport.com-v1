@@ -4,7 +4,7 @@ title: "Our Baby is With the Lord"
 date: "2012-06-18 23:37:21"
 tags:
 - family
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 
 ---
 

@@ -6,7 +6,7 @@ tags:
 - abs
 - bible study
 - ministry
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 
 ---
 

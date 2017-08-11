@@ -4,7 +4,7 @@ title: "Patient Faith"
 date: "2012-07-03 23:13:08"
 tags:
 - family
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 desc: "On Sunday morning, June 3, I preached a message called Patient Faith at our home church. In this message, I shared some of the things that God had been teaching our family through the discovery of our unborn daughter's severe genetic deformity."
 
 ---
