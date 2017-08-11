@@ -66,9 +66,15 @@ Ministry is always better when you have a friend to stand beside you!
 
 I can look back to my childhood and remember multiple times when I was the recipient of excellent teaching. Conferences, books, radio programs, and my own parents all spoke into my life, preparing me with the tools and encouragement I would need in raising my own family some day. Now, despite my sweaty palms and beating heart, it is a privilege to interact with other moms and be able to give back some of what I have been given.
 
+---
+{: .hr--bold}
+
 Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me.  
 2 Corinthians 12:9
-{: .article-text--centered}
+{: .article-text--centered .article-text--small-caps}
+
+---
+{: .hr--bold}
 
 [![Description](https://d21yo20tm8bmc2.cloudfront.net/2017/chatting-at-the-table-550w.jpg)](https://d21yo20tm8bmc2.cloudfront.net/2017/chatting-at-the-table-2000w.jpg)
 {: .article-image .article-image--has-caption}
