@@ -18,7 +18,7 @@ caption: "Recently, Kelsie was asked to speak at a two-day family seminar here i
 
 [![Description](https://d21yo20tm8bmc2.cloudfront.net/2017/tamara-anatolivna-550w.jpg)](https://d21yo20tm8bmc2.cloudfront.net/2017/tamara-anatolivna-2000w.jpg)
 {: .article-image .article-image--has-caption}
-As people began arriving, we glad to see Tamara Anatolivna—a long-time friend and one of the main organizers of the seminar.
+As people began arriving, we were glad to see Tamara Anatolivna—a long-time friend and one of the main organizers of the seminar.
 {: .caption-text .article-image__caption}
 
 [![Description](https://d21yo20tm8bmc2.cloudfront.net/2017/greeting-little-ones-550w.jpg)](https://d21yo20tm8bmc2.cloudfront.net/2017/greeting-little-ones-2000w.jpg)
