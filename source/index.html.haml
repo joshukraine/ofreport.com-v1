@@ -15,7 +15,7 @@ layout: home
     .article-preview__meta
       - if article.data.author?
         .meta-author
-          = twitter_link_for(article.data.author)
+          = social_link_for(article.data.author)
 
       %time.meta-date{ datetime: "#{article.date}" }= pretty_date
 
