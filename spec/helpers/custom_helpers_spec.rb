@@ -61,22 +61,38 @@ describe CustomHelpers do
     end
   end
 
-  describe "#twitter_link_for" do
+  describe "#social_link_for" do
     context "when Twitter handle is provided" do
       it "returns a link to the corresponding Twitter profile" do
-        author = ["Joshua", "@joshukraine"]
+        author = ["Joshua", "joshukraine", "@tw"]
         link = "<a href=\"https://twitter.com/joshukraine\">Joshua</a>"
-        expect(twitter_link_for(author)).to eq(link)
+        expect(social_link_for(author)).to eq(link)
       end
     end
 
-    context "when no Twitter handle is provided" do
+    context "when Instagram handle is provided" do
+      it "returns a link to the corresponding Instagram profile" do
+        author = ["Joshua", "joshukraine", "@ig"]
+        link = "<a href=\"https://instagram.com/joshukraine\">Joshua</a>"
+        expect(social_link_for(author)).to eq(link)
+      end
+    end
+
+    context "when Facebook handle is provided" do
+      it "returns a link to the corresponding Facebook profile" do
+        author = ["Joshua", "joshukraine", "@fb"]
+        link = "<a href=\"https://facebook.com/joshukraine\">Joshua</a>"
+        expect(social_link_for(author)).to eq(link)
+      end
+    end
+
+    context "when no social media handle is provided" do
       it "returns the author as a string" do
         author1 = "Fred"
         author2 = ["Joe", "Smith"]
 
-        expect(twitter_link_for(author1)).to eq("Fred")
-        expect(twitter_link_for(author2)).to eq("[\"Joe\", \"Smith\"]")
+        expect(social_link_for(author1)).to eq("Fred")
+        expect(social_link_for(author2)).to eq("[\"Joe\", \"Smith\"]")
       end
     end
   end
