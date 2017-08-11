@@ -5,7 +5,7 @@ date: "2011-03-02 12:20:06"
 tags:
 - ministry
 - photos
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 
 ---
 

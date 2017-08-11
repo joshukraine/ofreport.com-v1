@@ -4,7 +4,7 @@ title: "October News"
 date: "2011-10-27 09:43:25"
 tags:
 - ministry
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 
 ---
 

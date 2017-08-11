@@ -5,7 +5,7 @@ date: "2012-08-14 20:20:29"
 tags:
 - newsletter
 - cmo
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 download: "OFR-August-2012.pdf"
 image: "/2012/08/CMO-MEN.jpg"
 caption: "Every year, we ask God to send us faithful men that will help us preach Christ here in Ukraine. Six weeks into the CMO 2012 project, it’s evident that He’s answered that prayer yet again."

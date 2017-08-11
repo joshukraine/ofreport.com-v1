@@ -7,7 +7,7 @@ tags:
 - ministry
 - family
 - cmo
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 download: "OFR-Jan-Feb-2010.pdf"
 
 ---

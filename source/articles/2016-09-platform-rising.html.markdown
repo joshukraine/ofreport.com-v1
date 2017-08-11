@@ -7,7 +7,7 @@ tags:
 - family
 - bible first
 - good and evil
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 download: "OFR-Sep-Oct-2016.pdf"
 image: "/2016/09/josh-preaching-cmo-2016-1024x497.jpg"
 caption: "Preaching the Gospel after a film showing in the Carpathian village of Scherbovets."

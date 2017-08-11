@@ -4,7 +4,7 @@ title: "Our Love Story, Part 5: The Beginning"
 date: "2012-12-28 10:00:22"
 tags:
 - love story
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 desc: "Now, as her father handed over the rolled up parchment, she loosened the ribbon and read my invitation."
 
 ---

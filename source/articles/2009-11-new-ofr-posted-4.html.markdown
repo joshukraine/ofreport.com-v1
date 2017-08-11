@@ -6,7 +6,7 @@ tags:
 - newsletter
 - ministry
 download: "OFR_Oct-Dec_2009.pdf"
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 
 ---
 

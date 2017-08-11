@@ -5,7 +5,7 @@ date: "2012-03-13 16:45:48"
 tags:
 - ministry
 - ukraine
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 image: "/2012/03/IMG_1854-1024x682.jpg"
 caption: "The Beals, Denise and the Steeles: proud owners of shiny new class D visas!"
 

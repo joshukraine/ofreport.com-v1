@@ -5,7 +5,7 @@ date: "2011-03-07 14:43:18"
 tags:
 - ministry
 - video
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 
 ---
 

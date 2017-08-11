@@ -6,7 +6,7 @@ tags:
 - newsletter
 - bible first
 - good and evil
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 download: "OFR-May-Jun-2017.pdf"
 image: "/2017/bible-first-kids-1200w.jpg"
 image_lg: "/2017/bible-first-kids-2000w.jpg"

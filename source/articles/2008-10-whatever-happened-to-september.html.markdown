@@ -5,7 +5,7 @@ date: "2008-10-11 12:20:48"
 tags:
 - family
 - photos
-author: Kelsie Steele
+author: ["Kelsie Steele", "steelekelsie", "@ig"]
 
 ---
 

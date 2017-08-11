@@ -6,7 +6,7 @@ tags:
 - newsletter
 - family
 - cmo
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 download: "OFR-Sep-Oct-2014.pdf"
 image: "/2014/11/ofr-shindig-cover.png"
 caption: "This September, Kelsie and I took part in No Greater Joy’s Smoky Mountain Shindig. Over 2,000 people gathered for an unforgettable conference filled with solid Bible teaching, singing, fellowship, games, and encouragement."

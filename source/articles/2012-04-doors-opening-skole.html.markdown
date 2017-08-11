@@ -3,7 +3,7 @@ title: "Doors Opening in Skole"
 date: "2012-04-01 07:09:36"
 tags:
 - ministry
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 image: "/2012/04/SkoleEnglishClub33-1024x682.jpg"
 desc: "This past week, our team held a four-day English Club in the Carpathian town of Skole. (pronounced skó-leh) This outreach was actually begun by a Ukrainian friend of ours, Sergiy Chepara, who is native to Skole."
 

@@ -5,7 +5,7 @@ date: "2013-06-08 12:00:15"
 tags:
 - bible first
 - seven pillars
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 desc: "Noah lived in an era of wickedness so terrible that it caused God to regret His creation of the human race."
 
 ---

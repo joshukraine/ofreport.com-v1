@@ -5,7 +5,7 @@ date: "2014-01-25 18:40:45"
 tags:
 - family
 - ukraine
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 image: "/2014/01/euromaydan.jpg"
 desc: As you are no doubt aware, Ukraine is in the middle of a political crisis.
 

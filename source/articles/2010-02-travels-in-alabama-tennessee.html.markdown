@@ -4,7 +4,7 @@ title: "Travels in Alabama & Tennessee"
 date: "2010-02-16 21:02:07"
 tags:
 - ministry
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 
 ---
 

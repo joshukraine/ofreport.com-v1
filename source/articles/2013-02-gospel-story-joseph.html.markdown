@@ -5,7 +5,7 @@ date: "2013-02-20 13:00:40"
 tags:
 - bible first
 - theology
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 image: "/2013/02/joseph_meets_his_brothers_997w.jpg"
 image_lg: "/2013/02/joseph_meets_his_brothers.jpg"
 caption: "Joseph meets his brothers in Egypt."

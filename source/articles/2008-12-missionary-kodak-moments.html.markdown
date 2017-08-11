@@ -8,7 +8,7 @@ tags:
 - english club
 - ministry
 - photos
-author: Kelsie Steele
+author: ["Kelsie Steele", "steelekelsie", "@ig"]
 
 ---
 

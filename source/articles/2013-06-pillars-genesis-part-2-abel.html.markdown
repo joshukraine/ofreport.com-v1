@@ -5,7 +5,7 @@ date: "2013-06-01 12:00:29"
 tags:
 - bible first
 - seven pillars
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 desc: "Abel’s offering of a lamb in Genesis 4 clearly represents the payment God requires to atone for (that is, cover) sin."
 
 ---

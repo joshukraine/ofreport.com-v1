@@ -5,7 +5,7 @@ date: "2008-12-03 09:12:16"
 tags:
 - economics
 - frederic bastiat
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 
 ---
 

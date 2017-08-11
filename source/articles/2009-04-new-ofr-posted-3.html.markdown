@@ -5,7 +5,7 @@ date: "2009-04-21 11:33:05"
 tags:
 - newsletter
 - ministry
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 download: "OFR_May_2009.pdf"
 image: "/2009/04/all-under-sin-web.jpg"
 

@@ -4,7 +4,7 @@ title: "Magazine Interview"
 date: "2011-02-01 15:40:32"
 tags:
 - ministry
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 
 ---
 

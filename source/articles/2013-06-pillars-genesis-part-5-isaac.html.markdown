@@ -5,7 +5,7 @@ date: "2013-06-22 12:00:58"
 tags:
 - bible first
 - seven pillars
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 desc: "After repeatedly promising Abraham that he would become a great nation, God fulfilled His word by giving Abraham a miracle son: Isaac."
 
 ---

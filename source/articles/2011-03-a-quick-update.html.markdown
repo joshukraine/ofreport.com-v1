@@ -4,7 +4,7 @@ title: "A Quick Update"
 date: "2011-03-07 08:26:25"
 tags:
 - ministry
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 
 ---
 

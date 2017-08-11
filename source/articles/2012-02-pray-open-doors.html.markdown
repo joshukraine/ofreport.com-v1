@@ -7,7 +7,7 @@ tags:
 - family
 - cmo
 - bible first
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 download: "OFR-Feb-2012.pdf"
 image: "/2012/02/IMG_2056.jpg"
 caption: "From the left: Ivan, Marian, and Taras, three of our most faithful attendees at English Club."

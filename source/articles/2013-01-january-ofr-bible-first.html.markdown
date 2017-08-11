@@ -5,7 +5,7 @@ date: "2013-01-08 15:21:40"
 tags:
 - newsletter
 - bible first
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 download: "OFR-Jan-2013.pdf"
 image: "/2013/01/bible-first-is-here.jpg"
 caption: "On December 14th, the letter below was sent out by e-mail announcing the official launch of Bible First! We invite you to avail yourself of this new evangelism tool at www.getbiblefirst.com. May God bless you as you minister for Him!"

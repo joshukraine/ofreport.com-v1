@@ -7,7 +7,7 @@ tags:
 - family
 - cmo
 - bible first
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 download: "OFR-Jan-2012.pdf"
 image: "/2012/01/fall-family-2011 005.jpg"
 caption: "Happy New Year from the Steele family! From left: Hosanna (1), Kelsie, Rebekah (4), Joshua, Abigail (6)"

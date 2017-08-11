@@ -7,7 +7,7 @@ tags:
 - photos
 - video
 - bible first
-author: ["Joshua Steele", "@joshukraine"]
+author: ["Joshua Steele", "joshukraine", "@tw"]
 image: "/2017/rope-course-01-1200w.jpg"
 image_lg: "/2017/rope-course-01-2000w.jpg"
 caption: "L'viv has recently gained some nice outdoor attractions, including a rope course. Check out this collection of photos from our weekend excursion!"
