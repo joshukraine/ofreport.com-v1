@@ -77,3 +77,8 @@
         - if article_tags.include?("newsletter")
           .to-God-be-the-glory
             = inline_svg "to-God-be-the-glory.svg"
+
+        %hr.hr--bold
+        %h3.article-text--centered
+          Like what you're reading? Let's keep in touch!
+        = partial "partials/subscribe_form"

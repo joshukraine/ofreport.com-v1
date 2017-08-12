@@ -9,11 +9,10 @@
 .mc-subscribe__inner {
   display: flex;
   flex-direction: row;
-  margin-bottom: $base-spacing * 2;
+  margin-bottom: $small-spacing;
 
   @include media-max($media-phone) {
     flex-direction: column;
-    margin-bottom: $small-spacing;
   }
 }
 

@@ -23,6 +23,12 @@
   @include margin(null null $base-spacing);
 }
 
+.container--top-spacing {
+  @include media-min($media-tablet) {
+    @include margin($base-spacing * 3 null null);
+  }
+}
+
 .container--title-area {
   @include margin(4em null);
 
