@@ -130,9 +130,6 @@ Ralph is happy because he's chosen to follow God.
 Be like Ralph.**
 {: .article-text--centered}
 
----
-{: .hr--bold}
-
 [cli title]: https://en.wikipedia.org/wiki/Command-line_interface "Read more about command line interfaces."
 [vim title]: https://en.wikipedia.org/wiki/Vim_(text_editor) "Read more about Vim."
 [git title]: https://en.wikipedia.org/wiki/Git "Read more about Git."
