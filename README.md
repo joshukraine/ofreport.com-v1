@@ -2,8 +2,7 @@
 
 ---
 
-OFReport.com
-============
+# OFReport.com
 
 [![Build Status][travis-svg]][travis] [![Dependency Status][gemnasium-svg]][gemnasium]
 
@@ -11,16 +10,14 @@ OFReport.com
 
 This site was built using [Middleman][middleman].
 
-Requirements
-------------
+## Requirements
 
 * [Middleman 4.x][middleman-docs]
 * [Ruby 2.x][rbenv]
 * [Node 6.x][nvm]
 * [Gulp CLI][gulp-cli]
 
-Setup
------
+## Setup
 
 To get started, clone the repo, cd into it, and run the setup script.
 
@@ -28,8 +25,7 @@ To get started, clone the repo, cd into it, and run the setup script.
 $ bin/setup
 ```
 
-Development
------------
+## Development
 
 This project uses [Gulp][gulp] with Middleman's new [`external_pipeline`][external-pipeline] feature introduced in v4.
 
@@ -39,8 +35,7 @@ This project uses [Gulp][gulp] with Middleman's new [`external_pipeline`][extern
     # Build the site (also invokes Gulp)
     $ bundle exec middleman build
 
-Environments
-------------
+## Environments
 
 Middleman has two default environments: `development` and `production`. This app is configured to run the external pipeline (Gulp in our case) in both. There are times, however, when the external pipeline should not run. Two good examples are tests and the console. We therefore define two additional environments: `test` and `console`.
 
@@ -62,15 +57,13 @@ environments/
 └── test.rb
 ```
 
-Tests
------
+## Tests
 
 Testing is done with Rspec. Run the tests like so:
 
     $ bin/rspec spec/
 
-Aliases
--------
+## Aliases
 
 Consider adding the following to your `.bashrc` or `.zshrc` file:
 
@@ -81,17 +74,15 @@ mmc='bundle exec middleman console -e console'
 mms='bundle exec middleman server'
 ```
 
-Deployment
-----------
+## Deployment
 
 OFReport.com is currently deployed on Amazon S3. [Detailed instructions][aws-s3-deployment] are available from Amazon.
 
 **BONUS: If you deploy with Amazon, you can get a [free ssl certificate][aws-cert-manager] for your site!**
 
-Legal
------
+## Legal
 
-Copyright &copy; 2017 Joshua and Kelsie Steele. Software is licensed under [MIT][license].
+Copyright © 2017 Joshua and Kelsie Steele. Software is licensed under [MIT][license].
 
 [travis-svg]: https://travis-ci.org/joshukraine/ofreport.com.svg?branch=master
 [travis]: https://travis-ci.org/joshukraine/ofreport.com
