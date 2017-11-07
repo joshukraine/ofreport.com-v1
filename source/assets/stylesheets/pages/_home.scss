@@ -71,6 +71,7 @@
 .article-preview__meta {
   font-size: $small-font-size;
   padding-left: 3px;
+  margin: 0 0 $small-spacing;
 
   .meta-author {
     display: inline-block;
@@ -94,7 +95,7 @@
 
   .meta-tag-list {
     display: inline-block;
-    margin: 0.5em 0 1em;
+    margin: 0;
     text-transform: uppercase;
 
   }

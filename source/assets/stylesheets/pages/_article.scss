@@ -63,10 +63,17 @@
 }
 
 .article-body {
+  @include media-max($media-phone) {
+    h2 {
+      @include margin($base-spacing null $small-spacing / 2 null);
+      font-size: modular-scale(3);
+    }
+  }
+
   h2,
   h3,
   h4 {
-    @include margin($base-spacing null $small-spacing)
+    @include margin($base-spacing null $small-spacing / 1.5)
   }
 
   ul {
@@ -118,7 +125,8 @@
 }
 
 .article-image__caption {
-  margin-bottom: $base-spacing;
+  @include margin(null auto $base-spacing);
+  max-width: 500px;
 }
 
 .article-text--centered {
