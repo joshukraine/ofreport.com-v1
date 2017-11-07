@@ -9,7 +9,7 @@ tags:
 - family
 - photos
 author: ["Joshua Steele", "joshukraine", "@tw"]
-download: "OFR-NAME.pdf"
+download: "OFR-Oct-Dec-2017.pdf"
 image: "/2017/11/grab-bag-cover-1200w.jpg"
 image_lg: "/2017/11/grab-bag-cover-2000w.jpg"
 caption: "Good and Evil, family news, our new ETO staff family, CMO 2018 — where do I start? Two pages never seems enough to fit in all the news.
