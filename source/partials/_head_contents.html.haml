@@ -36,7 +36,6 @@
 %title= full_title(page_title, site_title)
 
 = partial "partials/analytics" if production?
-= partial "partials/subscribe_popup"
 = tag "link", rel: "apple-touch-icon", href: image_path("apple-touch-icon.png")
 = feed_tag :rss, "#{site_url}/feed.xml", title: "RSS Feed"
 = stylesheet_link_tag :site
