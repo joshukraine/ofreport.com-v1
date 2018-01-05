@@ -11,7 +11,7 @@ gem "mime-types", "~> 3.1"
 gem "nokogiri", "~> 1.8", ">= 1.8.1"
 
 group :development do
-  gem "capybara", "~> 2.16", ">= 2.16.1"
+  gem "capybara", "~> 2.17"
   gem "launchy", "~> 2.4"
   gem "rspec", "~> 3.7"
 end
