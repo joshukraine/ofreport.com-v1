@@ -27,7 +27,7 @@
 - if content_for?(:og_tags)
   = yield_content :og_tags
 - else
-  = tag "meta", property: "og:url", content: site_url
+  = tag "meta", property: "og:url", content: og_url
   = tag "meta", property: "og:type", content: "blog"
   = tag "meta", property: "og:title", content: og_title
   = tag "meta", property: "og:description", content: og_desc
