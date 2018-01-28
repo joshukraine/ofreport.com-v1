@@ -21,8 +21,8 @@
     "production": "NODE_ENV=production gulp production"
   },
   "devDependencies": {
-    "browser-sync": "^2.23.2",
-    "browserify": "^15.0.0",
+    "browser-sync": "^2.23.6",
+    "browserify": "^15.2.0",
     "del": "^3.0.0",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^4.1.0",
@@ -33,7 +33,7 @@
     "gulp-load-plugins": "^1.5.0",
     "gulp-sass": "^3.1.0",
     "gulp-sizereport": "^1.2.0",
-    "gulp-sourcemaps": "^2.6.3",
+    "gulp-sourcemaps": "^2.6.4",
     "gulp-strip-debug": "^2.0.0",
     "gulp-uglify": "^3.0.0",
     "gulp-util": "^3.0.8",
@@ -42,9 +42,9 @@
     "vinyl-source-stream": "^2.0.0"
   },
   "dependencies": {
-    "bourbon": "^5.0.0-beta.8",
+    "bourbon": "^5.0.0",
     "bourbon-neat": "^2.1.0",
-    "jquery": "^3.2.1",
+    "jquery": "^3.3.1",
     "moment": "^2.20.1",
     "webfontloader": "^1.6.28"
   },
