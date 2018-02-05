@@ -54,6 +54,7 @@ a {
   &:focus,
   &:hover {
     color: shade($action-color, 25%);
+    text-decoration: underline;
   }
 }
 

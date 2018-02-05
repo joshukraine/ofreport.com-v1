@@ -36,6 +36,7 @@ $navigation-font-size-mobile: $small-font-size;
     &:active,
     &:hover {
       color: $action-color;
+      text-decoration: none;
     }
   }
 }
@@ -149,6 +150,7 @@ $navigation-font-size-mobile: $small-font-size;
     &:active,
     &:hover {
       color: $action-color;
+      text-decoration: none;
     }
   }
 }
