@@ -7,7 +7,8 @@ $navigation-font-size-mobile: $small-font-size;
 
 .home-navbar {
   background-color: $navigation-background;
-  border-bottom: 1px solid $base-border-color;
+  border-bottom: 1px solid $shadow-border;
+  box-shadow: 0 1px 2px $shadow-fade;
 }
 
 
@@ -51,7 +52,8 @@ $navigation-font-size-mobile: $small-font-size;
 
 .navbar {
   background-color: $navigation-background;
-  border-bottom: 1px solid $base-border-color;
+  border-bottom: 1px solid $shadow-border;
+  box-shadow: 0 1px 2px $shadow-fade;
   position: fixed;
   top: 0;
   transform: translateY(-110%);
