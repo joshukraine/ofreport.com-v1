@@ -54,6 +54,7 @@ $footer-text-color: transparentize($white, 0.5);
     &:hover,
     &:focus {
       color: $white;
+      text-decoration: none;
     }
   }
 }
