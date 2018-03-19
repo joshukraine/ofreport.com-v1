@@ -99,3 +99,11 @@ blockquote {
 .hr--bold {
   border-bottom: 5px solid $base-border-color;
 }
+
+.text-truncate {
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: 100%;
+}
