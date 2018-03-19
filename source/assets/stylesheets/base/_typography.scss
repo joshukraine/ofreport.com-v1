@@ -58,6 +58,14 @@ a {
   }
 }
 
+a.button {
+  &:active,
+  &:focus,
+  &:hover {
+    text-decoration: none;
+  }
+}
+
 p {
   font-size: $base-font-size * 1.2;
   font-weight: 300;
