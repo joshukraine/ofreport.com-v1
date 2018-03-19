@@ -70,7 +70,9 @@ Your browser does not support the video tag.
 ### Translation Complete!
 
 After many months of work, we are pleased to announce that the Ukrainian translation of Good and Evil is complete! Our designer in Kyiv is now working through the page layout and has already completed several chapters. More work remains before the project is complete, and we appreciate your continued prayer support. To find out more about our progress, check out our recent blog post on the ETO site:
+<span class="text-truncate">
 [euroteamoutreach.org/blog/2018/03/translation-complete](https://euroteamoutreach.org/blog/2018/03/translation-complete/)
+</span>
 
 [![Description](https://d21yo20tm8bmc2.cloudfront.net/2018/ge-ukr-550h.png)](https://euroteamoutreach.org/blog/2018/03/translation-complete/){: target="_blank"}
 {: .article-image}
