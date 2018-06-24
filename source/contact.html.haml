@@ -7,7 +7,6 @@ desc: Need to get in touch? Drop us a line!
   site_url = data.site.url
   site_photo = data.site.current_family_photo
   site_asset_server = data.site.asset_server_url
-  contact_email = data.site.contact_email
   page_title = current_page.data.title.to_s
   page_desc = current_page.data.desc
   page_url = site_url + current_page.url
@@ -35,8 +34,7 @@ desc: Need to get in touch? Drop us a line!
 %section.narrow-container.container--spacing
   .column
     .contact-form
-      %form{ action: "https://formspree.io/#{contact_email}",
-             method: "POST" }
+      %form{ id: "contact_form", method: "POST" }
         %input{ name: "full_name", type: "text", required: "",
                 placeholder: "What is your name?", maxlength: "100" }
         %input{ name: "_replyto", type: "email", required: "",
@@ -51,3 +49,7 @@ desc: Need to get in touch? Drop us a line!
         %input{ name: "_format", style: "display:none", type: "text",
                 value: "plain" }
         %input{ type: "submit", value: "Send" }
+
+:javascript
+  const contactForm =  document.getElementById('contact_form');
+  contactForm.setAttribute('action', 'https://formspree.io/' + 'joshua' + '@' + 'ofreport' + '.' + 'com');
