@@ -1,7 +1,7 @@
 activate :directory_indexes
 
 set :relative_links, true
-set :haml, { format: :html5 }
+set :haml, format: :html5
 
 # Disable Haml warnings
 Haml::TempleEngine.disable_option_validator!
@@ -31,10 +31,10 @@ end
 
 configure :build do
   activate :external_pipeline,
-    name: :gulp,
-    command: "npm run production",
-    source: ".tmp",
-    latency: 1
+           name: :gulp,
+           command: "npm run production",
+           source: ".tmp",
+           latency: 1
 
   ignore "assets/javascripts/all.js"
   ignore "assets/stylesheets/site"

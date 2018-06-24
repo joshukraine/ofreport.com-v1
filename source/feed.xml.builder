@@ -1,8 +1,8 @@
-xml.instruct! :xml, :version => "1.0"
+xml.instruct! :xml, version: "1.0"
 xml.rss :version => "2.0", "xmlns:media" => "http://search.yahoo.com/mrss/" do
   xml.channel do
     site_url = "#{data.site.url}/"
-    content_url = "#{data.site.content_server_url}"
+    content_url = data.site.content_server_url.to_s
     xml.title data.site.title
     xml.id URI.join(site_url, blog.options.prefix.to_s)
     xml.link "href" => URI.join(site_url, blog.options.prefix.to_s)
@@ -19,12 +19,11 @@ xml.rss :version => "2.0", "xmlns:media" => "http://search.yahoo.com/mrss/" do
         xml.updated File.mtime(article.source_file).iso8601
         xml.author { xml.name feed_author_name(article.data.author) }
         if article.data.image
-          xml.tag!("media:content", {
-            "url" => URI.join(content_url, article.data.image),
-            "medium" => "image",
-            "width" => "500",
-            "type" => "image/jpg"
-          })
+          xml.tag!("media:content",
+                   "url" => URI.join(content_url, article.data.image),
+                   "medium" => "image",
+                   "width" => "500",
+                   "type" => "image/jpg")
         end
         xml.summary article.summary, "type" => "html"
         xml.content article.body, "type" => "html"
