@@ -89,7 +89,7 @@ describe CustomHelpers do
     context "when no social media handle is provided" do
       it "returns the author as a string" do
         author1 = "Fred"
-        author2 = ["Joe", "Smith"]
+        author2 = %w[Joe Smith]
 
         expect(social_link_for(author1)).to eq("Fred")
         expect(social_link_for(author2)).to eq("[\"Joe\", \"Smith\"]")

@@ -1,5 +1,5 @@
 module CustomHelpers
-  def full_title(page_title=nil, site_title)
+  def full_title(site_title, page_title = nil)
     page_title ||= ""
     if page_title.empty?
       site_title
@@ -48,28 +48,26 @@ module CustomHelpers
   end
 
   def add_visible_class(path)
-    unless !!(path =~ /index/)
-      " is-visible"
-    end
+    " is-visible" unless !!(path =~ /index/)
   end
 
   # https://robots.thoughtbot.com/organized-workflow-for-svg
   # https://gist.github.com/bitmanic/0047ef8d7eaec0bf31bb
+  # rubocop:disable Metrics/MethodLength
   def inline_svg(filename, options = {})
     root = Middleman::Application.root
     file_path = "#{root}/source/assets/images/#{filename}"
-    if File.exists?(file_path)
+    if File.exist?(file_path)
       file = File.read(file_path).force_encoding("UTF-8")
       doc = Nokogiri::HTML::DocumentFragment.parse file
       svg = doc.at_css "svg"
-      if options[:class].present?
-        svg["class"] = options[:class]
-      end
+      svg["class"] = options[:class] if options[:class].present?
       doc
     else
       "file not found: #{file_path}"
     end
   end
+  # rubocop:enable Metrics/MethodLength
 
   def article_og_desc_for(article, site_desc)
     if caption_or_desc_for(article)
