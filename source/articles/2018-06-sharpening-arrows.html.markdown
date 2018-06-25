@@ -87,7 +87,7 @@ Tolik (grey t-shirt) is one of the older guys in the class at 15. He did a great
 
 [![Description](https://d21yo20tm8bmc2.cloudfront.net/2018/looking-up-verses-550w.jpg)](https://d21yo20tm8bmc2.cloudfront.net/2018/looking-up-verses-2000w.jpg)
 {: .article-image .article-image--has-caption}
-I get tired of witnessing children searching through the Word of God. "The entrance of thy words..." (Psalms 119:130)
+I never get tired of witnessing children searching through the Word of God. "The entrance of thy words..." (Psalms 119:130)
 {: .caption-text .article-image__caption}
 
 [![Description](https://d21yo20tm8bmc2.cloudfront.net/2018/bfk-selfie-550w.jpg)](https://d21yo20tm8bmc2.cloudfront.net/2018/bfk-selfie-2000w.jpg)
@@ -117,5 +117,5 @@ Natalia is a lady in our church who has taken a particular interest in Hosanna o
 
 [![Description](https://d21yo20tm8bmc2.cloudfront.net/2018/mary-airport-550w.jpg)](https://d21yo20tm8bmc2.cloudfront.net/2018/mary-airport-2000w.jpg)
 {: .article-image .article-image--has-caption}
-A few weeks ago we had the privilege of hosting a young lady named Mary from Baltimore. She was only with us for a couple of nights, but we really hit off! Thanks for coming and blessing our family, Mary! We're looking forward to seeing you in the US. 😊
+A few weeks ago we had the privilege of hosting a young lady named Mary from Baltimore. She was only with us for a couple of nights, but we really hit it off! Thanks for coming and blessing our family, Mary! We're looking forward to seeing you in the US. 😊
 {: .caption-text .article-image__caption}
