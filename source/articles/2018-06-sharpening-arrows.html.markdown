@@ -95,6 +95,16 @@ I never get tired of witnessing children searching through the Word of God. "The
 Selfie time!
 {: .caption-text .article-image__caption}
 
+[![Description](https://d21yo20tm8bmc2.cloudfront.net/2018/ge-page-68-uk-550h.jpg)](https://d21yo20tm8bmc2.cloudfront.net/2018/ge-page-68-uk-2000h.jpg)
+{: .article-image .article-image--has-caption}
+Page 68 of Good and Evil in Ukrainian.
+{: .caption-text .article-image__caption}
+
+[![Description](https://d21yo20tm8bmc2.cloudfront.net/2018/ge-page-69-uk-550h.jpg)](https://d21yo20tm8bmc2.cloudfront.net/2018/ge-page-69-uk-2000h.jpg)
+{: .article-image .article-image--has-caption}
+Page 69 of Good and Evil in Ukrainian.
+{: .caption-text .article-image__caption}
+
 [![Description](https://d21yo20tm8bmc2.cloudfront.net/2018/at-vlad-and-martas-550w.jpg)](https://d21yo20tm8bmc2.cloudfront.net/2018/at-vlad-and-martas-1500w.jpg)
 {: .article-image .article-image--has-caption}
 Pastor Vladyslav Medyakovskiy and his wife Marta are dear friends of ours. They have five children, many of whom are close in age to ours. Recently they invited us out to their home for dinner and fellowship.
