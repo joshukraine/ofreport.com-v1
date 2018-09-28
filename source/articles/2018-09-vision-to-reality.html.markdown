@@ -15,7 +15,7 @@ caption: "After more than a year of work on translation, graphics, editing, and 
 
 ---
 
-For some of our readers, the completion of *Good and Evil* in Ukrainian may already be old news. 5,000 books were delivered to our office in L’viv on August 23rd, and shortly thereafter we published an announcement on the ETO blog. ([You can read that here.](https://euroteamoutreach.org/blog/2018/08/delivered/){: target="_blank"}) But as you may have guessed, there is more to tell.
+For some of our readers, the completion of *Good and Evil* in Ukrainian may already be old news. 5,000 books were delivered to our office in L'viv on August 23rd, and shortly thereafter we published an announcement on the ETO blog. ([You can read that here.](https://euroteamoutreach.org/blog/2018/08/delivered/){: target="_blank"}) But as you may have guessed, there is more to tell.
 
 READMORE
 
@@ -31,14 +31,14 @@ The color edition of Good and Evil in Ukrainian is here!
 A case of 20 Good and Evil books
 {: .caption-text .article-image__caption}
 
-On July 5, just before CMO began, we launched a new Ukrainian-language web site where people can go to request a free copy of the book. (Check out [dobroizlo.com.ua](https://dobroizlo.com.ua/){: target="_blank"} if you’re curious.) As of this writing, we’ve received 191 requests — an average of over two requests every day!
+On July 5, just before CMO began, we launched a new Ukrainian-language web site where people can go to request a free copy of the book. (Check out [dobroizlo.com.ua](https://dobroizlo.com.ua/){: target="_blank"} if you're curious.) As of this writing, we've received 191 requests — an average of over two requests every day!
 
 [![Description](https://d21yo20tm8bmc2.cloudfront.net/2018/dobro-zlo-site-550w.jpg)](https://dobroizlo.com.ua/){: target="blank"}
 {: .article-image .article-image--has-caption .article-image--has-border}
 Any Ukrainian may receive a copy of *Good and Evil* free of charge simply by submitting a request through our web site: <a href="https://dobroizlo.com.ua" target="_blank">https://dobroizlo.com.ua</a>
 {: .caption-text .article-image__caption}
 
-All this means a lot of work in the mail room for our team member, Denise Hutchison. In addition to all her work sending and receiving *Bible First* lessons, she’s now shipping out dozens of *Good and Evil* books. Since their delivery in August, we’ve sent between 50-60 books, and more are in the pipeline!
+All this means a lot of work in the mail room for our team member, Denise Hutchison. In addition to all her work sending and receiving *Bible First* lessons, she's now shipping out dozens of *Good and Evil* books. Since their delivery in August, we've sent between 50-60 books, and more are in the pipeline!
 
 [![Description](https://d21yo20tm8bmc2.cloudfront.net/2018/ready-to-mail-550w.jpg)](https://d21yo20tm8bmc2.cloudfront.net/2018/ready-to-mail-2000w.jpg)
 {: .article-image .article-image--has-caption}
@@ -54,11 +54,11 @@ I recently gave a copy of Good and Evil to every family represented in my Bible 
 
 ### Our Trip to America
 
-We’re here! After a long, but otherwise smooth series of flights, our family landed in Houston on September 1. We were greeted with warm smiles and hugs from Kelsie’s folks who kindly picked us up at the airport. For the past few weeks, we’ve been enjoying a sweet time of fellowship in their home.
+We're here! After a long, but otherwise smooth series of flights, our family landed in Houston on September 1. We were greeted with warm smiles and hugs from Kelsie's folks who kindly picked us up at the airport. For the past few weeks, we've been enjoying a sweet time of fellowship in their home.
 
-As I write this report, we are just days away from our [Big East Road Trip](https://ofreport.com/2018/02/coming-to-america/){: target="_blank"}, during which we’ll visit the Ark Encounter and Creation Museum in Kentucky. We also plan to see several other people along our route, and then head to Family Camp in Big Sandy. After Family Camp, we’ll transition up to Fort Worth to visit my family. We’ll be returning to Ukraine in mid-December, just before the Christmas holidays.
+As I write this report, we are just days away from our [Big East Road Trip](https://ofreport.com/2018/02/coming-to-america/){: target="_blank"}, during which we'll visit the Ark Encounter and Creation Museum in Kentucky. We also plan to see several other people along our route, and then head to Family Camp in Big Sandy. After Family Camp, we'll transition up to Fort Worth to visit my family. We'll be returning to Ukraine in mid-December, just before the Christmas holidays.
 
-Time in the US is always refreshing but at the same time a challenge. The little ones especially struggle with the changes and lack of routine. Everything is new and different from the world they’re used to in Ukraine. Just the other day, after spending some time at a playground here in Houston, Kathryn came up to me and proclaimed excitedly, “Daddy, I met a little girl at the playground and she spoke to me in English!” 😁 Please pray that God would give strength and rest as we try to make the most of our time here.
+Time in the US is always refreshing but at the same time a challenge. The little ones especially struggle with the changes and lack of routine. Everything is new and different from the world they're used to in Ukraine. Just the other day, after spending some time at a playground here in Houston, Kathryn came up to me and proclaimed excitedly, “Daddy, I met a little girl at the playground and she spoke to me in English!” 😁 Please pray that God would give strength and rest as we try to make the most of our time here.
 
 [![Description](https://d21yo20tm8bmc2.cloudfront.net/2018/kids-minivan-550w.jpg)](https://d21yo20tm8bmc2.cloudfront.net/2018/kids-minivan-2000w.jpg)
 {: .article-image .article-image--has-caption}
@@ -82,7 +82,7 @@ From my Bible First Kids class: Bohdan just finished memorizing the Matthew 5, 6
 
 ### CMO 2018 Recap
 
-After taking a season off in 2017, CMO came back with a bang in 2018! There’s a lot to tell — more than we have room for here. We had an outstanding team of men, and God blessed the advancement of His Gospel. If you’d like to learn more, please check out my recent post over on ETO’s blog: [CMO 2018 Recap](https://euroteamoutreach.org/blog/2018/09/cmo-recap){: target="_blank"}.
+After taking a season off in 2017, CMO came back with a bang in 2018! There's a lot to tell — more than we have room for here. We had an outstanding team of men, and God blessed the advancement of His Gospel. If you'd like to learn more, please check out my recent post over on ETO's blog: [CMO 2018 Recap](https://euroteamoutreach.org/blog/2018/09/cmo-recap){: target="_blank"}.
 
 [![Description](https://d21yo20tm8bmc2.cloudfront.net/2018/cmo-2018-showing-550w.jpg)](https://d21yo20tm8bmc2.cloudfront.net/2018/cmo-2018-showing-2000w.jpg)
 {: .article-image .article-image--has-caption}
