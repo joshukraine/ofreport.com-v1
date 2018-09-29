@@ -67,7 +67,7 @@ Strapped in and ready to roll! God has graciously provided us with a leased mini
 
 [![Description](https://d21yo20tm8bmc2.cloudfront.net/2018/with-villenueves-550w.jpg)](https://d21yo20tm8bmc2.cloudfront.net/2018/with-villenueves-2000w.jpg)
 {: .article-image .article-image--has-caption}
-One of the highlights of our trip so far was our visit with the Villenueve family. Ralph Villenueve came to Ukraine in the summer of 2017, and he's been working with our ministry remotely ever since! The Villenueve's are from Quebec, and they drove down to Houston to meet us last week. Stay tuned for more news about this amazing family in future posts. And in case you haven't already, be sure to take a few minutes to <a href="https://ofreport.com/2017/08/meet-ralph/" target="_blank" style="white-space: nowrap">Meet Ralph</a>.
+One of the highlights of our trip so far was our visit with the Villenueve family. Ralph Villenueve came to Ukraine in the summer of 2017, and he's been working with our ministry remotely ever since! The Villenueves are from Quebec, and they drove down to Houston to meet us last week. Stay tuned for more news about this amazing family in future posts. And in case you haven't already, be sure to take a few minutes to <a href="https://ofreport.com/2017/08/meet-ralph/" target="_blank" style="white-space: nowrap">Meet Ralph</a>.
 {: .caption-text .article-image__caption}
 
 [![Description](https://d21yo20tm8bmc2.cloudfront.net/2018/josh-kels-2018-anniversary-550w.jpg)](https://d21yo20tm8bmc2.cloudfront.net/2018/josh-kels-2018-anniversary-2000w.jpg)
@@ -77,7 +77,7 @@ On September 18, Kelsie and I celebrated our 14th anniversary!
 
 [![Description](https://d21yo20tm8bmc2.cloudfront.net/2018/josh-bohdan-sermon-mount-550w.jpg)](https://d21yo20tm8bmc2.cloudfront.net/2018/josh-bohdan-sermon-mount-2000w.jpg)
 {: .article-image .article-image--has-caption}
-From my Bible First Kids class: Bohdan just finished memorizing the Matthew 5, 6, and 7 — the entire Sermon on  the Mount!
+From my Bible First Kids class: Bohdan just finished memorizing Matthew 5, 6, and 7 — the entire Sermon on  the Mount!
 {: .caption-text .article-image__caption}
 
 ### CMO 2018 Recap
