@@ -1,7 +1,7 @@
 ---
 
 title: "Vision To Reality"
-date: "2018-09-28"
+date: "2018-09-30"
 tags:
 - newsletter
 - good and evil
