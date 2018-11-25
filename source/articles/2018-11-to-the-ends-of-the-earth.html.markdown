@@ -6,9 +6,9 @@ tags:
 - tag1
 - tag2
 author: "Raphaël Villeneuve"
-image: "/2018/image-name.jpg"
-image_lg: "/2018/image-name.jpg"
-caption: "CAPTION TEXT HERE"
+image: "/2018/villeneuve-family-1200w.jpg"
+image_lg: "/2018/villeneuve-family-2000w.jpg"
+caption: "The Villeneuve Family, fall 2018. From the left: Dominic, Danièle, Matthew, Ralph"
 
 ---
 
