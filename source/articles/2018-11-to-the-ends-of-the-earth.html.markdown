@@ -37,20 +37,3 @@ A tremendous number of people die each day, and you can be sure that the vast ma
 Jesus' final order to us before he left the Earth was to preach the Gospel and train disciples which in turn, will do the same thing. That way, the Gospel will spread like wildfire; it is exponential. Of course, not everyone will accept the perfect gift of salvation, but we must know that it is God who ultimately saves, we are just the messengers. Our job is to share the Gospel with as many as we can, and only God can do the rest. Is it going to be easy? Absolutely not. We may be mocked, ridiculed, persecuted, and for some, martyred. But we are not the ones they reject; they reject God. Hebrews 11 speaks about the heroes of the faith, and it is an amazing chapter ([go read it now](https://biblia.com/books/kjv1900/Heb11)).
 
 And let me tell you, everyone that I ever heard that followed God's will to the ends of the Earth (figuratively speaking or not) never regretted it. Neither have I. When you walk in His steps, you can be at peace knowing you are in the right place doing the right thing. The time is short, and we must make the most of it for the Lord. If you choose to follow and obey Him, he will give you the strength and resources you need. Are you up to the task?
-
-
-[![Description](https://d21yo20tm8bmc2.cloudfront.net/2018/SM)](https://d21yo20tm8bmc2.cloudfront.net/2018/LG)
-{: .article-image .article-image--has-caption}
-My caption text.
-{: .caption-text .article-image__caption}
-
-[![Description](https://d21yo20tm8bmc2.cloudfront.net/2018/SM)](https://d21yo20tm8bmc2.cloudfront.net/2018/LG)
-{: .article-image .article-image--has-caption}
-My caption text.
-{: .caption-text .article-image__caption}
-
-[![Description](https://d21yo20tm8bmc2.cloudfront.net/2018/SM)](https://d21yo20tm8bmc2.cloudfront.net/2018/LG)
-{: .article-image}
-
-[![Description](https://d21yo20tm8bmc2.cloudfront.net/2018/SM)](https://d21yo20tm8bmc2.cloudfront.net/2018/LG)
-{: .article-image}
