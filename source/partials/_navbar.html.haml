@@ -1,9 +1,0 @@
-%header{ class: "navbar#{add_visible_class(current_page.path)}" }
-  .navbar__wrapper.container
-    .navbar__inner.column
-      .navbar__left
-        = link_to "/", class: "navbar-logo" do
-          = inline_svg "ofr-logo-2017.svg", class: "navbar-logo__svg"
-      %nav.navbar__right
-        %ul.navbar__links
-          = partial "partials/nav_links"

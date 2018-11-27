@@ -1,54 +1,27 @@
 {
-  "name": "middleman-gulp",
-  "version": "2.2.0",
-  "description": "A Middleman 4 template using Gulp.js",
-  "author": "Joshua Steele <joshukraine@gmail.com>",
-  "homepage": "https://jsua.co/mm-gulp",
-  "license": "MIT",
-  "keywords": [
-    "middleman",
-    "gulp"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/joshukraine/middleman-gulp.git"
-  },
-  "bugs": {
-    "url": "https://github.com/joshukraine/middleman-gulp/issues"
-  },
+  "name": "OFReport.com",
+  "version": "2.0.0",
+  "description": "Our family blog, documenting our work in Ukraine.",
+  "author": "Joshua Steele",
+  "private": true,
   "scripts": {
-    "development": "NODE_ENV=development gulp default",
-    "production": "NODE_ENV=production gulp production"
-  },
-  "devDependencies": {
-    "browser-sync": "^2.23.6",
-    "browserify": "^16.1.1",
-    "del": "^3.0.0",
-    "gulp": "^3.9.1",
-    "gulp-autoprefixer": "^5.0.0",
-    "gulp-changed": "^3.2.0",
-    "gulp-clean-css": "^3.9.3",
-    "gulp-environments": "^0.1.2",
-    "gulp-imagemin": "^4.1.0",
-    "gulp-load-plugins": "^1.5.0",
-    "gulp-sass": "^3.1.0",
-    "gulp-sizereport": "^1.2.0",
-    "gulp-sourcemaps": "^2.6.4",
-    "gulp-strip-debug": "^3.0.0",
-    "gulp-uglify": "^3.0.0",
-    "gulp-util": "^3.0.8",
-    "run-sequence": "^2.2.1",
-    "vinyl-buffer": "^1.0.1",
-    "vinyl-source-stream": "^2.0.0"
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "precommit": "npm run lint"
   },
   "dependencies": {
-    "bourbon": "^5.0.0",
-    "bourbon-neat": "^2.1.0",
-    "jquery": "^3.3.1",
-    "moment": "^2.21.0",
-    "webfontloader": "^1.6.28"
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.0.0",
+    "@nuxtjs/axios": "^5.0.0"
   },
-  "engines": {
-    "node": ">= 8.11.3"
+  "devDependencies": {
+    "nodemon": "^1.11.0",
+    "babel-eslint": "^8.2.1",
+    "eslint": "^5.0.1",
+    "eslint-loader": "^2.0.0",
+    "eslint-plugin-vue": "^4.0.0"
   }
 }

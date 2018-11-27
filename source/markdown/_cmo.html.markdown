@@ -1,1 +1,0 @@
-Carpathian Mountain Outreach (CMO) is a short-term missions project hosted every summer by our team in Ukraine. The goal of this project is two-fold: to preach the Gospel in Ukraine and to train young men in foreign missions.
