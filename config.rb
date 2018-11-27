@@ -16,6 +16,8 @@ set :css_dir, "assets/stylesheets"
 set :images_dir, "assets/images"
 set :js_dir, "assets/javascripts"
 
+Time.zone = "Central Time (US & Canada)"
+
 activate :blog do |blog|
   blog.permalink = "{year}/{month}/{title}.html"
   blog.sources = "articles/{year}-{month}-{title}.html"
