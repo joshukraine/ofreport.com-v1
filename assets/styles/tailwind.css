@@ -2,6 +2,9 @@
 
 @import "tailwindcss/preflight";
 @import "tailwindcss/components";
+
+@import "components/base.css";
+
 @import "tailwindcss/utilities";
 
 /**
