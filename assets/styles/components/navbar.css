@@ -26,8 +26,38 @@
 }
 
 .nav-link {
-  @apply relative my-4 text-3xl text-white font-header font-bold no-underline;
-  transition: color 150ms ease;
+  @apply relative mb-8 pb-8 leading-none text-3xl text-white font-header font-bold no-underline;
+  display: inline-block;
+  opacity: 0;
+}
+
+.nav-link:not(:last-of-type) {
+  border-bottom: 1px solid #fff;
+}
+
+.nav-link-fadein {
+  opacity: 1;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.nav-link-1 {
+  transition-delay: 0.1s;
+}
+
+.nav-link-2 {
+  transition-delay: 0.14s;
+}
+
+.nav-link-3 {
+  transition-delay: 0.18s;
+}
+
+.nav-link-4 {
+  transition-delay: 0.22s;
+}
+
+.nav-link-5 {
+  transition-delay: 0.26s;
 }
 
 /* 'sm' breakpoint */
@@ -80,7 +110,11 @@
   }
 
   .nav-link {
-    @apply text-xl ml-8 text-grey-dark;
+    @apply mb-0 pb-0 text-xl ml-8 text-grey-dark;
+    border: none;
+    display: initial;
+    opacity: 1;
+    transition: color 150ms ease;
   }
 
   .nav-link:hover {
