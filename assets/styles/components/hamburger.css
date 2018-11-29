@@ -13,7 +13,7 @@
   padding: 0;
   right: 0;
   text-indent: -9999px;
-  width: 5rem;
+  width: 4rem;
   z-index: 40;
 }
 
@@ -29,7 +29,7 @@
   display: block;
   height: 4px;
   position: absolute;
-  right: 1rem;
+  right: 0;
   transition: transform 0.1s ease-in-out, margin-top 0.1s ease-in-out 0.1s;
   width: 2.2rem;
 }
