@@ -1,7 +1,7 @@
 <template lang="pug">
 header.nav-header
-  div.container.flex.justify-between.items-center.border.border-green
-    nuxt-link.logo.mt-4(to="/")
+  div.container.flex.justify-between.items-center
+    nuxt-link.logo.mt-3(to="/")
       img(src="~/assets/images/ofr-logo.svg")
     button.nav-button(@click="isActive = !isActive") MENU
     nav.nav-menu(:class="{ 'reveal-nav': isActive }")
@@ -27,6 +27,7 @@ export default{
 .logo {
   display: block;
   max-width: 200px;
+  min-width: 180px;
 }
 
 </style>
