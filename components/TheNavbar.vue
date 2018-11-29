@@ -1,14 +1,14 @@
 <template lang="pug">
 header.bg-white
-  div.container.py-8.border.border-green.flex.justify-between.items-center
-    nuxt-link.logo(to="/")
+  div.container.py-4.flex.justify-between.items-center
+    nuxt-link.logo.mt-4(to="/")
       img(src="~/assets/images/ofr-logo.svg")
-    nav.border.border-blue
-      nuxt-link.ml-6(to="#") Family
-      nuxt-link.ml-6(to="#") Ministry
-      nuxt-link.ml-6(to="#") Archives
-      nuxt-link.ml-6(to="#") Contact
-      nuxt-link.ml-6(to="#") Donate
+    nav
+      nuxt-link.nav-link(to="#") Family
+      nuxt-link.nav-link(to="#") Ministry
+      nuxt-link.nav-link(to="#") Archives
+      nuxt-link.nav-link(to="#") Contact
+      nuxt-link.nav-link(to="#") Donate
 </template>
 
 <script>

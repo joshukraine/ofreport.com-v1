@@ -1,0 +1,9 @@
+.nav-link {
+  @apply .ml-8 .text-xl .text-grey-dark .font-header .font-bold .no-underline;
+  transition: color 150ms ease;
+}
+
+.nav-link:hover {
+  @apply .text-ofr-blue;
+  transition: color 150ms ease;
+}
