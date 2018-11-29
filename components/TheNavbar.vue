@@ -1,9 +1,10 @@
 <template lang="pug">
 header.nav-header
-  div.container.flex.justify-between.items-center
+  div.container.flex.justify-between.items-center(:class="{ 'open-nav': isActive }")
     nuxt-link.logo.mt-3(to="/")
       img(src="~/assets/images/ofr-logo.svg")
-    button.nav-button(@click="isActive = !isActive") MENU
+    div.relative
+      button.border.border-red.hamburger(@click="isActive = !isActive") MENU
     nav.nav-menu(:class="{ 'reveal-nav': isActive }")
       div.nav-link-wrapper
         nuxt-link.nav-link(to="#") Family
@@ -27,7 +28,7 @@ export default{
 .logo {
   display: block;
   max-width: 200px;
-  min-width: 180px;
+  min-width: 160px;
 }
 
 </style>

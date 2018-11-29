@@ -4,6 +4,7 @@
 @import "tailwindcss/components";
 
 @import "components/base.css";
+@import "components/hamburger.css";
 @import "components/navbar.css";
 @import "components/typography.css";
 

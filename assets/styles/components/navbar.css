@@ -46,7 +46,7 @@
 
 /* 'lg' breakpoint */
 @media (min-width: 992px) {
-  .nav-button {
+  .hamburger {
     display: none;
   }
 
