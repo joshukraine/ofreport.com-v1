@@ -11,10 +11,14 @@ header.nav-header.fixed.w-full.bg-white.flex.items-stretch
         nuxt-link.nav-link(
           :class="{ 'nav-link-fadein nav-link-1': isActive }"
           to="#") Family
-        nuxt-link.nav-link(:class="{ 'nav-link-fadein nav-link-2': isActive }" to="#") Ministry
-        nuxt-link.nav-link(:class="{ 'nav-link-fadein nav-link-3': isActive }" to="#") Archives
-        nuxt-link.nav-link(:class="{ 'nav-link-fadein nav-link-4': isActive }" to="#") Contact
-        nuxt-link.nav-link(:class="{ 'nav-link-fadein nav-link-5': isActive }" to="#") Donate
+        nuxt-link.nav-link(
+          :class="{ 'nav-link-fadein nav-link-2': isActive }" to="#") Ministry
+        nuxt-link.nav-link(
+          :class="{ 'nav-link-fadein nav-link-3': isActive }" to="#") Archives
+        nuxt-link.nav-link(
+          :class="{ 'nav-link-fadein nav-link-4': isActive }" to="#") Contact
+        nuxt-link.nav-link(
+          :class="{ 'nav-link-fadein nav-link-5': isActive }" to="#") Donate
 </template>
 
 <script>
