@@ -1,0 +1,58 @@
+.hamburger{
+  appearance: none;
+  background-color: transparent;
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
+  cursor: pointer;
+  display: flex;
+  font-size: 0;
+  height: 4rem;
+  margin: 0;
+  overflow: hidden;
+  padding: 0;
+  right: 0;
+  text-indent: -9999px;
+  width: 4rem;
+  z-index: 40;
+}
+
+.hamburger:focus{
+  outline: 0;
+}
+
+.hamburger::after,
+.hamburger::before{
+  @apply bg-grey-dark;
+  border-radius: 4px;
+  content: "";
+  display: block;
+  height: 4px;
+  position: absolute;
+  right: 0;
+  transition: transform 0.1s ease-in-out, margin-top 0.1s ease-in-out 0.1s;
+  width: 2.2rem;
+}
+
+.hamburger::before{
+  margin-top: -0.6rem;
+}
+
+.hamburger::after{
+  margin-top: 0.3rem;
+}
+
+.open-nav .hamburger::after,
+.open-nav .hamburger::before{
+  transition: transform 0.1s ease-in-out 0.1s, margin-top 0.1s ease-in-out;
+}
+
+.open-nav .hamburger::before{
+  margin-top: 0;
+  transform: rotate(45deg);
+}
+
+.open-nav .hamburger::after{
+  margin-top: 0;
+  transform: rotate(-45deg);
+}

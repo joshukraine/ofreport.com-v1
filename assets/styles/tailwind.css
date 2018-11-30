@@ -2,6 +2,11 @@
 
 @import "tailwindcss/preflight";
 @import "tailwindcss/components";
+
+@import "components/base.css";
+@import "components/hamburger.css";
+@import "components/typography.css";
+
 @import "tailwindcss/utilities";
 
 /**
