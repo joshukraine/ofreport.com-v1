@@ -1,0 +1,6 @@
+# www.robotstxt.org/
+
+User-agent: *
+Disallow: /contact/thanks/
+
+Sitemap: https://ofreport.com/sitemap.xml
