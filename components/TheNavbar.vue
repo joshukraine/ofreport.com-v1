@@ -44,7 +44,7 @@ export default{
 .nav-menu {
   @apply absolute bg-ofr-blue h-screen w-full overflow-y-scroll;
   left: 100%;
-  padding-bottom: 100px;
+  padding-bottom: 80px;
   top: 80px;
   transition: transform 0.2s ease-in-out;
 }
@@ -58,7 +58,7 @@ export default{
 }
 
 .nav-link {
-  @apply relative mb-8 pb-8 leading-none text-3xl text-white font-header font-bold no-underline;
+  @apply relative mb-8 pb-8 leading-none text-2xl text-white font-header font-bold no-underline;
   display: inline-block;
   opacity: 0;
 }
@@ -109,6 +109,10 @@ export default{
 @media (min-width: 768px) {
   .nav-link-wrapper {
     max-width: 768px;
+  }
+
+  .nav-link {
+    @apply text-3xl;
   }
 }
 
