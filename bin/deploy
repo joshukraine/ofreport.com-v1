@@ -1,0 +1,60 @@
+#!/usr/bin/env bash
+
+set -e
+ENV="$1"
+aws_cmd=$(command -v aws)
+yarn_cmd=$(command -v yarn)
+build_dir="dist"
+
+if [[ $# -ne 1 ]]; then
+  echo "Please specify an environment."
+  exit 1
+else
+  if [[ "$ENV" =~ ^production$ ]]; then
+    echo "Sorry, not ready for production yet."
+    exit 1
+
+    # read -p "You are about to deploy to production. Are you sure? (y/n) " -n 1 -r
+    # echo    # move to a new line
+    # if [[ "$REPLY" =~ ^[Yy]$ ]]; then
+    #   printf "\\n--> Setting up robots.txt for PRODUCTION environment...\\n"
+    #   if [ -f static/robots.txt ]; then
+    #     rm static/robots.txt
+    #   fi
+    #   cp -vf robots-prod.txt static/robots.txt
+    #
+    #   printf "\\n--> Generating static site files -> %s/...\\n" "$build_dir"
+    #   APP_ENV=$ENV $yarn_cmd generate
+    #
+    #   printf "\\n--> Syncing to s3://ofreport.com..."
+    #   $aws_cmd s3 sync "$build_dir"/ s3://ofreport.com/ --delete --exclude "*DS_Store" --acl=public-read
+    #
+    #   printf "\\n--> Deploy complete!"
+    #   printf "\\n--> http://ofreport.com.s3-website-us-east-1.amazonaws.com/\\n"
+    # fi
+  else
+    printf "\\n--> Setting up robots.txt for non-production environment...\\n"
+    if [ -f static/robots.txt ]; then
+      rm static/robots.txt
+    fi
+    cp -vf robots-dev.txt static/robots.txt
+
+    printf "\\n--> Generating static site files -> %s/...\\n" "$build_dir"
+    APP_ENV=$ENV $yarn_cmd generate
+
+    printf "\\n--> Syncing to s3://%s.ofreport.com...\\n" "$ENV"
+    $aws_cmd s3 sync "$build_dir"/ s3://"$ENV".ofreport.com/ --delete --exclude "*DS_Store" --acl=public-read
+
+    printf "\\n--> Deploy complete!"
+    printf "\\n--> http://%s.ofreport.com.s3-website-us-east-1.amazonaws.com/\\n" "$ENV"
+  fi
+
+  printf "\\n--> Here is the contents of your robots.txt file: (%s/robots.txt)\\n" "$build_dir"
+  echo "----------------------------"
+  cat $build_dir/robots.txt
+  echo "----------------------------"
+fi
+
+# Production bucket: http://ofreport.com.s3-website-us-east-1.amazonaws.com/
+# Staging bucket: http://staging.ofreport.com.s3-website-us-east-1.amazonaws.com/
+# v2-nuxt bucket: http://v2-nuxt.ofreport.com.s3-website-us-east-1.amazonaws.com/

@@ -79,3 +79,7 @@ dist
 
 # IDE
 .idea
+
+# Static stuff
+static/robots.txt
+static/sitemap*
