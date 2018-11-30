@@ -73,23 +73,23 @@ export default{
 }
 
 .nav-link-1 {
-  transition-delay: 0.1s;
+  transition-delay: 0.08s;
 }
 
 .nav-link-2 {
-  transition-delay: 0.14s;
+  transition-delay: 0.12s;
 }
 
 .nav-link-3 {
-  transition-delay: 0.18s;
+  transition-delay: 0.16s;
 }
 
 .nav-link-4 {
-  transition-delay: 0.22s;
+  transition-delay: 0.2s;
 }
 
 .nav-link-5 {
-  transition-delay: 0.26s;
+  transition-delay: 0.24s;
 }
 
 /* 'sm' breakpoint */
