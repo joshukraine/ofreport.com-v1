@@ -1,0 +1,17 @@
+.btn {
+  @apply font-header font-semibold py-2 px-4 rounded-full;
+}
+
+.btn-lg {
+  @apply py-3 px-5 text-lg;
+}
+
+.btn-blue {
+  @apply bg-ofr-blue text-white;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.btn-blue:hover {
+  @apply bg-ofr-blue-lighter;
+  transition: background-color 0.2s ease-in-out;
+}

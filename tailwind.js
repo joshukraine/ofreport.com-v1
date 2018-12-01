@@ -45,6 +45,8 @@ let colors = {
   'transparent': 'transparent',
 
   'ofr-blue': '#0072c0',
+  'ofr-blue-darker': '#005590',
+  'ofr-blue-lighter': '#109efe',
 
   'black': '#22292f',
   'grey-darkest': '#3d4852',
