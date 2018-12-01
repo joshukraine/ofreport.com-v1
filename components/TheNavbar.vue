@@ -38,14 +38,14 @@ export default{
 }
 
 .nav-header {
-  height: 80px;
+  height: 5rem;
 }
 
 .nav-menu {
   @apply absolute bg-ofr-blue h-screen w-full overflow-y-scroll;
   left: 100%;
-  padding-bottom: 80px;
-  top: 80px;
+  padding-bottom: 5rem;
+  top: 5rem;
   transition: transform 0.2s ease-in-out;
 }
 
@@ -127,7 +127,7 @@ export default{
   }
 
   .nav-header {
-    height: 100px;
+    height: 6rem;
   }
 
   .nav-menu {

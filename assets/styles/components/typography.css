@@ -1,5 +1,5 @@
 body {
-  @apply .font-sans .font-normal .leading-normal;
+  @apply font-sans font-normal leading-normal;
 }
 
 h1,
@@ -8,5 +8,5 @@ h3,
 h4,
 h5,
 h6 {
-  @apply .font-header .font-bold;
+  @apply font-header font-bold;
 }
