@@ -10,7 +10,7 @@ header.nav-header.fixed.w-full.bg-white.flex.items-stretch
       div.nav-link-wrapper
         nuxt-link.nav-link(
           :class="{ 'nav-link-fadein nav-link-1': isActive }"
-          to="#") Family
+          to="/family") Family
         nuxt-link.nav-link(
           :class="{ 'nav-link-fadein nav-link-2': isActive }" to="#") Ministry
         nuxt-link.nav-link(

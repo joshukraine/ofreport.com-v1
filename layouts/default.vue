@@ -1,7 +1,8 @@
 <template lang="pug">
 div
   TheNavbar/
-  nuxt/
+  main.pt-20(class="lg:pt-24")
+    nuxt/
 </template>
 
 <script>

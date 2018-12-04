@@ -35,14 +35,14 @@ module.exports = {
   ** Plugins to load before mounting the App
   */
   plugins: [
+    '~/plugins/components'
   ],
 
   /*
   ** Nuxt.js modules
   */
   modules: [
-    // Doc: https://github.com/nuxt-community/axios-module#usage
-    '@nuxtjs/axios'
+    ['storyblok-nuxt', { accessToken: 'oPmh2fB9f8V3ePNGF26neQtt', cacheProvider: 'memory' }]
   ],
   /*
   ** Axios module configuration

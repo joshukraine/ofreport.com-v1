@@ -31,7 +31,8 @@
   "dependencies": {
     "@nuxtjs/axios": "^5.0.0",
     "cross-env": "^5.2.0",
-    "nuxt": "^2.0.0"
+    "nuxt": "^2.0.0",
+    "storyblok-nuxt": "^0.0.9"
   },
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^1.1.0",
