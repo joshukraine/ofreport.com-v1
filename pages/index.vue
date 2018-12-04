@@ -1,15 +1,38 @@
 <template lang="pug">
-div.pt-20(class="lg:pt-24")
-  // Alpha Section
-  section.alpha.bg-cover.bg-top.flex.items-center(class="md:bg-left lg:bg-top")
-    .container.pb-10(class="sm:pb-0 md:py-32")
-      .flex.justify-end.pt-24(class="sm:pt-32 md:pt-0 lg:px-10")
-        .text-center.px-8(class="md:w-2/5 md:px-0")
-          img(class="sm:w-4/5 md:w-full" src="~assets/images/joshua-and-kelsie.svg")
-          p.text-white.font-header.mb-8(class="md:mb-12") Est. 2004
-          p.text-white.font-header.mb-8(class="sm:text-xl md:mb-12") We live in Ukraine where we strive to tell others about God's gift of eternal life through Jesus Christ.
-          button.btn.btn-lg.btn-blue Meet our Family
+div
+  component(
+    v-if="story.content.component"
+    :key="story.content._uid"
+    :blok="story.content"
+    :is="story.content.component")
 </template>
+
+<script>
+import storyblokLivePreview from '@/mixins/storyblokLivePreview'
+
+export default {
+  mixins: [
+    storyblokLivePreview
+  ],
+  data () {
+    return { story: { content: {} } }
+  },
+  asyncData (context) {
+    // Check if we are in the editor mode
+    let version = context.query._storyblok || context.isDev ? 'draft' : 'published'
+
+    // Load the JSON from the API
+    return context.app.$storyapi.get('cdn/stories/home', {
+      version: version
+    }).then((res) => {
+      console.log(res.data)
+      return res.data
+    }).catch((res) => {
+      context.error({ statusCode: res.response.status, message: res.response.data })
+    })
+  }
+}
+</script>
 
 <style>
 .alpha {
