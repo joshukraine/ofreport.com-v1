@@ -1,24 +1,23 @@
 <template lang="pug">
-header.nav-header.fixed.w-full.bg-white.flex.items-stretch
-  div.container.flex.justify-between.items-center(
-    :class="{ 'open-nav': isActive }")
-    nuxt-link.logo.block.mt-3(to="/")
-      img(src="~/assets/images/ofr-logo.svg")
-    div.relative
-      button.hamburger(@click="isActive = !isActive") MENU
-    nav.nav-menu.pt-8.px-4(class="lg:pt-0" :class="{ 'reveal-nav': isActive }")
-      div.nav-link-wrapper
-        nuxt-link.nav-link(
-          :class="{ 'nav-link-fadein nav-link-1': isActive }"
-          to="/family") Family
-        nuxt-link.nav-link(
-          :class="{ 'nav-link-fadein nav-link-2': isActive }" to="#") Ministry
-        nuxt-link.nav-link(
-          :class="{ 'nav-link-fadein nav-link-3': isActive }" to="#") Archives
-        nuxt-link.nav-link(
-          :class="{ 'nav-link-fadein nav-link-4': isActive }" to="#") Contact
-        nuxt-link.nav-link(
-          :class="{ 'nav-link-fadein nav-link-5': isActive }" to="#") Donate
+header.nav-header.fixed.w-full.bg-white.flex.px-4.justify-between.items-center(
+  class="lg:px-6" :class="{ 'open-nav': isActive }")
+  nuxt-link.logo.block.mt-3(to="/")
+    img(src="~/assets/images/ofr-logo.svg")
+  div.relative
+    button.hamburger(@click="isActive = !isActive") MENU
+  nav.nav-menu.pt-8.px-4(class="lg:pt-0" :class="{ 'reveal-nav': isActive }")
+    div.nav-link-wrapper
+      nuxt-link.nav-link(
+        :class="{ 'nav-link-fadein nav-link-1': isActive }"
+        to="/family") Family
+      nuxt-link.nav-link(
+        :class="{ 'nav-link-fadein nav-link-2': isActive }" to="#") Ministry
+      nuxt-link.nav-link(
+        :class="{ 'nav-link-fadein nav-link-3': isActive }" to="#") Archives
+      nuxt-link.nav-link(
+        :class="{ 'nav-link-fadein nav-link-4': isActive }" to="#") Contact
+      nuxt-link.nav-link(
+        :class="{ 'nav-link-fadein nav-link-5': isActive }" to="#") Donate
 </template>
 
 <script>
@@ -99,7 +98,6 @@ export default{
   }
 
   .nav-link-wrapper {
-    @apply px-4;
     margin: 0 auto;
     max-width: 576px;
   }
@@ -142,7 +140,7 @@ export default{
   }
 
   .nav-link-wrapper {
-    @apply p-4 flex flex-row;
+    @apply py-4 flex flex-row;
   }
 
   .nav-link:not(:last-of-type) {
