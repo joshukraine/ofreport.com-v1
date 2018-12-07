@@ -26,6 +26,11 @@ export default{
     return {
       isActive: false
     }
+  },
+  watch: {
+    '$route' () {
+      this.isActive = false
+    }
   }
 }
 </script>
