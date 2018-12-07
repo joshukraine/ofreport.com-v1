@@ -5,6 +5,8 @@ div
     :key="story.content._uid"
     :blok="story.content"
     :is="story.content.component")
+  ol
+    li(v-for="article in articles") {{ article.name }}
 </template>
 
 <script>
@@ -15,21 +17,27 @@ export default {
     storyblokLivePreview
   ],
   data () {
-    return { story: { content: {} } }
+    return {
+      story: { content: {} },
+      articles: []
+    }
   },
-  asyncData (context) {
-    // Check if we are in the editor mode
+  async asyncData (context) {
     let version = context.query._storyblok || context.isDev ? 'draft' : 'published'
-
-    // Load the JSON from the API
-    return context.app.$storyapi.get('cdn/stories/home', {
+    const homeResponse = await context.app.$storyapi.get('cdn/stories/home', {
       version: version
-    }).then((res) => {
-      console.log(res.data)
-      return res.data
-    }).catch((res) => {
-      context.error({ statusCode: res.response.status, message: res.response.data })
     })
+    const articlesResponse = await context.app.$storyapi.get('cdn/stories', {
+      excluding_fields: 'segments',
+      per_page: 10,
+      sort_by: 'published_at:desc',
+      starts_with: 'blog',
+      version: version
+    })
+    return {
+      story: homeResponse.data.story,
+      articles: articlesResponse.data.stories
+    }
   }
 }
 </script>
