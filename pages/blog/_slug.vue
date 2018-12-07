@@ -46,8 +46,7 @@ export default {
     let endpoint = `cdn/stories/blog/${context.params.slug}`
 
     return context.app.$storyapi.get(endpoint, {
-      version: version,
-      cv: Math.floor(Date.now() / 1e3)
+      version: version
     }).then((res) => {
       return res.data
     }).catch((res) => {
