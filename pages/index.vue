@@ -5,14 +5,27 @@ div
     :key="story.content._uid"
     :blok="story.content"
     :is="story.content.component")
-  ol
-    li(v-for="article in articles") {{ article.name }}
+
+  .container.pt-12.border.border-green
+    ArticlePreview(
+      v-for="article in articles"
+      :key="article.id"
+      :thumbnail="article.content.thumbnail"
+      :title="article.content.title"
+      :author="article.content.author"
+      :pubDate="pubDate"
+      :excerpt="article.content.excerpt")
 </template>
 
 <script>
 import storyblokLivePreview from '@/mixins/storyblokLivePreview'
+import dateFormat from 'dateformat'
+import ArticlePreview from '@/components/ArticlePreview'
 
 export default {
+  components: {
+    ArticlePreview
+  },
   mixins: [
     storyblokLivePreview
   ],
@@ -20,6 +33,11 @@ export default {
     return {
       story: { content: {} },
       articles: []
+    }
+  },
+  computed: {
+    pubDate () {
+      return dateFormat(this.story.first_published_at, 'mediumDate')
     }
   },
   async asyncData (context) {
@@ -30,7 +48,7 @@ export default {
     const articlesResponse = await context.app.$storyapi.get('cdn/stories', {
       excluding_fields: 'segments',
       per_page: 10,
-      sort_by: 'published_at:desc',
+      sort_by: 'created_at:desc',
       starts_with: 'blog',
       version: version
     })
