@@ -1,5 +1,5 @@
 body {
-  @apply font-sans font-normal leading-normal;
+  @apply text-black font-sans font-normal leading-normal;
 }
 
 h1,
