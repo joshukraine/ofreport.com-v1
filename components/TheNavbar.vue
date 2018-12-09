@@ -1,5 +1,5 @@
 <template lang="pug">
-header.nav-header.fixed.w-full.bg-white.flex.px-4.justify-between.items-center(
+header.nav-header.fixed.w-full.bg-white.flex.px-4.justify-between.items-center.border-b.border-grey-lighter(
   class="lg:px-6" :class="{ 'open-nav': navOpen }")
   nuxt-link.logo.block.mt-3(to="/")
     img(src="~/assets/images/ofr-logo.svg")

@@ -10,3 +10,13 @@ h5,
 h6 {
   @apply font-header font-bold;
 }
+
+a {
+  @apply .text-ofr-blue .no-underline;
+  transition: color 150ms ease;
+}
+
+a:hover {
+  @apply .text-ofr-blue-lighter;
+  transition: color 150ms ease;
+}
