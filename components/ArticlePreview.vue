@@ -1,11 +1,11 @@
 <template lang="pug">
 nuxt-link.max-w-md.block.mx-auto(to="#")
-  article.group.shadow-lg.rounded.overflow-hidden.bg-white.mb-12
+  article.group.shadow-md.rounded.overflow-hidden.bg-white.mb-12
     img.opacity-85.z-1(class="group-hover:opacity-100" v-if="thumbnail" :src="thumbnail")
-    .preview-body.px-6.pt-2.pb-4
-      h2.text-grey-darkest.mb-0(class="group-hover:text-black") {{ title }}
+    .px-6.pt-2.pb-4
+      h2.text-black.mb-0 {{ title }}
       p.text-grey-dark.text-sm {{ author }} &middot; {{ pubDate }}
-      p.text-grey-darkest.mb-0(class="group-hover:text-black") {{ excerpt }}
+      p.text-grey-darkest.mb-0 {{ excerpt }}
 </template>
 
 <script>
