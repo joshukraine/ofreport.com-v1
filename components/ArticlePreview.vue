@@ -6,7 +6,7 @@ nuxt-link.max-w-md.block.mx-auto(to="#")
       h2.text-black.mb-0 {{ title }}
       p.text-grey-dark.text-sm {{ author }} &middot; {{ pubDate }}
       p.text-grey-darkest.mb-0 {{ excerpt }}
-    div.px-6.py-4
+    div.px-6.py-4(v-if="tags.length > 0")
       span.inline-block.bg-grey-lighter.rounded-full.px-3.py-1.text-sm.font-semibold.text-grey-darker.mr-2(
         v-for="(tag, index) in tags" :key="index")
         nuxt-link(to="#") &#35;{{ tag }}
