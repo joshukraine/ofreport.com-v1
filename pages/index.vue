@@ -6,7 +6,7 @@ div
     :blok="story.content"
     :is="story.content.component")
 
-  .container.pt-12.border.border-green
+  .container.pt-12
     ArticlePreview(
       v-for="article in articles"
       :key="article.id"
@@ -14,7 +14,8 @@ div
       :title="article.content.title"
       :author="article.content.author"
       :pubDate="pubDate"
-      :excerpt="article.content.excerpt")
+      :excerpt="article.content.excerpt",
+      :tags="article.tag_list")
 </template>
 
 <script>
