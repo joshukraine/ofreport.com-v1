@@ -1,5 +1,5 @@
 body {
-  @apply font-sans font-normal leading-normal;
+  @apply text-black font-sans font-normal leading-normal;
 }
 
 h1,
@@ -8,5 +8,46 @@ h3,
 h4,
 h5,
 h6 {
-  @apply font-header font-bold;
+  @apply font-header font-bold leading-tight mb-4 mx-0;
+}
+
+h1 {
+  @apply .mt-0;
+  font-size: 2.827rem;
+}
+
+h2 {
+  font-size: 1.999rem;
+}
+
+@media (min-width: 768px) {
+  h1 {
+    font-size: 3.998rem;
+  }
+
+  h2 {
+    font-size: 2.827rem;
+  }
+
+  h3 {
+    font-size: 1.999rem;
+  }
+
+  h4 {
+    font-size: 1.414rem;
+  }
+}
+
+p {
+  @apply .mb-5;
+}
+
+a {
+  @apply .text-ofr-blue .no-underline;
+  transition: color 150ms ease;
+}
+
+a:hover {
+  @apply .text-ofr-blue-lighter;
+  transition: color 150ms ease;
 }

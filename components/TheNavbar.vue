@@ -1,30 +1,35 @@
 <template lang="pug">
-header.nav-header.fixed.w-full.bg-white.flex.px-4.justify-between.items-center(
-  class="lg:px-6" :class="{ 'open-nav': isActive }")
+header.nav-header.fixed.w-full.z-50.bg-white.flex.px-4.justify-between.items-center.border-b.border-grey-lighter(
+  class="lg:px-6" :class="{ 'open-nav': navOpen }")
   nuxt-link.logo.block.mt-3(to="/")
     img(src="~/assets/images/ofr-logo.svg")
   div.relative
-    button.hamburger(@click="isActive = !isActive") MENU
-  nav.nav-menu.pt-8.px-4(class="lg:pt-0" :class="{ 'reveal-nav': isActive }")
+    button.hamburger(@click="navOpen = !navOpen") MENU
+  nav.nav-menu.pt-8.px-4(class="lg:pt-0" :class="{ 'reveal-nav': navOpen }")
     div.nav-link-wrapper
       nuxt-link.nav-link(
-        :class="{ 'nav-link-fadein nav-link-1': isActive }"
+        :class="{ 'nav-link-fadein nav-link-1': navOpen }"
         to="/family") Family
       nuxt-link.nav-link(
-        :class="{ 'nav-link-fadein nav-link-2': isActive }" to="#") Ministry
+        :class="{ 'nav-link-fadein nav-link-2': navOpen }" to="#") Ministry
       nuxt-link.nav-link(
-        :class="{ 'nav-link-fadein nav-link-3': isActive }" to="#") Archives
+        :class="{ 'nav-link-fadein nav-link-3': navOpen }" to="#") Archives
       nuxt-link.nav-link(
-        :class="{ 'nav-link-fadein nav-link-4': isActive }" to="#") Contact
+        :class="{ 'nav-link-fadein nav-link-4': navOpen }" to="#") Contact
       nuxt-link.nav-link(
-        :class="{ 'nav-link-fadein nav-link-5': isActive }" to="#") Donate
+        :class="{ 'nav-link-fadein nav-link-5': navOpen }" to="#") Donate
 </template>
 
 <script>
 export default{
   data () {
     return {
-      isActive: false
+      navOpen: false
+    }
+  },
+  watch: {
+    '$route' () {
+      this.navOpen = false
     }
   }
 }
