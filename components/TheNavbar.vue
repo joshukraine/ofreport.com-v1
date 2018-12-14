@@ -46,7 +46,7 @@ export default{
 }
 
 .nav-menu {
-  @apply absolute bg-ofr-blue h-screen w-full overflow-y-scroll;
+  @apply absolute bg-ofr-blue h-screen w-full overflow-y-auto;
   left: 100%;
   padding-bottom: 5rem;
   top: 5rem;
@@ -62,7 +62,7 @@ export default{
 }
 
 .nav-link {
-  @apply relative mb-8 pb-8 leading-none text-2xl text-white font-header font-bold no-underline;
+  @apply relative mb-6 pb-6 leading-none text-xl text-white font-header no-underline;
   display: inline-block;
   opacity: 0;
 }
@@ -98,10 +98,6 @@ export default{
 
 /* 'sm' breakpoint */
 @media (min-width: 576px) {
-  .nav-menu {
-    @apply px-0;
-  }
-
   .nav-link-wrapper {
     margin: 0 auto;
     max-width: 576px;
@@ -115,7 +111,7 @@ export default{
   }
 
   .nav-link {
-    @apply text-3xl;
+    @apply text-3xl mb-8 pb-8;
   }
 }
 
