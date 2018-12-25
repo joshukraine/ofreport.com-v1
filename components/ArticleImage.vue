@@ -1,7 +1,9 @@
 <template lang="pug">
-div.mb-4(v-editable="segment")
-  p Img src: {{ segment.image }}
-  p {{ segment.caption }}
+div.text-center.my-12(v-editable="segment")
+  a(:href="segment.large")
+    img.rounded(:src="segment.medium" :alt="segment.caption")
+  .max-w-sm.mx-auto
+    p.font-bold {{ segment.caption }}
 </template>
 
 <script>
