@@ -3,6 +3,14 @@
   .text-center.my-10(class="md:my-16")
     h1 {{ story.content.title }}
     p.text-grey-dark.text-sm {{ story.content.author }} &middot; {{ pubDate }}
+
+    div(v-if="story.tag_list.length > 0")
+      span.inline-block.bg-grey-lighter.rounded-full.px-3.py-1.text-xs.font-semibold.text-grey-darker.mr-2.mb-2(
+        v-for="(tag, index) in story.tag_list"
+        :key="index"
+        class="sm:text-sm md:mb-0")
+        nuxt-link(to="#") &#35;{{ tag }}
+
   .text-center.mb-16
     a(:href="story.content.cover_image_lg")
       img.rounded-lg(
