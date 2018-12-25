@@ -1,5 +1,8 @@
 <template lang="pug">
-div.mb-4(v-editable="segment" v-html="content")
+.article-text.max-w-md.mx-auto.mb-4.text-lg(
+  v-editable="segment"
+  v-html="content"
+  :class="segment.classes")
 </template>
 
 <script>
@@ -14,3 +17,21 @@ export default{
   }
 }
 </script>
+
+<style>
+.article-text h3 {
+  @apply mt-12;
+}
+
+.last-tight p:last-of-type {
+  @apply mb-0;
+}
+
+.truncate a {
+  display: inline-block;
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+</style>
