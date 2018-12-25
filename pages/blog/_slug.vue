@@ -1,12 +1,15 @@
 <template lang="pug">
 .container(v-editable="story.content" class="blog")
-  .text-center.my-16
+  .text-center.my-10(class="md:my-16")
     h1 {{ story.content.title }}
     p.text-grey-dark.text-sm {{ story.content.author }} &middot; {{ pubDate }}
   .text-center.mb-16
     a(:href="story.content.cover_image_lg")
-      img.rounded-xl(:src="story.content.cover_image" :alt="story.content.caption")
-    p.font-bold.mx-8 {{ story.content.caption }}
+      img.rounded-lg(
+        class="md:rounded-xl lg:mb-2"
+        :src="story.content.cover_image"
+        :alt="story.content.caption")
+    p.font-bold(class="md:mx-8") {{ story.content.caption }}
 
   component(
     :key="segment._uid"
