@@ -1,5 +1,5 @@
 <template lang="pug">
-div.mb-4(v-editable="segment" v-html="content")
+div.max-w-md.mx-auto.mb-4.text-lg(v-editable="segment" v-html="content")
 </template>
 
 <script>
