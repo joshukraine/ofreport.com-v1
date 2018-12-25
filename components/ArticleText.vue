@@ -26,4 +26,12 @@ export default{
 .last-tight p:last-of-type {
   @apply mb-0;
 }
+
+.truncate a {
+  display: inline-block;
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
 </style>
