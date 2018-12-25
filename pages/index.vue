@@ -9,6 +9,7 @@ div
   .container.pt-12
     ArticlePreview(
       v-for="article in articles"
+      :slug="article.slug"
       :key="article.id"
       :thumbnail="article.content.thumbnail"
       :title="article.content.title"
