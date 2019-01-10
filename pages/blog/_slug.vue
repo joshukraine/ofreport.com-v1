@@ -1,29 +1,30 @@
 <template lang="pug">
-.container(v-editable="story.content" class="blog")
-  .text-center.my-10(class="md:my-16")
-    h1 {{ story.content.title }}
-    p.text-grey-dark.text-sm {{ story.content.author }} &middot; {{ pubDate }}
+article(v-editable="story.content")
+  section.relative.bg-cover.bg-top.flex.items-end.h-600px.mb-6(
+    :style="{ backgroundImage: 'url(' + story.content.cover_image + ')' }")
+    //- Add click event here to display full-res photo?
+    .article-hero-gradient
+    .article-hero-title.container.text-center.py-8
+      h1.text-white.font-normal {{ story.content.title }}
+      p.text-white.text-sm {{ story.content.author }} &middot; {{ pubDate }}
 
-    div(v-if="story.tag_list.length > 0")
-      span.inline-block.bg-grey-lighter.rounded-full.px-3.py-1.text-xs.font-semibold.text-grey-darker.mr-2.mb-2(
-        v-for="(tag, index) in story.tag_list"
-        :key="index"
-        class="sm:text-sm md:mb-0")
-        nuxt-link(to="#") &#35;{{ tag }}
+      div.px-6(v-if="story.tag_list.length > 0")
+        div.inline-block.group(
+          v-for="(tag, index) in story.tag_list"
+          :key="index")
+          nuxt-link.text-black(to="#")
+            span.opacity-75.inline-block.rounded-full.bg-white.px-3.py-1.text-xs.font-semibold.mr-2.mb-2(
+              class="sm:text-sm md:mb-0 group-hover:opacity-100") &#35;{{ tag }}
 
-  .text-center.mb-16
-    a(:href="story.content.cover_image_lg")
-      img.rounded-lg(
-        class="md:rounded-xl lg:mb-2"
-        :src="story.content.cover_image"
-        :alt="story.content.caption")
-    p.font-bold(class="md:mx-8") {{ story.content.caption }}
+  .container
+    div.max-w-md.mx-auto.mb-12.border-b.pb-6
+      p.text-center.font-bold {{ story.content.caption }}
 
-  component(
-    :key="segment._uid"
-    v-for="segment in story.content.segments"
-    :segment="segment"
-    :is="segment.component")
+    component(
+      :key="segment._uid"
+      v-for="segment in story.content.segments"
+      :segment="segment"
+      :is="segment.component")
 </template>
 
 <script>
@@ -67,3 +68,23 @@ export default {
   }
 }
 </script>
+
+<style>
+.article-hero-gradient {
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.8) 70%, #000 100%);
+  background-size: 100%;
+  bottom: 0;
+  height: 100%;
+  left: 0;
+  opacity: 0.7;
+  position: absolute;
+  right: 0;
+}
+
+.article-hero-title {
+  bottom: 0;
+  left: 0;
+  position: absolute;
+  right: 0;
+}
+</style>

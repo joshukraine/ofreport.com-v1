@@ -51,3 +51,7 @@ a:hover {
   @apply .text-ofr-blue-lighter;
   transition: color 150ms ease;
 }
+
+hr {
+  @apply border-b border-grey-light my-10;
+}
