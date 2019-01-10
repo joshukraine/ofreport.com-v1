@@ -1,20 +1,18 @@
 <template lang="pug">
 .article-text.max-w-md.mx-auto.mb-4.text-lg(
   v-editable="segment"
-  v-html="content"
+  v-html="renderMd(segment.content)"
   :class="segment.classes")
 </template>
 
 <script>
-import marked from 'marked'
+import marked from '@/mixins/marked'
 
 export default{
-  props: ['segment'],
-  computed: {
-    content () {
-      return marked(this.segment.content)
-    }
-  }
+  mixins: [
+    marked
+  ],
+  props: ['segment']
 }
 </script>
 
