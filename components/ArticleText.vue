@@ -1,5 +1,5 @@
 <template lang="pug">
-.article-text.max-w-md.mx-auto.mb-4.text-lg(
+.article-text.max-w-700.mx-auto.mb-4.text-lg(
   v-editable="segment"
   v-html="renderMd(segment.content)"
   :class="segment.classes")

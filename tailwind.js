@@ -605,7 +605,8 @@ module.exports = {
     '3xl': '80rem',
     '4xl': '90rem',
     '5xl': '100rem',
-    'full': '100%'
+    'full': '100%',
+    '700': '700px'
   },
 
   /*
