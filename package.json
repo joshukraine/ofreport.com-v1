@@ -50,6 +50,6 @@
     "webfontloader": "^1.6.28"
   },
   "engines": {
-    "node": ">= 8.11.3"
+    "node": ">= 10.15.0"
   }
 }
