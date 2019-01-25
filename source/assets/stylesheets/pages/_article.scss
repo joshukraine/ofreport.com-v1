@@ -115,7 +115,7 @@
   text-align: center;
 
   @include media-min($media-phone) {
-    img { max-width: 80%; }
+    img { max-width: 100%; }
   }
 }
 
@@ -132,7 +132,7 @@
 
 .article-image__caption {
   @include margin(null auto $base-spacing);
-  max-width: 500px;
+  max-width: 600px;
 }
 
 .article-text--centered {
