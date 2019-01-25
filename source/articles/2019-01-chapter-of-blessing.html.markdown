@@ -15,7 +15,7 @@ caption: "Our family recently returned to Ukraine after a three-month visit to A
 
 On December 14, 2018, amidst heavy snowfall, our plane finally touched down at the airport in L'viv. We were all exhausted and several of us were suffering from colds, but we were glad to be back home in Ukraine. God blessed our visit to America in many wonderful ways, and in this admittedly overdue report, we'd like to share with you a few of the highlights.
 
-### Our God Knows Logistics
+## Our God Knows Logistics
 
 Once upon a time we were a missionary couple with a baby. We could be neatly tucked away in the guest bedroom or share a ride to church. Today we are a clan. We can't ride with you in your minivan. We need the *whole minivan!*
 
@@ -33,7 +33,7 @@ But what to do about housing? While in Houston, we were able to stay with Kelsie
 Big thank-you to John and Courtney Critz for loaning us their travel trailer!
 {: .caption-text .article-image__caption}
 
-### With the Powells in Houston
+## With the Powells in Houston
 
 We spent the first month of our trip in Houston with Kelsie's family. Baba and Granddad certainly had a house-full, but there were many moments of joy and sweet fellowship. The kids spent their days feeding the chickens, riding bikes, reading stories, and splashing in the puddles caused by the seemingly endless rains.
 
@@ -47,7 +47,7 @@ Time for a bed-time story with Granddad. 🥰
 Kelsie in Houston with her parents, Cindy and Danny
 {: .caption-text .article-image__caption}
 
-### The Road Trip
+## The Road Trip
 
 One of the highlights of our stay in the US was our Big East Road Trip. During the first two weeks of October, we logged over 3,000 miles on the minivan as we traveled through Arkansas, Tennessee, Kentucky, Ohio, and North Carolina. Along the way we visited many old friends and also met some new ones. If you'd like to read more about the trip and see our favorite photos, be sure to visit our blog!
 
@@ -71,7 +71,7 @@ Quick selfie with David by the Ohio River
 Talk about a 3D puzzle... We packed this thing to the gills!
 {: .caption-text .article-image__caption}
 
-### With the Steeles in Fort Worth
+## With the Steeles in Fort Worth
 
 After returning from our road trip, we transitioned from Houston up to Fort Worth to spend time with the Steele side of the family. Even though we slept out in the trailer, we spent a lot of time with Nana and Granddad in the main house. Every Saturday was Family Day, and my siblings and their families would often join us for meals and activities. Mom and Dad's SteeleCreek Farm has lots of outdoor space — the perfect place for all the cousins to get reacquainted!
 
@@ -90,11 +90,11 @@ Wow — Nana and Granddad Steele are up to 12 grandkids now!
 Getting some snuggle time with Nana
 {: .caption-text .article-image__caption}
 
-### A Big Thank-You!
+## A Big Thank-You!
 
 Traveling internationally is always an exhausting venture, especially for a large family. And yet, as we close this chapter of our lives, we cannot help but marvel at the blessings that were showered upon us. To all of you who housed us, fed us, and gave of yourselves to bless us in many other ways, we would like to extend our sincerest thanks. You were the reason we came, and because of your kindness, we feel refreshed and encouraged as we open a new chapter here on the mission field.
 
-### How You Can Pray
+## How You Can Pray
 
 - Praise the Lord for His provision and blessing during our trip to the US!
 - Pray for a strong team for CMO 2019.
