@@ -1,6 +1,6 @@
 ---
 
-title: "A Chapter Of Blessing"
+title: "A Chapter of Blessing"
 date: "2019-01-25"
 tags:
 - newsletter
@@ -47,9 +47,21 @@ Time for a bed-time story with Granddad. 🥰
 Kelsie in Houston with her parents, Cindy and Danny
 {: .caption-text .article-image__caption}
 
+---
+{: .hr--bold}
+
+**See more Houston photos in our Facebook album!**
+{: .article-text--centered }
+
+[With the Powells in Houston](https://www.facebook.com/media/set/?set=a.10216382310563918&type=1&l=74885714c0){: target="_blank"}
+{: .article-text--centered }
+
+---
+{: .hr--bold}
+
 ## The Road Trip
 
-One of the highlights of our stay in the US was our Big East Road Trip. During the first two weeks of October, we logged over 3,000 miles on the minivan as we traveled through Arkansas, Tennessee, Kentucky, Ohio, and North Carolina. Along the way we visited many old friends and also met some new ones. If you'd like to read more about the trip and see our favorite photos, be sure to visit our blog!
+One of the highlights of our stay in the US was our Big East Road Trip. During the first two weeks of October, we logged over 3,000 miles on the minivan as we traveled through Arkansas, Tennessee, Kentucky, Ohio, and North Carolina. Along the way we visited many old friends and also met some new ones. If you'd like to read more about the trip and see our favorite photos, be sure to keep scrolling!
 
 [![Description](https://d21yo20tm8bmc2.cloudfront.net/2019/kathryn-rides-camel-700w.jpeg)](https://d21yo20tm8bmc2.cloudfront.net/2019/kathryn-rides-camel-3000w.jpeg)
 {: .article-image .article-image--has-caption}
@@ -71,13 +83,25 @@ Quick selfie with David by the Ohio River
 Talk about a 3D puzzle... We packed this thing to the gills!
 {: .caption-text .article-image__caption}
 
+---
+{: .hr--bold}
+
+**See more Road Trip photos in our Facebook album!**
+{: .article-text--centered }
+
+[The Big East Road Trip](https://www.facebook.com/media/set/?set=a.10216382405686296&type=1&l=2ea607742d){: target="_blank"}
+{: .article-text--centered }
+
+---
+{: .hr--bold}
+
 ## With the Steeles in Fort Worth
 
 After returning from our road trip, we transitioned from Houston up to Fort Worth to spend time with the Steele side of the family. Even though we slept out in the trailer, we spent a lot of time with Nana and Granddad in the main house. Every Saturday was Family Day, and my siblings and their families would often join us for meals and activities. Mom and Dad's SteeleCreek Farm has lots of outdoor space — the perfect place for all the cousins to get reacquainted!
 
 [![Description](https://d21yo20tm8bmc2.cloudfront.net/2019/patio-with-granddad-700w.jpeg)](https://d21yo20tm8bmc2.cloudfront.net/2019/patio-with-granddad-3000w.jpeg)
 {: .article-image .article-image--has-caption}
-Mom and Dad have a great patio off the back of their house. The girls love spending time out there — especially if it means art with Granddad!
+Mom and Dad have a beautiful patio off the back of their house. The girls love spending time out there — especially if it means art with Granddad!
 {: .caption-text .article-image__caption}
 
 [![Description](https://d21yo20tm8bmc2.cloudfront.net/2019/12-grandkids-700w.jpeg)](https://d21yo20tm8bmc2.cloudfront.net/2019/12-grandkids-3000w.jpeg)
@@ -90,9 +114,39 @@ Wow — Nana and Granddad Steele are up to 12 grandkids now!
 Getting some snuggle time with Nana
 {: .caption-text .article-image__caption}
 
+---
+{: .hr--bold}
+
+**See more Fort Worth photos in our Facebook album!**
+{: .article-text--centered }
+
+[With the Steeles in Fort Worth](https://www.facebook.com/media/set/?set=a.10216382225681796&type=1&l=a11b68bc31){: target="_blank"}
+{: .article-text--centered }
+
+---
+{: .hr--bold}
+
 ## A Big Thank-You!
 
 Traveling internationally is always an exhausting venture, especially for a large family. And yet, as we close this chapter of our lives, we cannot help but marvel at the blessings that were showered upon us. To all of you who housed us, fed us, and gave of yourselves to bless us in many other ways, we would like to extend our sincerest thanks. You were the reason we came, and because of your kindness, we feel refreshed and encouraged as we open a new chapter here on the mission field.
+
+
+[![Description](https://d21yo20tm8bmc2.cloudfront.net/2019/church-lviv-700w.jpeg)](https://d21yo20tm8bmc2.cloudfront.net/2019/church-lviv-3000w.jpeg)
+{: .article-image .article-image--has-caption}
+After returning to Ukraine, it was wonderful to be reunited with our church family in L'viv!
+{: .caption-text .article-image__caption}
+
+---
+{: .hr--bold}
+
+**See more Ukraine photos in our Facebook album!**
+{: .article-text--centered }
+
+[Back in Ukraine](https://www.facebook.com/media/set/?set=a.10216382456607569&type=1&l=8d8954424c){: target="_blank"}
+{: .article-text--centered }
+
+---
+{: .hr--bold}
 
 ## How You Can Pray
 
@@ -103,7 +157,7 @@ Traveling internationally is always an exhausting venture, especially for a larg
 
 [![Description](https://d21yo20tm8bmc2.cloudfront.net/2019/dinner-with-sargents-700w.jpeg)](https://d21yo20tm8bmc2.cloudfront.net/2019/dinner-with-sargents-3000w.jpeg)
 {: .article-image .article-image--has-caption}
-Ben and Karen Sargent have recently joined our ETO staff team. We had a great time visiting their home in North Carolina!
+Ben and Karen Sargent have recently joined our ETO staff team. We had a fun time visiting their home in North Carolina!
 {: .caption-text .article-image__caption}
 
 [![Description](https://d21yo20tm8bmc2.cloudfront.net/2019/ben-david-700w.jpeg)](https://d21yo20tm8bmc2.cloudfront.net/2019/ben-david-3000w.jpeg)
@@ -153,7 +207,7 @@ The Durands have prayed for and supported our family for many years, and during 
 
 [![Description](https://d21yo20tm8bmc2.cloudfront.net/2019/fairpark-sunday-700w.jpeg)](https://d21yo20tm8bmc2.cloudfront.net/2019/fairpark-sunday-3000w.jpeg)
 {: .article-image .article-image--has-caption}
-It was great to be at our home church in Texas, Fairpark Baptist.
+It was such a blessing to be at our home church in Texas, Fairpark Baptist.
 {: .caption-text .article-image__caption}
 
 [![Description](https://d21yo20tm8bmc2.cloudfront.net/2019/hymers-steeles-700w.jpeg)](https://d21yo20tm8bmc2.cloudfront.net/2019/hymers-steeles-3000w.jpeg)
@@ -163,12 +217,12 @@ We are always so blessed when we are able to spend time with our pastor in the U
 
 [![Description](https://d21yo20tm8bmc2.cloudfront.net/2019/hosanna-sarah-700w.jpeg)](https://d21yo20tm8bmc2.cloudfront.net/2019/hosanna-sarah-3000w.jpeg)
 {: .article-image .article-image--has-caption}
-While in TN, we stayed with long-time friends Steve and Sarah Bailey. Hosanna particularly enjoyed milking the cows each morning with Sarah.
+While in TN, we stayed with long-time friends Steve and Sara Bailey. Hosanna particularly enjoyed milking the cows each morning with Sara.
 {: .caption-text .article-image__caption}
 
 [![Description](https://d21yo20tm8bmc2.cloudfront.net/2019/joshua-ben-700w.jpeg)](https://d21yo20tm8bmc2.cloudfront.net/2019/joshua-ben-3000w.jpeg)
 {: .article-image .article-image--has-caption}
-The last time I saw Ben Torkelson, we were both around 20, unmarried, working in Indianapolis at the ITC. Now, almost 20 years later, I'm married with 5 kids, and he's married with 10! Thanks for a great time of fellowship, Ben. It was great catching up and spending time with you guys!
+The last time I saw Ben Torkelson, we were both around 20, unmarried, working in Indianapolis at the ITC. Now, almost 20 years later, I'm married with 5 kids, and he's married with 10! Thanks for a great time of fellowship, Ben. It was wonderful catching up and spending time with you guys!
 {: .caption-text .article-image__caption}
 
 [![Description](https://d21yo20tm8bmc2.cloudfront.net/2019/joshua-caleb-700w.jpeg)](https://d21yo20tm8bmc2.cloudfront.net/2019/joshua-caleb-3000w.jpeg)
@@ -198,7 +252,12 @@ The Steele brothers together again: Joshua, Jonathan, Jeremy, and Josiah. Love t
 
 [![Description](https://d21yo20tm8bmc2.cloudfront.net/2019/steeles-villenueves-700w.jpeg)](https://d21yo20tm8bmc2.cloudfront.net/2019/steeles-villenueves-3000w.jpeg)
 {: .article-image .article-image--has-caption}
-While were in Houston, Ralph and his family drove down to visit us from Quebec. It was great to finally meet the whole Villenueve family!
+While were in Houston, Ralph and his family drove down to visit us from Quebec. It was fun to finally meet the whole Villenueve family!
+{: .caption-text .article-image__caption}
+
+[![Description](https://d21yo20tm8bmc2.cloudfront.net/2019/steeles-atkinsons-700w.jpeg)](https://d21yo20tm8bmc2.cloudfront.net/2019/steeles-atkinsons-3000w.jpeg)
+{: .article-image .article-image--has-caption}
+Catching up with Mindy and Ryan Atkinson. Thanks for hosting us guys!
 {: .caption-text .article-image__caption}
 
 [![Description](https://d21yo20tm8bmc2.cloudfront.net/2019/thanksgiving-play-700w.jpeg)](https://d21yo20tm8bmc2.cloudfront.net/2019/thanksgiving-play-3000w.jpeg)
@@ -218,10 +277,5 @@ Getting some snuggle time with Baba
 
 [![Description](https://d21yo20tm8bmc2.cloudfront.net/2019/steele-ladies-magnolia-700w.jpeg)](https://d21yo20tm8bmc2.cloudfront.net/2019/steele-ladies-magnolia-3000w.jpeg)
 {: .article-image .article-image--has-caption}
-A fun trip to Magnolia, TX with all the Steele ladies!
-{: .caption-text .article-image__caption}
-
-[![Description](https://d21yo20tm8bmc2.cloudfront.net/2019/church-lviv-700w.jpeg)](https://d21yo20tm8bmc2.cloudfront.net/2019/church-lviv-3000w.jpeg)
-{: .article-image .article-image--has-caption}
-After returning to Ukraine, it was wonderful to be reunited with our church family in L'viv!
+A fun trip to Magnolia, TX, with all the Steele ladies!
 {: .caption-text .article-image__caption}
