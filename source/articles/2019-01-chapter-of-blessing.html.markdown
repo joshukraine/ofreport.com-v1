@@ -99,14 +99,14 @@ Talk about a 3D puzzle... We packed this thing to the gills!
 
 After returning from our road trip, we transitioned from Houston up to Fort Worth to spend time with the Steele side of the family. Even though we slept out in the trailer, we spent a lot of time with Nana and Granddad in the main house. Every Saturday was Family Day, and my siblings and their families would often join us for meals and activities. Mom and Dad's SteeleCreek Farm has lots of outdoor space — the perfect place for all the cousins to get reacquainted!
 
+[![Description](https://d21yo20tm8bmc2.cloudfront.net/2019/the-whole-steele-clan-700w.jpg)](https://d21yo20tm8bmc2.cloudfront.net/2019/the-whole-steele-clan-3000w.jpg)
+{: .article-image .article-image--has-caption}
+The Steele Family — Fall, 2018
+{: .caption-text .article-image__caption}
+
 [![Description](https://d21yo20tm8bmc2.cloudfront.net/2019/patio-with-granddad-700w.jpeg)](https://d21yo20tm8bmc2.cloudfront.net/2019/patio-with-granddad-3000w.jpeg)
 {: .article-image .article-image--has-caption}
 Mom and Dad have a beautiful patio off the back of their house. The girls love spending time out there — especially if it means art with Granddad!
-{: .caption-text .article-image__caption}
-
-[![Description](https://d21yo20tm8bmc2.cloudfront.net/2019/12-grandkids-700w.jpeg)](https://d21yo20tm8bmc2.cloudfront.net/2019/12-grandkids-3000w.jpeg)
-{: .article-image .article-image--has-caption}
-Wow — Nana and Granddad Steele are up to 12 grandkids now!
 {: .caption-text .article-image__caption}
 
 [![Description](https://d21yo20tm8bmc2.cloudfront.net/2019/snuggle-with-nana-700w.jpeg)](https://d21yo20tm8bmc2.cloudfront.net/2019/snuggle-with-nana-3000h.jpeg)
@@ -183,6 +183,11 @@ During our stop at Cane Creek, the kids had fun playing in creek with Debi!
 [![Description](https://d21yo20tm8bmc2.cloudfront.net/2019/cathy-joshua-mike-700w.jpeg)](https://d21yo20tm8bmc2.cloudfront.net/2019/cathy-joshua-mike-3000w.jpeg)
 {: .article-image .article-image--has-caption}
 There are few blessings in life to match the gift of Godly parents. I love you, Mom and Dad!
+{: .caption-text .article-image__caption}
+
+[![Description](https://d21yo20tm8bmc2.cloudfront.net/2019/12-grandkids-700w.jpeg)](https://d21yo20tm8bmc2.cloudfront.net/2019/12-grandkids-3000w.jpeg)
+{: .article-image .article-image--has-caption}
+Wow — Nana and Granddad Steele are up to 12 grandkids now!
 {: .caption-text .article-image__caption}
 
 [![Description](https://d21yo20tm8bmc2.cloudfront.net/2019/david-kelsie-gramps-700w.jpeg)](https://d21yo20tm8bmc2.cloudfront.net/2019/david-kelsie-gramps-3000w.jpeg)
