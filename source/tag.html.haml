@@ -10,7 +10,7 @@ per_page: 12
   .column
     .tag-view__title.container--title-area
       %h1 Articles tagged "#{tagname}"
-      %p= link_to "View all tags", "/tags"
+      %p= link_to "View all tags", "/tags/"
 
     - page_articles.each_with_index do |article, i|
       .article-preview.article-preview--tag-view
