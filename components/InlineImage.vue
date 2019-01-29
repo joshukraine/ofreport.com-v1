@@ -1,5 +1,5 @@
 <template lang="pug">
-figure.article-image.text-center.my-12(v-editable="segment")
+figure.inline-image.text-center.my-12(v-editable="segment")
   a(v-if="segment.link" :href="segment.link")
     img(
       :src="segment.src"
