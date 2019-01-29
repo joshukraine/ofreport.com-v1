@@ -1,5 +1,5 @@
 <template lang="pug">
-.article-text.max-w-700.mx-auto.mb-4.text-lg(
+.inline-text.max-w-700.mx-auto.mb-4.text-lg(
   v-editable="segment"
   v-html="renderMd(segment.content)"
   :class="segment.classes")
@@ -17,7 +17,7 @@ export default {
 </script>
 
 <style>
-.article-text h3 {
+.inline-text h3 {
   @apply mt-12;
 }
 
