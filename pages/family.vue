@@ -1,6 +1,29 @@
 <template lang="pug">
-  .container
-    h1 Our Family
-    p Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    p Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+.container
+  h1.text-center {{ title }}
+
+  component(
+    :key="segment._uid"
+    v-for="segment in segments"
+    :segment="segment"
+    :is="segment.component")
 </template>
+
+<script>
+export default {
+  asyncData (context) {
+    let version = context.query._storyblok || context.isDev ? 'draft' : 'published'
+    let endpoint = 'cdn/stories/family'
+
+    return context.app.$storyapi.get(endpoint, {
+      version: version
+    }).then(res => {
+      console.log(res.data)
+      return {
+        title: res.data.story.content.title,
+        segments: res.data.story.content.segments
+      }
+    })
+  }
+}
+</script>
