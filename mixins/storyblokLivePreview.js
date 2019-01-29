@@ -1,15 +1,13 @@
 export default {
   mounted () {
-    this.$storyblok.init()
-    this.$storyblok.on(['published', 'change'], (event) => {
-      if (!event.slugChanged) {
-        // Reload the page on save events
-        location.reload(true)
+    this.$storybridge.on(['input', 'published', 'change'], (event) => {
+      if (event.action === 'input') {
+        if (event.story.id === this.story.id) {
+          this.story.content = event.story.content
+        }
+      } else {
+        window.location.reload()
       }
-    })
-    this.$storyblok.on('input', (event) => {
-      // Inject content on the input event
-      this.story.content = this.$storyblok.addComments(event.story.content, event.story.id)
     })
   }
 }

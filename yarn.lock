@@ -8369,10 +8369,10 @@ storyblok-js-client@^1.0.12:
     qs "^6.5.2"
     throttle-promise "^1.0.4"
 
-storyblok-nuxt@^0.0.9:
-  version "0.0.9"
-  resolved "https://registry.yarnpkg.com/storyblok-nuxt/-/storyblok-nuxt-0.0.9.tgz#7540cda0079edafd4ead9010b54e257f6f64d4e5"
-  integrity sha512-gafegjN+eOeWXtCbsLRgKUhhlsQLF0rNMH5dn06GSK3ppVDRqFhadIcObv01vuihRfQ6jgAMTGmln4aRGDN60w==
+storyblok-nuxt@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/storyblok-nuxt/-/storyblok-nuxt-1.0.1.tgz#0e4ccc64a54cfa76b79d73b87b237443db79d71b"
+  integrity sha512-PWsX0FWLyVGK1VJozVCTMpWScfz8ToY41z3ymcoe5QMFgvTgaVUj0Xhz9teVRBpEQZLzj4RPKyuqzFO1MI/bIg==
   dependencies:
     storyblok-js-client "^1.0.12"
     storyblok-vue "^1.0.4"
