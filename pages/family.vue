@@ -18,7 +18,6 @@ export default {
     return context.app.$storyapi.get(endpoint, {
       version: version
     }).then(res => {
-      console.log(res.data)
       return {
         title: res.data.story.content.title,
         segments: res.data.story.content.segments
