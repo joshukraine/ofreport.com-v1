@@ -32,7 +32,7 @@
     "@nuxtjs/axios": "^5.0.0",
     "cross-env": "^5.2.0",
     "dateformat": "^3.0.3",
-    "marked": "^0.5.2",
+    "marked": "^0.6.0",
     "nuxt": "^2.0.0",
     "storyblok-nuxt": "^0.0.9"
   },
@@ -46,7 +46,7 @@
     "eslint-plugin-node": "^8.0.0",
     "eslint-plugin-promise": "^4.0.1",
     "eslint-plugin-standard": "^4.0.0",
-    "eslint-plugin-vue": "^4.5.0",
+    "eslint-plugin-vue": "^5.1.0",
     "glob-all": "^3.1.0",
     "lint-staged": "^8.1.0",
     "nodemon": "^1.11.0",
