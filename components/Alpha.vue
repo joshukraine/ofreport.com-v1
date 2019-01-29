@@ -11,7 +11,7 @@ section.alpha.bg-cover.bg-top.flex.items-center(
 </template>
 
 <script>
-export default{
+export default {
   props: ['blok']
 }
 </script>

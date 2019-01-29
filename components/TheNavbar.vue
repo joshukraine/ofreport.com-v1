@@ -21,7 +21,7 @@ header.nav-header.fixed.w-full.z-50.bg-white.flex.px-4.justify-between.items-cen
 </template>
 
 <script>
-export default{
+export default {
   data () {
     return {
       navOpen: false

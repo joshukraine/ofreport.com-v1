@@ -8,7 +8,7 @@
 <script>
 import marked from '@/mixins/marked'
 
-export default{
+export default {
   mixins: [
     marked
   ],

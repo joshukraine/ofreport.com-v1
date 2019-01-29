@@ -15,7 +15,7 @@ figure.article-image.text-center.my-12(v-editable="segment")
 </template>
 
 <script>
-export default{
+export default {
   props: ['segment']
 }
 </script>
