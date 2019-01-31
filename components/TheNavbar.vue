@@ -9,15 +9,15 @@ header.nav-header.fixed.w-full.z-50.bg-white.flex.px-4.justify-between.items-cen
     div.nav-link-wrapper
       nuxt-link.nav-link(
         :class="{ 'nav-link-fadein nav-link-1': navOpen }"
-        to="/family") Family
+        to="/family/") Family
       nuxt-link.nav-link(
-        :class="{ 'nav-link-fadein nav-link-2': navOpen }" to="#") Ministry
+        :class="{ 'nav-link-fadein nav-link-2': navOpen }" to="/ministry/") Ministry
       nuxt-link.nav-link(
-        :class="{ 'nav-link-fadein nav-link-3': navOpen }" to="#") Archives
+        :class="{ 'nav-link-fadein nav-link-3': navOpen }" to="/archives/") Archives
       nuxt-link.nav-link(
-        :class="{ 'nav-link-fadein nav-link-4': navOpen }" to="#") Contact
+        :class="{ 'nav-link-fadein nav-link-4': navOpen }" to="/contact/") Contact
       nuxt-link.nav-link(
-        :class="{ 'nav-link-fadein nav-link-5': navOpen }" to="#") Donate
+        :class="{ 'nav-link-fadein nav-link-5': navOpen }" to="/donate/") Donate
 </template>
 
 <script>
