@@ -26,7 +26,7 @@ Abby and I enjoyed telling the story of our experience at the Ark Encounter to t
 
 As I began preparing materials for my talk, it occurred to me that I should bring along a few copies of our new color edition of _Good and Evil_ to donate to the library. Wouldn't it be great if local kids discovered _Good and Evil_ on the shelves and began to read the stories of the Bible? This thought then led to another: what if we could put copies of _Good and Evil_ in more libraries?
 
-A few days later, my friend Serhii Chepara stopped by our house. I met Serhii back in 2005, shortly after Kelsie and I were married, and in the early days he would come to our home regularly for Bible studies. Today he has a family of his own, and he is active in preaching and teaching in his local church here in L'viv.
+A few days later, my friend Serhii Chepara stopped by our house. I met Serhii back in 2004, shortly after Kelsie and I were married, and in the early days he would come to our home regularly for Bible studies. Today he has a family of his own, and he is active in preaching and teaching in his local church here in L'viv.
 
 Now, as we stood chatting in the entryway, I decided to share my library idea with Serhii. I told him about the upcoming event with the kids from the school, and about my plan to donate copies of _Good and Evil_ to the library. "What if we could donate these books to other Ukrainian libraries?", I suggested. "It seems to me that we could reach a lot of people that way. What do you think?"
 
