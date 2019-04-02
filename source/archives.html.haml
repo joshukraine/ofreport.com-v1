@@ -37,6 +37,14 @@ desc:
   .column
     .archives-segment
       .archives-year
+        %h3 2019
+      .archives-issues
+        %ul.archives-issues__list.fa-ul
+          - data.newsletters.issues_2019.each do |item|
+            = partial "partials/archive_list_item", locals: { item: item }
+
+    .archives-segment
+      .archives-year
         %h3 2018
       .archives-issues
         %ul.archives-issues__list.fa-ul
