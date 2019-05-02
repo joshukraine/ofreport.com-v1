@@ -170,3 +170,5 @@ desc:
         %ul.archives-issues__list.fa-ul
           - data.newsletters.issues_2003.each do |item|
             = partial "partials/archive_list_item", locals: { item: item }
+
+= partial "partials/subscribe_popup"

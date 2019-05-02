@@ -30,3 +30,5 @@ layout: home
 - if paginate && num_pages > 1
   = partial "partials/pagination", locals: { first_page: "/",
     last_page: "/page/#{num_pages}/" }
+
+= partial "partials/subscribe_popup"
