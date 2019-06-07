@@ -72,7 +72,7 @@ Our Bible First correspondence course remains a core part of our ministry, and G
 
 [![Description](https://d21yo20tm8bmc2.cloudfront.net/2019/bfo-signin-screen-700w.jpg)](https://d21yo20tm8bmc2.cloudfront.net/2019/bfo-signin-screen-3000w.jpg)
 {: .article-image .article-image--has-caption}
-asdlfk
+The sign-in screen for Bible First Online.
 {: .caption-text .article-image__caption}
 
 Over the past few months we've made significant progress on the app, and we finally deployed an early version to production on April 24. We've migrated all our existing students to this new system, and I'm happy to report that everything is running smoothly! There is still more work to do, but once we get through CMO, our development pace should pick up again. Lord willing, we'll have a public beta ready by year's end. We appreciate your prayers and patience as we push this app towards completion!
