@@ -1,11 +1,12 @@
 %script{ "data-dojo-config" => "usePlainJson: true, isDebug: false",
-  :src => "//downloads.mailchimp.com/js/signup-forms/popup/embed.js",
-  :type => "text/javascript" }
+  :src => "//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js",
+  :type => "text/javascript"}
 :javascript
-  require(["mojo/signup-forms/Loader"], function(L) {
+  window.dojoRequire(["mojo/signup-forms/Loader"], function(L) {
     L.start({
       "baseUrl":"mc.us6.list-manage.com",
       "uuid":"1e0c65850b60905f65b151819",
-      "lid":"97b9f6a559"
+      "lid":"97b9f6a559",
+      "uniqueMethods":true
     })
   })
