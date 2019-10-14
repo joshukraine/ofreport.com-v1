@@ -21,9 +21,9 @@ READMORE
 
 When introducing Mia, one comment we hear often is, “Wow, I love her name!” We think names and their meanings are important, and we try to select names that will inspire our children to follow the Lord throughout their lives. We also like names that sound cute. So when Kelsie composed the name “Mia Faith”, we knew we had a winner on both fronts.
 
-The name Mia has a variety of roots, including Italian and Scandinavian, and is generally considered a derivative of Mary or Miriam. It is often associated with the words “mine” (Italian) and “beloved”. To us, little Mia is certainly both of these.
+The name *Mia* has a variety of roots, including Italian and Scandinavian, and is generally considered a derivative of *Mary* or *Miriam*. It is often associated with the words “mine” (Italian) and “beloved”. To us, little Mia is certainly both of these.
 
-Her middle name, Faith, is a reminder of the sure hope we have in Jesus Christ. Far from being a fantasy or emotion, the Bible says that, *“...faith is the substance of things hoped for, the evidence of things not seen.” (Heb. 11:1)* All around us, nature proclaims the glory and goodness of God, teaching us that we are wonderfully made, beloved, and called to a real relationship with our Heavenly Father. As Mia grows, it is our hope and prayer that she too will come to saving faith in the Lord Jesus Christ.
+Her middle name, *Faith*, is a reminder of the sure hope we have in Jesus Christ. Far from being a fantasy or emotion, the Bible says that, *“...faith is the **substance** of things hoped for, the **evidence** of things not seen.” (Heb. 11:1)* All around us, nature proclaims the glory and goodness of God, teaching us that we are wonderfully made, beloved, and called to a real relationship with our Heavenly Father. As Mia grows, it is our hope and prayer that she too will come to saving faith in the Lord Jesus Christ.
 
 When selecting the name Mia Faith, I was reminded of a favorite hymn:
 
