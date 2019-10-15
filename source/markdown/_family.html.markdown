@@ -4,7 +4,7 @@ Joshua has been ministering in Ukraine since 2001, and has also served in Mexico
 
 Joshua and Kelsie are founding members of [Euro Team Outreach](https://euroteamoutreach.org/) and coauthors of [Bible First](https://getbiblefirst.com/). During the summer months, Joshua leads ETO’s [Carpathian Mountain Outreach](https://cmoproject.org/), preaching the Gospel in the Ukrainian language in mountain villages. He also preaches regularly at various local churches in L’viv.
 
-Kelsie oversees the training and schooling for their five children: Abigail, Rebekah, Hosanna, Kathryn, and David. Additionally, she pursues her desire to encourage Ukrainian wives and mothers via writing and blogging.
+Kelsie oversees the training and schooling for their six children: Abigail, Rebekah, Hosanna, Kathryn, David, and Mia. Additionally, she pursues her desire to encourage Ukrainian wives and mothers via writing and blogging.
 
 The Steeles currently reside in L’viv, Ukraine. Both Joshua and Kelsie speak the Ukrainian language fluently and are actively involved in the lives of the Ukrainian people.
 
