@@ -2,6 +2,12 @@
 
 ---
 
+## ⚠️  No longer maintained
+
+This repo contains a legacy version of our blog built with Middleman and is no longer maintained. Our current blog is at [https://github.com/joshukraine/ofreport.com](https://github.com/joshukraine/ofreport.com).
+
+---
+
 # OFReport.com
 
 [![Build Status][travis-svg]][travis]
